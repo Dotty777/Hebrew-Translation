@@ -2,8 +2,9 @@
 
 34 chapters, 962 readings, English captured from the Saints.Bible staging Parallel Reader on 1 November 2026; the Hebrew (Westminster Leningrad Codex) is supplied beside it for reference.
 
-- **Readings with text:** 959; Hebrew verses with no rendering on the site: 3; rows with no Hebrew verse (Greek-only material): 0.
-- **Wording shared with the Greek column** (90% similarity or more): 9 readings.
+- **Hebrew:** the English covers 953 of 956 Masoretic verses (99.7%); 3 Hebrew verses with no rendering on the site; 3 rows with no Hebrew verse (Greek-only material). The site does not display the Hebrew; the Westminster Leningrad Codex text is supplied here so the rendering can be checked.
+- **English origin:** 959 literal renderings made for Saints.Bible; 3 coincide with JPS 1917 (lists and formulae); 9 readings (1%) share the Greek column's wording (90% similarity or more). The Tetragrammaton is rendered "YHWH" in 439 of 439 readings where the Hebrew has it.
+- **Site review labels:** 962 readings still unclassified; 0 classified (Same / Similar / Different / Divergent / Disparate against the Greek column).
 - **Editorial tags inside the verse text:** 91.
 - **Verse numbering:** 90 readings carry a number that differs from the Masoretic one (recorded as `masoretic_reference` in verses.json).
 

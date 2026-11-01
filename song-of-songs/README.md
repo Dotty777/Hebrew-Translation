@@ -2,8 +2,9 @@
 
 8 chapters, 117 readings, English captured from the Saints.Bible staging Parallel Reader on 1 November 2026; the Hebrew (Westminster Leningrad Codex) is supplied beside it for reference.
 
-- **Readings with text:** 117; Hebrew verses with no rendering on the site: 0; rows with no Hebrew verse (Greek-only material): 0.
-- **Wording shared with the Greek column** (90% similarity or more): 21 readings.
+- **Hebrew:** the English covers 117 of 117 Masoretic verses (100%); 0 Hebrew verses with no rendering on the site; 0 rows with no Hebrew verse (Greek-only material). The site does not display the Hebrew; the Westminster Leningrad Codex text is supplied here so the rendering can be checked.
+- **English origin:** 117 literal renderings made for Saints.Bible; 3 coincide with JPS 1917 (lists and formulae); 21 readings (18%) share the Greek column's wording (90% similarity or more).
+- **Site review labels:** 0 readings still unclassified; 117 classified (Same / Similar / Different / Divergent / Disparate against the Greek column).
 - **Editorial tags inside the verse text:** 0.
 - **Verse numbering:** 0 readings carry a number that differs from the Masoretic one (recorded as `masoretic_reference` in verses.json).
 
