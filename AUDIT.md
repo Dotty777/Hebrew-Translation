@@ -2,6 +2,19 @@
 
 1 November 2026. Audit of the Hebrew–English column ("Literal-Smooth, Rabbinic Priority") of the Saints.Bible Parallel Reader (staging) for fidelity to the Masoretic Text. A living copy is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 2 November 2026: Genesis–Deuteronomy
+
+The Pentateuch findings below have been worked through on the staging site and the five book folders recaptured (change log and data files in [corrections/2026-11-02](corrections/2026-11-02/README.md)):
+
+- **Finding 2 (Genesis Septuagint readings): corrected.** All 652 Genesis readings that shared the Greek column's wording were read against the Westminster Leningrad Codex; 45 kept a Greek reading and now give the Hebrew ("field" for *sadeh*, no added "two", "their heart failed them", the Arpachshad name form, and so on; list in `corrections/2026-11-02/genesis-review.json`). 634 readings (41%) still share the Greek wording because the Hebrew and Greek say the same thing.
+- **Finding 3 (Pentateuch gaps): resolved.** Every Masoretic verse of Genesis–Deuteronomy now has a rendering. The 23 Hebrew-only Exodus verses (25:6, 28:23–28, 32:9 and others) have their own reader rows. The Leviticus 5:20–26, Numbers 17:14–28 and 30:17, and Deuteronomy 13:19, 23:26 and 28:69 "gaps" were not missing text: those verses were rendered on English-numbered rows, one to seven rows away from the Saints verse they compare. Exodus 35–40 keeps the Septuagint's order by design, with each Hebrew reading beside the Greek verse it corresponds to.
+- **Row alignment (found during the update).** In the versification zones (Leviticus 6, Numbers 1, 6, 10, 16–17, 26, 29–30, Deuteronomy 5, 12–13, 22–23, 29, and the Latin column of Exodus 8, 22 and 35–39) the Hebrew, Latin and KJV comparison cards were placed by their English verse number while the Saints rows use Rahlfs numbering, so the four columns did not line up. 761 cards now carry the Rahlfs reference of the Greek verse they actually compare, and each row of the reader shows the same verse in all four columns.
+- **Finding 4 (editorial tags): corrected in the Pentateuch.** The 231 "[MT x:y]", "(H x:y)", "(Chabad x:y)" and "BHS/RH x:y" tags are out of the verse text; they remain as citations on the comparison cards and the Masoretic number now appears in the reader's verse label. One tag that gave a wrong number (Exodus 20:16 "H 20:12d", which is part of Masoretic 20:13) was corrected.
+- **Finding 5 (numbering): recorded.** Each reading's Masoretic number is in `masoretic_reference` and its English (KJV) number in `english_reference` wherever they differ from the reader row. The earlier Leviticus 6 alignment in this repository was wrong (6:1–11 pointed at the wrong Masoretic verses) and is corrected.
+- **Classification:** every Pentateuch reading carries a site classification; the earlier "43–100% unclassified" figures for Leviticus, Numbers and Deuteronomy were a capture artefact of the old page layout.
+
+Figures in the sections below are those of the 1 November audit; the book READMEs and `audit/` files carry the 2 November figures for Genesis–Deuteronomy. JPS 1917 overlap is kept in `per-verse-checks.csv` only for readings whose English is unchanged.
+
 ## Summary
 
 The Hebrew–English column is a careful, literal rendering of the Masoretic Text. In a close reading of 92 randomly chosen verses against the Hebrew, none mistranslated it, and the column keeps the Tetragrammaton as "YHWH" consistently (a mismatch in fewer than 0.5% of 23,126 readings, nearly all alignment artefacts). The site shows no Hebrew text beside the English, so the audit compared the English with the Westminster Leningrad Codex text and, as an independent rendering, the JPS 1917 translation.
