@@ -2,6 +2,17 @@
 
 1 November 2026. Audit of the Hebrew–English column ("Literal-Smooth, Rabbinic Priority") of the Saints.Bible Parallel Reader (staging) for fidelity to the Masoretic Text. A living copy is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 7 November 2026
+
+Ruth, Jonah and Habakkuk received a complete provisional Hebrew-to-English editorial pass. All 189 readings were compared with the pointed Masoretic text, and 149 English readings were revised for precision and spoken cadence. All eleven chapters match the comparison pages and Parallel Reader on staging. Independent Hebrew specialist review and human read-aloud review remain pending. [Source decisions, change log and staging verification](corrections/2026-11-07-hebrew-review/README.md)
+
+The baseline archive contains 39 books, 929 chapter records and 23,375 aligned reader rows. Of those, 23,180 had paired Hebrew and English text. The row totals follow the staging layout and can differ from counts of native Masoretic verses. The other books retain their earlier editorial review status.
+
+All 100 rows in the historical gap file were rechecked. Sixty-nine already have English on staging, including all 58 flagged 1 Kings verses, ten Daniel readings and Esther 1:1. The other 31 are lettered Greek readings without an exact Masoretic counterpart in the same book at that location. [Individual gap dispositions](audit/reader-gap-recheck-2026-11-07.json)
+
+- **1 Kings.** Checked coverage of all 817 native Masoretic references in the staging reader. It shows 756 in aligned readings and 61 under Additional source readings. The archive now includes those 61 source readings, corrects 51 pairings in chapters 5 and 7, and preserves both Hebrew readings on Greek row 5:1. [1 Kings archive](1-kings/README.md)
+- **Daniel.** Verified Masoretic 3:24–33 in staging. The archive now pairs five existing English readings with the correct Biblical Aramaic and includes three readings displayed separately. [Daniel archive](daniel/README.md)
+
 ## Update, 2 November 2026: Wisdom Division KJV comparison and Psalm 144:13a
 
 - **KJV comparison pages classified.** The nine KJV comparison pages of the Wisdom Division (Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations, Wisdom of Solomon, Sirach) had 5,650 verses whose KJV ↔ Greek-English classification was open or pending. Each now carries a category, a comparison note and a note on how the difference arose; for the five Hebrew-Bible books the earlier Hebrew–Greek note stays on the card as source context. Change log, classifications and a blind sample check in [corrections/2026-11-02-wisdom-kjv](corrections/2026-11-02-wisdom-kjv/README.md); backups of the pages in `staging-backups/2026-11-02-wisdom-kjv/`. The reception rows (Protestant ↔ Medieval Christian) remain open.
