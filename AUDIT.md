@@ -2,6 +2,16 @@
 
 1 November 2026. Audit of the Hebrew–English column ("Literal-Smooth, Rabbinic Priority") of the Saints.Bible Parallel Reader (staging) for fidelity to the Masoretic Text. A living copy is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 9 November 2026: full reading of all 39 books
+
+All 23,118 distinct Hebrew–English readings in this repository were read from scratch against the Masoretic Text by AI reviewers working from the GitHub record, with a second reading of every proposed correction and a planted-error test of the reviewers. Nothing was applied to staging or to the book folders. [Report, method, limits and per-book pages](corrections/2026-11-09-full-review/README.md)
+
+- **English.** 47 readings (0.2%) have a proposed correction that survived the second reading; 6 are major (1 Chronicles 2:18 "Azubah-ishah", Deuteronomy 32:43, Judges 5:13, Exodus 29:28, Psalms 58:13, Isaiah 48:7). Twenty-two books drew none. The column follows the Masoretic Text against the Septuagint consistently.
+- **Archive pairing.** In 79 readings the Hebrew recorded beside the English is a different verse, or the English is only a placeholder note beside real Hebrew (Jeremiah 29, Proverbs 11, Psalms 8). The site does not display the Hebrew, so these are faults in this archive.
+- **Coverage.** 232 Masoretic verses have their Hebrew in no reading (Jeremiah 77, 1 Samuel 39, Proverbs 24). For 185 of them no matching English was found either, which contradicts the "covers 100% of the Masoretic verses" statements in several book READMEs. Whether staging holds them under Additional source readings, as it did for 1 Kings, was not checked.
+- **Sensitivity.** Reviewers caught 21 of 23 errors planted in two test passages.
+- Independent Hebrew and human review remain pending.
+
 ## Update, 7 November 2026
 
 Ruth, Jonah and Habakkuk received a complete provisional Hebrew-to-English editorial pass. All 189 readings were compared with the pointed Masoretic text, and 149 English readings were revised for precision and spoken cadence. All eleven chapters match the comparison pages and Parallel Reader on staging. Independent Hebrew specialist review and human read-aloud review remain pending. [Source decisions, change log and staging verification](corrections/2026-11-07-hebrew-review/README.md)

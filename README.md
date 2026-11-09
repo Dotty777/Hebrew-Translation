@@ -12,6 +12,8 @@ Verse numbers follow the Saints (Greek) column; where the Masoretic Text numbers
 
 [7 November 2026 review](corrections/2026-11-07-hebrew-review/README.md) records the provisional editorial pass of Ruth, Jonah, and Habakkuk and its staging verification.
 
+[9 November 2026 full review](corrections/2026-11-09-full-review/README.md) records a from-scratch reading of all 39 books against the Masoretic Text: 47 proposed English corrections (6 major), 79 readings where the archive pairs the English with the wrong Hebrew, and 232 Masoretic verses whose Hebrew is in no reading. Proposals only; nothing was applied to staging or to the book folders. The per-book coverage statements below predate it.
+
 ## Books
 
 - [Genesis — 50 chapters](genesis/README.md): 1,534 readings; English covers 100% of the Masoretic verses (1533 of 1533), each on the row of the Saints verse it is compared with; English is a literal rendering of the Hebrew (41% shares the Greek column's wording); 0% still unclassified on the site (updated 2 November 2026).
