@@ -12,7 +12,7 @@ Verse numbers follow the Saints (Greek) column; where the Masoretic Text numbers
 
 [7 November 2026 review](corrections/2026-11-07-hebrew-review/README.md) records the provisional editorial pass of Ruth, Jonah, and Habakkuk and its staging verification.
 
-[9 November 2026 full review](corrections/2026-11-09-full-review/README.md) records a from-scratch reading of all 39 books against the Masoretic Text: 47 proposed English corrections (6 major), 79 readings where the archive pairs the English with the wrong Hebrew, and 232 Masoretic verses whose Hebrew is in no reading. Proposals only; nothing was applied to staging or to the book folders. The per-book coverage statements below predate it.
+[9 November 2026 full review](corrections/2026-11-09-full-review/README.md) records a from-scratch reading of all 39 books against the Masoretic Text: 47 proposed English corrections (6 major), 79 readings where the archive pairs the English with the wrong Hebrew, and 232 Masoretic verses whose Hebrew is in no reading. The report records the findings before editorial changes. The per-book coverage statements below describe the original capture and may omit the source gaps documented in the audit.
 
 ## Books
 
@@ -55,3 +55,6 @@ Verse numbers follow the Saints (Greek) column; where the Masoretic Text numbers
 - [Haggai — 2 chapters](haggai/README.md): 38 readings; English covers 100% of the Masoretic verses; English is a literal rendering of the Hebrew; 0% still unclassified on the site.
 - [Zechariah — 14 chapters](zechariah/README.md): 211 readings; English covers 100% of the Masoretic verses; English is a literal rendering of the Hebrew; 0% still unclassified on the site.
 - [Malachi — 3 chapters](malachi/README.md): 55 readings; English covers 100% of the Masoretic verses; English is a literal rendering of the Hebrew; 0% still unclassified on the site.
+
+
+[9 November 2026 editorial revision](corrections/2026-11-09-hebrew-editorial/README.md) records the updated GitHub readings, repaired source pairings, and remaining archive coverage work.
