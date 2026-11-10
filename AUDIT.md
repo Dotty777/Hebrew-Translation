@@ -2,6 +2,10 @@
 
 1 November 2026. Audit of the Hebrew–English column ("Literal-Smooth, Rabbinic Priority") of the Saints.Bible Parallel Reader (staging) for fidelity to the Masoretic Text. A living copy is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 9 November 2026: Masoretic coverage and English revisions
+
+This GitHub revision adds 185 English readings keyed to the Masoretic Text and revises 10 existing readings in Genesis, Daniel, and Ezekiel. See the [coverage report and change list](corrections/2026-11-09-masoretic-coverage/README.md). The results below record earlier states of the archive.
+
 ## Update, 9 November 2026: full reading of all 39 books
 
 All 23,118 distinct Hebrew–English readings in this repository were read from scratch against the Masoretic Text by AI reviewers working from the GitHub record, with a second reading of every proposed correction and a planted-error test of the reviewers. Nothing was applied to staging or to the book folders. [Report, method, limits and per-book pages](corrections/2026-11-09-full-review/README.md)

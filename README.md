@@ -58,3 +58,5 @@ Verse numbers follow the Saints (Greek) column; where the Masoretic Text numbers
 
 
 [9 November 2026 editorial revision](corrections/2026-11-09-hebrew-editorial/README.md) records the updated GitHub readings, repaired source pairings, and remaining archive coverage work.
+
+[9 November 2026 Masoretic coverage and English revisions](corrections/2026-11-09-masoretic-coverage/README.md) adds 185 missing archive readings and refines 10 readings in Genesis, Daniel, and Ezekiel.

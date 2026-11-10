@@ -4,12 +4,439 @@
   "editorial_reviewed": "2026-11-09",
   "source_hebrew": "Westminster Leningrad Codex (pointed text via Sefaria)",
   "hebrew_source_url": "https://github.com/embabel-worlds/realm-tanakh/blob/73eed523b5349ee21f19cfe6061725168ebe827e/reference/tanakh-05-verses-13-Jer.yml",
-  "scope": "New editorial renderings for Masoretic passages without a corresponding aligned reading in this archive. References use Masoretic numbering. Staging status has not been checked.",
+  "scope": "Additional readings keyed by Masoretic reference, separate from the Parallel Reader’s aligned rows. Entries with staging links document the earlier staging capture. New editorial readings were prepared in the GitHub archive.",
   "source_only_readings": {
+    "2:1": {
+      "masoretic_reference": "2:1",
+      "hebrew": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+      "english": "YHWH’s word came to me, saying:",
+      "location": "additional editorial source readings"
+    },
+    "7:1": {
+      "masoretic_reference": "7:1",
+      "hebrew": "הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃",
+      "english": "The word that came to Jeremiah from YHWH, saying:",
+      "location": "additional editorial source readings"
+    },
+    "7:27": {
+      "masoretic_reference": "7:27",
+      "hebrew": "וְדִבַּרְתָּ אֲלֵיהֶם אֶת־כָּל־הַדְּבָרִים הָאֵלֶּה וְלֹא יִשְׁמְעוּ אֵלֶיךָ וְקָרָאתָ אֲלֵיהֶם וְלֹא יַעֲנוּכָה׃",
+      "english": "You will speak all these words to them, but they will not listen to you. You will call to them, but they will not answer you.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The archive’s reader rows 7:27 and 7:28 both carry the English of Masoretic 7:28. This is the separate Masoretic 7:27."
+    },
+    "8:11": {
+      "masoretic_reference": "8:11",
+      "hebrew": "וַיְרַפּוּ אֶת־שֶׁבֶר בַּת־עַמִּי עַל־נְקַלָּה לֵאמֹר שָׁלוֹם שָׁלוֹם וְאֵין שָׁלוֹם׃",
+      "english": "They treated the wound of the daughter of My people lightly, saying, ‘Peace, peace,’ when there is no peace.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Compare 6:14. This verse explicitly names the daughter of My people."
+    },
+    "8:12": {
+      "masoretic_reference": "8:12",
+      "hebrew": "הֹבִשׁוּ כִּי תוֹעֵבָה עָשׂוּ גַּם־בּוֹשׁ לֹא־יֵבֹשׁוּ וְהִכָּלֵם לֹא יָדָעוּ לָכֵן יִפְּלוּ בַנֹּפְלִים בְּעֵת פְּקֻדָּתָם יִכָּשְׁלוּ אָמַר יְהוָה׃",
+      "english": "They will be put to shame for doing what was abhorrent. Yet they feel no shame at all and do not know how to blush. So they will fall among the fallen. At the time of their punishment they will stumble, says YHWH.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Compare 6:15. Rashi distinguishes the shame that will come upon them from the shame they do not feel. This verse reads ‘at the time of their punishment.’ https://www.chabad.org/library/bible_cdo/aid/16005/jewish/Chapter-8.htm"
+    },
+    "10:6": {
+      "masoretic_reference": "10:6",
+      "hebrew": "מֵאֵין כָּמוֹךָ יְהוָה גָּדוֹל אַתָּה וְגָדוֹל שִׁמְךָ בִּגְבוּרָה׃",
+      "english": "There is no one like You, YHWH. You are great, and Your name is great in might.",
+      "location": "additional editorial source readings"
+    },
+    "10:7": {
+      "masoretic_reference": "10:7",
+      "hebrew": "מִי לֹא יִרָאֲךָ מֶלֶךְ הַגּוֹיִם כִּי לְךָ יָאָתָה כִּי בְכָל־חַכְמֵי הַגּוֹיִם וּבְכָל־מַלְכוּתָם מֵאֵין כָּמוֹךָ׃",
+      "english": "Who would not fear You, King of the nations? Such fear is due to You. Among all the wise men of the nations and throughout their dominion, there is no one like You.",
+      "location": "additional editorial source readings"
+    },
+    "10:8": {
+      "masoretic_reference": "10:8",
+      "hebrew": "וּבְאַחַת יִבְעֲרוּ וְיִכְסָלוּ מוּסַר הֲבָלִים עֵץ הוּא׃",
+      "english": "In this one thing they are senseless and foolish. They will be disciplined for their worthless idols, which are only wood.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The terse phrase מוּסַר הֲבָלִים can also be read as the instruction of worthless idols. The rendering follows Rashi’s reading of מוּסַר as the discipline they incur for their idols. https://www.chabad.org/library/bible_cdo/aid/16007"
+    },
+    "10:10": {
+      "masoretic_reference": "10:10",
+      "hebrew": "וַיהוָה אֱלֹהִים אֱמֶת הוּא־אֱלֹהִים חַיִּים וּמֶלֶךְ עוֹלָם מִקִּצְפּוֹ תִּרְעַשׁ הָאָרֶץ וְלֹא־יָכִלוּ גוֹיִם זַעְמוֹ׃",
+      "english": "But YHWH is the true God. He is the living God and the everlasting King. At His anger the earth quakes, and the nations cannot endure His wrath.",
+      "location": "additional editorial source readings"
+    },
+    "11:7": {
+      "masoretic_reference": "11:7",
+      "hebrew": "כִּי הָעֵד הַעִדֹתִי בַּאֲבוֹתֵיכֶם בְּיוֹם הַעֲלוֹתִי אוֹתָם מֵאֶרֶץ מִצְרַיִם וְעַד־הַיּוֹם הַזֶּה הַשְׁכֵּם וְהָעֵד לֵאמֹר שִׁמְעוּ בְּקוֹלִי׃",
+      "english": "For I earnestly warned your fathers from the day I brought them up from the land of Egypt until this very day. Again and again I warned them, saying, ‘Listen to My voice.’",
+      "location": "additional editorial source readings",
+      "editorial_note": "The expression rendered ‘again and again’ pictures rising early to warn and stresses persistent warning."
+    },
+    "17:1": {
+      "masoretic_reference": "17:1",
+      "hebrew": "חַטַּאת יְהוּדָה כְּתוּבָה בְּעֵט בַּרְזֶל בְּצִפֹּרֶן שָׁמִיר חֲרוּשָׁה עַל־לוּחַ לִבָּם וּלְקַרְנוֹת מִזְבְּחוֹתֵיכֶם׃",
+      "english": "Judah’s sin is written with an iron pen, with a diamond point. It is engraved on the tablet of their heart and on the horns of your altars.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew shifts from ‘their heart’ to ‘your altars.’ שָׁמִיר denotes an exceptionally hard substance, traditionally rendered ‘diamond’ here. https://www.chabad.org/parshah/torahreading.asp?aid=2495889&p=haftarah&showrashi=true"
+    },
+    "17:2": {
+      "masoretic_reference": "17:2",
+      "hebrew": "כִּזְכֹּר בְּנֵיהֶם מִזְבְּחוֹתָם וַאֲשֵׁרֵיהֶם עַל־עֵץ רַעֲנָן עַל גְּבָעוֹת הַגְּבֹהוֹת׃",
+      "english": "As they remember their children, so they remember their altars and their Asherim beside leafy trees, on the high hills.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Follows Rashi’s comparison between remembering children and remembering the altars. The Hebrew can also be read with the children as the subject who remember. https://www.chabad.org/parshah/torahreading.asp?aid=2495889&p=haftarah&showrashi=true"
+    },
+    "17:3": {
+      "masoretic_reference": "17:3",
+      "hebrew": "הֲרָרִי בַּשָּׂדֶה חֵילְךָ כָל־אוֹצְרוֹתֶיךָ לָבַז אֶתֵּן בָּמֹתֶיךָ בְּחַטָּאת בְּכָל־גְּבוּלֶיךָ׃",
+      "english": "You who dwell on the mountain in the plain, I will give your wealth and all your treasures as plunder. Your high places are given over to sin throughout your territory.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Follows Rashi, who understands the opening as an address to Jerusalem and reads the final clause as a description of the high places. Another reading takes the high places as part of what is given over as plunder. https://www.chabad.org/parshah/torahreading.asp?aid=2495889&p=haftarah&showrashi=true"
+    },
+    "17:4": {
+      "masoretic_reference": "17:4",
+      "hebrew": "וְשָׁמַטְתָּה וּבְךָ מִנַּחֲלָתְךָ אֲשֶׁר נָתַתִּי לָךְ וְהַעֲבַדְתִּיךָ אֶת־אֹיְבֶיךָ בָּאָרֶץ אֲשֶׁר לֹא־יָדָעְתָּ כִּי־אֵשׁ קְדַחְתֶּם בְּאַפִּי עַד־עוֹלָם תּוּקָד׃",
+      "english": "You yourself will let go of the inheritance I gave you. I will make you serve your enemies in a land you have never known, for you have kindled a fire in My anger that will burn forever.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew moves from singular address to plural at ‘you have kindled.’ The opening is terse. The verb ‘let go’ also carries the sense of releasing land, as Rashi notes. https://www.chabad.org/parshah/torahreading.asp?aid=2495889&p=haftarah&showrashi=true"
+    },
+    "25:14": {
+      "masoretic_reference": "25:14",
+      "hebrew": "כִּי עָבְדוּ־בָם גַּם־הֵמָּה גּוֹיִם רַבִּים וּמְלָכִים גְּדוֹלִים וְשִׁלַּמְתִּי לָהֶם כְּפָעֳלָם וּכְמַעֲשֵׂה יְדֵיהֶם׃",
+      "english": "For many nations and great kings will make them serve in turn, and I will repay them according to their deeds and the work of their hands.",
+      "location": "additional editorial source readings"
+    },
+    "27:1": {
+      "masoretic_reference": "27:1",
+      "hebrew": "בְּרֵאשִׁית מַמְלֶכֶת יְהוֹיָקִם בֶּן־יֹאושִׁיָּהוּ מֶלֶךְ יְהוּדָה הָיָה הַדָּבָר הַזֶּה אֶל־יִרְמְיָה מֵאֵת יְהוָה לֵאמֹר׃",
+      "english": "At the beginning of the reign of Jehoiakim son of Josiah, king of Judah, this word came to Jeremiah from YHWH:",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Masoretic Text reads Jehoiakim here. Verses 3 and 12 name Zedekiah."
+    },
+    "27:7": {
+      "masoretic_reference": "27:7",
+      "hebrew": "וְעָבְדוּ אֹתוֹ כָּל־הַגּוֹיִם וְאֶת־בְּנוֹ וְאֶת־בֶּן־בְּנוֹ עַד בֹּא־עֵת אַרְצוֹ גַּם־הוּא וְעָבְדוּ בוֹ גּוֹיִם רַבִּים וּמְלָכִים גְּדֹלִים׃",
+      "english": "All the nations will serve him, his son, and his grandson until the time comes for his own land. Then many nations and great kings will make him serve them.",
+      "location": "additional editorial source readings"
+    },
+    "27:13": {
+      "masoretic_reference": "27:13",
+      "hebrew": "לָמָּה תָמוּתוּ אַתָּה וְעַמֶּךָ בַּחֶרֶב בָּרָעָב וּבַדָּבֶר כַּאֲשֶׁר דִּבֶּר יְהוָה אֶל־הַגּוֹי אֲשֶׁר לֹא־יַעֲבֹד אֶת־מֶלֶךְ בָּבֶל׃",
+      "english": "Why should you and your people die by the sword, famine, and pestilence, as YHWH has said concerning any nation that will not serve the king of Babylon?",
+      "location": "additional editorial source readings"
+    },
+    "27:17": {
+      "masoretic_reference": "27:17",
+      "hebrew": "אַל־תִּשְׁמְעוּ אֲלֵיהֶם עִבְדוּ אֶת־מֶלֶךְ־בָּבֶל וִחְיוּ לָמָּה תִהְיֶה הָעִיר הַזֹּאת חָרְבָּה׃",
+      "english": "Do not listen to them. Serve the king of Babylon and live. Why should this city become a ruin?",
+      "location": "additional editorial source readings"
+    },
+    "27:21": {
+      "masoretic_reference": "27:21",
+      "hebrew": "כִּי כֹה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל עַל־הַכֵּלִים הַנּוֹתָרִים בֵּית יְהוָה וּבֵית מֶלֶךְ־יְהוּדָה וִירוּשָׁלִָם׃",
+      "english": "For thus says YHWH of hosts, the God of Israel, about the vessels still in YHWH’s house, in the house of the king of Judah, and in Jerusalem:",
+      "location": "additional editorial source readings"
+    },
+    "29:16": {
+      "masoretic_reference": "29:16",
+      "hebrew": "כִּי־כֹה אָמַר יְהוָה אֶל־הַמֶּלֶךְ הַיּוֹשֵׁב אֶל־כִּסֵּא דָוִד וְאֶל־כָּל־הָעָם הַיּוֹשֵׁב בָּעִיר הַזֹּאת אֲחֵיכֶם אֲשֶׁר לֹא־יָצְאוּ אִתְּכֶם בַּגּוֹלָה׃",
+      "english": "For thus says YHWH concerning the king who sits on David’s throne and all the people who live in this city, your brothers who did not go into exile with you.",
+      "location": "additional editorial source readings"
+    },
+    "29:17": {
+      "masoretic_reference": "29:17",
+      "hebrew": "כֹּה אָמַר יְהוָה צְבָאוֹת הִנְנִי מְשַׁלֵּחַ בָּם אֶת־הַחֶרֶב אֶת־הָרָעָב וְאֶת־הַדָּבֶר וְנָתַתִּי אוֹתָם כַּתְּאֵנִים הַשֹּׁעָרִים אֲשֶׁר לֹא־תֵאָכַלְנָה מֵרֹעַ׃",
+      "english": "Thus says YHWH of hosts: Look, I am sending sword, famine, and pestilence upon them. I will make them like rotten figs, so bad they cannot be eaten.",
+      "location": "additional editorial source readings"
+    },
+    "29:18": {
+      "masoretic_reference": "29:18",
+      "hebrew": "וְרָדַפְתִּי אַחֲרֵיהֶם בַּחֶרֶב בָּרָעָב וּבַדָּבֶר וּנְתַתִּים לזועה [לְזַעֲוָה] לְכֹל מַמְלְכוֹת הָאָרֶץ לְאָלָה וּלְשַׁמָּה וְלִשְׁרֵקָה וּלְחֶרְפָּה בְּכָל־הַגּוֹיִם אֲשֶׁר־הִדַּחְתִּים שָׁם׃",
+      "english": "I will pursue them with sword, famine, and pestilence. I will make them a horror to all the kingdoms of the earth, a curse, a desolation, a target of hissing, and a reproach among all the nations where I have driven them.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The rendering follows the Masoretic reading לְזַעֲוָה (qere), ‘a horror.’"
+    },
+    "29:19": {
+      "masoretic_reference": "29:19",
+      "hebrew": "תַּחַת אֲשֶׁר־לֹא־שָׁמְעוּ אֶל־דְּבָרַי נְאֻם־יְהוָה אֲשֶׁר שָׁלַחְתִּי אֲלֵיהֶם אֶת־עֲבָדַי הַנְּבִאִים הַשְׁכֵּם וְשָׁלֹחַ וְלֹא שְׁמַעְתֶּם נְאֻם־יְהוָה׃",
+      "english": "For they did not listen to My words, declares YHWH, when I sent them My servants the prophets, sending them again and again. But you did not listen, declares YHWH.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew shifts from third person (‘they did not listen’) to second person (‘you did not listen’). The idiom rendered ‘again and again’ pictures rising early to send."
+    },
+    "29:20": {
+      "masoretic_reference": "29:20",
+      "hebrew": "וְאַתֶּם שִׁמְעוּ דְבַר־יְהוָה כָּל־הַגּוֹלָה אֲשֶׁר־שִׁלַּחְתִּי מִירוּשָׁלִַם בָּבֶלָה׃",
+      "english": "So hear the word of YHWH, all you exiles whom I sent away from Jerusalem to Babylon.",
+      "location": "additional editorial source readings"
+    },
+    "30:10": {
+      "masoretic_reference": "30:10",
+      "hebrew": "וְאַתָּה אַל־תִּירָא עַבְדִּי יַעֲקֹב נְאֻם־יְהֹוָה וְאַל־תֵּחַת יִשְׂרָאֵל כִּי הִנְנִי מוֹשִׁיעֲךָ מֵרָחוֹק וְאֶת־זַרְעֲךָ מֵאֶרֶץ שִׁבְיָם וְשָׁב יַעֲקֹב וְשָׁקַט וְשַׁאֲנַן וְאֵין מַחֲרִיד׃",
+      "english": "So do not fear, My servant Jacob, declares YHWH, and do not be dismayed, Israel. Look, I am saving you from afar and your offspring from the land of their captivity. Jacob will return and be quiet and at ease, with no one to frighten him.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Compare 46:27. This verse includes YHWH’s declaration."
+    },
+    "30:11": {
+      "masoretic_reference": "30:11",
+      "hebrew": "כִּי־אִתְּךָ אֲנִי נְאֻם־יְהוָה לְהוֹשִׁיעֶךָ כִּי אֶעֱשֶׂה כָלָה בְּכָל־הַגּוֹיִם אֲשֶׁר הֲפִצוֹתִיךָ שָּׁם אַךְ אֹתְךָ לֹא־אֶעֱשֶׂה כָלָה וְיִסַּרְתִּיךָ לַמִּשְׁפָּט וְנַקֵּה לֹא אֲנַקֶּךָּ׃",
+      "english": "For I am with you to save you, declares YHWH. I will make an end of all the nations among whom I scattered you, but I will not make an end of you. I will discipline you with justice, and I will certainly not leave you unpunished.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Compare 46:28. This verse explicitly says ‘to save you’ and refers to scattering."
+    },
+    "30:15": {
+      "masoretic_reference": "30:15",
+      "hebrew": "מַה־תִּזְעַק עַל־שִׁבְרֵךְ אָנוּשׁ מַכְאֹבֵךְ עַל רֹב עֲוֺנֵךְ עָצְמוּ חַטֹּאתַיִךְ עָשִׂיתִי אֵלֶּה לָךְ׃",
+      "english": "Why do you cry out over your injury? Your pain is incurable. I have done these things to you because your iniquity is great and your sins are many.",
+      "location": "additional editorial source readings"
+    },
+    "30:22": {
+      "masoretic_reference": "30:22",
+      "hebrew": "וִהְיִיתֶם לִי לְעָם וְאָנֹכִי אֶהְיֶה לָכֶם לֵאלֹהִים׃",
+      "english": "You will be My people, and I will be your God.",
+      "location": "additional editorial source readings"
+    },
+    "33:14": {
+      "masoretic_reference": "33:14",
+      "hebrew": "הִנֵּה יָמִים בָּאִים נְאֻם־יְהוָה וַהֲקִמֹתִי אֶת־הַדָּבָר הַטּוֹב אֲשֶׁר דִּבַּרְתִּי אֶל־בֵּית יִשְׂרָאֵל וְעַל־בֵּית יְהוּדָה׃",
+      "english": "Look, days are coming, declares YHWH, when I will fulfill the good word I spoke to the house of Israel and concerning the house of Judah.",
+      "location": "additional editorial source readings"
+    },
+    "33:15": {
+      "masoretic_reference": "33:15",
+      "hebrew": "בַּיָּמִים הָהֵם וּבָעֵת הַהִיא אַצְמִיחַ לְדָוִד צֶמַח צְדָקָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה בָּאָרֶץ׃",
+      "english": "In those days, at that time, I will make a righteous shoot spring up for David. He will do justice and righteousness in the land.",
+      "location": "additional editorial source readings"
+    },
+    "33:16": {
+      "masoretic_reference": "33:16",
+      "hebrew": "בַּיָּמִים הָהֵם תִּוָּשַׁע יְהוּדָה וִירוּשָׁלִַם תִּשְׁכּוֹן לָבֶטַח וְזֶה אֲשֶׁר־יִקְרָא־לָהּ יְהוָה צִדְקֵנוּ׃",
+      "english": "In those days Judah will be saved, and Jerusalem will dwell in safety. This is what she will be called, ‘YHWH is our righteousness.’",
+      "location": "additional editorial source readings",
+      "editorial_note": "The feminine suffix refers to Jerusalem, unlike the masculine suffix in 23:6. Radak discusses several ways to understand who gives Jerusalem this name."
+    },
+    "33:17": {
+      "masoretic_reference": "33:17",
+      "hebrew": "כִּי־כֹה אָמַר יְהוָה לֹא־יִכָּרֵת לְדָוִד אִישׁ יֹשֵׁב עַל־כִּסֵּא בֵית־יִשְׂרָאֵל׃",
+      "english": "For thus says YHWH, David will never lack a man to sit on the throne of the house of Israel.",
+      "location": "additional editorial source readings"
+    },
+    "33:18": {
+      "masoretic_reference": "33:18",
+      "hebrew": "וְלַכֹּהֲנִים הַלְוִיִּם לֹא־יִכָּרֵת אִישׁ מִלְּפָנָי מַעֲלֶה עוֹלָה וּמַקְטִיר מִנְחָה וְעֹשֶׂה־זֶּבַח כָּל־הַיָּמִים׃",
+      "english": "Nor will the Levitical priests ever lack a man before Me to offer burnt offerings, burn grain offerings, and present sacrifices day after day.",
+      "location": "additional editorial source readings"
+    },
+    "33:19": {
+      "masoretic_reference": "33:19",
+      "hebrew": "וַיְהִי דְּבַר־יְהוָה אֶל־יִרְמְיָהוּ לֵאמוֹר׃",
+      "english": "YHWH’s word came to Jeremiah, saying:",
+      "location": "additional editorial source readings"
+    },
+    "33:20": {
+      "masoretic_reference": "33:20",
+      "hebrew": "כֹּה אָמַר יְהוָה אִם־תָּפֵרוּ אֶת־בְּרִיתִי הַיּוֹם וְאֶת־בְּרִיתִי הַלָּיְלָה וּלְבִלְתִּי הֱיוֹת יוֹמָם־וָלַיְלָה בְּעִתָּם׃",
+      "english": "Thus says YHWH, if you can break My covenant with the day and My covenant with the night, so that day and night no longer come at their appointed times,",
+      "location": "additional editorial source readings"
+    },
+    "33:21": {
+      "masoretic_reference": "33:21",
+      "hebrew": "גַּם־בְּרִיתִי תֻפַר אֶת־דָּוִד עַבְדִּי מִהְיוֹת־לוֹ בֵן מֹלֵךְ עַל־כִּסְאוֹ וְאֶת־הַלְוִיִּם הַכֹּהֲנִים מְשָׁרְתָי׃",
+      "english": "then My covenant with David My servant can also be broken, so that he will have no son to reign on his throne. So too can My covenant with the Levitical priests, My ministers.",
+      "location": "additional editorial source readings"
+    },
+    "33:22": {
+      "masoretic_reference": "33:22",
+      "hebrew": "אֲשֶׁר לֹא־יִסָּפֵר צְבָא הַשָּׁמַיִם וְלֹא יִמַּד חוֹל הַיָּם כֵּן אַרְבֶּה אֶת־זֶרַע דָּוִד עַבְדִּי וְאֶת־הַלְוִיִּם מְשָׁרְתֵי אֹתִי׃",
+      "english": "Just as the host of heaven cannot be counted and the sand of the sea cannot be measured, so I will multiply the offspring of David My servant and the Levites who minister to Me.",
+      "location": "additional editorial source readings"
+    },
+    "33:23": {
+      "masoretic_reference": "33:23",
+      "hebrew": "וַיְהִי דְּבַר־יְהוָה אֶל־יִרְמְיָהוּ לֵאמֹר׃",
+      "english": "YHWH’s word came to Jeremiah, saying:",
+      "location": "additional editorial source readings"
+    },
+    "33:24": {
+      "masoretic_reference": "33:24",
+      "hebrew": "הֲלוֹא רָאִיתָ מָה־הָעָם הַזֶּה דִּבְּרוּ לֵאמֹר שְׁתֵּי הַמִּשְׁפָּחוֹת אֲשֶׁר בָּחַר יְהוָה בָּהֶם וַיִּמְאָסֵם וְאֶת־עַמִּי יִנְאָצוּן מִהְיוֹת עוֹד גּוֹי לִפְנֵיהֶם׃",
+      "english": "Have you not seen what these people are saying? ‘YHWH chose two families, and He has rejected them.’ They despise My people, so that in their eyes they are no longer a nation.",
+      "location": "additional editorial source readings"
+    },
+    "33:25": {
+      "masoretic_reference": "33:25",
+      "hebrew": "כֹּה אָמַר יְהוָה אִם־לֹא בְרִיתִי יוֹמָם וָלָיְלָה חֻקּוֹת שָׁמַיִם וָאָרֶץ לֹא־שָׂמְתִּי׃",
+      "english": "Thus says YHWH, if My covenant with day and night did not stand, if I had not set the ordinances of heaven and earth in place,",
+      "location": "additional editorial source readings"
+    },
+    "33:26": {
+      "masoretic_reference": "33:26",
+      "hebrew": "גַּם־זֶרַע יַעֲקוֹב וְדָוִד עַבְדִּי אֶמְאַס מִקַּחַת מִזַּרְעוֹ מֹשְׁלִים אֶל־זֶרַע אַבְרָהָם יִשְׂחָק וְיַעֲקֹב כִּי־אשוב [אָשִׁיב] אֶת־שְׁבוּתָם וְרִחַמְתִּים׃",
+      "english": "then I would also reject the offspring of Jacob and of David My servant, and I would no longer choose rulers from David’s offspring to govern the offspring of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.",
+      "location": "additional editorial source readings",
+      "editorial_note": "‘I will restore’ follows the Masoretic qere אָשִׁיב. The Hebrew uses the same noun for offspring all three times."
+    },
+    "39:4": {
+      "masoretic_reference": "39:4",
+      "hebrew": "וַיְהִי כַּאֲשֶׁר רָאָם צִדְקִיָּהוּ מֶלֶךְ־יְהוּדָה וְכֹל אַנְשֵׁי הַמִּלְחָמָה וַיִּבְרְחוּ וַיֵּצְאוּ לַיְלָה מִן־הָעִיר דֶּרֶךְ גַּן הַמֶּלֶךְ בְּשַׁעַר בֵּין הַחֹמֹתָיִם וַיֵּצֵא דֶּרֶךְ הָעֲרָבָה׃",
+      "english": "When Zedekiah king of Judah and all the fighting men saw them, they fled. They left the city at night by way of the king’s garden, through the gate between the two walls. The king went out by the road to the Arabah.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew shifts from plural ‘they left’ to singular ‘he went out’ in the last clause."
+    },
+    "39:5": {
+      "masoretic_reference": "39:5",
+      "hebrew": "וַיִּרְדְּפוּ חֵיל־כַּשְׂדִּים אַחֲרֵיהֶם וַיַּשִּׂגוּ אֶת־צִדְקִיָּהוּ בְּעַרְבוֹת יְרֵחוֹ וַיִּקְחוּ אֹתוֹ וַיַּעֲלֻהוּ אֶל־נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל רִבְלָתָה בְּאֶרֶץ חֲמָת וַיְדַבֵּר אִתּוֹ מִשְׁפָּטִים׃",
+      "english": "The Chaldean army pursued them and overtook Zedekiah in the plains of Jericho. They seized him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, and the king pronounced judgments against him.",
+      "location": "additional editorial source readings"
+    },
+    "39:6": {
+      "masoretic_reference": "39:6",
+      "hebrew": "וַיִּשְׁחַט מֶלֶךְ בָּבֶל אֶת־בְּנֵי צִדְקִיָּהוּ בְּרִבְלָה לְעֵינָיו וְאֵת כָּל־חֹרֵי יְהוּדָה שָׁחַט מֶלֶךְ בָּבֶל׃",
+      "english": "At Riblah the king of Babylon slaughtered Zedekiah’s sons before his eyes. The king of Babylon also slaughtered all the nobles of Judah.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The pinned dataset’s English field ends after the first clause. The second clause is present in its pointed Hebrew and rendered here. Jeremiah 52:10 recounts the same event in different Hebrew wording."
+    },
+    "39:7": {
+      "masoretic_reference": "39:7",
+      "hebrew": "וְאֶת־עֵינֵי צִדְקִיָּהוּ עִוֵּר וַיַּאַסְרֵהוּ בַּנְחֻשְׁתַּיִם לָבִיא אֹתוֹ בָּבֶלָה׃",
+      "english": "He put out Zedekiah’s eyes and bound him with bronze fetters to take him to Babylon.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Compare 52:11. This verse states the purpose of binding him."
+    },
+    "39:8": {
+      "masoretic_reference": "39:8",
+      "hebrew": "וְאֶת־בֵּית הַמֶּלֶךְ וְאֶת־בֵּית הָעָם שָׂרְפוּ הַכַּשְׂדִּים בָּאֵשׁ וְאֶת־חֹמוֹת יְרוּשָׁלִַם נָתָצוּ׃",
+      "english": "The Chaldeans set fire to the king’s house and the homes of the people, and they tore down the walls of Jerusalem.",
+      "location": "additional editorial source readings"
+    },
+    "39:9": {
+      "masoretic_reference": "39:9",
+      "hebrew": "וְאֵת יֶתֶר הָעָם הַנִּשְׁאָרִים בָּעִיר וְאֶת־הַנֹּפְלִים אֲשֶׁר נָפְלוּ עָלָיו וְאֵת יֶתֶר הָעָם הַנִּשְׁאָרִים הֶגְלָה נְבוּזַר־אֲדָן רַב־טַבָּחִים בָּבֶל׃",
+      "english": "Nebuzaradan, captain of the guard, took into exile in Babylon the rest of the people still in the city, the deserters who had gone over to him, and the rest of the people who remained.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The repetition of ‘the rest of the people’ reflects the Masoretic text."
+    },
+    "39:10": {
+      "masoretic_reference": "39:10",
+      "hebrew": "וּמִן־הָעָם הַדַּלִּים אֲשֶׁר אֵין־לָהֶם מְאוּמָה הִשְׁאִיר נְבוּזַרְאֲדָן רַב־טַבָּחִים בְּאֶרֶץ יְהוּדָה וַיִּתֵּן לָהֶם כְּרָמִים וִיגֵבִים בַּיּוֹם הַהוּא׃",
+      "english": "But Nebuzaradan, captain of the guard, left in the land of Judah some of the poor who had nothing. That day he gave them vineyards and fields to till.",
+      "location": "additional editorial source readings",
+      "editorial_note": "‘Fields to till’ follows Rashi’s explanation of the rare יְגֵבִים."
+    },
+    "39:11": {
+      "masoretic_reference": "39:11",
+      "hebrew": "וַיְצַו נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל עַל־יִרְמְיָהוּ בְּיַד נְבוּזַרְאֲדָן רַב־טַבָּחִים לֵאמֹר׃",
+      "english": "Nebuchadnezzar king of Babylon gave orders concerning Jeremiah through Nebuzaradan, captain of the guard, saying,",
+      "location": "additional editorial source readings"
+    },
+    "39:12": {
+      "masoretic_reference": "39:12",
+      "hebrew": "קָחֶנּוּ וְעֵינֶיךָ שִׂים עָלָיו וְאַל־תַּעַשׂ לוֹ מְאוּמָה רָּע כִּי אם כַּאֲשֶׁר יְדַבֵּר אֵלֶיךָ כֵּן עֲשֵׂה עִמּוֹ׃",
+      "english": "‘Take him and watch over him. Do him no harm, but do for him whatever he tells you.’",
+      "location": "additional editorial source readings"
+    },
+    "39:13": {
+      "masoretic_reference": "39:13",
+      "hebrew": "וַיִּשְׁלַח נְבוּזַרְאֲדָן רַב־טַבָּחִים וּנְבוּשַׁזְבָּן רַב־סָרִיס וְנֵרְגַל שַׂר־אֶצֶר רַב־מָג וְכֹל רַבֵּי מֶלֶךְ־בָּבֶל׃",
+      "english": "So Nebuzaradan, captain of the guard, Nebushazban the chief court officer, Nergal-sharezer the Rab-mag, and all the senior officers of the king of Babylon sent word.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew gives no direct object for ‘sent.’ The titles follow the archive’s treatment of the same terms in Masoretic Jeremiah 39:3."
+    },
+    "46:1": {
+      "masoretic_reference": "46:1",
+      "hebrew": "אֲשֶׁר הָיָה דְבַר־יְהוָה אֶל־יִרְמְיָהוּ הַנָּבִיא עַל־הַגּוֹיִם׃",
+      "english": "The word of YHWH that came to Jeremiah the prophet concerning the nations:",
+      "location": "additional editorial source readings"
+    },
+    "46:26": {
+      "masoretic_reference": "46:26",
+      "hebrew": "וּנְתַתִּים בְּיַד מְבַקְשֵׁי נַפְשָׁם וּבְיַד נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל וּבְיַד־עֲבָדָיו וְאַחֲרֵי־כֵן תִּשְׁכֹּן כִּימֵי־קֶדֶם נְאֻם־יְהוָה׃",
+      "english": "I will hand them over to those who seek their lives, to Nebuchadnezzar king of Babylon and to his servants. Afterward Egypt will be inhabited as in days of old, declares YHWH.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew shifts from plural ‘them’ to feminine singular ‘she will dwell,’ referring back to Egypt in 46:25."
+    },
+    "48:45": {
+      "masoretic_reference": "48:45",
+      "hebrew": "בְּצֵל חֶשְׁבּוֹן עָמְדוּ מִכֹּחַ נָסִים כִּי־אֵשׁ יָצָא מֵחֶשְׁבּוֹן וְלֶהָבָה מִבֵּין סִיחוֹן וַתֹּאכַל פְּאַת מוֹאָב וְקָדְקֹד בְּנֵי שָׁאוֹן׃",
+      "english": "The fugitives stopped in the shade of Heshbon, their strength spent. For fire has gone out from Heshbon and a flame from Sihon’s city. It has consumed the brow of Moab and the crown of each boastful head.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The Hebrew literally has ‘from the midst of Sihon’ and ‘sons of tumult.’ Rashi identifies Sihon’s city and explains the fugitives’ exhaustion and the people’s loud boasting. The imagery recalls Numbers 21:28 and 24:17."
+    },
+    "48:46": {
+      "masoretic_reference": "48:46",
+      "hebrew": "אוֹי־לְךָ מוֹאָב אָבַד עַם־כְּמוֹשׁ כִּי־לֻקְּחוּ בָנֶיךָ בַּשֶּׁבִי וּבְנֹתֶיךָ בַּשִּׁבְיָה׃",
+      "english": "Woe to you, Moab! The people of Chemosh are lost, for your sons have been taken captive and your daughters carried into captivity.",
+      "location": "additional editorial source readings"
+    },
+    "48:47": {
+      "masoretic_reference": "48:47",
+      "hebrew": "וְשַׁבְתִּי שְׁבוּת־מוֹאָב בְּאַחֲרִית הַיָּמִים נְאֻם־יְהוָה עַד־הֵנָּה מִשְׁפַּט מוֹאָב׃",
+      "english": "Yet in the latter days I will restore the fortunes of Moab, declares YHWH. Here ends the judgment against Moab.",
+      "location": "additional editorial source readings"
+    },
     "49:6": {
       "masoretic_reference": "49:6",
       "hebrew": "וְאַחֲרֵי־כֵן אָשִׁיב אֶת־שְׁבוּת בְּנֵי־עַמּוֹן נְאֻם־יְהוָה׃",
       "english": "But afterward I will restore the fortunes of the Ammonites, declares YHWH.",
+      "location": "additional editorial source readings"
+    },
+    "51:45": {
+      "masoretic_reference": "51:45",
+      "hebrew": "צְאוּ מִתּוֹכָהּ עַמִּי וּמַלְּטוּ אִישׁ אֶת־נַפְשׁוֹ מֵחֲרוֹן אַף־יְהוָה׃",
+      "english": "Come out from her midst, My people! Each of you, save your life from YHWH’s burning anger!",
+      "location": "additional editorial source readings"
+    },
+    "51:46": {
+      "masoretic_reference": "51:46",
+      "hebrew": "וּפֶן־יֵרַךְ לְבַבְכֶם וְתִירְאוּ בַּשְּׁמוּעָה הַנִּשְׁמַעַת בָּאָרֶץ וּבָא בַשָּׁנָה הַשְּׁמוּעָה וְאַחֲרָיו בַּשָּׁנָה הַשְּׁמוּעָה וְחָמָס בָּאָרֶץ וּמֹשֵׁל עַל־מֹשֵׁל׃",
+      "english": "Do not lose heart or be afraid of the report heard in the land. One year a report will come, and another report the year after. There will be violence in the land, ruler against ruler.",
+      "location": "additional editorial source readings"
+    },
+    "51:47": {
+      "masoretic_reference": "51:47",
+      "hebrew": "לָכֵן הִנֵּה יָמִים בָּאִים וּפָקַדְתִּי עַל־פְּסִילֵי בָבֶל וְכָל־אַרְצָהּ תֵּבוֹשׁ וְכָל־חֲלָלֶיהָ יִפְּלוּ בְתוֹכָהּ׃",
+      "english": "So look, days are coming when I will punish the carved images of Babylon. Her whole land will be put to shame, and all her slain will fall within her.",
+      "location": "additional editorial source readings"
+    },
+    "51:48": {
+      "masoretic_reference": "51:48",
+      "hebrew": "וְרִנְּנוּ עַל־בָּבֶל שָׁמַיִם וָאָרֶץ וְכֹל אֲשֶׁר בָּהֶם כִּי מִצָּפוֹן יָבוֹא־לָהּ הַשּׁוֹדְדִים נְאֻם־יְהוָה׃",
+      "english": "Then heaven and earth, and all that is in them, will sing for joy over Babylon, for destroyers will come against her from the north, declares YHWH.",
+      "location": "additional editorial source readings"
+    },
+    "52:2": {
+      "masoretic_reference": "52:2",
+      "hebrew": "וַיַּעַשׂ הָרַע בְּעֵינֵי יְהוָה כְּכֹל אֲשֶׁר־עָשָׂה יְהוֹיָקִים׃",
+      "english": "He did evil in YHWH’s sight, following all that Jehoiakim had done.",
+      "location": "additional editorial source readings"
+    },
+    "52:3": {
+      "masoretic_reference": "52:3",
+      "hebrew": "כִּי עַל־אַף יְהוָה הָיְתָה בִּירוּשָׁלִַם וִיהוּדָה עַד־הִשְׁלִיכוֹ אוֹתָם מֵעַל פָּנָיו וַיִּמְרֹד צִדְקִיָּהוּ בְּמֶלֶךְ בָּבֶל׃",
+      "english": "It was because of YHWH’s anger that this happened in Jerusalem and Judah, until He cast them out of His presence. Zedekiah rebelled against the king of Babylon.",
+      "location": "additional editorial source readings"
+    },
+    "52:15": {
+      "masoretic_reference": "52:15",
+      "hebrew": "וּמִדַּלּוֹת הָעָם וְאֶת־יֶתֶר הָעָם הַנִּשְׁאָרִים בָּעִיר וְאֶת־הַנֹּפְלִים אֲשֶׁר נָפְלוּ אֶל־מֶלֶךְ בָּבֶל וְאֵת יֶתֶר הָאָמוֹן הֶגְלָה נְבוּזַרְאֲדָן רַב־טַבָּחִים׃",
+      "english": "Nebuzaradan, captain of the guard, took into exile some of the poor, the rest of the people who had remained in the city, the deserters who had gone over to the king of Babylon, and the rest of the multitude.",
+      "location": "additional editorial source readings",
+      "editorial_note": "‘Multitude’ follows Rashi and Targum Jonathan on אָמוֹן. Another interpretation takes the word to mean artisans."
+    },
+    "52:28": {
+      "masoretic_reference": "52:28",
+      "hebrew": "זֶה הָעָם אֲשֶׁר הֶגְלָה נְבוּכַדְרֶאצַּר בִּשְׁנַת־שֶׁבַע יְהוּדִים שְׁלֹשֶׁת אֲלָפִים וְעֶשְׂרִים וּשְׁלֹשָׁה׃",
+      "english": "These are the people Nebuchadnezzar took into exile. In the seventh year he took three thousand twenty-three Jews.",
+      "location": "additional editorial source readings"
+    },
+    "52:29": {
+      "masoretic_reference": "52:29",
+      "hebrew": "בִּשְׁנַת שְׁמוֹנֶה עֶשְׂרֵה לִנְבוּכַדְרֶאצַּר מִירוּשָׁלִַם נֶפֶשׁ שְׁמֹנֶה מֵאוֹת שְׁלֹשִׁים וּשְׁנָיִם׃",
+      "english": "In Nebuchadnezzar’s eighteenth year he took eight hundred thirty-two people from Jerusalem.",
+      "location": "additional editorial source readings"
+    },
+    "52:30": {
+      "masoretic_reference": "52:30",
+      "hebrew": "בִּשְׁנַת שָׁלֹשׁ וְעֶשְׂרִים לִנְבוּכַדְרֶאצַּר הֶגְלָה נְבוּזַרְאֲדָן רַב־טַבָּחִים יְהוּדִים נֶפֶשׁ שְׁבַע מֵאוֹת אַרְבָּעִים וַחֲמִשָּׁה כָּל־נֶפֶשׁ אַרְבַּעַת אֲלָפִים וְשֵׁשׁ מֵאוֹת׃",
+      "english": "In Nebuchadnezzar’s twenty-third year, Nebuzaradan, captain of the guard, took into exile seven hundred forty-five Jews. There were four thousand six hundred people in all.",
       "location": "additional editorial source readings"
     }
   }

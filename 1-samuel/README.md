@@ -10,6 +10,7 @@
 
 ## Files
 
+- [Additional source readings](source-only-readings.json) includes 39 Masoretic readings restored in the [November 9 GitHub revision](../corrections/2026-11-09-masoretic-coverage/README.md). References in this file use Masoretic numbering.
 - [1-Samuel.txt](1-Samuel.txt): Hebrew and English for every verse, by chapter.
 - [verses.json](verses.json): structured text with the site's card id, comparison classification, notes and Masoretic numbering.
 

@@ -4,12 +4,124 @@
   "editorial_reviewed": "2026-11-09",
   "source_hebrew": "Westminster Leningrad Codex (pointed text via Sefaria)",
   "hebrew_source_url": "https://github.com/embabel-worlds/realm-tanakh/blob/73eed523b5349ee21f19cfe6061725168ebe827e/reference/tanakh-05-verses-28-Prov.yml",
-  "scope": "New editorial renderings for Masoretic passages without a corresponding aligned reading in this archive. References use Masoretic numbering. Staging status has not been checked.",
+  "scope": "Additional readings keyed by Masoretic reference, separate from the Parallel Reader’s aligned rows. Entries with staging links document the earlier staging capture. New editorial readings were prepared in the GitHub archive.",
   "source_only_readings": {
+    "4:7": {
+      "masoretic_reference": "4:7",
+      "hebrew": "רֵאשִׁית חָכְמָה קְנֵה חָכְמָה וּבְכָל־קִנְיָנְךָ קְנֵה בִינָה׃",
+      "english": "The beginning of wisdom is this: acquire wisdom. With all you acquire, acquire understanding.",
+      "location": "additional editorial source readings"
+    },
+    "8:33": {
+      "masoretic_reference": "8:33",
+      "hebrew": "שִׁמְעוּ מוּסָר וַחֲכָמוּ וְאַל־תִּפְרָעוּ׃",
+      "english": "Listen to discipline and become wise. Do not disregard it.",
+      "location": "additional editorial source readings"
+    },
+    "11:4": {
+      "masoretic_reference": "11:4",
+      "hebrew": "לֹא־יוֹעִיל הוֹן בְּיוֹם עֶבְרָה וּצְדָקָה תַּצִּיל מִמָּוֶת׃",
+      "english": "Wealth is of no use on the day of wrath, but righteousness delivers from death.",
+      "location": "additional editorial source readings"
+    },
     "15:31": {
       "masoretic_reference": "15:31",
       "hebrew": "אֹזֶן שֹׁמַעַת תּוֹכַחַת חַיִּים בְּקֶרֶב חֲכָמִים תָּלִין׃",
       "english": "An ear that listens to life-giving correction will dwell among the wise.",
+      "location": "additional editorial source readings"
+    },
+    "16:1": {
+      "masoretic_reference": "16:1",
+      "hebrew": "לְאָדָם מַעַרְכֵי־לֵב וּמֵיְהוָה מַעֲנֵה לָשׁוֹן׃",
+      "english": "The plans of the heart belong to a person, but the answer of the tongue comes from YHWH.",
+      "location": "additional editorial source readings"
+    },
+    "16:3": {
+      "masoretic_reference": "16:3",
+      "hebrew": "גֹּל אֶל־יְהוָה מַעֲשֶׂיךָ וְיִכֹּנוּ מַחְשְׁבֹתֶיךָ׃",
+      "english": "Commit your work to YHWH, and your plans will be established.",
+      "location": "additional editorial source readings"
+    },
+    "18:23": {
+      "masoretic_reference": "18:23",
+      "hebrew": "תַּחֲנוּנִים יְדַבֶּר־רָשׁ וְעָשִׁיר יַעֲנֶה עַזּוֹת׃",
+      "english": "The poor plead, but the rich answer harshly.",
+      "location": "additional editorial source readings"
+    },
+    "18:24": {
+      "masoretic_reference": "18:24",
+      "hebrew": "אִישׁ רֵעִים לְהִתְרֹעֵעַ וְיֵשׁ אֹהֵב דָּבֵק מֵאָח׃",
+      "english": "A man with many companions may come to ruin, but there is a friend who holds closer than a brother.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The first line contains a wordplay between companions and the difficult verb rendered ‘come to ruin.’"
+    },
+    "19:1": {
+      "masoretic_reference": "19:1",
+      "hebrew": "טוֹב־רָשׁ הוֹלֵךְ בְּתֻמּוֹ מֵעִקֵּשׁ שְׂפָתָיו וְהוּא כְסִיל׃",
+      "english": "Better a poor person who walks in integrity than a fool with crooked lips.",
+      "location": "additional editorial source readings"
+    },
+    "19:2": {
+      "masoretic_reference": "19:2",
+      "hebrew": "גַּם בְּלֹא־דַעַת נֶפֶשׁ לֹא־טוֹב וְאָץ בְּרַגְלַיִם חוֹטֵא׃",
+      "english": "It is not good for a person to lack knowledge, and whoever rushes ahead goes astray.",
+      "location": "additional editorial source readings"
+    },
+    "20:14": {
+      "masoretic_reference": "20:14",
+      "hebrew": "רַע רַע יֹאמַר הַקּוֹנֶה וְאֹזֵל לוֹ אָז יִתְהַלָּל׃",
+      "english": "‘Bad! Bad!’ says the buyer, but once he goes his way, he boasts.",
+      "location": "additional editorial source readings"
+    },
+    "20:15": {
+      "masoretic_reference": "20:15",
+      "hebrew": "יֵשׁ זָהָב וְרָב־פְּנִינִים וּכְלִי יְקָר שִׂפְתֵי־דָעַת׃",
+      "english": "There is gold, and there are jewels in abundance, but lips that speak knowledge are a precious treasure.",
+      "location": "additional editorial source readings",
+      "editorial_note": "The precise kind of jewel denoted by peninim is uncertain."
+    },
+    "20:16": {
+      "masoretic_reference": "20:16",
+      "hebrew": "לְקַח־בִּגְדוֹ כִּי־עָרַב זָר וּבְעַד נכרים [נָכְרִיָּה] חַבְלֵהוּ׃",
+      "english": "Take his garment, for he guaranteed a stranger, and for a foreign woman take a pledge from him.",
+      "location": "additional editorial source readings",
+      "editorial_note": "Follows the Masoretic qere ‘a foreign woman.’ The written form has ‘foreigners.’ Compare Proverbs 27:13."
+    },
+    "20:17": {
+      "masoretic_reference": "20:17",
+      "hebrew": "עָרֵב לָאִישׁ לֶחֶם שָׁקֶר וְאַחַר יִמָּלֵא־פִיהוּ חָצָץ׃",
+      "english": "Bread gained by deceit tastes sweet, but afterward the mouth is full of gravel.",
+      "location": "additional editorial source readings"
+    },
+    "20:18": {
+      "masoretic_reference": "20:18",
+      "hebrew": "מַחֲשָׁבוֹת בְּעֵצָה תִכּוֹן וּבְתַחְבֻּלוֹת עֲשֵׂה מִלְחָמָה׃",
+      "english": "Plans are established by counsel, so wage war with sound guidance.",
+      "location": "additional editorial source readings"
+    },
+    "20:19": {
+      "masoretic_reference": "20:19",
+      "hebrew": "גּוֹלֶה־סּוֹד הוֹלֵךְ רָכִיל וּלְפֹתֶה שְׂפָתָיו לֹא תִתְעָרָב׃",
+      "english": "A gossip goes about revealing secrets. Keep away from one who opens his lips too freely.",
+      "location": "additional editorial source readings"
+    },
+    "21:5": {
+      "masoretic_reference": "21:5",
+      "hebrew": "מַחְשְׁבוֹת חָרוּץ אַךְ־לְמוֹתָר וְכָל־אָץ אַךְ־לְמַחְסוֹר׃",
+      "english": "The plans of the diligent lead surely to abundance, but everyone who rushes headlong comes only to want.",
+      "location": "additional editorial source readings"
+    },
+    "22:6": {
+      "masoretic_reference": "22:6",
+      "hebrew": "חֲנֹךְ לַנַּעַר עַל־פִּי דַרְכּוֹ גַּם כִּי־יַזְקִין לֹא־יָסוּר מִמֶּנָּה׃",
+      "english": "Train a youth according to his way. Even when he grows old, he will not turn from it.",
+      "location": "additional editorial source readings",
+      "editorial_note": "‘According to his way’ preserves the wording of the Hebrew without supplying ‘should go.’"
+    },
+    "23:23": {
+      "masoretic_reference": "23:23",
+      "hebrew": "אֱמֶת קְנֵה וְאַל־תִּמְכֹּר חָכְמָה וּמוּסָר וּבִינָה׃",
+      "english": "Buy truth and do not sell it. Buy wisdom, discipline, and understanding.",
       "location": "additional editorial source readings"
     }
   }

@@ -10,6 +10,7 @@
 
 ## Files
 
+- [Additional source reading](source-only-readings.json) gives Masoretic 116:14, restored in the [November 9 GitHub revision](../corrections/2026-11-09-masoretic-coverage/README.md).
 - [Psalms.txt](Psalms.txt): Hebrew and English for every verse, by chapter.
 - [verses.json](verses.json): structured text with the site's card id, comparison classification, notes and Masoretic numbering.
 
