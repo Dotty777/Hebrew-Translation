@@ -26,6 +26,15 @@ The English follows the [pinned Westminster Leningrad Codex](https://github.com/
 
 The additional readings appear in each book’s structured source file and its plain-text export. They use Masoretic verse numbers. Existing reader references and card IDs are preserved. The English revisions appear in both representations of the aligned readings. Two Masoretic reference annotations were corrected in Psalms and Ezekiel, where separate verses have identical Hebrew.
 
-This is a GitHub archive update. The earlier 39-book accuracy review was AI-assisted, and this pass concentrates on the source gaps and selected passages in three books. Independent human Hebrew and Aramaic review and a full read-aloud pass remain pending.
+The earlier 39-book accuracy review was AI-assisted, and this pass concentrates on the source gaps and selected passages in three books. Independent human Hebrew and Aramaic review and a full read-aloud pass remain pending.
 
 [Verse-level change list](changes.json)
+
+## Saints.Bible staging
+
+The staging synchronization checked all 310 readings from this revision and the earlier editorial revision. It updated 300 readings and confirmed that the other 10 already matched. The existing staging cards for Ezekiel 12:17 and Psalms 116:18 already carried the corrected Masoretic references.
+
+The Parallel Reader links to the two passages below under “Other unaligned readings in this source.” Each linked comparison card carries the revised wording.
+
+- [Proverbs 16:1](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/proverbs/comparison-edition/17/#verse-1)
+- [Jeremiah 25:14](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jeremiah/comparison-edition-part-2/6/#verse-14)
