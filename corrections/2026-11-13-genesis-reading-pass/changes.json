@@ -1,0 +1,704 @@
+{
+  "book": "Genesis",
+  "source": "Westminster Leningrad Codex",
+  "chapters": "6–50",
+  "reviewed_rows": 1396,
+  "changes": [
+    {
+      "reference": "Genesis 6:7",
+      "card_id": "v-6-7",
+      "severity": "minor",
+      "before": "YHWH said, “I will wipe away humankind whom I created from the face of the ground, from human beings to livestock, creeping things, and birds of the sky, for I regret that I made them.”",
+      "after": "YHWH said, “I will wipe away humankind whom I created from the face of the ground, from human beings to livestock, to creeping things, and to birds of the sky, for I regret that I made them.”",
+      "reason": "The Hebrew repeats עַד (“to”) before each class of creature; restoring the repeated “to” keeps the source’s sweeping series."
+    },
+    {
+      "reference": "Genesis 6:16",
+      "card_id": "v-6-16",
+      "severity": "minor",
+      "before": "Make an opening for the ark, and finish it to a cubit at the top. Set the ark’s door in its side; make it with lower, second, and third levels.",
+      "after": "Make a light for the ark, and finish it to a cubit at the top. Set the ark’s door in its side; make it with lower, second, and third levels.",
+      "reason": "צֹהַר is a word of light, and Rashi explains it as either a window or a shining stone that gave them light; “a light” covers both, where “an opening” loses the idea of light."
+    },
+    {
+      "reference": "Genesis 6:17",
+      "card_id": "v-6-17",
+      "severity": "spoken",
+      "before": "As for Me, behold, I am bringing the flood of water upon the earth to destroy all flesh in which is a spirit of life from under the heavens; everything upon the earth shall perish.",
+      "after": "As for Me, behold, I am bringing the flood of water upon the earth to destroy from under the heavens all flesh in which is a spirit of life; everything upon the earth shall perish.",
+      "reason": "“From under the heavens” belongs to the destroying (as in “blot out from under the heavens”); placed after “a spirit of life” it sounds aloud as if the spirit came from under the heavens."
+    },
+    {
+      "reference": "Genesis 7:23",
+      "card_id": "v-7-23",
+      "severity": "minor",
+      "before": "He wiped away every living thing upon the face of the ground, from human beings to livestock, creeping things, and birds of the sky. They were wiped away from the earth; only Noah remained, and those with him in the ark.",
+      "after": "He wiped away every living thing upon the face of the ground, from human beings to livestock, to creeping things, and to birds of the sky. They were wiped away from the earth; only Noah remained, and those with him in the ark.",
+      "reason": "As in 6:7, the Hebrew repeats עַד (“to”) before each class; the repeated “to” restores the source pattern and keeps the echo of God’s words in 6:7."
+    },
+    {
+      "reference": "Genesis 8:7",
+      "card_id": "v-8-7",
+      "severity": "minor",
+      "before": "and sent out the raven. It went out and back until the waters dried from the earth.",
+      "after": "and sent out the raven. It went out, going to and fro, until the waters dried from the earth.",
+      "reason": "The infinitives יָצוֹא וָשׁוֹב express repeated going and returning (Rashi: it kept circling the ark); “went out and back” sounds like a single trip."
+    },
+    {
+      "reference": "Genesis 8:17",
+      "card_id": "v-8-17",
+      "severity": "spoken",
+      "before": "Bring out with you every living thing of all flesh with you—birds, livestock, and every creeping thing that creeps upon the earth—so that they may swarm upon the earth, be fruitful, and multiply upon the earth.”",
+      "after": "Bring out with you every living thing that is with you, of all flesh—birds, livestock, and every creeping thing that creeps upon the earth—so that they may swarm upon the earth, be fruitful, and multiply upon the earth.”",
+      "reason": "The Hebrew has “every living thing that is with you” and then “of all flesh”; restoring “that is” removes the confusing “of all flesh with you” while keeping both “with you” phrases."
+    },
+    {
+      "reference": "Genesis 9:6",
+      "card_id": "v-9-6",
+      "severity": "minor",
+      "before": "Whoever sheds human blood, by humans his blood shall be shed, for in the image of God he made humankind.",
+      "after": "Whoever sheds human blood, by humans his blood shall be shed, for in the image of God He made humankind.",
+      "reason": "The subject of עָשָׂה is God, so the pronoun takes the edition’s capital; lowercase “he” can be read as the one who sheds blood."
+    },
+    {
+      "reference": "Genesis 10:21",
+      "card_id": "v-10-21",
+      "severity": "spoken",
+      "before": "Children were also born to Shem, the father of all the sons of Eber, the brother of Japheth the elder.",
+      "after": "Children were also born to Shem, the father of all the sons of Eber. He was the brother of Japheth the elder.",
+      "reason": "Splits the chain of descriptions so a listener hears that Shem (not Eber) is Japheth’s brother; “Japheth the elder” is kept, following Rashi."
+    },
+    {
+      "reference": "Genesis 11:28",
+      "card_id": "v-11-28",
+      "severity": "minor",
+      "before": "Haran died in the presence of his father Terah, in the land of his birth, in Ur of the Chaldeans.",
+      "after": "Haran died during the lifetime of his father Terah, in the land of his birth, in Ur of the Chaldeans.",
+      "reason": "עַל־פְּנֵי תֶּרַח is ambiguous; Rashi reads it as “in his father’s lifetime,” while “in the presence of” suggests Terah was watching."
+    },
+    {
+      "reference": "Genesis 14:4",
+      "card_id": "v-14-4",
+      "severity": "major",
+      "before": "For twelve years they served Chedorlaomer, but in the thirteenth year they rebelled.",
+      "after": "For twelve years they served Chedorlaomer, and for thirteen years they rebelled.",
+      "reason": "The Hebrew says “thirteen years they rebelled” (no “in the”), and Rashi reads 14:5 as the fourteenth year of their rebellion; “in the thirteenth year” changes the span of the revolt."
+    },
+    {
+      "reference": "Genesis 14:20",
+      "card_id": "v-14-20",
+      "severity": "spoken",
+      "before": "and blessed be God Most High, who delivered your enemies into your hand.” He gave him a tenth of everything.",
+      "after": "and blessed be God Most High, who delivered your enemies into your hand.” Abram gave him a tenth of everything.",
+      "reason": "“He gave him” is ambiguous after Melchizedek’s speech; Rashi identifies Abram as the giver (to Melchizedek, because he was a priest), so the name is supplied for the listener."
+    },
+    {
+      "reference": "Genesis 15:2",
+      "card_id": "v-15-2",
+      "severity": "minor",
+      "before": "Abram said, “Lord YHWH, what will You give me, since I go childless, and the heir of my household is Damascus Eliezer?”",
+      "after": "Abram said, “Lord YHWH, what will You give me, since I go childless, and the steward of my household is Eliezer of Damascus?”",
+      "reason": "Ben-meshek beiti is the one who runs the household (Onkelos and Rashi: the steward by whose word the house is provided for), not its heir, and Rashi with the Targum reads Eliezer as being from Damascus, which “Damascus Eliezer” obscures aloud."
+    },
+    {
+      "reference": "Genesis 15:4",
+      "card_id": "v-15-4",
+      "severity": "minor",
+      "before": "Behold, the word of YHWH came to him: “This man shall not inherit from you; the one who comes from your own body shall inherit from you.”",
+      "after": "Behold, the word of YHWH came to him: “This man shall not inherit from you; rather, the one who comes from your own body shall inherit from you.”",
+      "reason": "Restores the contrastive ki-im (“but rather”), which the semicolon alone does not carry when read aloud."
+    },
+    {
+      "reference": "Genesis 15:6",
+      "card_id": "v-15-6",
+      "severity": "minor",
+      "before": "He trusted in YHWH, and he reckoned it to him as righteousness.",
+      "after": "He trusted in YHWH, and He reckoned it to him as righteousness.",
+      "reason": "The subject of vayyachsheveha is ambiguous; following Rashi (the Holy One reckoned Abram’s faith to him as righteousness), the pronoun is capitalised as referring to God."
+    },
+    {
+      "reference": "Genesis 15:9",
+      "card_id": "v-15-9",
+      "severity": "minor",
+      "before": "He said to him, “Bring Me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young bird.”",
+      "after": "He said to him, “Bring Me three heifers, three female goats, three rams, a turtledove, and a young bird.”",
+      "reason": "Meshulleshet/meshullash (“tripled”) is ambiguous between “three years old” and “three of each”; following Onkelos and Rashi (shelosha agalim, three heifers, and likewise goats and rams), the edition’s Rabbinic-priority reading is threefold."
+    },
+    {
+      "reference": "Genesis 18:5",
+      "card_id": "v-18-5",
+      "severity": "minor",
+      "before": "I will bring a morsel of bread, and you may strengthen yourselves; afterward you may pass on, since you have come to your servant.” They said, “Do as you have said.”",
+      "after": "I will bring a morsel of bread, and you may sustain your hearts; afterward you may pass on, since that is why you have passed by your servant.” They said, “Do as you have said.”",
+      "reason": "Keeps the idiom sa‘adu libbekhem (“sustain your hearts”, which Rashi explains as bread sustaining the heart) and the threefold play on avar (pass), with ki al-ken read as “because” following Rashi."
+    },
+    {
+      "reference": "Genesis 18:10",
+      "card_id": "v-18-10",
+      "severity": "spoken",
+      "before": "He said, “I will surely return to you at the time of life, and behold, your wife Sarah shall have a son.” Sarah was listening at the tent entrance, which was behind him.",
+      "after": "He said, “I will surely return to you at this time next year, and behold, your wife Sarah shall have a son.” Sarah was listening at the tent entrance, which was behind him.",
+      "reason": "Ka‘et chayyah is opaque as “the time of life” to a listener; Rashi glosses it “at this time next year”."
+    },
+    {
+      "reference": "Genesis 18:14",
+      "card_id": "v-18-14",
+      "severity": "spoken",
+      "before": "Is anything too wonderful for YHWH? At the appointed time I will return to you, at the time of life, and Sarah shall have a son.”",
+      "after": "Is anything too wonderful for YHWH? At the appointed time I will return to you, at this time next year, and Sarah shall have a son.”",
+      "reason": "Same phrase ka‘et chayyah as 18:10, rendered by Rashi’s gloss “at this time next year” for clarity aloud and consistency with 18:10."
+    },
+    {
+      "reference": "Genesis 19:14",
+      "card_id": "v-19-14",
+      "severity": "minor",
+      "before": "Lot went out and spoke to his sons-in-law, who were taking his daughters, and said, “Get up and leave this place, for YHWH is destroying the city!” But he seemed to his sons-in-law to be joking.",
+      "after": "Lot went out and spoke to his sons-in-law, who were to marry his daughters, and said, “Get up and leave this place, for YHWH is destroying the city!” But he seemed to his sons-in-law to be joking.",
+      "reason": "The participle loqchei benotav is ambiguous; Rashi reads it of the men to whom his daughters at home were betrothed, and “were taking” is unclear aloud."
+    },
+    {
+      "reference": "Genesis 21:2",
+      "card_id": "v-21-2",
+      "severity": "minor",
+      "before": "Sarah conceived and bore Abraham a son in his old age, at the appointed time God had spoken to him.",
+      "after": "Sarah conceived and bore Abraham a son in his old age, at the appointed time of which God had spoken to him.",
+      "reason": "Lammo‘ed asher-dibber oto Elohim is the time God had spoken of; without “of which” the English says God spoke at that time."
+    },
+    {
+      "reference": "Genesis 21:9",
+      "card_id": "v-21-9",
+      "severity": "minor",
+      "before": "Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, laughing.",
+      "after": "Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.",
+      "reason": "Metsacheq is the Piel, not the simple “laugh” of 17:17/18:12; Rashi reads it as wrongful conduct, and the column already renders the Piel letsacheq as “mock” in 39:14, 17."
+    },
+    {
+      "reference": "Genesis 21:23",
+      "card_id": "v-21-23",
+      "severity": "minor",
+      "before": "Now swear to me here by God that you will not deal falsely with me, my offspring, or my descendants. According to the kindness I have shown you, act toward me and the land where you have sojourned.”",
+      "after": "Now swear to me here by God that you will not deal falsely with me, my son, or my grandson. According to the kindness I have shown you, act toward me and the land where you have sojourned.”",
+      "reason": "Nin and nekhed are son and grandson (Rashi: “my son and my son’s son”—thus far a father’s compassion extends); “offspring/descendants” blurs the two named generations."
+    },
+    {
+      "reference": "Genesis 22:2",
+      "card_id": "v-22-2",
+      "severity": "minor",
+      "before": "He said, “Take your son, your only one, whom you love, Isaac, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains I will tell you.”",
+      "after": "He said, “Please take your son, your only one, whom you love, Isaac, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains that I will tell you of.”",
+      "reason": "Restores the particle na in qach-na, which Rashi stresses is a request (“I ask you, stand this test for Me”), and completes “the mountains … I will tell you of” for the ear."
+    },
+    {
+      "reference": "Genesis 22:3",
+      "card_id": "v-22-3",
+      "severity": "minor",
+      "before": "Abraham rose early in the morning, saddled his donkey, and took two of his young men and his son Isaac with him. He split wood for the burnt offering, arose, and went toward the place God had told him.",
+      "after": "Abraham rose early in the morning, saddled his donkey, and took his two young men and his son Isaac with him. He split wood for the burnt offering, arose, and went toward the place God had told him.",
+      "reason": "Et-shenei ne‘arav is definite, “his two young men” (Rashi: Ishmael and Eliezer), not two out of a larger group."
+    },
+    {
+      "reference": "Genesis 22:8",
+      "card_id": "v-22-8",
+      "severity": "minor",
+      "before": "Abraham said, “God will provide for Himself the sheep for the burnt offering, my son.” The two went together.",
+      "after": "Abraham said, “God will see for Himself the sheep for the burnt offering, my son.” The two went together.",
+      "reason": "Elohim yir’eh-lo uses the verb “see” that the naming in 22:14 (“YHWH will see”) picks up; Rashi glosses it “will see and choose for Himself the lamb”, so keeping “see” preserves the repetition."
+    },
+    {
+      "reference": "Genesis 24:23",
+      "card_id": "v-24-23",
+      "severity": "spoken",
+      "before": "and he said, “Whose daughter are you? Tell me, please: is there room in your father’s house for us to lodge?”",
+      "after": "He said, “Whose daughter are you? Tell me, please: is there room in your father’s house for us to lodge?”",
+      "reason": "The verse opens with its own וַיֹּאמֶר after 24:22 has closed with a full stop, so it should begin a new sentence rather than a lowercase continuation."
+    },
+    {
+      "reference": "Genesis 24:62",
+      "card_id": "v-24-62",
+      "severity": "minor",
+      "before": "Isaac had come from the direction of Beer-lahai-roi; he was living in the land of the Negev.",
+      "after": "Isaac had come back from going to Beer-lahai-roi; he was living in the land of the Negev.",
+      "reason": "בָּא מִבּוֹא means he had come from going to Beer-lahai-roi (Rashi: he had gone there to bring Hagar to Abraham), not merely from its direction."
+    },
+    {
+      "reference": "Genesis 24:65",
+      "card_id": "v-24-65",
+      "severity": "minor",
+      "before": "For she had said to the servant, “Who is this man walking in the field to meet us?” And the servant had said, “It is my master.” So she took her veil and covered herself.",
+      "after": "She said to the servant, “Who is that man walking in the field to meet us?” The servant said, “It is my master.” So she took her veil and covered herself.",
+      "reason": "The Hebrew uses plain sequential verbs (וַתֹּאמֶר… וַיֹּאמֶר), so her question follows her seeing Isaac in 24:64; the pluperfect “had said” wrongly places it earlier."
+    },
+    {
+      "reference": "Genesis 25:6",
+      "card_id": "v-25-6",
+      "severity": "minor",
+      "before": "But to the sons of his concubines, Abraham gave gifts while he was still living, and he sent them away from his son Isaac eastward, to the land of the East.",
+      "after": "But to the sons of Abraham’s concubines Abraham gave gifts; and while he was still living, he sent them away from his son Isaac, eastward to the land of the East.",
+      "reason": "In the Hebrew “while he was still living” (בְּעוֹדֶנּוּ חַי) qualifies the sending away, not the giving of gifts; the repeated name Abraham is also kept."
+    },
+    {
+      "reference": "Genesis 25:7",
+      "card_id": "v-25-7",
+      "severity": "minor",
+      "before": "The years of Abraham’s life were one hundred and seventy-five.",
+      "after": "These are the days of the years of Abraham’s life, which he lived: one hundred years, seventy years, and five years.",
+      "reason": "Restores the heading formula, “which he lived,” and the Hebrew’s repeated “years,” matching the column’s treatment of Sarah’s age at 23:1."
+    },
+    {
+      "reference": "Genesis 25:17",
+      "card_id": "v-25-17",
+      "severity": "minor",
+      "before": "Ishmael lived one hundred and thirty-seven years. He breathed his last and died and was gathered to his people.",
+      "after": "These are the years of Ishmael’s life: one hundred years, thirty years, and seven years. He breathed his last and died, and was gathered to his people.",
+      "reason": "Restores the heading “These are the years of the life of Ishmael” and the repeated “years,” in parallel with 25:7 and 23:1."
+    },
+    {
+      "reference": "Genesis 26:13",
+      "card_id": "v-26-13",
+      "severity": "minor",
+      "before": "The man became prosperous and continued to prosper until he was very great.",
+      "after": "The man grew great, and he kept on growing greater until he became very great.",
+      "reason": "The root גדל occurs three times (וַיִּגְדַּל… וְגָדֵל… גָדַל); “prosperous… prosper… great” lost the deliberate repetition."
+    },
+    {
+      "reference": "Genesis 26:28",
+      "card_id": "v-26-28",
+      "severity": "minor",
+      "before": "And they said, “We have clearly seen that YHWH is with you, and we said, ‘Let there be an oath between us and you, and let us make a covenant with you,’”",
+      "after": "And they said, “We have clearly seen that YHWH is with you, and we said, ‘Let there be an oath between us—between us and you—and let us make a covenant with you,’”",
+      "reason": "The Hebrew doubles the phrase (בֵּינוֹתֵינוּ בֵּינֵינוּ וּבֵינֶךָ); Rashi reads the first as the oath already between us since your father’s days, now to be renewed between us and you."
+    },
+    {
+      "reference": "Genesis 27:1",
+      "card_id": "v-27-1",
+      "severity": "minor",
+      "before": "Now it came to pass after Isaac was old, that his eyes were dimmed so that he could not see; and he called Esau his older son and said to him, “My son.” And he answered, “Behold, here I am.”",
+      "after": "Now it came to pass, when Isaac was old and his eyes were too dim to see, that he called Esau his older son and said to him, “My son.” And he said to him, “Here I am.”",
+      "reason": "The main event is that Isaac called Esau; age and dim eyes are its circumstances, and הִנֵּנִי is “Here I am,” as at 27:18 and 31:11, with “to him” restored."
+    },
+    {
+      "reference": "Genesis 27:9",
+      "card_id": "v-27-9",
+      "severity": "spoken",
+      "before": "“Go to the flock and bring me two young goats, good, and I will make them into a savory meal for your father, just as he likes it.”",
+      "after": "“Go to the flock and bring me from there two good young goats, and I will make them into a savory meal for your father, just as he likes it.”",
+      "reason": "“Two young goats, good” trips the ear; the adjective טֹבִים belongs with the goats, and מִשָּׁם “from there” is restored."
+    },
+    {
+      "reference": "Genesis 27:34",
+      "card_id": "v-27-34",
+      "severity": "minor",
+      "before": "When Esau heard the words of his father, he cried out with a great and exceedingly bitter cry, and said, “Bless me, even me also, O father!”",
+      "after": "When Esau heard the words of his father, he cried out with a great and exceedingly bitter cry, and said to his father, “Bless me too, my father!”",
+      "reason": "Restores “to his father” (לְאָבִיו) and renders בָּרֲכֵנִי גַם־אָנִי אָבִי exactly as its repetition in 27:38 is rendered (“Bless me too, my father”)."
+    },
+    {
+      "reference": "Genesis 27:37",
+      "card_id": "v-27-37",
+      "severity": "spoken",
+      "before": "And Isaac answered and said to Esau, “Look, I have made him your lord, and have made all his brethren his servants, and have sustained him with grain and wine, what then shall I do for you, my son?”",
+      "after": "And Isaac answered and said to Esau, “Look, I have made him your lord, and have made all his brethren his servants, and have sustained him with grain and wine. What then shall I do for you, my son?”",
+      "reason": "Ends the list of what was given to Jacob before the question (וּלְכָה אֵפוֹא), removing a comma splice that blurred the turn to Esau."
+    },
+    {
+      "reference": "Genesis 27:39",
+      "card_id": "v-27-39",
+      "severity": "major",
+      "before": "Isaac his father answered him, “Your dwelling shall be away from the richness of the earth and away from the dew of heaven above.”",
+      "after": "Isaac his father answered him, “Behold, of the richness of the earth shall your dwelling be, and of the dew of heaven above.”",
+      "reason": "The מִן of מִשְׁמַנֵּי… וּמִטַּל can mean “of” or “away from”; following Rashi, who reads this as a grant of fertile land to Esau, and the identical wording of 27:28, the edition should not reverse it into a deprivation; “Behold” (הִנֵּה) is also restored."
+    },
+    {
+      "reference": "Genesis 28:6",
+      "card_id": "v-28-6",
+      "severity": "spoken",
+      "before": "Now Esau saw that Isaac had blessed Jacob and sent him away into Paddan-aram to take a wife for himself from there, and that as he blessed him, he gave him a charge, saying, “You shall not take a wife from the daughters of the Canaanites,”",
+      "after": "Now Esau saw that Isaac had blessed Jacob and sent him away into Paddan-aram to take a wife for himself from there, and that as he blessed him, he gave him a charge, saying, “You shall not take a wife from the daughters of the Canaanites.”",
+      "reason": "The reading ended on a dangling comma, but 28:7 begins a new sentence (“And Jacob obeyed…”), so the quotation should close with a full stop."
+    },
+    {
+      "reference": "Genesis 28:9",
+      "card_id": "v-28-9",
+      "severity": "spoken",
+      "before": "and Esau went to Ishmael and took Mahalath, the daughter of Ishmael, Abraham’s son, the sister of Nebaioth, to be his wife, in addition to the wives he already had.",
+      "after": "So Esau went to Ishmael and took Mahalath, the daughter of Ishmael, Abraham’s son, the sister of Nebaioth, to be his wife, in addition to the wives he already had.",
+      "reason": "28:8 ends with a full stop, so this verse (וַיֵּלֶךְ) should begin as a new sentence rather than lowercase “and.”"
+    },
+    {
+      "reference": "Genesis 28:11",
+      "card_id": "v-28-11",
+      "severity": "minor",
+      "before": "And he came to a certain place and stayed the night there, for the sun had set; and he took one of the stones of the place and put it under his head, and lay down to sleep in that place.",
+      "after": "And he came to a certain place and stayed the night there, for the sun had set; and he took some of the stones of the place and set them at his head, and lay down to sleep in that place.",
+      "reason": "מֵאַבְנֵי הַמָּקוֹם is a plural partitive, “some of the stones”; Rashi reads several stones set around his head (which became the single stone of 28:18), so “one of the stones” adds a number the text does not state."
+    },
+    {
+      "reference": "Genesis 28:13",
+      "card_id": "v-28-13",
+      "severity": "minor",
+      "before": "YHWH stood above it and said, “I am YHWH, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and your seed.”",
+      "after": "And behold, YHWH stood over him and said, “I am YHWH, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and your seed.”",
+      "reason": "Restores the third וְהִנֵּה of the dream sequence and reads עָלָיו as “over him,” following Rashi (“to guard him”)."
+    },
+    {
+      "reference": "Genesis 28:17",
+      "card_id": "v-28-17",
+      "severity": "spoken",
+      "before": "And he was afraid and said, “How fearful is this place! This is none other than the house of God, and this is the gate of heaven.”",
+      "after": "And he was afraid and said, “How fearsome is this place! This is none other than the house of God, and this is the gate of heaven.”",
+      "reason": "נוֹרָא means awe-inspiring; to a modern ear “fearful” suggests the place itself is afraid, while “fearsome” keeps the echo of וַיִּירָא “he was afraid.”"
+    },
+    {
+      "reference": "Genesis 28:21",
+      "card_id": "v-28-21",
+      "severity": "minor",
+      "before": "“and I return in peace to my father’s house, then YHWH shall be my God.”",
+      "after": "“and I return in peace to my father’s house, and YHWH will be my God,”",
+      "reason": "Following Rashi, “and YHWH will be my God” is still part of Jacob’s conditions (that God’s name rest on him and his seed), with the vow’s consequence beginning in 28:22."
+    },
+    {
+      "reference": "Genesis 28:22",
+      "card_id": "v-28-22",
+      "severity": "minor",
+      "before": "“And this stone, which I have set up as a pillar, shall be the house of God; and of all that You give me, I will surely tithe a tenth to You.”",
+      "after": "“then this stone, which I have set up as a pillar, shall be the house of God; and of all that You give me, I will surely tithe a tenth to You.”",
+      "reason": "Rashi states that the vav opening this verse introduces the apodosis (“if You do these for me, I too will do this”), so “then” belongs here rather than in 28:21."
+    },
+    {
+      "reference": "Genesis 29:1",
+      "card_id": "v-29-1",
+      "severity": "minor",
+      "before": "Jacob went on his way to the land of the people of the east.",
+      "after": "Then Jacob lifted up his feet and went to the land of the people of the east.",
+      "reason": "Keeps the idiom וַיִּשָּׂא יַעֲקֹב רַגְלָיו, which an English listener can follow and on which Rashi comments (his heart lifted his feet after the good tidings)."
+    },
+    {
+      "reference": "Genesis 29:34",
+      "card_id": "v-29-34",
+      "severity": "minor",
+      "before": "She conceived again and bore a son, saying, “Now my husband will be joined to me, because I have borne him three sons.” Therefore he was named Levi.",
+      "after": "She conceived again and bore a son, and she said, “Now this time my husband will be joined to me, because I have borne him three sons.” Therefore he was named Levi.",
+      "reason": "Restores הַפַּעַם “this time,” which links Leah’s naming speeches at 29:35 and 30:20, and the separate verb “she said.”"
+    },
+    {
+      "reference": "Genesis 30:11",
+      "card_id": "v-30-11",
+      "severity": "minor",
+      "before": "Leah said, “Good fortune!” She named him Gad.",
+      "after": "Leah said, “Good fortune has come!” She named him Gad.",
+      "reason": "Follows the qere בָּא גָד, “fortune has come” (Rashi: good fortune has come); the verb had been dropped."
+    },
+    {
+      "reference": "Genesis 30:20",
+      "card_id": "v-30-20",
+      "severity": "minor",
+      "before": "Leah said, “God has endowed me with a good gift. Now my husband will honor me, because I have borne him six sons.” She named him Zebulun.",
+      "after": "Leah said, “God has endowed me with a good gift. This time my husband will dwell with me, because I have borne him six sons.” She named him Zebulun.",
+      "reason": "Rashi derives יִזְבְּלֵנִי from זְבוּל “dwelling” (his main home will now be with me), and הַפַּעַם “this time” is restored."
+    },
+    {
+      "reference": "Genesis 30:35",
+      "card_id": "v-30-35",
+      "severity": "minor",
+      "before": "So that day Laban separated the striped and spotted male goats, and all the speckled and spotted female goats—everything that had white on it—and all the black lambs, and handed them into the hands of his sons.",
+      "after": "So that day Laban separated the striped and spotted male goats, and all the speckled and spotted female goats—everything that had white on it—and every dark one among the sheep, and put them in the charge of his sons.",
+      "reason": "חוּם בַּכְּשָׂבִים is rendered “dark… among the sheep” in 30:32–33 and 30:40; “black lambs” broke the match, and “handed them into the hands” doubled the image."
+    },
+    {
+      "reference": "Genesis 31:2",
+      "card_id": "v-31-2",
+      "severity": "minor",
+      "before": "Jacob saw that Laban’s attitude toward him was no longer as it had been before.",
+      "after": "Jacob saw Laban’s face, and behold, it was not toward him as it had been before.",
+      "reason": "Keeps the image of Laban’s face (פְּנֵי לָבָן) and the וְהִנֵּה, both easy to follow aloud and echoed in Jacob’s words at 31:5."
+    },
+    {
+      "reference": "Genesis 31:5",
+      "card_id": "v-31-5",
+      "severity": "minor",
+      "before": "He said to them, “I see that your father’s attitude toward me is no longer as it was before, but the God of my father has been with me.”",
+      "after": "He said to them, “I see your father’s face, that it is not toward me as it was before; but the God of my father has been with me.”",
+      "reason": "Keeps the Hebrew image “I see your father’s face” (רֹאֶה אָנֹכִי אֶת־פְּנֵי אֲבִיכֶן), matching 31:2."
+    },
+    {
+      "reference": "Genesis 31:38",
+      "card_id": "v-31-38",
+      "severity": "spoken",
+      "before": "“These twenty years I have been with you, your ewes and female goats have not miscarried, and I have not eaten the rams of your flocks.”",
+      "after": "“These twenty years I have been with you. Your ewes and female goats have not miscarried, and I have not eaten the rams of your flocks.”",
+      "reason": "Separates the time statement from the first claim, removing a comma splice so each of Jacob’s points is heard distinctly."
+    },
+    {
+      "reference": "Genesis 32:4",
+      "card_id": "v-32-4",
+      "severity": "minor",
+      "before": "He instructed them, “Say to my lord Esau, ‘Your servant Jacob says: I have lived with Laban and remained there until now.’”",
+      "after": "He instructed them, “Say to my lord Esau, ‘Your servant Jacob says: I have sojourned with Laban and remained there until now.’”",
+      "reason": "גַּרְתִּי is “I sojourned” as a resident alien; Rashi stresses Jacob lived with Laban as a stranger, not a man of standing, and the column renders this root “sojourn” in 36:7 and 37:1."
+    },
+    {
+      "reference": "Genesis 32:10",
+      "card_id": "v-32-10",
+      "severity": "minor",
+      "before": "“I am unworthy of all the kindness and faithfulness You have shown Your servant. With my staff I crossed this Jordan, and now I have become two camps.”",
+      "after": "“I am unworthy of all the kindness and faithfulness You have shown Your servant. For with my staff I crossed this Jordan, and now I have become two camps.”",
+      "reason": "Restores כִּי, which presents the crossing with only a staff and the return as two camps as the evidence of God’s kindness (so Rashi)."
+    },
+    {
+      "reference": "Genesis 32:16",
+      "card_id": "v-32-16",
+      "severity": "spoken",
+      "before": "And he delivered them into the hand of his servants, herd by herd apart; and he said to his servants, “Pass on before me, and make a space between herd and herd.”",
+      "after": "And he delivered them into the hand of his servants, each herd by itself, and he said to his servants, “Pass on before me, and make a space between herd and herd.”",
+      "reason": "עֵדֶר עֵדֶר לְבַדּוֹ means each drove was handed over separately; “herd by herd apart” trips the ear."
+    },
+    {
+      "reference": "Genesis 32:32",
+      "card_id": "v-32-32",
+      "severity": "minor",
+      "before": "That is why, to this day, the Israelites do not eat the sciatic sinew at the hip socket: he struck the socket of Jacob’s hip at that sinew.",
+      "after": "That is why, to this day, the Israelites do not eat the sciatic sinew at the hip socket, because he touched the socket of Jacob’s hip at the sciatic sinew.",
+      "reason": "The verb is נָגַע “touched,” rendered “touched” in 32:25, not “struck”; this also restores the causal כִּי and the repeated “sciatic sinew” (גִּיד הַנָּשֶׁה)."
+    },
+    {
+      "reference": "Genesis 33:1",
+      "card_id": "v-33-1",
+      "severity": "spoken",
+      "before": "Now Jacob looked up with his eyes and saw, and behold, Esau was coming, and with him were four hundred men. So he divided the children among Leah, Rachel, and the two slave women.",
+      "after": "Now Jacob lifted up his eyes and saw, and behold, Esau was coming, and with him were four hundred men. So he divided the children among Leah, Rachel, and the two slave women.",
+      "reason": "וַיִּשָּׂא עֵינָיו וַיַּרְא is the edition’s kept idiom “lifted up his eyes and saw”; “looked up with his eyes” is awkward aloud."
+    },
+    {
+      "reference": "Genesis 33:8",
+      "card_id": "v-33-8",
+      "severity": "minor",
+      "before": "Esau asked, “What did you mean by all this company I met?” Jacob said, “To find favor in my lord’s sight.”",
+      "after": "Esau asked, “What did you mean by all this camp I met?” Jacob said, “To find favor in my lord’s sight.”",
+      "reason": "Esau asks about כָּל־הַמַּחֲנֶה “all this camp” (Rashi: the droves of the gift he met), keeping the camp word that runs through 32:2, 32:7–8, 32:10 and 32:21."
+    },
+    {
+      "reference": "Genesis 33:15",
+      "card_id": "v-33-15",
+      "severity": "minor",
+      "before": "And Esau said, “Let me leave with you some of the people who are with me.” But he said, “Why is this necessary? Let me find grace in the sight of my lord.”",
+      "after": "And Esau said, “Let me leave with you some of the people who are with me.” But he said, “Why is this necessary? Let me find favor in the sight of my lord.”",
+      "reason": "Same phrase מָצָא חֵן בְּעֵינֵי as 32:5, 33:8 and 33:10, all rendered “find favor”; keeping it uniform preserves Jacob’s repeated plea."
+    },
+    {
+      "reference": "Genesis 34:1",
+      "card_id": "v-34-1",
+      "severity": "minor",
+      "before": "Dinah, the daughter Leah had borne to Jacob, went out to see the women of the land.",
+      "after": "Dinah, the daughter Leah had borne to Jacob, went out to see the daughters of the land.",
+      "reason": "Hebrew בִּבְנוֹת הָאָרֶץ “the daughters of the land” pairs with Dinah’s own description as “daughter” in the same verse and with the daughters bargained over in 34:9, 34:16 and 34:21."
+    },
+    {
+      "reference": "Genesis 34:27",
+      "card_id": "v-34-27",
+      "severity": "major",
+      "before": "Jacob’s sons came upon the slain and plundered the city where their sister had been defiled.",
+      "after": "Jacob’s sons came upon the slain and plundered the city, because they had defiled their sister.",
+      "reason": "אֲשֶׁר טִמְּאוּ אֲחוֹתָם is causal with a plural subject, “because they had defiled their sister” (so Rashi), giving the sons’ justification; “where” turns the reason into a location."
+    },
+    {
+      "reference": "Genesis 36:24",
+      "card_id": "v-36-24",
+      "severity": "minor",
+      "before": "Zibeon’s sons were Aiah and Anah. This is the Anah who found the hot springs in the wilderness while tending his father Zibeon’s donkeys.",
+      "after": "Zibeon’s sons were Aiah and Anah. This is the Anah who found the mules in the wilderness while tending his father Zibeon’s donkeys.",
+      "reason": "The rare word הַיֵּמִם is genuinely ambiguous; Rashi (with Pesachim 54a) reads “mules,” which this edition prefers, while “hot springs” follows the Vulgate’s aquas calidas."
+    },
+    {
+      "reference": "Genesis 37:7",
+      "card_id": "v-37-7",
+      "severity": "minor",
+      "before": "“Behold, we were binding sheaves in the field. My sheaf rose and stood upright, and your sheaves gathered around and bowed down to my sheaf.”",
+      "after": "“Behold, we were binding sheaves in the field. And behold, my sheaf rose and stood upright. And behold, your sheaves gathered around and bowed down to my sheaf.”",
+      "reason": "Restores the three-fold וְהִנֵּה that frames each stage of Joseph’s dream report."
+    },
+    {
+      "reference": "Genesis 37:33",
+      "card_id": "v-37-33",
+      "severity": "minor",
+      "before": "He recognized it and said, “It is my son’s tunic! A wild animal has devoured him. Joseph has surely been torn to pieces.”",
+      "after": "He recognized it and said, “It is my son’s tunic! A fierce beast has devoured him. Joseph has surely been torn to pieces.”",
+      "reason": "Jacob unknowingly repeats the brothers’ planned words חַיָּה רָעָה אֲכָלָתְהוּ from 37:20, rendered there “A fierce beast has devoured him”; the echo should be audible."
+    },
+    {
+      "reference": "Genesis 39:7",
+      "card_id": "v-39-7",
+      "severity": "minor",
+      "before": "And it came to pass after these things that his master’s wife cast her eyes upon Joseph and said, “Sleep with me.”",
+      "after": "And it came to pass after these things that his master’s wife cast her eyes upon Joseph and said, “Lie with me.”",
+      "reason": "Same command שִׁכְבָה עִמִּי as 39:12, where it is “Lie with me!”, and the same verb as “lie with me” in 39:14; keeps the repetition."
+    },
+    {
+      "reference": "Genesis 39:17",
+      "card_id": "v-39-17",
+      "severity": "minor",
+      "before": "She told him the same story: “The Hebrew slave you brought us came in to mock me.”",
+      "after": "She told him the same story: “The Hebrew slave you brought us came in to me to mock me.”",
+      "reason": "Restores בָּא־אֵלַי “came in to me,” the accusation she repeats from 39:14; without it the charge is weakened."
+    },
+    {
+      "reference": "Genesis 40:16",
+      "card_id": "v-40-16",
+      "severity": "minor",
+      "before": "The chief baker saw that the interpretation was favorable and said to Joseph, “I too had a dream: there were three baskets of white bread on my head.”",
+      "after": "The chief baker saw that the interpretation was favorable and said to Joseph, “I too had a dream: there were three openwork baskets on my head.”",
+      "reason": "סַלֵּי חֹרִי is ambiguous; Rashi reads it as baskets of peeled wicker full of holes (חֹר “hole”), which this edition follows; the baked food itself comes in 40:17."
+    },
+    {
+      "reference": "Genesis 41:9",
+      "card_id": "v-41-9",
+      "severity": "minor",
+      "before": "The chief cupbearer said to Pharaoh, “Today I remember my offenses.”",
+      "after": "The chief cupbearer said to Pharaoh, “I must mention my offenses today.”",
+      "reason": "מַזְכִּיר is causative (“I bring to mention”), so the cupbearer is confessing aloud rather than merely recalling."
+    },
+    {
+      "reference": "Genesis 41:13",
+      "card_id": "v-41-13",
+      "severity": "minor",
+      "before": "“As he interpreted for us, so it happened: he restored me to my position and hanged the other man.”",
+      "after": "“As he interpreted for us, so it happened: Pharaoh restored me to my position, and the other man he hanged.”",
+      "reason": "The Hebrew leaves the subject of “restored … hanged” unstated; Rashi identifies it as Pharaoh (named in v. 10), whereas the current “he” reads as the Hebrew youth."
+    },
+    {
+      "reference": "Genesis 41:31",
+      "card_id": "v-41-31",
+      "severity": "spoken",
+      "before": "“And the abundance will not be known in the land by reason of that famine following it, for it will be exceedingly severe.”",
+      "after": "“And the abundance will not be known in the land because of that famine which follows, for it will be very severe.”",
+      "reason": "Same content (מִפְּנֵי הָרָעָב הַהוּא אַחֲרֵי־כֵן) with the awkward “by reason of … following it” smoothed for reading aloud."
+    },
+    {
+      "reference": "Genesis 41:33",
+      "card_id": "v-41-33",
+      "severity": "minor",
+      "before": "“Now therefore, let Pharaoh look for a discerning and prudent man, and set him over the land of Egypt.”",
+      "after": "“Now therefore, let Pharaoh look for a discerning and wise man, and set him over the land of Egypt.”",
+      "reason": "נָבוֹן וְחָכָם is the same pair Pharaoh echoes in 41:39 (“discerning and wise”); keeping one rendering preserves the deliberate repetition."
+    },
+    {
+      "reference": "Genesis 43:8",
+      "card_id": "v-43-8",
+      "severity": "minor",
+      "before": "Judah said to Israel his father, “Send the young man with me. We will set out, so we may live and not die, we, you, and our little ones.”",
+      "after": "Judah said to Israel his father, “Send the young man with me, and we will arise and go, so that we may live and not die, both we and you and our little ones.”",
+      "reason": "Restores both verbs וְנָקוּמָה וְנֵלֵכָה (“arise and go”) and the threefold גַּם … גַּם … גַּם (“both we and you and our little ones”)."
+    },
+    {
+      "reference": "Genesis 43:9",
+      "card_id": "v-43-9",
+      "severity": "minor",
+      "before": "“I myself will be his guarantor; from my hand you shall require him. If I do not bring him back to you and set him before you, then let me bear the blame forever.”",
+      "after": "“I myself will be his guarantor; from my hand you shall require him. If I do not bring him back to you and set him before you, then I will bear the blame before you all my days.”",
+      "reason": "וְחָטָאתִי לְךָ כָּל־הַיָּמִים has “to you” and “all the days”; this matches Judah’s own quotation of the pledge in 44:32 (“all my days”)."
+    },
+    {
+      "reference": "Genesis 43:29",
+      "card_id": "v-43-29",
+      "severity": "minor",
+      "before": "He looked up and saw Benjamin his brother, his mother’s son, and said, “Is this your youngest brother, of whom you spoke to me?” He said, “May God be gracious to you, my son.”",
+      "after": "He lifted up his eyes and saw Benjamin his brother, his mother’s son, and said, “Is this your youngest brother, of whom you spoke to me?” He said, “May God be gracious to you, my son.”",
+      "reason": "וַיִּשָּׂא עֵינָיו וַיַּרְא is the idiom the edition keeps (“lifted up his eyes and saw”) per its Literal-Smooth style."
+    },
+    {
+      "reference": "Genesis 44:29",
+      "card_id": "v-44-29",
+      "severity": "minor",
+      "before": "“‘If you take this one from me too, and harm befalls him, you will bring my gray hairs down in sorrow to Sheol.’”",
+      "after": "“‘If you take this one from me too, and harm befalls him, you will bring my gray hairs down in misery to Sheol.’”",
+      "reason": "Here the Hebrew is בְּרָעָה (“in evil/misery”), not בְּיָגוֹן (“in sorrow”) as in 42:38 and 44:31; the column had flattened the distinction."
+    },
+    {
+      "reference": "Genesis 47:9",
+      "card_id": "v-47-9",
+      "severity": "minor",
+      "before": "Jacob said to Pharaoh, “The years of my sojourning are one hundred thirty. Few and difficult have been the years of my life, and they have not reached the years of my fathers’ lives in their sojourning.”",
+      "after": "Jacob said to Pharaoh, “The days of the years of my sojourning are one hundred thirty years. Few and difficult have been the days of the years of my life, and they have not reached the days of the years of my fathers’ lives in the days of their sojourning.”",
+      "reason": "Jacob answers Pharaoh’s “days of the years” (47:8) by repeating יְמֵי שְׁנֵי three times and בִּימֵי once; the current reading dropped every “days of”."
+    },
+    {
+      "reference": "Genesis 47:25",
+      "card_id": "v-47-25",
+      "severity": "minor",
+      "before": "They said, “You have saved our lives. May we find favor before my lord, and we will be Pharaoh’s slaves.”",
+      "after": "They said, “You have saved our lives. May we find favor in the sight of my lord, and we will be Pharaoh’s slaves.”",
+      "reason": "נִמְצָא־חֵן בְּעֵינֵי אֲדֹנִי keeps the “in the eyes of” idiom, rendered “in the sight of/your sight” elsewhere in this column (47:29, 50:4)."
+    },
+    {
+      "reference": "Genesis 48:6",
+      "card_id": "v-48-6",
+      "severity": "spoken",
+      "before": "“But any children you beget after them shall be yours; they shall be called under the names of their brothers within their inheritances.”",
+      "after": "“But any children you beget after them shall be yours; they shall be called after the name of their brothers in their inheritance.”",
+      "reason": "עַל שֵׁם אֲחֵיהֶם … בְּנַחֲלָתָם is “after the name of their brothers in their inheritance” (Rashi: counted within Ephraim’s and Manasseh’s tribes); “under the names … within their inheritances” is stilted aloud."
+    },
+    {
+      "reference": "Genesis 48:7",
+      "card_id": "v-48-7",
+      "severity": "minor",
+      "before": "“When I came from Paddan, Rachel died beside me in Canaan on the journey, while there was still some distance to Ephrath. I buried her there on the way to Ephrath, which is Bethlehem.”",
+      "after": "“When I came from Paddan, Rachel died, to my sorrow, in Canaan on the journey, while there was still some distance to Ephrath. I buried her there on the way to Ephrath, which is Bethlehem.”",
+      "reason": "מֵתָה עָלַי רָחֵל is “died upon me,” i.e., to my grief; “beside me” asserts a location the Hebrew does not state."
+    },
+    {
+      "reference": "Genesis 48:14",
+      "card_id": "v-48-14",
+      "severity": "minor",
+      "before": "Israel stretched out his right hand and placed it on Ephraim’s head, though he was the younger, and his left hand on Manasseh’s head, crossing his hands, for Manasseh was the firstborn.",
+      "after": "Israel stretched out his right hand and placed it on Ephraim’s head, though he was the younger, and his left hand on Manasseh’s head; he guided his hands knowingly, for Manasseh was the firstborn.",
+      "reason": "שִׂכֵּל אֶת־יָדָיו is ambiguous (“crossed” or “acted wisely with”); Rashi, following Onkelos, reads it as guiding his hands deliberately, which also explains the following “for Manasseh was the firstborn”."
+    },
+    {
+      "reference": "Genesis 48:16",
+      "card_id": "v-48-16",
+      "severity": "minor",
+      "before": "“the Angel who has redeemed me from all evil, bless the young men. Let my name and the name of my fathers Abraham and Isaac be carried on in them, and let them grow into a multitude in the midst of the earth.”",
+      "after": "“the Angel who has redeemed me from all evil, bless the young men. Let my name and the name of my fathers Abraham and Isaac be carried on in them, and let them multiply like fish into a multitude in the midst of the earth.”",
+      "reason": "וְיִדְגּוּ is built on דָּג (“fish”); Rashi reads “let them multiply like fish,” an image an English listener can follow."
+    },
+    {
+      "reference": "Genesis 48:22",
+      "card_id": "v-48-22",
+      "severity": "minor",
+      "before": "“I give you one portion beyond your brothers, which I took from the Amorite with my sword and my bow.”",
+      "after": "“And I have given you Shechem, one portion above your brothers, which I took from the hand of the Amorite with my sword and my bow.”",
+      "reason": "שְׁכֶם אַחַד can be “one shoulder/portion” or the city; Rashi reads it as Shechem itself given as one extra portion, and the verb נָתַתִּי and מִיַּד (“from the hand of”) are kept."
+    },
+    {
+      "reference": "Genesis 49:4",
+      "card_id": "v-49-4",
+      "severity": "minor",
+      "before": "“Unstable as water, you will not excel, for you went up to your father’s bed; then you defiled it—he went up to my couch.”",
+      "after": "“Impetuous as water, you will not excel, for you went up to your father’s bed; then you defiled it—he went up to my couch.”",
+      "reason": "פַּחַז is uncertain; Rashi explains it as the haste with which Reuben rushed to show his anger, like rushing water, so “impetuous” fits better than “unstable”."
+    },
+    {
+      "reference": "Genesis 49:6",
+      "card_id": "v-49-6",
+      "severity": "minor",
+      "before": "“Let my soul not enter their council; let my honor not join their assembly. In their anger they killed men, and in their willfulness they hamstrung an ox.”",
+      "after": "“Let my soul not enter their council; let my honor not join their assembly. In their anger they killed a man, and in their willfulness they hamstrung an ox.”",
+      "reason": "The Hebrew has the singular אִישׁ (“a man”), parallel to the singular שׁוֹר; Rashi comments on the singular, so it should not be pluralised."
+    },
+    {
+      "reference": "Genesis 49:12",
+      "card_id": "v-49-12",
+      "severity": "minor",
+      "before": "“His eyes are dark with wine, and his teeth white with milk.”",
+      "after": "“His eyes are red with wine, and his teeth white with milk.”",
+      "reason": "חַכְלִילִי is a word of redness per Rashi (eyes reddened from abundant wine), not darkness."
+    },
+    {
+      "reference": "Genesis 50:22",
+      "card_id": "v-50-22",
+      "severity": "spoken",
+      "before": "Joseph lived in Egypt with his father’s household. Joseph lived one hundred ten years.",
+      "after": "Joseph remained in Egypt, he and his father’s household; and Joseph lived one hundred ten years.",
+      "reason": "Distinguishes וַיֵּשֶׁב (“remained/dwelt”) from וַיְחִי (“lived”), which the current reading rendered “lived … lived,” and keeps הוּא וּבֵית אָבִיו."
+    }
+  ]
+}

@@ -62,3 +62,5 @@ Verse numbers follow the Saints (Greek) column; where the Masoretic Text numbers
 [9 November 2026 Masoretic coverage and English revisions](corrections/2026-11-09-masoretic-coverage/README.md) adds 185 missing archive readings and refines 10 readings in Genesis, Daniel, and Ezekiel.
 
 [10 November 2026 Genesis reading pass](corrections/2026-11-10-genesis-reading-pass/README.md) reviews Genesis 1–5 against the Masoretic Text for accuracy and spoken flow.
+
+[13 November 2026 Genesis reading pass](corrections/2026-11-13-genesis-reading-pass/README.md) continues it through Genesis 6–50: 87 readings revised (3 major), with points left for a specialist.
