@@ -130,3 +130,114 @@ Data:
 - Num 26:1 (masoretic_reference 25:19–26:1): the SRC has וַיְהִי אַחֲרֵי הַמַּגֵּפָה twice. Merging 25:19 into 26:1 seems to have duplicated it. The English is correct.
 - Chapters 23–29 introduce speech with a colon and no quotation marks, use straight apostrophes (Balaam's) and say “sons of Israel”. Chapters 30–36 use curly quotation marks and apostrophes and say “Israelites”. Each changed row keeps its own chapter’s style. The straight apostrophes in 23–29 go against house style and could be converted in one sweep.
 - Small inconsistencies were left alone: “three tenths” (ch. 28) vs “three-tenths” (ch. 29), and “fire offering” (ch. 28) vs “offering by fire” (ch. 29).
+
+## Deuteronomy 1–17
+
+# hebrew-008 notes (Deuteronomy 1–17)
+
+## Not changed — needs a specialist or an editorial decision
+- **Deut 5:22 (MT 5:19)** “and He added no more” for וְלֹא יָסָף: Rashi’s first reading follows Onkelos (וְלָא פְסַק, “and did not cease”, the voice went on). His second reading supports “added no more”. Editors should choose one.
+- **Deut 17:8** “injury from injury” for בֵּין נֶגַע לָנֶגַע: Rashi reads נֶגַע as lesions of tzara’at (clean or unclean), the column’s “lesion” in Leviticus 13. Deut 21:5 (hebrew-009) has “every injury” for the same word, so any change should cover both verses.
+- **Deut 3:11** “by the human cubit” for בְּאַמַּת־אִישׁ: Rashi reads it as Og’s own cubit, and the current wording rules that out. The literal “by the cubit of a man” would leave it open. Needs an editorial call.
+- **Deut 15:17** “your slave permanently” for עֶבֶד עוֹלָם: Exodus 21:6 has “forever” and Lev 25:46 has “permanently”. Rashi limits עוֹלָם here to the Jubilee. The column could use one rendering.
+- **Deut 2:27** בַּדֶּרֶךְ בַּדֶּרֶךְ is rendered “keep strictly to the road”, so the doubled word is not kept. This belongs with the Num 3:9 / 8:16 question (hebrew-005 notes) on whether doubled words should stay doubled.
+- **Deut 6:11** “houses you did not fill, full of every good thing” reverses the Hebrew order (“houses full of every good thing that you did not fill”). It reads acceptably, but editors could smooth it.
+
+## Data and conventions
+- Deut 1–17 uses straight apostrophes (53, no curly ones). hebrew-009 (Deut 18 on) uses curly ’. The new wording in this chunk adds no apostrophes, and the existing straight ones in the changed verses were left as they were.
+- The chunk mixes terms for the same Hebrew. גֵּר is “resident foreigner” at 1:16 and 5:14 but “resident alien” 7 times. בֵּית עֲבָדִים is “house of slaves” 4 times but “house of slavery” at 13:6 and 13:11. אֲשֵׁרִים is “Asherim” at 7:5 and “Asherah poles” at 12:3.
+- SRC problems: 5:12 and 9:20 have no sof pasuq. At 5:10 the sof pasuq is inside the qere bracket (מִצְוֺתָי׃]). 3:22 has a doubled vowel on תְִּירָאוּם. None of these affects the English.
+
+## Deuteronomy 18–34; Joshua 1–1
+
+# hebrew-009 notes (Deuteronomy 18–34; Joshua 1)
+
+## Not changed: needs a specialist or an editorial decision
+- **Deut 21:23** “a hanged person is under God’s curse”: Rashi reads קִלְלַת אֱלֹהִים תָּלוּי as “a hanged body is an affront to God” (man is made in His image). The current wording follows the reading that Gal 3:13 uses. A literal “a curse of God” would leave room for both readings. This needs an editorial call.
+- **Deut 26:5** “My father was an Aramean close to perishing” follows Ibn Ezra and Rashbam. Rashi, Onkelos and the Haggadah read “An Aramean (Laban) sought to destroy my father.” The column gives Rashi priority, but Ibn Ezra supports the current grammar, so editors should decide.
+- **Deut 32:5** “they are not His children because of their blemish”: Rashi and Onkelos read “the corruption is not His; the blemish is His children’s” (so JPS 1917). This is a known crux, so editors should decide.
+- **Deut 21:4** “perennial streambed”: Rashi (Sotah 45b) reads נַחַל אֵיתָן as a hard, untilled valley.
+- **Deut 30:3** “restore your fortunes”: Rashi reads וְשָׁב … אֶת־שְׁבוּתְךָ as God returning with Israel’s captives.
+- **Deut 28:51** “your livestock’s offspring” renders פְּרִי (“fruit”), as in 28:11 and 28:18 (changed). Editors may also want “fruit” here for consistency. Left as it is.
+
+## Data and conventions
+- In Deut 18–32, speech is introduced with a colon and has no quotation marks, and the column writes “Israel’s sons”. Deut 33–34 and Joshua 1 use curly quotes and “children/sons of Israel”. I kept each section’s own style.
+- **Deut 23:25/23:26**: the row labelled 23:25 (card v-23-25) holds MT 23:26 (the sickle), and the row labelled 23:26 (card v-23-24) holds MT 23:25 (the vineyard). The English matches each SRC, but please check the display order on the site.
+- **Deut 32:15**: the EN has a stray space before the em dash (“kicked —you”). I did not change it because it is punctuation only.
+- SRC: 25:9 has no sof pasuq. In 22:20 the sof pasuq is inside the qere bracket. 27:3 and 28:69 have a zero-width joiner in אֲ‍שֶׁר.
+- Joshua 1 card ids use “verse-N” instead of “v-C-V”.
+
+## Joshua 2–18
+
+# hebrew-010 notes (Joshua 2–18)
+
+## Not changed: needs a specialist or an editorial decision
+- **Josh 2:1, 6:17, 6:22, 6:25** “prostitute” for זוֹנָה: Targum Jonathan has פֻּנְדְּקִיתָא (innkeeper), and Rashi follows it (one who sells food). Under “Rabbinic Priority” editors may want “innkeeper”. Any change should cover all four verses.
+- **Josh 5:1** “until we had crossed” follows the Ketiv עברנו. The Qere is עָבְרָם (“until they had crossed”). KJV and JPS 1917 also keep “we”, but in third-person narrative a listener may hear it as a mistake. Editors should decide.
+- **Josh 9:5, 9:12** “dry and crumbled” for נִקֻּדִים: as far as I recall, Rashi reads it as mouldy (spotted), and KJV has “mouldy”. “Crumbled” is the usual modern reading. Change both verses or neither.
+- **Josh 13:8** “With him” (עִמּוֹ) right after the half-tribe of Manasseh: Rashi takes it as the other half of Manasseh. Aloud, “him” could be heard as Joshua or Moses. Editors could smooth it.
+- **Josh 3:16** “at Adam” follows the Ketiv באדם, not the Qere מֵאָדָם (“from Adam”). **18:24** “Chephar-ammoni” follows the Ketiv; the Qere gives Chephar-ammonah. I kept both for the column’s spellings.
+- **Josh 16:10** “live among Ephraim to this day and became subject to forced labor” mixes tenses a little. Left as it is.
+
+## Data
+- MT verses with no row here (the rows follow the Greek column): **6:4, 8:13, 8:26, 10:15, 10:43**. Their Hebrew is not shown anywhere in the column. MT 8:30–35 appear as 9:2a–f, which is fine.
+- 15:59a is a LOCKED placeholder, and its SRC repeats 15:59.
+- SRC 18:19 has a stray space inside the Qere bracket `[וְהָיוּ ]`.
+
+## Joshua 19–24; Judges 1–8
+
+# hebrew-011 notes (Joshua 19–24; Judges 1–8)
+
+## For a specialist / editorial decision (not changed)
+- Judges 8:13 “by the ascent of Heres”: Targum and Rashi read מִלְמַעֲלֵה הֶחָרֶס as a time phrase (“before the sun went down”, חֶרֶס = sun), not a place name. Following Rashi would remove the name Heres, so this is left for a decision.
+- Judges 5:2 “When leaders took the lead”: Rashi takes פְּרֹעַ פְּרָעוֹת as punishments being exacted (“when retribution struck Israel”). The current rendering follows the modern reading.
+- Judges 5:11 “those dividing at the watering places”: Rashi derives מְחַצְצִים from חֵץ (archers or raiders among the wells). The current rendering is defensible.
+- Judges 5:13 “the mighty of the nations”: the Hebrew has עָם (singular, “people”). Targum supports “nations”, so it is left as is.
+- Judges 5:14 “those whose root was in Amalek”: Rashi applies this to Joshua of Ephraim, who fought Amalek. The literal wording is kept.
+- Joshua 22:34 “named the altar, ‘For it is a witness…’”: the MT gives no name (many translations supply “Witness”/“Ed”). The current wording is acceptable but slightly elliptical aloud.
+- Joshua 22:17 “though the plague came”: וַיְהִי is just “and”. “Though” is an interpretation, but a reasonable one.
+
+## Data
+- Joshua 20:4–6 have no rows in the input (rows follow the Greek column, which lacks them). The Hebrew column therefore has no English for MT 20:4–6.
+- Joshua 19:47/48, 21:42a–d and 24:29–33 are reordered or have placeholder rows to follow the Greek numbering. The masoretic_reference values look consistent.
+
+## Judges 9–21; Ruth 1–4; 1 Samuel 1–1
+
+# hebrew-012 notes (Judges 9–21; Ruth 1–4; 1 Samuel 1)
+
+## For a specialist or editorial decision (not changed)
+
+- Judg 10:1: בֶּן־דּוֹדוֹ is rendered as a name (“son of Dodo”). Rashi reads it as “his uncle’s son”, i.e. Tola was a cousin of Abimelech. Both readings are possible.
+- Judg 18:30: the English has “son of Manasseh”, following the written text. The nun in מְנַשֶּׁה is suspended, and Rashi (with Bava Batra 109b) explains that Jonathan was Moses’ grandson and the nun was added out of respect for Moses. An editor may want a footnote.
+- Judg 20:16 (and 3:15 in hebrew-011): אִטֵּר יַד־יְמִינוֹ is rendered “restricted in their right hands”. It is literal and consistent, but listeners may not realise it means left-handed. Any change should be made in both places.
+- Judg 20:48: מֵעִיר מְתֹם is rendered “the city in its entirety”. Many read it as מְתִם, “men” (“from the city, men and beasts”). This needs a specialist.
+- Judg 15:19: in הַמַּכְתֵּשׁ אֲשֶׁר־בַּלֶּחִי, Rashi takes the “hollow” to be in the jawbone (a tooth socket), not at the place Lehi. The English follows the place reading.
+- Judg 19:8: וְהִתְמַהְמְהוּ is rendered as narrative (“They delayed”). It can also be the father’s imperative (“and linger until the day declines”). Left as it is.
+- Judg 11:10: “YHWH shall hear between us” is literal and a little opaque aloud (the sense is “YHWH will be witness between us”).
+- Ruth 1:13: מַר־לִי מְאֹד מִכֶּם is rendered as a comparison (“more bitter for me than for you”). Rashi reads it as “bitter for me because of you”.
+- Ruth 4:4: “But if he will not redeem it” follows the written third person (יִגְאַל). Targum and many versions read “you”. Aloud the switch is confusing, but the MT was kept.
+- 1 Sam 1:5: מָנָה אַחַת אַפָּיִם is rendered “a double portion”. Targum (“one choice portion”) and Rashi read it as a portion of honour. A specialist should choose.
+
+## Data and conventions
+
+- Judg 21:8–9 use “behold”, but the rest of the chunk uses “Look” for הִנֵּה. Left alone.
+- Judg 17:1–4 spell the name “Micaiah” and 17:5 onward use “Micah”. This follows the Hebrew (מִיכָיְהוּ / מִיכָה). It is not an error.
+- Ruth 4:20 has “Salmah” and 4:21 has “Salmon”. This also follows the Hebrew.
+- Judg 21:22 SRC shows the qere with a stray space: [לָרִיב ].
+
+## 1 Samuel 2–20
+
+# hebrew-013 (1 Samuel 2–20) · notes
+
+## For a specialist / editorial decision (not changed)
+- 18:6 “with tambourines, joy, and shalishim”: the transliteration is opaque when read aloud. Rashi takes שָׁלִשִׁים to be a musical instrument (often “three-stringed instruments” or “triangles”). Decide on a house rendering.
+- 18:21 “Through the second, you shall become my son-in-law”: בִּשְׁתַּיִם refers back to Merab (18:17–19), which this column has no row for, so a listener has nothing to attach “the second” to. Rashi reads it as “through one of the two”.
+- 3:13 “his sons were bringing a curse upon themselves”: מְקַלְלִים לָהֶם is one of the tiqqune soferim (originally “cursing God”). The current wording follows the MT; consider a footnote.
+- 6:18 “Great Abel”: Rashi and others read אָבֵל as the great stone (cf. 6:14–15). Left as written.
+- 2:36 “a payment of silver”: אֲגוֹרַת כֶּסֶף is a small coin (Rashi: a ma‘ah), and “payment” loses the pettiness. Optional change.
+- 15:3 “man and woman, child and nursing infant…”: the Hebrew has a “from … to …” series (as with Genesis 6:7). Left alone because the meaning is complete.
+- 14:38 “see in what this sin has occurred today”: awkward but literal (בַּמָּה). Optional smoothing.
+
+## Data
+- No rows for 13:1, 17:12–31, 17:41, 17:50, 17:55–18:5, 18:10–11 or 18:17–19. This matches the Saints (Greek) row numbering and is presumably expected.
+- Ketiv/qere brackets look malformed in the SRC at 13:8 (`[וַיּוֹחֶל ]`, trailing space), 5:9 and 19:18 (the sof pasuq sits inside the qere bracket), and 20:2 (`לו־עשה [לֹא־] [יַעֲשֶׂה]`, split oddly).
