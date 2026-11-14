@@ -573,3 +573,159 @@ Data: Job 42:17a–e are LOCKED placeholder rows carrying the 42:17 Hebrew (Gree
 - Quote marks: 141:6 (MT 142:6) “I say, You are my refuge” has none, while 139:7 (MT 140:7) quotes “You are my God.”
 - SRC glitches: sof pasuq inside the Qere brackets at 128:3, 139:10, 148:2 (e.g. “[לְמַעֲנִיתָם׃]”).
 - Psalms 144:13a is LOCKED (no MT nun verse); following rows 144:14–21 carry card ids verse-15…verse-22.
+
+## Psalms 149–150; Proverbs 1–15
+
+# hebrew-033 notes (Psalms 149–150; Proverbs 1–15)
+
+## For a specialist or editorial decision (not changed)
+- Proverbs 10:22 “and He adds no sorrow with it”: Rashi and others read עֶצֶב as the subject (“and toil adds nothing to it”, i.e. effort adds nothing beyond YHWH’s blessing). Rabbinic priority may favour that; left as is pending a decision.
+- Proverbs 7:22 “like a fetter for a fool’s discipline”: the Hebrew (וּכְעֶכֶס אֶל־מוּסַר אֱוִיל) is obscure; the current rendering is defensible but hard to follow aloud. Specialist call.
+- Proverbs 5:6 “She gives no thought to the path of life”: smooths פֶּן־תְּפַלֵּס (“lest she/you weigh”); Rashi reads it as addressed to the son (“lest you weigh the path of life”). Left as is.
+- Direct speech without quotation marks in 1:11–14, 3:28 and 4:4, while 5:12–14, 7:4, 7:14–20, 8:4–36, 9:4–6 and 9:16–17 use curly quotes. 3:28 in particular (“Go and return; tomorrow I will give, when you have it with you.”) is ambiguous aloud. Punctuation-only fix, so left for an editorial decision.
+- Inconsistent renderings of the same Hebrew (not churned): פְּנִינִים “corals” (3:15) vs “precious gems” (8:11); בָּנִים “children” (4:1, 8:32) vs “sons” (5:7, 7:24); אִשָּׁה זָרָה “stranger woman” (2:16) vs “outsider woman” (5:3, 7:5); חֶסֶד “loyal love” (3:3) vs “steadfast kindness” (11:17, 14:22). Straight apostrophes (’ vs ') are mixed throughout the column.
+
+## Data problems
+- No rows at all for Proverbs 4:7, 8:33, 11:4 and 15:31 (Hebrew verses absent from the LXX-based row list), so these Masoretic verses are not shown in this column.
+- Card IDs verse-6 to verse-9 of Proverbs 15 are shared by two rows each (15:6–9 and 15:27a/15:28a/15:29a/15:29b carrying Hebrew 16:6–9); all are LOCKED, but worth checking that each position shows the right verse.
+- Placeholder rows use two different texts: “[No corresponding passage in the selected Hebrew text.]” (3:16a, 3:22a, 4:27a–b) and “[No corresponding text in the displayed Hebrew main text.]” (elsewhere).
+
+## Proverbs 16–31; Ecclesiastes 1–1
+
+# hebrew-034 notes (Proverbs 16–31; Ecclesiastes 1)
+
+## For a specialist / editorial decision (not changed)
+- Prov 16:4 (row 16:9, verse-4): לַמַּעֲנֵהוּ rendered “for its purpose”; Rashi reads “for His own sake / His testimony”. Consider whether Rabbinic priority should apply.
+- Prov 21:29 (verse-29): English follows both Ketiv readings (יכין “establishes”, דרכיו “ways”); Qere is “understands his way”. Column is not consistent on Ketiv/Qere (e.g. 19:7 follows Ketiv לא, 17:27 and 19:19 follow Qere).
+- Prov 23:26 (verse-26): “let your eyes delight in my ways” follows Ketiv תרצנה; Qere תִּצֹּרְנָה “observe/keep”. Needs a column-wide Ketiv/Qere policy.
+- Prov 26:10 (verse-10): Rashi reads רַב as God (“The Great One who formed all hires the fool and hires transgressors”); current “An archer who wounds everyone…” is a modern reading. Obscure verse; specialist call.
+- Prov 28:23 (verse-24): אַחֲרַי “afterward” vs Rashi’s “after Me” (leading someone after God’s ways).
+- Prov 29:21 (verse-21): מָנוֹן rendered “a son”; meaning uncertain (Rashi and others differ). Worth a check.
+- Prov 30:3 (verse-3): “and knowledge of holy ones I know” is literal but sounds aloud like a boast; most read the negative as carrying over (“nor do I know…”). Depends on which commentator the column follows.
+
+## Data problems
+- Rows 16:7 and 16:8 (verse-10, verse-11) are LOCKED as “no corresponding text”, but MT has Prov 16:7 and 16:8. Several MT verses have no row in this chunk (16:1, 16:3, 16:6, 16:9, 18:23–24, 19:1–2, 20:14–19, 21:5, 22:6, 23:23); check they are displayed elsewhere.
+- Punctuation conventions shift inside the chunk: ch. 16–27 use straight apostrophes (man's) and “ ” for speech; ch. 28–31 use ’ and ‘ ’ for speech; Eccl 1:10 and 1:16 quote speech with no quote marks. Left as is.
+- Prov 30:28 starts with a capital (“The lizard…”) in the middle of a lowercase list (30:25–27, 30:30–31).
+
+## Ecclesiastes 2–12; Song of Songs 1–8; Isaiah 1–7
+
+# hebrew-035 notes (Ecclesiastes 2–12; Song of Songs 1–8; Isaiah 1–7)
+
+## For a specialist / editorial decision (not changed)
+- Ecclesiastes 2:8 — שִׁדָּה וְשִׁדּוֹת (“a concubine and concubines”) is disputed: the Talmud (Gittin 68a) gives both “demons” and “chests/carriages”. The current rendering is a defensible choice, but a specialist should confirm it.
+- Ecclesiastes 3:11 — אֶת־הָעֹלָם (“eternity”): Rashi reads it as knowledge of the world. Left as is.
+- Ecclesiastes 5:8 — מֶלֶךְ לְשָׂדֶה נֶעֱבָד (“a king is served by the field”): Rashi reads it the other way round (even a king is subject to, or dependent on, the field). Consider following Rashi.
+- Ecclesiastes 9:9 — רְאֵה חַיִּים is rendered “Enjoy life”. Elsewhere the column keeps Qoheleth’s “see good”, so “See life” would match. Not changed because it is a matter of taste.
+- Ecclesiastes 12:6 — “is removed” follows the ketiv יִרְחַק. In this chunk the column otherwise follows the qere (4:8, 9:4, 10:3, 10:10). The qere יֵרָתֵק would give something like “is snapped” or “is loosed”. This needs an editorial decision.
+- Isaiah 1:5 — כָּל־רֹאשׁ / כָּל־לֵבָב is rendered “Every head … every heart”. The body image of 1:6 suggests “the whole head … the whole heart”. Left as is.
+- Isaiah 7:14 — וְקָרָאת could be second person feminine (“you will call”) or an archaic third person feminine (“she will call”). The column has “you will call”. Left as is.
+
+## Data
+- Isaiah 2:22 (MT: חִדְלוּ לָכֶם מִן־הָאָדָם …) has no row. The verse is missing from the Septuagint, so the Greek-based row numbering has nowhere to put it. The MT verse is not shown anywhere in the Hebrew column.
+- In Ecclesiastes 12:14 the SRC has the bracketed repeat of 12:13 appended (the customary re-reading at the end of the book). The EN rightly leaves it out.
+- In Isaiah 3:15 the SRC shows the ketiv/qere as “מלכם [מַה־] [לָּכֶם]”. This is display only; the EN is fine.
+- In this chunk the column uses straight apostrophes (’s written as 's), and Ecclesiastes and Song of Songs set inner speech without quotation marks. The edits keep those local conventions.
+
+## Isaiah 8–32
+
+# hebrew-036 (Isaiah 8–32) notes
+
+- Isaiah 9:5: the throne-name is rendered as Rashi reads it (“The Wondrous Counselor, Mighty God, Father Forever has called his name Prince of Peace”). This is deliberate, so I left it, but it is an editorial choice worth confirming.
+- Isaiah 25:11: “He will spread his hands … He will humble his pride”. The verse is ambiguous between God’s hands (Rashi) and Moab’s (Ibn Ezra). The capital “He” with lower-case “his hands” mixes the two readings. Someone needs to decide which reading the column takes and capitalise to match.
+- Isaiah 26:11 (“Your hand has withdrawn”) and 30:18 (“He withdraws”): the verbs are רָמָה / יָרוּם (“is lifted high / rises”). “Withdraw” may come from a commentator’s reading. Please check against Rashi before changing.
+- Isaiah 30:27: מִמֶּרְחָק is rendered “from long ago”, which is temporal. Elsewhere the column uses “from far away” (10:3). A specialist should check this.
+- Isaiah 15:2: who goes up where is ambiguous. The current “Moab goes up to the house and Dibon, to the high places” makes Dibon a destination, but it could be the subject (“and Dibon to the high places”). I left it unchanged.
+- Ketiv/qere: the column mostly follows the qere. I changed 10:32 and 30:32. These small ketiv readings are still in place: 26:20 “doors” (qere “door”) and 32:7 “the humble” (qere “the poor”).
+- 17:8 has “incense pillars” and 27:9 has “sun-pillars” for the same word חַמָּנִים. Consider making them consistent.
+- Data: the Isaiah English column uses straight apostrophes (Damascus's, Jerusalem's) where house style asks for ’. I did not change them, and the edited verses keep their existing apostrophes.
+
+## Isaiah 33–56
+
+# hebrew-037 (Isaiah 33–56) · notes
+
+Not changed. These need a specialist or an editorial decision:
+
+- **38:10** “In the desolation of my days”: בִּדְמִי יָמַי is usually “in the middle/stillness of my days” (Ibn Ezra, Radak). Check what Rashi supports before keeping “desolation”.
+- **38:12** (changed to “From the loom He cuts me off”). Rashi reads מִדַּלָּה as wasting sickness. Confirm which reading the column prefers.
+- **40:20** “One practiced in selecting”: Rashi may read הַמְסֻכָּן תְּרוּמָה as “the one too poor for an offering”. This needs an editorial decision.
+- **41:24** “your work is mere shouting”: the sense of מֵאָפַע is disputed (“less than nothing” versus viper/shout). Check against Rashi.
+- **42:14** “be appalled, and long to consume them”: Rashi seems to read אֶשֹּׁם וְאֶשְׁאַף as “I will lay waste and swallow”. This wording mixes two readings.
+- **43:14** “brought them all down with oars”: “oars” for בָרִיחִים is unusual. Rashi/Targum read it as bars or fugitives.
+- **44:14** “He plants a sapling”: אֹרֶן is a tree species (pine, ash or laurel), not a sapling.
+- **48:9** “My praise is this: I restrain it for you”: this could be smoother as “for My praise I restrain it for you”. Left as it is.
+- **49:5** “said to bring Jacob back”: the syntax attaches “to bring back” to “said”. In the Hebrew it belongs with “formed me … to be His servant”.
+- **51:14** “The one girded with strength … his captive”: צֹעֶה is usually “the one bowed down/captive”, and “his captive” looks added. A specialist should check this verse.
+- **53:2** “Before this, he grew”: לְפָנָיו is usually “before Him”. Check whether “Before this” follows a commentator.
+- **Style:** the column writes both “Lord YHWH” (48:16, 49:22, 50:4–9, 52:4, 56:8) and “the Lord YHWH” (40:10). Left unharmonised.
+- **Data:** the chunk mixes straight apostrophes (most rows) with curly ones (38:12 “shepherd’s”). No other data problems seen.
+
+## Isaiah 57–66; Jeremiah 1–12
+
+# hebrew-038 notes (Isaiah 57–66; Jeremiah 1–12)
+
+## For a specialist or an editorial decision (not changed)
+- Isaiah 57:8 זִכְרוֹנֵךְ rendered “your thoughts”. “Your memorial” or “your token” (an idol sign behind the door) would keep the image better.
+- Isaiah 59:19 נֹסְסָה בוֹ is rendered “working wonders in it”. The usual readings are “raises a banner against it” or “drives it on” (Targum/Rashi). This needs a specialist.
+- Isaiah 63:11 has “His people remembered”. The subject of וַיִּזְכֹּר is disputed (God or the people). The column’s choice is kept.
+- Isaiah 65:11 keeps Gad as a name but renders Meni as “a counted measure”. One of the two should probably be made consistent.
+- Jeremiah 6:2 דָּמִיתִי is rendered “I will silence”. Rashi reads it as “I likened (Zion to a lovely pasture)”, so this is an editorial call.
+- Jeremiah 10:5 כְּתֹמֶר מִקְשָׁה is rendered “a scarecrow in a cucumber field”, which is a modern reading. Rashi reads it as a column or palm of beaten work.
+- Jeremiah 11:15 is a very difficult verse. The current rendering is defensible, but a specialist should look at it.
+
+## Data
+- Rows follow Greek numbering, so some MT verses have no row: Jer 2:1, 7:1, 8:11–12, 10:6–8, 10:10, 11:7.
+- The Jer 7:27 row (LOCKED) carries the source and English of 7:28. MT 7:27 (“You will speak all these words to them…”) is not represented anywhere.
+- Quotation style is mixed. Isaiah uses curly ‘ ’ quotes. Jeremiah 1–3 uses no quotation marks for speech. Jeremiah 4–12 uses straight 'As YHWH lives'. Possessives use straight ' throughout. Existing punctuation was left alone.
+
+## Jeremiah 13–30
+
+# hebrew-039 notes (Jeremiah 13–30, Greek order)
+
+## For a specialist / editorial decision (not changed)
+- 28:3 (MT 51:3): MT is pointed אֶל (“against”), with ידרך written twice but read once. The English “Let the archer not bend his bow, and let him not rise in his armor” follows a reading of אַל (“not”). JPS 1917 has “Against him that bendeth let the archer bend his bow …”, which reverses the sense. Needs a decision.
+- 23:39: וְנָשִׁיתִי אֶתְכֶם נָשֹׁא is rendered “I will utterly forget you”. Many manuscripts and versions read נָשָׂא (“lift up”), which would make it a wordplay on מַשָּׂא. Worth checking against Rashi.
+- 28:59 (MT 51:59): “the officer in charge of rest” (שַׂר מְנוּחָה) is literal but unclear when read aloud. A specialist could choose a gloss, such as “quartermaster”.
+- 27:5 (MT 50:5): בֹּאוּ וְנִלְווּ is rendered as a command (“Come, and join yourselves”). MT וְנִלְווּ is a perfect, so “and they will join themselves” or “let us join” are also possible.
+- 13:20: the ketiv שאי/וראי is feminine singular, addressed to Jerusalem, and the qere is plural. The English “Lift your eyes” is neutral, so it was left as it is.
+
+## Data
+- Rows not in the input, because they are absent from the Greek order: 17:1–4, 26:1, 26:26 (MT 46:26), 28:45–48 (MT 51:45–48) and 30:22 (MT 49:6). These look like expected LXX minuses, but should be checked against the site.
+- Jeremiah 25:14 and 25:20 both use card v-34 (MT 49:34) and are LOCKED.
+- Quotation style varies across the chunk. Ch. 13–16 use straight single quotes ('…'), later chapters use none, and apostrophes are straight throughout. I kept the existing marks in edited verses, and no new text needed a quote mark.
+- 21:12, 27:8 and 30:25 followed the ketiv where the column otherwise follows the qere. I changed them to the qere.
+
+## Jeremiah 31–50
+
+# hebrew-040 (Jeremiah 31–50, Saints/Greek numbering = MT 48, 25–43) — notes
+
+## Editorial decisions (not changed)
+- Column-wide double possessives such as “Babylon's king's yoke / officials / army” and “Judah's king's house” (e.g. 34:8, 34:11, 34:12, 34:18, 35:2, 35:4, 41:7, 45:17, 45:18) are hard to follow aloud. I changed only 45:22, where two stack in one sentence; a single column-wide decision (“the king of Babylon's yoke”, “the house of Judah's king”) would be better than piecemeal edits.
+- 47:5 (MT 40:5) “Before he had yet turned back—Return to Gedaliah…”: the switch into speech is abrupt and unclear aloud. Rashi reads עוֹדֶנּוּ לֹא־יָשׁוּב as “while Jeremiah had not yet answered, [Nebuzaradan said:] Return…”. Adding a speech verb or following Rashi needs an editorial call.
+- 48:7 (MT 41:7) “slaughtered them into the cistern” is literal for אֶל־תּוֹךְ הַבּוֹר but odd aloud; “slaughtered them and threw them into the cistern” would add a verb. Left as is.
+- 35:13 (MT 28:13) “and you have made iron yoke bars”: וְעָשִׂיתָ can be read as future (“but you will make”); the current past reading follows Rashi (Hananiah caused it). Left as is.
+- 31:9 (MT 48:9) “Give Moab wings” for צִיץ: Targum reads it as “crown”. It is a known crux; left as is.
+
+## Data / style observations
+- 32:31 (MT 25:31) starts in lowercase (“a din reaches…”) though 32:30 ends with a full stop. It needs a capital or a punctuation fix at the end of 32:30. Not changed (capitalisation only).
+- The column uses straight apostrophes (') throughout this chunk. I kept the existing apostrophes in the edited verses so that no verse mixes ' and ’. A global conversion to ’ would be a separate pass.
+- Rows 38:35–38:37 carry cards verse-37, verse-35, verse-36 (MT 31:37, 31:35, 31:36), following the Greek order. This looks intentional.
+- 38:38 (MT 31:38) SRC shows the qere בָּאִים in brackets without a ketiv (qere wela ketiv). This is correct for the MT, and the English has it.
+
+## Jeremiah 51–52; Lamentations 1–5; Ezekiel 1–13
+
+# hebrew-041 notes (Jeremiah 51–52; Lamentations 1–5; Ezekiel 1–13)
+
+## For a specialist or an editorial decision (not changed)
+- Ezekiel 11:3: “The building of houses is not near” follows the modern reading. Rashi and Targum seem to read it as “It is not near [the disaster]; let us build houses”. Worth checking against Rashi before changing.
+- Ezekiel 10:5: the column writes “God Shaddai” for אֵל־שַׁדַּי. Check this against the column’s usual “El Shaddai”.
+- Ezekiel 7:4 (MT 7:7) and 7:10: הַצְּפִירָה is rendered “Doom”. Rashi takes it as “the dawn/morning” (the time of retribution has dawned). Leaving this as it is seems fine, but it is an editorial call.
+- Ezekiel 13:18: “all the joints of My hands” follows MT יָדַי (God’s “My”). Most versions read “all wrists”. Kept as MT.
+- Lamentations 4:7: נְזִירֶיהָ is rendered “consecrated men”. Rashi takes it as “her princes/nobles”. Either is defensible.
+
+## Data / consistency
+- Jeremiah and Lamentations rows use straight apostrophes (Egypt's) and no quotation marks around speech. Ezekiel uses curly apostrophes and “ ” / ‘ ’. Where I edited Jeremiah and Lamentations rows I kept the existing straight apostrophes and added no new ones. A global normalisation pass may be wanted.
+- Lamentations 4:2 has a space after the em dash (“refined gold— how”). Left unchanged because the brief forbids punctuation-only edits.
+- Capitalisation is inconsistent: “River Chebar” in Ezekiel 1 and 3, but “river Chebar” in Ezekiel 10:15, 10:20 and 10:22. Not changed.
+- Jeremiah 51:1–35 hold MT 44–45 (Greek order). Jeremiah 52:2–3, 15 and 28–30, Lamentations 3:22–24 and 29, and Ezekiel 1:14 and 10:14 have no rows (they are absent from the Greek). This is expected, but those MT verses have no Hebrew-column English here.
+- Lamentations 5:22: the SRC carries the bracketed liturgical repeat of 5:21 ([השיבנו …]). The EN correctly does not render it.
