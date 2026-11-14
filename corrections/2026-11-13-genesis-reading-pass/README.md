@@ -27,4 +27,9 @@ The review was AI-assisted (five parallel readers working from a shared brief, t
 
 ## Saints.Bible staging
 
-Staging publication is recorded separately below once applied.
+Applied 14 November 2026 (UTC). All 87 readings were written to the 34 affected chapter comparison pages (`chapter-N-compared`) and the four combined comparison editions (`comparison-edition-1-23`, `-1-23-part-2`, `-24-50`, `-24-50-part-2`), 174 cards in all. Each page was saved only if its fingerprint matched what the edit was built from, and each save was read back and checked. All 87 readings were then verified on both copies, and Genesis 27:39 in the Genesis Parallel Reader.
+
+- The ordinary English word comparison was recalculated for every revised card, with the same matching rule as the 10 November pass. Poetry line breaks (Genesis 49) and the combined editions’ “[MT …]” number tags were kept.
+- Nine verse-comparison notes described the previous English and were updated to the new reading: 6:16, 14:4, 15:2, 15:9, 27:39, 30:20, 36:24, 40:16, 49:12.
+- Genesis 32:32 on the combined edition still carried an older wording than the chapter page; it now carries the revised reading too.
+- As on 10 November, revised readings show without Rainbow colour highlighting until those colour plans are rebuilt for the new text.
