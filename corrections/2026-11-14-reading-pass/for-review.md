@@ -466,3 +466,110 @@ Data notes:
 - Job 23:14 (Hebrew כִּי יַשְׁלִים חֻקִּי…) has no row in the input: the list goes 23:13 (verse-13) → 23:15 (verse-15) → 23:15a placeholder (verse-16). Hebrew 23:14 appears to be missing from the column.
 - Job 31:38 begins lowercase “if” although 31:37 ends with a full stop (conditional clause belongs with 31:38–40); punctuation/capitalisation not changed.
 - Job 36:30 begins lowercase “look,” after 36:29 ends with “?”.
+
+## Job 37–42; Psalms 1–22
+
+# hebrew-027 notes (Job 37–42; Psalms 1–22 Greek numbering = MT 1–23)
+
+Not changed; for a specialist or editorial decision:
+
+- Job 42:6 — “Therefore I reject it, and relent concerning dust and ashes” follows a modern reading; Rashi takes אֶמְאַס as “I loathe [my life]” and נִחַמְתִּי as “I am consoled” over dust and ashes. Current wording is awkward aloud; worth an editorial look.
+- Job 37:7 — “so that all people may know His work”: Hebrew is “that all the people of His making may know”; current makes “His work” the object. Defensible, but check.
+- Job 38:19 / 38:24 — identical Hebrew opener אֵי־זֶה הַדֶּרֶךְ is rendered “Which is the way” then “Where is the way”; could be aligned if the editors want the repetition kept.
+- Psalms 7:5 (MT 7:5) — “if I repaid evil to one who repaid me, and stripped my adversary bare”: שׁוֹלְמִי is usually “one at peace with me”, and Rashi/KJV-type readings take the second line as sparing the adversary. Needs a specialist call.
+- Psalms 8:6 — “a little lower than God”: Targum and Rashi read מֵאֱלֹהִים as angels; column convention is Elohim = God, so left.
+- Psalms 18:4 (MT 19:4) — “their voice is not heard” is the modern reading; the classical Jewish/KJV reading is “there is no speech … where their voice is not heard”. Rabbinic-priority rule may favour changing; left for confirmation.
+- Psalms 10:7 (MT 11:7) — “their faces behold what is upright” vs. “the upright will behold His face”; genuinely ambiguous.
+
+Data: Job 42:17a–e are LOCKED placeholder rows carrying the 42:17 Hebrew (Greek-column additions); no problems otherwise. Psalms 9 rows 1–18 and MT 10 rows are LOCKED (shared cards).
+
+## Psalms 23–50
+
+# hebrew-028 (Psalms 23–50 Greek numbering = MT 24–51) — notes
+
+## For a specialist / editorial decision (not changed)
+- Psalms 23:4 (MT 24:4): “who has not lifted my soul to emptiness” keeps the qere נַפְשִׁי (Rashi: God’s “soul”, i.e. swearing falsely by His name); the ketiv נפשו (“his soul”) is not shown in the SRC. Fine as is, but a listener may not grasp “my”; consider a footnote.
+- Psalms 36:21 (MT 37:21): “the Righteous One is gracious and gives” capitalises צַדִּיק as God. The verse’s parallel (wicked person / righteous person) and v. 26 favour “the righteous person”; keep only if this is a deliberate midrashic choice.
+- Psalms 44:9 (MT 45:9): “those from Me gladden you” — the capital “Me” makes God the speaker in a poem addressed to the king; מִנִּי is usually “strings” or “from [them]”. Needs a decision on the reading.
+- Psalms 47:3 (MT 48:3): “Beautiful in branching” (יְפֵה נוֹף) is odd for a mountain when read aloud; “beautiful in elevation” or “fair of height” are the usual readings. Left because it may be a deliberate choice.
+- Psalms 33:1 (MT 34:1): “changed his discernment” (feigned madness before Abimelech) is literal but hard to follow aloud; left to avoid churn.
+
+## Data / style
+- From Psalms 31:4 onward (most of Ps 32–50) the EN uses straight apostrophes (YHWH's, God's, king's); Ps 23–31 use curly ’. Needs a column-wide normalisation pass, not done here.
+- Stray space after an em dash: Psalms 39:6 “YHWH my God— Your wonders”, Psalms 44:6 “beneath you— in the heart”.
+
+## Psalms 51–76
+
+# hebrew-029 notes (Psalms 51–76 rows = MT 52–77)
+
+## For a specialist / editorial decision (not changed)
+- Psalms 56:4 (MT 57:4): חֵרֵף שֹׁאֲפִי. “He reproaches the one panting to swallow me” is one reading. Another is that the one who would swallow me reproaches. Check against Rashi.
+- Psalms 57:10 (MT 58:10): this verse is very obscure. “tender thorns know the buckthorn … with vigor and with wrath” is defensible, but a specialist should confirm it against Rashi.
+- Psalms 64:11 (MT 65:11): “to give rest to its companies” (נַחֵת גְּדוּדֶיהָ) is hard to follow aloud. It probably means “settling its ridges/clods”. Needs a decision.
+- Psalms 67:17 (MT 68:17): תְּרַצְּדוּן is given as “lie in wait” (Ibn Ezra). Rashi may read it as “leap/skip”. Check.
+- Psalms 67:20 (MT 68:20): “He loads us with salvation” brings in “salvation” twice. The Hebrew only says “He loads (for) us”. Consider “loads us with good”.
+- Psalms 67:21 (MT 68:21): לַמָּוֶת תּוֹצָאוֹת is given as “ways to death”. The verse could also mean “escapes from death”. Needs a decision.
+- Psalms 72:11–14 (MT 73:11–14): the quote opens at v. 11 and closes at v. 14, so the psalmist’s own words in vv. 13–14 sit inside the wicked’s speech. Consider closing it after v. 11.
+- Psalms 75:5 (MT 76:5): “You are destructive” for נָאוֹר is unusual. Most render it “resplendent/illustrious”. Check the source of this reading.
+- Psalms 75:8 (MT 76:8): “You—you are fearsome!” has a lowercase second “you”, unlike the column’s usual “You”. This is capitalisation only, so I left it.
+- Psalms 76:19 (MT 77:19): בַּגַּלְגַּל is given as “like a wheel”. The Hebrew has no “like”, and the word may mean “in the whirlwind”.
+
+## Data
+- The apostrophe style is mixed within this chunk. Psalms 51–69 use the straight ' and Psalms 70 onward use the curly ’. I left both as they are. New text I wrote uses ’.
+
+## Psalms 77–102
+
+# hebrew-030 (Psalms 77–102 Greek numbering = MT 78–103) · notes
+
+## For a specialist or an editorial decision (not changed)
+
+- Ps 77:47 (MT 78:47): חֲנָמַל rendered “locusts” (Rashi’s midrashic reading); many take it as frost or hailstones. Fine as it stands; flag only if the column prefers a plainer reading.
+- Ps 77:50 (MT 78:50): changed “their body” to “their life”. Some commentators take חַיָּתָם as “their livestock”; worth checking against Rashi if the column wants to follow him here.
+- Ps 80:7 (MT 81:7): changed “cooking pot” to “basket” on Rashi’s reading of דּוּד; a reviewer may prefer “pot” with the new verb.
+- Ps 81:1, 81:6 (MT 82): “gods” for אֱלֹהִים. Rashi and the Targum read the judges. Left as is; needs an editorial call for the whole column.
+- Ps 88:51 (MT 89:51): “the burden of” is added to fill out an elliptical line. Acceptable, but could be bracketed or dropped.
+- Ps 90:9 (MT 91:9): the shift “You, YHWH, are my refuge … you have made the Most High your dwelling” follows the Hebrew but may confuse a listener. Rashi supplies “For you said, ‘YHWH is my refuge’”. Editorial decision.
+- Ps 102:5 (MT 103:5): “satisfies your adornment” for עֶדְיֵךְ is literal but odd aloud. Ibn Ezra and others read it as “your years” or “your mouth”; needs a specialist.
+
+## Data and consistency
+
+- Quotation is inconsistent across the chunk. Some direct speech has no quote marks (89:3, 90:2, 93:7, 93:18, 94:10–11, 101:25), while other speech uses curly quotes. Left unchanged.
+- Some EN rows use straight apostrophes (e.g. 78:9 “name's”, 78:11, 79:11, 82:5, 82:13, 84:2–3, 88:2, 88:10, 88:40, 98:4, 100:8, 101:16, 101:21–22, 102:5, 102:15, 102:17), while others use curly ’. A punctuation-only normalisation pass is suggested.
+- Capitalisation is inconsistent in the superscriptions: “Maskil” at 77:1 but “maskil” at 87:1 and 88:1.
+- Ketiv/qere: the column usually follows the qere (78:10, 88:18, 88:29, 91:16, 100:5). 99:3 and 101:24 followed the ketiv and have been changed to the qere.
+
+## Psalms 103–117
+
+# hebrew-031 notes (Psalms 103–117 Greek = 104–118:25 Hebrew)
+
+## For a specialist / editorial decision (not changed)
+- Psalms 103:26 (MT 104:26): “Leviathan, which You formed to play in it” – Rashi (after Avodah Zarah 3b) reads בּוֹ as “to play with him” (God sporting with Leviathan). Decide whether to follow Rashi.
+- Psalms 104:28 (MT 105:28): EN “His words” follows the Ketiv; the Qere is singular דְּבָרוֹ “His word”.
+- Psalms 109:6 (MT 110:6): “filling the field with corpses” – “the field” is not in the Hebrew (מָלֵא גְוִיּוֹת); consider “filling it with corpses”.
+- Psalms 111:8 (MT 112:8) and 117:7 (MT 118:7): “until he looks upon his adversaries” / “I will look upon those who hate me” – the idiom ראה ב means looking in triumph; aloud 112:8 can sound as if he fears afterwards. Left as the column’s consistent rendering.
+- Psalms 105:30 (MT 106:30): “intervened” for וַיְפַלֵּל; Rashi/Targum read “executed judgment”. Acceptable as is.
+- Psalms 105:26 (MT 106:26): “lifted His hand to them” is the oath gesture; listeners may not catch that it means “swore”.
+
+## Data problems
+- Missing row: MT 116:14 (Greek 115:5) is absent from the input; Psalms 115 jumps from 115:4 (MT 116:13) to 115:6 (MT 116:15).
+- Psalms 103:21 (MT 104:21) starts lowercase (“the young lions…”) although 103:20 ends with a full stop.
+- Quotation style is mixed: 104:11 (“saying, To you I will give…”) and 105:48 (“Let all the people say, Amen!”) have no quote marks, while 114:4, 115:1–2 and 117:2–4 use curly quotes. Apostrophes are straight (') in Ps 103–108 and curly (’) from Ps 113 on.
+- Inconsistent אַשְׁרֵי: “Blessed are…” (105:3) vs “Happy is…” (111:1). Not changed.
+
+## Psalms 118–148
+
+# hebrew-032 notes (Psalms 118–148 Greek = 119–148 Hebrew)
+
+## For a specialist / editorial decision (not changed)
+- Psalms 138:16 (MT 139:16): EN “and not one among them” follows the Ketiv וְלֹא and reads as a fragment aloud; the Qere is וְלוֹ (“and to Him / for it, one of them”). Elsewhere in this chunk the column follows the Qere (118:79, 118:147, 118:161, 139:13, 144:6). Needs a decision on wording.
+- Psalms 142:10 (MT 143:10): “Your good Spirit— may He lead me” capitalises Spirit/He, whereas 138:7 (MT 139:7) has “Your spirit” in lower case. Editorial decision on capitalising רוּחַ in this column.
+- Psalms 125:1 (MT 126:1): “restored Zion’s fortunes” for שִׁיבַת צִיּוֹן; Rashi reads “brought back the returnees (exiles) of Zion” and takes the psalm as future. Left as is.
+- Psalms 137:1 (MT 138:1): “before gods” for נֶגֶד אֱלֹהִים; Targum/Rashi tradition reads “before judges/princes”. Left as the literal rendering.
+- Psalms 121:5 (MT 122:5): “thrones sat for judgment” is literal (יָשְׁבוּ); “thrones were set” would be smoother aloud. Not changed.
+
+## Data problems / consistency
+- חֶסֶד is “loyal love” throughout Ps 118 (MT 119) but “steadfast love” from Ps 129 (MT 130) on. Not changed.
+- אַשְׁרֵי is “Blessed are…” in 118:1–2 but “Happy is/the…” in 126:5, 127:1, 136:8–9, 143:15, 145:5.
+- Quote marks: 141:6 (MT 142:6) “I say, You are my refuge” has none, while 139:7 (MT 140:7) quotes “You are my God.”
+- SRC glitches: sof pasuq inside the Qere brackets at 128:3, 139:10, 148:2 (e.g. “[לְמַעֲנִיתָם׃]”).
+- Psalms 144:13a is LOCKED (no MT nun verse); following rows 144:14–21 carry card ids verse-15…verse-22.

@@ -1513,6 +1513,393 @@
       "before": "Can one who hates justice govern? Will you condemn the righteous, mighty One?",
       "after": "Can one who hates justice govern? Will you condemn the righteous and mighty One?",
       "reason": "צַדִּיק כַּבִּיר is the object, God as righteous and mighty; with only a comma, the listener hears “mighty One” as a vocative addressed to Job."
+    },
+    {
+      "book": "job",
+      "reference": "Job 42:10",
+      "card_id": "verse-10",
+      "severity": "minor",
+      "before": "YHWH restored Job’s fortunes when he prayed for his friend, and YHWH added to everything Job had, doubling it.",
+      "after": "YHWH restored Job’s fortunes when he prayed for his friends, and YHWH added to everything Job had, doubling it.",
+      "reason": "רֵעֵהוּ is collective here, referring to the three friends of 42:7–9, so the singular “his friend” misleads a listener."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 1:1",
+      "card_id": "verse-1",
+      "severity": "minor",
+      "before": "Blessed is the man who has not walked by the counsel of the wicked, stood on the path of sinners, or sat in the seat of scoffers;",
+      "after": "Blessed is the man who has not walked by the counsel of the wicked, nor stood on the path of sinners, nor sat in the seat of scoffers;",
+      "reason": "The Hebrew repeats לֹא with each of the three verbs; restoring “nor … nor” keeps the triple parallel lines instead of a flattened list."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 5:12",
+      "card_id": "verse-12",
+      "severity": "spoken",
+      "before": "Let all who take refuge in You rejoice; let them sing for joy forever, and spread shelter over them. Let those who love Your name exult in You.",
+      "after": "Let all who take refuge in You rejoice; let them sing for joy forever, and may You spread shelter over them. Let those who love Your name exult in You.",
+      "reason": "וְתָסֵךְ is second person addressed to God (Rashi: You will protect them); without “You” the listener hears the rejoicers as the subject."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 31:4",
+      "card_id": "verse-4",
+      "severity": "minor",
+      "before": "For day and night Your hand weighed heavily upon me; my moisture was changed by summer's droughts. Selah.",
+      "after": "For day and night Your hand weighed heavily upon me; my moisture was turned as in the droughts of summer. Selah.",
+      "reason": "בְּחַרְבֹנֵי קַיִץ is a comparison (“as in the droughts of summer”), as Rashi explains, not the agent of the change; this also removes the straight apostrophe."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 35:3",
+      "card_id": "verse-3",
+      "severity": "minor",
+      "before": "For it flatters him in his own eyes, toward the finding of his iniquity and hatred.",
+      "after": "For it flatters him in his own eyes, until his iniquity is found out and hated.",
+      "reason": "לִמְצֹא עֲוֺנוֹ לִשְׂנֹא are two infinitives (to find his iniquity, to hate), not a noun “hatred”; the flattery lasts until his iniquity is found out and hated, close to Rashi, and the old phrasing was hard to follow aloud."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 36:20",
+      "card_id": "verse-20",
+      "severity": "minor",
+      "before": "For the wicked will perish; YHWH's enemies are like the fleeting brightness of the plains: they vanish into smoke, they vanish.",
+      "after": "For the wicked will perish; YHWH's enemies are like the glory of fattened lambs: they vanish into smoke, they vanish.",
+      "reason": "“Fleeting” is not in the Hebrew, and Rashi reads כִּיקַר כָּרִים as “like the preciousness of fattened lambs” (fattened only for slaughter), which fits the following “vanish into smoke”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 40:10",
+      "card_id": "verse-10",
+      "severity": "minor",
+      "before": "Even my trusted companion, in whom I trusted, who ate my bread, has lifted his heel against me.",
+      "after": "Even the man of my peace, in whom I trusted, who ate my bread, has lifted his heel against me.",
+      "reason": "אִישׁ שְׁלוֹמִי is “the man of my peace”; “trusted companion, in whom I trusted” doubles a word the Hebrew uses once and loses its image."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 43:10",
+      "card_id": "verse-10",
+      "severity": "minor",
+      "before": "Even though You rejected us and disgraced us and do not go out with our armies,",
+      "after": "Yet You have rejected us and disgraced us, and You do not go out with our armies.",
+      "reason": "אַף here marks the psalm’s turn (“Yet You have rejected us”), a main statement, not a concession leading into the next verse."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 47:9",
+      "card_id": "verse-9",
+      "severity": "spoken",
+      "before": "As we heard, so we have seen in YHWH of hosts' city, in our God's city; God will establish her forever. Selah.",
+      "after": "As we heard, so we have seen in the city of YHWH of hosts, in our God's city; God will establish her forever. Selah.",
+      "reason": "“YHWH of hosts’ city” is hard to follow aloud; “the city of YHWH of hosts” follows the Hebrew word order בְּעִיר־יְהוָה צְבָאוֹת."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 55:6",
+      "card_id": "verse-6",
+      "severity": "minor",
+      "before": "All day my words are grief; all their thoughts against me are for evil.",
+      "after": "All day they make my words a grief; all their thoughts against me are for evil.",
+      "reason": "יְעַצֵּבוּ is a plural verb with the enemies as subject (“they grieve my words”), which the English had dropped."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 57:9",
+      "card_id": "verse-9",
+      "severity": "major",
+      "before": "Like a snail melting as it goes, like a stillbirth and a mole, they have not seen the sun.",
+      "after": "Like a snail melting as it goes, like a woman’s stillbirth, they have not seen the sun.",
+      "reason": "נֵפֶל אֵשֶׁת is one image, “a woman’s stillbirth” (Rashi’s plain sense); the English had added a second item by also rendering the midrashic “mole”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 58:13",
+      "card_id": "verse-13",
+      "severity": "major",
+      "before": "The sin of their mouth is the word of their lips; the poor are trapped through their arrogance, and through the curse and falsehood they recount.",
+      "after": "The sin of their mouth is the word of their lips; let them be trapped through their arrogance, and through the curse and falsehood they recount.",
+      "reason": "וְיִלָּכְדוּ בִגְאוֹנָם has the enemies as subject (“let them be caught in their pride”); there is no “poor” in the verse."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 59:6",
+      "card_id": "verse-6",
+      "severity": "major",
+      "before": "You gave those who fear You a trial to be tested, for the sake of beauty. Selah.",
+      "after": "You gave those who fear You a trial to be tested, for the sake of truth. Selah.",
+      "reason": "קֹשֶׁט means “truth” (as Targum קושטא and Rashi take it), not “beauty”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 59:8",
+      "card_id": "verse-8",
+      "severity": "major",
+      "before": "God spoke in His sanctuary: I will exult; I will divide a portion, and measure the Valley of Succoth.",
+      "after": "God spoke in His sanctuary: I will exult; I will divide Shechem, and measure the Valley of Succoth.",
+      "reason": "שְׁכֶם here is the place name Shechem, parallel to the Valley of Succoth (as the column renders it in the twin verse, Psalm 108)."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 59:10",
+      "card_id": "verse-10",
+      "severity": "major",
+      "before": "Moab is my washbasin; upon Edom I will cast my lock; Philistia, join yourself to me.",
+      "after": "Moab is my washbasin; upon Edom I will cast my sandal; Philistia, join yourself to me.",
+      "reason": "נַעֲלִי is “my sandal” (as the column renders it in Psalm 108), not “my lock”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 63:8",
+      "card_id": "verse-8",
+      "severity": "minor",
+      "before": "God cast them down; an arrow—suddenly their wounds came.",
+      "after": "God shot them with an arrow; suddenly their wounds came.",
+      "reason": "וַיֹּרֵם אֱלֹהִים חֵץ is “God shot them with an arrow” (Rashi), answering their own shooting in vv. 4–5; “cast them down” lost the image."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 67:5",
+      "card_id": "verse-5",
+      "severity": "spoken",
+      "before": "Sing to God; make music to His name. Praise Him who rides in the heavens by His name Yah, and exult before Him.",
+      "after": "Sing to God; make music to His name. Praise Him who rides in the heavens—Yah is His name—and exult before Him.",
+      "reason": "בְּיָהּ שְׁמוֹ means “Yah is His name”; “rides … by His name Yah” sounds aloud as if He rides by means of the name."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 67:32",
+      "card_id": "verse-32",
+      "severity": "major",
+      "before": "Gifts will come from Egypt; Cush will hasten its hands toward God.",
+      "after": "Nobles will come from Egypt; Cush will hasten its hands toward God.",
+      "reason": "חַשְׁמַנִּים are nobles or princes (Targum and Rashi), not gifts."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 68:10",
+      "card_id": "verse-10",
+      "severity": "major",
+      "before": "For envy concerning Your house has consumed me, and the reproaches of those reproaching You have fallen on me.",
+      "after": "For zeal for Your house has consumed me, and the reproaches of those reproaching You have fallen on me.",
+      "reason": "קִנְאַת בֵּיתְךָ is zeal for God’s house (Rashi), not envy."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 71:15",
+      "card_id": "verse-15",
+      "severity": "major",
+      "before": "May he live, and may He give him some of Sheba’s gold; may He pray for him continually, and bless him all day.",
+      "after": "May he live, and may he give him some of Sheba’s gold; may he pray for him continually, and bless him all day.",
+      "reason": "The subjects are human (Rashi: the king gives the rescued poor man gold, and the poor man prays for the king); capital “He” made God the one who prays for the king."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 72:16",
+      "card_id": "verse-16",
+      "severity": "minor",
+      "before": "When I considered how to know this, it appeared injustice in my eyes,",
+      "after": "When I considered how to know this, it was toil in my eyes,",
+      "reason": "עָמָל is toil or trouble (“it was a weariness in my eyes”), not injustice."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 72:20",
+      "card_id": "verse-20",
+      "severity": "major",
+      "before": "Like a dream without awakening, Lord, in the city You will despise their image.",
+      "after": "Like a dream upon awakening, Lord, in the city You will despise their image.",
+      "reason": "כַּחֲלוֹם מֵהָקִיץ is a dream that vanishes once one wakes (Rashi); “without awakening” reverses the image."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 72:24",
+      "card_id": "verse-24",
+      "severity": "minor",
+      "before": "With Your counsel You led me, and afterward You took me for glory.",
+      "after": "With Your counsel You guide me, and afterward You will take me for glory.",
+      "reason": "Both verbs are imperfect (תַנְחֵנִי, תִּקָּחֵנִי), a present-future confidence that the past tense obscured."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 72:28",
+      "card_id": "verse-28",
+      "severity": "major",
+      "before": "But for me, God’s nearness is good; I have set my refuge in Lord YHWH, to recount all Your messages.",
+      "after": "But for me, God’s nearness is good; I have set my refuge in Lord YHWH, to recount all Your works.",
+      "reason": "מַלְאֲכוֹתֶיךָ is from מְלָאכָה, “work”, not from מַלְאָךְ, “messenger”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 73:11",
+      "card_id": "verse-11",
+      "severity": "minor",
+      "before": "Why do You draw back Your hand, Your right hand? Bring it out from within Your bosom!",
+      "after": "Why do You draw back Your hand, Your right hand? Bring it out from within Your bosom and consume them!",
+      "reason": "The verse ends with כַלֵּה, “consume/destroy” (Rashi: take it out and destroy them), which the English had omitted."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 76:2",
+      "card_id": "verse-2",
+      "severity": "minor",
+      "before": "My voice goes to God, and I cry out; my voice goes to God—give ear to me!",
+      "after": "My voice goes to God, and I cry out; my voice goes to God, and He will give ear to me.",
+      "reason": "וְהַאֲזִין is pointed as a perfect with vav (“and He will give ear”), a statement of confidence about God, not an imperative to Him."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 76:18",
+      "card_id": "verse-18",
+      "severity": "minor",
+      "before": "The skies poured streams of thick waters; the skies gave voice; Your arrows too went about.",
+      "after": "The clouds poured out water; the skies gave voice; Your arrows too went about.",
+      "reason": "In זֹרְמוּ מַיִם עָבוֹת the clouds (עָבוֹת) are the subject that pours water; “thick waters” misread the noun, and “skies” belongs to the next clause."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 77:25",
+      "card_id": "verse-25",
+      "severity": "minor",
+      "before": "A human ate the bread of mighty ones; He sent them provision to satisfaction.",
+      "after": "Each man ate the bread of mighty ones; He sent them provision to satisfaction.",
+      "reason": "אִישׁ here is distributive (“each one”, so Rashi), not “a human”; the old wording reads as if a single person ate."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 77:50",
+      "card_id": "verse-50",
+      "severity": "minor",
+      "before": "He leveled a path for His anger; He did not spare their soul from death, and handed their body over to pestilence.",
+      "after": "He leveled a path for His anger; He did not spare their soul from death, and handed their life over to pestilence.",
+      "reason": "חַיָּתָם is “their life” (parallel to נַפְשָׁם), not “their body”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 79:3",
+      "card_id": "verse-3",
+      "severity": "major",
+      "before": "Before Ephraim and Benjamin and Manasseh, rouse Your might; it is for You to save us.",
+      "after": "Before Ephraim and Benjamin and Manasseh, rouse Your might, and come to save us.",
+      "reason": "וּלְכָה is the imperative “and come” (Rashi, Ibn Ezra); “it is for You” drops the plea and misreads the verb."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 79:6",
+      "card_id": "verse-6",
+      "severity": "spoken",
+      "before": "You fed them bread of tears and gave them tears to drink by the shalish.",
+      "after": "You fed them bread of tears and gave them tears to drink by the measure.",
+      "reason": "The untranslated “shalish” is opaque aloud; Rashi explains שָׁלִישׁ as a measuring vessel."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 79:7",
+      "card_id": "verse-7",
+      "severity": "minor",
+      "before": "You make us an object of strife for our neighbors, and our enemies mock them.",
+      "after": "You make us an object of strife for our neighbors, and our enemies mock among themselves.",
+      "reason": "יִלְעֲגוּ־לָמוֹ is “mock to themselves”; “mock them” wrongly makes the neighbours the object of the mockery."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 80:7",
+      "card_id": "verse-7",
+      "severity": "spoken",
+      "before": "I removed his shoulder from the burden; his palms passed away from the cooking pot.",
+      "after": "I removed his shoulder from the burden; his palms were freed from the basket.",
+      "reason": "“Passed away” sounds like dying aloud; תַּעֲבֹרְנָה means were released, and Rashi takes דּוּד as the clay-carrying basket of Egyptian labour."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 99:3",
+      "card_id": "verse-3",
+      "severity": "major",
+      "before": "Know that YHWH—He is God. He made us, and not we; His people and the flock of His pasture.",
+      "after": "Know that YHWH—He is God. He made us, and we are His; His people and the flock of His pasture.",
+      "reason": "Follows the qere וְלוֹ (“and we are His”), as Rashi and the Targum read, instead of the ketiv “and not we”, which also leaves the clause dangling."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 101:24",
+      "card_id": "verse-24",
+      "severity": "minor",
+      "before": "He weakened his strength on the way; He shortened my days.",
+      "after": "He weakened my strength on the way; He shortened my days.",
+      "reason": "Follows the qere כֹּחִי (“my strength”), matching “my days” in the same line, as the column does elsewhere with qere readings."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 103:22",
+      "card_id": "verse-22",
+      "severity": "spoken",
+      "before": "The sun rises; they gather away and lie down in their dens.",
+      "after": "The sun rises; they withdraw and lie down in their dens.",
+      "reason": "“Gather away” trips the ear; יֵאָסֵפוּן here means the beasts withdraw (are gathered in) to their dens."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 104:40",
+      "card_id": "verse-40",
+      "severity": "major",
+      "before": "He asked, and He brought quail; He satisfied them with bread from heaven.",
+      "after": "They asked, and He brought quail; He satisfied them with bread from heaven.",
+      "reason": "The one who asked (שָׁאַל) is the people, as Rashi explains, not God; “He asked” made God the asker."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 105:33",
+      "card_id": "verse-33",
+      "severity": "minor",
+      "before": "for they embittered his spirit, and he spoke rashly with his lips.",
+      "after": "for they rebelled against His spirit, and he spoke rashly with his lips.",
+      "reason": "הִמְרוּ is “rebelled”, the same verb as in vv. 7 and 43, and Rashi takes “his spirit” as God’s spirit."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 106:30",
+      "card_id": "verse-30",
+      "severity": "spoken",
+      "before": "They rejoiced because they were quiet, and He guided them to their desired haven.",
+      "after": "They rejoiced because the waves were quiet, and He guided them to their desired haven.",
+      "reason": "Aloud “they were quiet” sounds like the sailors; the subject of יִשְׁתֹּקוּ is the waves of v. 29, as Rashi explains."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 108:2",
+      "card_id": "verse-2",
+      "severity": "spoken",
+      "before": "For a wicked mouth and a deceitful mouth have opened against me; they speak with me with a lying tongue.",
+      "after": "For a wicked mouth and a deceitful mouth have opened against me; they speak to me with a lying tongue.",
+      "reason": "“With me with” trips the ear; “to me” keeps the sense of דִּבְּרוּ אִתִּי."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 118:160",
+      "card_id": "verse-160",
+      "severity": "minor",
+      "before": "The sum of Your word is truth, and every righteous judgment of Yours is forever.",
+      "after": "The beginning of Your word is truth, and every righteous judgment of Yours is forever.",
+      "reason": "רֹאשׁ דְּבָרְךָ is “the head/beginning of Your word”; Rashi reads it as the first words spoken at Sinai, shown true by what followed, so “beginning” keeps the source’s image rather than “sum”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 138:4",
+      "card_id": "verse-4",
+      "severity": "spoken",
+      "before": "For there is not a word on my tongue— look, YHWH, You know it all.",
+      "after": "For while there is not yet a word on my tongue, look, YHWH, You know it all.",
+      "reason": "Aloud “there is not a word on my tongue” sounds like speechlessness; the classical commentators read כִּי אֵין מִלָּה as “before a word is on my tongue You already know it all”."
+    },
+    {
+      "book": "psalms",
+      "reference": "Psalms 138:11",
+      "card_id": "verse-11",
+      "severity": "major",
+      "before": "And I said, “Surely darkness will overwhelm me, and night will be light around me.”",
+      "after": "And I said, “Surely darkness will overwhelm me,” but night is light around me.",
+      "reason": "Only the first line is what the psalmist says; וְלַיְלָה אוֹר בַּעֲדֵנִי is the answer (night itself is light around me, as Rashi and v. 12 show), so it must not sit inside the quotation."
     }
   ]
 }
