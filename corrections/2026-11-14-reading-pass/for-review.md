@@ -729,3 +729,119 @@ Not changed. These need a specialist or an editorial decision:
 - Capitalisation is inconsistent: “River Chebar” in Ezekiel 1 and 3, but “river Chebar” in Ezekiel 10:15, 10:20 and 10:22. Not changed.
 - Jeremiah 51:1–35 hold MT 44–45 (Greek order). Jeremiah 52:2–3, 15 and 28–30, Lamentations 3:22–24 and 29, and Ezekiel 1:14 and 10:14 have no rows (they are absent from the Greek). This is expected, but those MT verses have no Hebrew-column English here.
 - Lamentations 5:22: the SRC carries the bracketed liturgical repeat of 5:21 ([השיבנו …]). The EN correctly does not render it.
+
+## Ezekiel 14–29
+
+# hebrew-042 notes (Ezekiel 14–29)
+
+## For a specialist or an editorial decision (not changed)
+- Ezekiel 19:10: בְּדָמְךָ is rendered “like a vine in your blood”. Radak reads it as “in your likeness” (from דמה). That would read more clearly aloud, but the commentators differ.
+- Ezekiel 19:7: “He knew his widows” is the literal MT. Targum reads it as “palaces” (אַרְמְנוֹתָיו). Kept as MT.
+- Ezekiel 16:36: “your copper was poured out” (נְחֻשְׁתֵּךְ) is opaque aloud. The commentators explain it as lust or filth. Needs a decision on how to gloss it.
+- Ezekiel 16:43: “Have you not committed lewdness…?” Rashi seems to take וְלֹא עָשִׂית אֶת־הַזִּמָּה as “you gave no thought to (repenting of) your abominations”. Worth checking against Rashi.
+- Ezekiel 29:7: “made all their loins stand” is literal MT (הַעֲמַדְתָּ). Many versions emend to “shake”. Kept, but it is odd aloud.
+- Ezekiel 21:24: “Carve a hand” means a signpost (יָד). It could be smoothed to “carve a signpost”.
+- Ezekiel 20:26 and 23:37: “made … pass over” (הַעֲבִיר) could be heard as “skip”. Ezekiel 16:21 has “making them pass to them”. Consider making these consistent.
+- Ezekiel 14:14, 14:20 and 28:3: “Danel” follows the ketiv. The qere is Daniel. This is an editorial choice; I left it.
+
+## Data / consistency
+- Ezekiel 27:31 has no row. The chapter goes from 27:30 to 27:32, and the MT verse (“they will make themselves bald… gird on sackcloth”) has no English.
+- Ezekiel 26–29 use a different style from chapters 14–25: straight apostrophes (YHWH's), no quotation marks around speech (including the opening “Son of man”), “the declaration of Lord YHWH” instead of “declares Lord YHWH”, and serial commas. A normalisation pass may be wanted.
+- “sabbaths” is lowercase in Ezekiel 20 but “Sabbaths” in 22:8, 22:26 and 23:38.
+- Ezekiel 24:21 is missing the inner quotation mark before “Thus says Lord YHWH”. Left alone because it is punctuation-only.
+- In the SRC for 16:20, 16:25, 16:51, 25:9 and 27:6, the sof pasuq (׃) sits inside the qere bracket. This is cosmetic only.
+- 16:21 is the only row carrying a masoretic_reference tag, and it is identical to the row number.
+
+## Ezekiel 30–46
+
+# hebrew-043 notes (Ezekiel 30:1–46:24)
+
+## Data
+- No rows for Ezekiel 32:19, 33:26 or 40:30 (input jumps 32:18→32:20, 33:25→33:27, 40:29→40:31). Probably follows the Greek column's verse set, but those Masoretic verses then have no English in this column; worth checking they are not lost.
+- Quotation and apostrophe styles shift by chapter: ch. 30 and 40–46 use straight apostrophes (house's), ch. 31–39 use curly ones (’); speech marks also switch between ‘ ’ and “ ” (e.g., 40:4 against 41:4). I left them alone and matched each chapter's own style.
+
+## For a specialist or editor (not changed)
+- 35:6 “If you have not hated blood”: the oath formula אִם־לֹא may mean “since you did not hate blood” or “surely you hated blood” (the commentators differ). The current literal wording is ambiguous aloud.
+- 39:26 וְנָשׂוּ: read as “bear their shame” (current); Radak and others take it as “forget their shame”. Needs an editorial decision.
+- 40:14, 41:21 (“the appearance was like the appearance”), 42:4 (“a way of one cubit”): obscure Hebrew, rendered literally. Fragmentary aloud but left as they are.
+- 40:44: MT has “east gate … facing north”; many read “south”. Left as MT.
+- 43:26 “fill its hand” (= consecrate it): a literal idiom that listeners may not follow. Consider a gloss as house policy.
+- 46:9–10: the column follows the ketiv plural (“they shall go out”) where the qere has a singular. 46:10 “when they go out, they shall go out” sounds tautological aloud.
+- 39:20 “horse and chariotry”: the commentators may read רֶכֶב as riders. Not checked.
+
+## Ezekiel 47–48; Daniel 1–10
+
+# hebrew-044 notes (Ezekiel 47–48; Daniel 1–10)
+
+## For a specialist / editorial decision (not changed)
+- Daniel 2:38: ambiguous whether “human beings” are among what is given into the king’s hand (JPS 1917) or only mark where they dwell (KJV, current EN). Left as is.
+- Daniel 9:12: EN “His words” follows the ketiv (דבריו); the qere is singular דְּבָרוֹ “His word”.
+- Daniel 8:9: “toward the Beautiful” (הַצֶּבִי; Rashi: the Land of Israel) may puzzle a listener; consider “the Beautiful Land”.
+- Ezekiel 47:9: נַחֲלַיִם is dual (“two rivers”, Rashi); EN has “the streams”.
+- Daniel 4:36 (MT 4:33): “still greater greatness” is a little clumsy aloud; left.
+- Name spelling differs within Daniel: “Abed-nego” (1:7, 2:49) vs “Abednego” (all of ch. 3). Pick one.
+
+## Data problems
+- Rows missing from the chunk: MT Daniel 3:31–33 (the proclamation the 4:37c placeholder points to), MT 4:3–6, MT 4:32, MT 5:14–15, 5:18–22, 5:24–25. Not reviewed.
+- Daniel 4 quote marks: row 4:18 (MT 4:15) ends ’” with no opening ‘ in the chunk; a new “ opens at row 4:34 (MT 4:31). Recheck the quotation nesting once the missing rows are in view.
+- Row Daniel 4:33b (placeholder, LOCKED) carries the MT 4:33 source, which is also the source of row 4:36.
+- Ezekiel 47–48 English uses straight apostrophes (house's, Dan's, etc.); the rest of the column uses ’.
+- Daniel 1:22–62 and 3:24–90 are empty LOCKED rows (Greek-only material); 5:26–28 share one card (LOCKED).
+
+## Daniel 11–12; Hosea 1–14; Joel 1–4; Amos 1–9
+
+# hebrew-045 notes (Daniel 11–12; Hosea; Joel; Amos)
+
+## For a specialist / editorial decision (not changed)
+- Hosea 1:6: changed to Rashi’s reading (“that I should ever forgive them”); Targum/Radak read כִּי־נָשֹׂא אֶשָּׂא לָהֶם as “I will surely carry them away”. Confirm the preferred reading.
+- Joel 2:23: אֶת־הַמּוֹרֶה לִצְדָקָה is given as “the teacher for righteousness” (Targum). Rashi and others take מוֹרֶה here as the early rain, which the verse goes on to name. Editorial choice.
+- Amos 5:26: וּנְשָׂאתֶם is given as future (“you shall carry”). Ibn Ezra and others read it as past (“you carried”), continuing the wilderness question of 5:25. Left as is.
+- Amos 2:7 / 8:4: הַשֹּׁאֲפִים is given as “trample”. Rashi reads it as “pant after” or “long for” (that the dust be on the poor’s heads). Both are defensible.
+- Hosea 4:11: יִקַּח־לֵב is rendered “take away understanding”. The literal “take away the heart” could be restored if the column wants to keep the image.
+
+## Data / consistency problems
+- Hosea 1–14 (and only Hosea) uses straight apostrophes (YHWH's, Israel's, lovers' …). Daniel, Joel and Amos use the curly ’. This needs a global punctuation fix, which I didn’t make because the brief rules out punctuation-only changes.
+- Amos uses en dashes “–” in chs. 1–3 and em dashes “—” in chs. 4–9.
+- Amos uses a noticeably more formal register (“Behold”, verse-initial “And”, “shall”, “unto Me”, “declaration of YHWH”) than Hosea and Joel (“look”, “declares YHWH”). This is a column-wide style question and was left alone.
+- Daniel 11:18 is the only row carrying a `[masoretic_reference: 11:18]` tag, and the reference matches the row. Its SRC qere shows a stray space: `[וְיָשֵׂם ]`.
+
+## Obadiah 1–1; Jonah 1–4; Micah 1–7; Nahum 1–3; Habakkuk 1–3; Zephaniah 1–3; Haggai 1–2; Zechariah 1–8
+
+# hebrew-046 notes (Obadiah–Zechariah 8)
+
+For a specialist or an editorial decision (not changed):
+
+- Habakkuk 1:11: the English reads אָז חָלַף רוּחַ as a simile (“sweep by like the wind”). Rashi reads it as “then his spirit changes and he transgresses”, which is Nebuchadnezzar’s growing arrogance. Worth deciding whether to follow Rashi here.
+- Micah 7:11: “the boundary will be far extended” follows the modern reading. Rashi takes יִרְחַק־חֹק as “the decree (of the nations) will be far removed”.
+- Haggai 2:15 and 2:18: the same phrase וָמָעְלָה is “backward” in 2:15 but “onward” in 2:18. Rashi reads both as looking back at the days before. The column should choose one reading for both verses.
+- Zephaniah 2:14: “the qāʾat bird and the qippōd creature” has diacritics and ʾ that are hard to read aloud. Should we transliterate without the marks or name the animals (e.g. owl/pelican and hedgehog/bittern)? This is an editorial choice.
+- Zephaniah 3:8: “for the day I rise for prey” follows the MT vowels לְעַד. Targum and LXX read “as witness”. Left as is.
+- Zechariah 3:8 and 6:12: “Shoot” is used as a proper name for צֶמַח. It sounds odd aloud. Should it be “Branch”, or transliterated “Tzemach”? This is an editorial choice.
+
+Data / style observations:
+
+- The apostrophes in this chunk are mixed. Most possessives use a straight ' (e.g. “Jacob's”, “YHWH's”), but some use the curly ’ (Jonah 3:4 “day’s”, Jonah 4:8 “Jonah’s”, Habakkuk 2:16 “YHWH’s”, Habakkuk 3:19 “doe’s”). I did not change any of them because these were punctuation-only differences. They need a global normalisation.
+- Micah 1:10 used the Ketiv. Every other Ketiv/Qere row in this chunk follows the Qere. It is fixed in changes.json.
+
+## Zechariah 9–14; Malachi 1–3
+
+# hebrew-047 notes (Zechariah 9–14; Malachi 1–3)
+
+## For a specialist or an editorial decision (not changed)
+- Zechariah 12:10: “They will look to Me, whom they pierced” follows the plain MT. Rashi (after Sukkah 52a) reads אֵת אֲשֶׁר־דָּקָרוּ as “because of the one whom [the nations] pierced”. This is a sensitive verse, so it needs a deliberate decision.
+- Malachi 1:8: אֵין רָע is rendered as a question (“is that not evil?”). There is no interrogative marker, and Radak and Metzudat David take it as the priests’ own excuse (“there is no harm in it”), which is also how NJPS reads it. The column might prefer the rabbinic reading.
+- Malachi 2:11: “the holy thing of YHWH that he loves”. The lowercase “he” makes Judah the one who loves. Targum and Rashi seem to take God as the subject (“which He loves”), and that would be “He” under the column’s convention. Specialist check.
+- Malachi 2:16: “For one who hates and sends away … covers his garment with violence” is the modern reading. Rashi reads כִּי־שָׂנֵא שַׁלַּח as “if you hate her, send her away [with a bill of divorce]” (cf. Gittin 90b). This is a major editorial choice.
+- Malachi 2:10: the capital in “one Father” commits the verse to God. Some rabbinic readings (e.g. Rashi, Radak) take it as Jacob or Abraham.
+- Zechariah 9:8: מִצָּבָה is rendered “as a guard”. Rashi and Targum read it as מִצָּבָא (“because of / against an army”).
+- Zechariah 9:17: “his goodness … his beauty”. Rashi may take this as God’s goodness (“His”). I restored the repetition in this verse but did not change the pronoun.
+- Zechariah 14:18: “go up and come, with no rain upon them, there will be the plague” is hard to follow aloud. Rashi: Egypt does not depend on rain, so instead of drought the plague will come upon them. A clearer rendering needs an editorial decision.
+- Zechariah 14:21: Targum and many rabbinic commentators read כְנַעֲנִי as “trader”. The column keeps “Canaanite”.
+- Zechariah 10:4: “every taskmaster” (נוֹגֵשׂ) is used in a positive context. Radak reads it as “ruler/officer”, but Rashi may read it as those who will exact payment from the nations. Left unchanged.
+- Consistency: מַשָּׂא is rendered “An oracle” in Zechariah 9:1 and 12:1 but “A pronouncement” in Malachi 1:1.
+
+## Data
+- The whole chunk uses straight apostrophes (Jacob's, YHWH's) alongside curly quotation marks. In my edits I kept them and added no new apostrophes.
+- Malachi 3:22–24 are in Greek order: Elijah (MT 3:23), then 3:24, then Moses (MT 3:22). The quotation marks were written for MT order. As a result the Elijah row has no opening “, and the Moses row (displayed last) opens “ and never closes it. I left this alone because it is a punctuation-only fix, but it needs one.
+- Zechariah 11:2, 14:2 and 14:6 show ketiv with qere in brackets. The EN follows the qere. This is expected.
+- No LOCKED rows.
