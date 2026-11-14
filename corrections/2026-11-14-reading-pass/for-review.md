@@ -845,3 +845,28 @@ Data / style observations:
 - Malachi 3:22–24 are in Greek order: Elijah (MT 3:23), then 3:24, then Moses (MT 3:22). The quotation marks were written for MT order. As a result the Elijah row has no opening “, and the Moses row (displayed last) opens “ and never closes it. I left this alone because it is a punctuation-only fix, but it needs one.
 - Zechariah 11:2, 14:2 and 14:6 show ketiv with qere in brackets. The EN follows the qere. This is expected.
 - No LOCKED rows.
+
+## Comparison notes and classifications
+
+Left unchanged in the notes refresh, or changed but worth a second look.
+
+- **Isaiah 14:30 (page 3836)**: “Hebrew firstborn of the weak, idiomatically the poorest …” The reading now says “The firstborn of the poor”. The sentence explains the Hebrew idiom and is still true, so it was left alone. Possibly reword “weak” to “poor” to match the display.
+- **Proverbs 4:25 (page 3812)**: “unlike Hebrew the direct forward gaze” is a paraphrase of the meaning. It still fits “gaze straight before you”, so it was not changed.
+- **Ezekiel 4:11 (page 3774)**: The combined classification says “Text: Same”. Hebrew now reads “at fixed times” and Greek reads “from time to time”, so the label may need regrading. The paragraph does not quote the old wording, so it was not changed.
+- **Jeremiah 22:23 (page 3781)** (changed): it still says “Text: Different”, but both columns now have groaning. The label may need regrading.
+- **Ezra 4:2 (page 3851)** (changed): the reading now follows the qere, so these paragraphs were rewritten more than usual. One keeps “This classification therefore does not describe all Hebrew transmission as opposed to Greek”. The card’s classification may now be out of date and needs a human check.
+- **Exodus 4:10 (page 1203)**: “Neither wording …” is ordinary prose, so it was not changed.
+- **Exodus 25:12 (page 1245)** — “Hebrew pa‘amot refers to feet or supports here”. This is a statement about the Hebrew word, so it was left alone, but the Hebrew–English reading now says “four corners”, which the note’s gloss no longer supports.
+- **Numbers 19:17 (page 1366)** — “both literally mean living water, here fresh water”. The reading now says “living water”. The paragraph reads as a gloss on the Hebrew and Greek words, not a quotation of the English, so it was left alone.
+- **Ezekiel 41:6 (page 3777)** — “Hebrew's compressed three-and-thirty-times wording … are preserved”. The Hebrew–English reading now says “thirty-three times”. The phrase still matches the Hebrew word order (shalosh ushloshim), but “preserved” may suggest the English keeps that order.
+- **2 Kings 8:11 (page 3870)** — “the shame construal used provisionally in the running columns”. Left alone because “until he was ashamed” still uses a shame construal.
+- **Isaiah 25:5 (page 3837)** — This Rashi section was left alone because it describes Rashi’s reading, not the column. Note that the reading no longer follows Rashi here (the paragraph describing the column was changed).
+- **Jeremiah 27:8** — the rewrite dropped the clause “no marginal reading is claimed”. The command “go out” may follow the qere, so that clause may no longer hold.
+- **Exodus 25:12 (page 3840):** “Hebrew pa‘amot refers to feet or supports here.” This is a claim about the Hebrew word, but the Hebrew–English reading now says “corners”. It may need “corners” worked in.
+- **Deuteronomy 4:37 (page 1407):** “Hebrew shifts from plural fathers to his offspring after him… Greek makes the ancestry plural.” This is true of the Hebrew suffixes, but the displayed English now says “their offspring after them”, so readers may see a mismatch. It may need a short “rendered their… them” note.
+- **2 Kings 8:10 (page 3870):** The Rashi/Chabad paragraph about written לא versus read לו is accurate as source description. The reading now follows the read form (“say to him: You will surely live”). The card's other-column note still says the negative written reading is “retained here”. That text is outside the paragraphs, so it was not edited, but it is stale.
+- **Job 23:17 (page 3793):** Only “concealed” was changed to “conceal”. “This close rendering is provisional; alternatives…” may need a fuller rewrite now that the clause reads “nor did He conceal”.
+- **Isaiah 64:6 (page 3838):** The Rashi quote (“You caused us to wander”) was left as a source quotation. The reading now says “melt away”.
+- **Jeremiah 2:20 (page 3780):** In one paragraph, the sentence after the edit (“why even a rabbinic-priority rendering must be distinguished…”) reads less naturally now that the card follows Rashi. another (“reading traditions behind serve and transgress”) was left as a statement about the Hebrew.
+- **Ezekiel 11:11 (page 3774):** “It does not mean Hebrew contains Greek's negative.” This was left as a claim about the Hebrew text and Rashi, but the English now carries the negative into the second clause. The “Text: Disparate” labels were also left as they are.
+- **Ezekiel 36:14 (page 3776):** After the edit both columns say “bereave”, but the classification still classifies the text as “Different”. The classification label was not changed.
