@@ -92,3 +92,41 @@ Data:
 
 - Numbers 6:27 (card v-6-27, placed after 6:23 in the Greek order) has the reference “Numbers 6:23”, the same as card v-6-23. validate.py looks rows up by reference, so the second row overwrites the first. A change to the real 6:23 (v-6-23) would fail validation. Neither row was changed.
 - The formula וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר is rendered several ways across the column: “YHWH spoke to Moses, saying,” (hebrew-002), “YHWH said to Moses, saying,” (hebrew-006, line 769), and “YHWH said to Moses:” (hebrew-007). This chunk’s Numbers 7:4 now uses “YHWH said to Moses:”. hebrew-006 may want the same change.
+
+## Numbers 8–22
+
+# hebrew-006 notes (Numbers 8–22)
+
+## For a specialist or editorial decision (not changed)
+
+- Numbers 8:16: נְתֻנִים נְתֻנִים is rendered “wholly given”. This is the same question as Numbers 3:9 (see the hebrew-005 notes). Decide both verses together.
+- Numbers 9:22: יָמִים is rendered “days on end”. Rashi reads it as “a year” (as in Leviticus 25:29).
+- Numbers 14:34: תְּנוּאָתִי is rendered “My opposition”. Rashi reads it as Israel turning its heart away from God, not God opposing Israel.
+- Numbers 18:7: “a service of gift” (עֲבֹדַת מַתָּנָה) is hard to follow aloud. Editors may prefer “a service given as a gift”, which matches Rashi’s reading that it is given to you as a gift.
+- Numbers 19:2: “sound and without defect” for תְּמִימָה. Rashi (from Sifrei) reads it as “perfect in its redness”, because “without defect” comes straight after it.
+- Numbers 21:1: “the road of Atharim” treats הָאֲתָרִים as a place name. Rashi and Onkelos both read it as “the way of the spies”. The editors should decide whether to keep it as a name.
+- Numbers 21:14: “Waheb in Suphah”. Rashi and Onkelos read אֶת־וָהֵב בְּסוּפָה as God’s deeds at the Sea of Reeds. This obscure verse needs a specialist.
+- Numbers 21:30: “We shot them down”. Rashi and Onkelos read וַנִּירָם as “their dominion” (נִיר), which has perished from Heshbon to Dibon. This needs a specialist.
+
+## Data problems
+
+- 28 EN rows from Numbers 18:2 to 22:35 use straight apostrophes, for example “your father's tribe”, “YHWH's”, “King's Highway” and “Balaam's”. I did not change them, because punctuation is not changed on its own. A global fix to ’ is needed.
+- The column's style changes inside this chunk. Chapters 8–10 and 18–22 use “sons of Israel” and put speech after a colon without quotation marks. Chapters 11–17 use “Israelites” or “Israelite congregation” and curly-quoted speech, and their formulas end in “saying,” where the other chapters have “saying:”. Not changed.
+- “Ark” is capitalised in 10:33 (“the Ark of YHWH’s Covenant”) but not in 10:35 (v-10-35) or 14:44. Not changed.
+
+## Numbers 23–36
+
+# hebrew-007 notes (Numbers 23–36)
+
+## For a specialist or editorial decision (not changed)
+
+- Num 23:23: כָּעֵת is rendered “At the appointed time”. The plain sense is “now” or “at this time”. Rashi reads it as “there will yet be a time like this time”. “Appointed” is not in the Hebrew. Editors may prefer “Now” or “At such a time”.
+- Num 25:4: in “Take all the leaders of the people and expose them”, Rashi takes the leaders as the judges and “them” as the worshippers of Peor who are hanged. The English follows the plain wording. A specialist should decide.
+- Num 24:22: לְבָעֵר is rendered “burned away”. The verb can also mean “removed” or “driven out”, and Rashi applies it to exile. Left as it is.
+- Num 28:19, 28:27, 29:8, 29:13: aloud, “seven year-old lambs” and “fourteen year-old lambs” can sound like “seven-year-old lambs”. The same wording occurs about 13 times in Numbers 7 (hebrew-005), so any fix (e.g. “seven lambs a year old”) should be made across the whole column.
+
+## Data and conventions
+
+- Num 26:1 (masoretic_reference 25:19–26:1): the SRC has וַיְהִי אַחֲרֵי הַמַּגֵּפָה twice. Merging 25:19 into 26:1 seems to have duplicated it. The English is correct.
+- Chapters 23–29 introduce speech with a colon and no quotation marks, use straight apostrophes (Balaam's) and say “sons of Israel”. Chapters 30–36 use curly quotation marks and apostrophes and say “Israelites”. Each changed row keeps its own chapter’s style. The straight apostrophes in 23–29 go against house style and could be converted in one sweep.
+- Small inconsistencies were left alone: “three tenths” (ch. 28) vs “three-tenths” (ch. 29), and “fire offering” (ch. 28) vs “offering by fire” (ch. 29).
