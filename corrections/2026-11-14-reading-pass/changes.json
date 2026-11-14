@@ -1,0 +1,114 @@
+{
+  "source": "Westminster Leningrad Codex",
+  "date": "2026-11-14",
+  "changes": [
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 11:45",
+      "card_id": "v-11-45",
+      "severity": "minor",
+      "before": "For I am YHWH who brings you up from the land of Egypt to be your God. You shall be holy, for I am holy.",
+      "after": "For I am YHWH who brought you up from the land of Egypt to be your God. You shall be holy, for I am holy.",
+      "reason": "The participle הַמַּעֲלֶה refers here to the completed Exodus (Rashi paraphrases it as הֶעֱלֵיתִי, “I brought you up”), and the column renders the same construction as past in 22:33; present “brings” sounds aloud as if Israel were still leaving Egypt."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 13:5",
+      "card_id": "v-13-5",
+      "severity": "minor",
+      "before": "On the seventh day the priest shall examine him. If the lesion remains unchanged in his eyes and has not spread in the skin, the priest shall isolate him for another seven days.",
+      "after": "On the seventh day the priest shall examine him. If the lesion remains unchanged in its appearance and has not spread in the skin, the priest shall isolate him for another seven days.",
+      "reason": "עָמַד בְּעֵינָיו means the lesion kept its own appearance (Rashi: “in its appearance and its original size”; cf. עֵינוֹ in 13:55), not anyone’s eyes; “in his eyes” points the listener to the man or the priest."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 13:37",
+      "card_id": "v-13-37",
+      "severity": "minor",
+      "before": "But if in his eyes the scaly lesion has remained unchanged and black hair has grown in it, the scaly lesion has healed. He is clean, and the priest shall declare him clean.",
+      "after": "But if the scaly lesion has remained unchanged in its appearance and black hair has grown in it, the scaly lesion has healed. He is clean, and the priest shall declare him clean.",
+      "reason": "As in 13:5, בְּעֵינָיו refers to the lesion’s own appearance (Rashi), so “in his eyes” misleads; the order is adjusted so the phrase attaches to the lesion."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 16:22",
+      "card_id": "v-16-22",
+      "severity": "minor",
+      "before": "The goat shall bear upon itself all their iniquities to a remote land, and he shall release the goat in the wilderness.",
+      "after": "The goat shall bear upon itself all their iniquities to a land cut off, and he shall release the goat in the wilderness.",
+      "reason": "אֶרֶץ גְּזֵרָה is literally a land “cut off” (Rashi: מְנֻתֶּקֶת, severed); “remote” loses the source’s image of the iniquities being carried to a land cut off from the people."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 17:14",
+      "card_id": "v-17-14",
+      "severity": "spoken",
+      "before": "For the life of all flesh is its blood with its life. I said to the sons of Israel: You shall not eat the blood of any flesh, for the life of all flesh is its blood. Whoever eats it shall be cut off.",
+      "after": "For the life of all flesh—its blood is bound up with its life. I said to the sons of Israel: You shall not eat the blood of any flesh, for the life of all flesh is its blood. Whoever eats it shall be cut off.",
+      "reason": "“Is its blood with its life” does not parse aloud; Rashi explains דָּמוֹ בְנַפְשׁוֹ הוּא as the life depending on the blood, which “bound up with” conveys while keeping the verse’s two distinct statements."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 20:18",
+      "card_id": "v-20-18",
+      "severity": "minor",
+      "before": "If a man lies with a woman during her menstrual illness and uncovers her nakedness, he has exposed her fountain, and she has uncovered the source of her blood. Both shall be cut off from among their people.",
+      "after": "If a man lies with a woman during her menstrual illness and uncovers her nakedness, he has exposed her source, and she has uncovered the source of her blood. Both shall be cut off from among their people.",
+      "reason": "The Hebrew uses מְקוֹר twice (מְקֹרָהּ … מְקוֹר דָּמֶיהָ); “source” restores the deliberate repetition and matches “the source of her blood” in 12:7."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 25:16",
+      "card_id": "v-25-16",
+      "severity": "spoken",
+      "before": "As the years increase, you shall increase its purchase price; as the years decrease, you shall decrease its purchase price, for he is selling you a number of harvests.",
+      "after": "When the years are many, you shall increase its purchase price; when the years are few, you shall decrease its purchase price, for he is selling you a number of harvests.",
+      "reason": "לְפִי רֹב הַשָּׁנִים / מְעֹט הַשָּׁנִים means “according to many / few years”; “as the years increase” sounds aloud like the passing of time, which would reverse the sense (fewer harvests remain as time passes)."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 25:35",
+      "card_id": "v-25-35",
+      "severity": "minor",
+      "before": "If your brother becomes poor and his hand falters beside you, you shall support him as a resident foreigner and a lodger, so that he may live with you.",
+      "after": "If your brother becomes poor and his hand falters beside you, you shall support him, even if he is a resident foreigner or a lodger, so that he may live with you.",
+      "reason": "גֵּר וְתוֹשָׁב stands without “as” and is ambiguous; following Rashi (“even if he is a ger or a toshav”) the duty of support extends to them, rather than treating the poor brother as a foreigner."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 26:39",
+      "card_id": "v-26-39",
+      "severity": "minor",
+      "before": "Those of you who remain will waste away in your enemies’ lands because of their own guilt. They will also waste away with their fathers because of their fathers’ guilt.",
+      "after": "Those of you who remain will waste away in your enemies’ lands because of their own guilt. They will also waste away because of their fathers’ guilt, which is with them.",
+      "reason": "אִתָּם refers to the fathers’ iniquities still with them (Rashi and Onkelos: the fathers’ deeds they hold in their hands), not to the fathers wasting away alongside them."
+    },
+    {
+      "book": "numbers",
+      "reference": "Numbers 3:4",
+      "card_id": "v-3-4",
+      "severity": "minor",
+      "before": "Nadab and Abihu died before YHWH when they offered unauthorized fire before YHWH in the wilderness of Sinai. They had no sons. Eleazar and Ithamar served as priests in the presence of Aaron their father.",
+      "after": "Nadab and Abihu died before YHWH when they offered unauthorized fire before YHWH in the wilderness of Sinai. They had no sons. Eleazar and Ithamar served as priests during the lifetime of Aaron their father.",
+      "reason": "עַל־פְּנֵי אַהֲרֹן is read by Rashi as “in Aaron’s lifetime” (as at Genesis 11:28 in the previous pass); “in the presence of” suggests only that he was watching."
+    },
+    {
+      "book": "numbers",
+      "reference": "Numbers 4:20",
+      "card_id": "v-4-20",
+      "severity": "spoken",
+      "before": "They must not enter to see the holy things as they are covered, lest they die.",
+      "after": "They must not enter to see while the holy things are being covered, lest they die.",
+      "reason": "כְּבַלַּע is the moment of wrapping (Rashi: as the holy things are put into their coverings); “as they are covered” can be heard as “in their covered state,” which would forbid the Kohathites the very things they carry."
+    },
+    {
+      "book": "numbers",
+      "reference": "Numbers 7:4",
+      "card_id": "v-7-4",
+      "severity": "spoken",
+      "before": "YHWH said to Moses, saying:",
+      "after": "YHWH said to Moses:",
+      "reason": "“Said … saying” trips the ear; לֵאמֹר after וַיֹּאמֶר only introduces the speech, and the column renders the same formula “YHWH said to Moses:” elsewhere in Numbers."
+    }
+  ]
+}
