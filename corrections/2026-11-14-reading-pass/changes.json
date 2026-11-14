@@ -3,6 +3,312 @@
   "date": "2026-11-14",
   "changes": [
     {
+      "book": "exodus",
+      "reference": "Exodus 3:15",
+      "card_id": "v-3-15",
+      "severity": "minor",
+      "before": "God also said to Moses, “Say this to the sons of Israel: ‘YHWH, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is My name forever, the name by which I am to be remembered from generation to generation.",
+      "after": "God also said to Moses, “Say this to the sons of Israel: ‘YHWH, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is My name forever, and this is how I am to be remembered from generation to generation.",
+      "reason": "The Hebrew sets two parallel clauses, zeh shemi … ve-zeh zikhri (“this is My name … and this is My remembrance”); restoring the second “this” keeps the parallel, and “how I am to be remembered” follows Rashi (He taught Moses how the Name is to be called)."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 4:10",
+      "card_id": "v-4-10",
+      "severity": "minor",
+      "before": "Moses said to YHWH, “Please, my Lord, I have never been a man of words, neither before nor since You spoke to Your servant, for I am heavy of mouth and heavy of tongue.”",
+      "after": "Moses said to YHWH, “Please, my Lord, I am not a man of words, not yesterday, not the day before, and not since You spoke to Your servant, for I am heavy of mouth and heavy of tongue.”",
+      "reason": "The Hebrew says “I am not a man of words” and repeats gam three times (“yesterday … the day before … since You spoke”), words Rashi counts to show Moses held back for seven days at the bush; “neither before nor since” dropped them."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 9:6",
+      "card_id": "v-9-6",
+      "severity": "spoken",
+      "before": "YHWH did this the next day. All Egypt’s livestock died, but not one of the sons of Israel’s livestock died.",
+      "after": "YHWH did this the next day. All Egypt’s livestock died, but of the livestock of the sons of Israel not one died.",
+      "reason": "Aloud, “not one of the sons of Israel’s livestock” first sounds like “not one of the sons”; following the Hebrew order (“of the livestock of the sons of Israel not one died”) removes the slip."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 10:2",
+      "card_id": "v-10-2",
+      "severity": "minor",
+      "before": "“and so that you may tell your son and your son’s son how I dealt harshly with the Egyptians and what signs I performed among them, and you may know that I am YHWH.”",
+      "after": "“and so that you may tell your son and your son’s son how I made a mockery of the Egyptians and what signs I performed among them, and you may know that I am YHWH.”",
+      "reason": "Rashi reads hit’allalti as “I made sport of” (as in Balaam’s “you have made a mockery of me,” Numbers 22:29), not a word for deeds; “dealt harshly” lost that image."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 12:17",
+      "card_id": "v-12-17",
+      "severity": "minor",
+      "before": "“You shall observe the Unleavened Bread, for on this very day I brought your hosts out of the land of Egypt. You shall observe this day throughout your generations as a perpetual statute.",
+      "after": "“You shall guard the unleavened bread, for on this very day I brought your hosts out of the land of Egypt. You shall observe this day throughout your generations as a perpetual statute.",
+      "reason": "The Hebrew has no word for “feast” here; Rashi, with Onkelos, reads ushmartem et-hamatzot as guarding the unleavened bread so that it does not become leavened, which the festival name “the Unleavened Bread” obscured."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 12:40",
+      "card_id": "v-12-40",
+      "severity": "minor",
+      "before": "The time the sons of Israel lived in Egypt was four hundred and thirty years.",
+      "after": "The dwelling of the sons of Israel, who dwelt in Egypt, was four hundred and thirty years.",
+      "reason": "Rashi shows the 430 years cannot all have been spent in Egypt (they are counted from the covenant between the pieces) and reads “who dwelt in Egypt” as describing the people; the previous wording placed the whole span in Egypt."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 13:17",
+      "card_id": "v-13-17",
+      "severity": "minor",
+      "before": "When Pharaoh let the people go, God did not lead them by the road through the land of the Philistines, although it was near. For God said, “The people may change their minds when they see war and return to Egypt.”",
+      "after": "When Pharaoh let the people go, God did not lead them by the road through the land of the Philistines, because it was near. For God said, “The people may change their minds when they see war and return to Egypt.”",
+      "reason": "Rashi reads ki karov hu as the reason, not a concession: the road was near, so it would be easy to turn back to Egypt, as the following clause explains."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 14:25",
+      "card_id": "v-14-25",
+      "severity": "minor",
+      "before": "He removed their chariot wheels and made them move with difficulty. The Egyptians said, “Let us flee from Israel, for YHWH is fighting for them against the Egyptians.”",
+      "after": "He removed their chariot wheels and made them drive heavily. The Egyptians said, “Let us flee from Israel, for YHWH is fighting for them against the Egyptians.”",
+      "reason": "Bikhvedut (“heavily”) is the word of Pharaoh’s heavy heart, and Rashi notes the measure for measure: as they made their hearts heavy, so He made them drive heavily; “with difficulty” lost the link."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 15:17",
+      "card_id": "v-15-17",
+      "severity": "spoken",
+      "before": "“You will bring them in and plant them on the mountain of Your inheritance, the place You made for Your dwelling, YHWH, the sanctuary Your hands established, Lord.",
+      "after": "“You will bring them in and plant them on the mountain of Your inheritance, the place You made for Your dwelling, YHWH, the sanctuary, Lord, that Your hands established.",
+      "reason": "Following the Hebrew order (mikdash Adonai), the vocative “Lord” now stands after “the sanctuary,” in parallel with “YHWH” in the line before; at the end of the verse it sounded tacked on to “established.”"
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 16:12",
+      "card_id": "v-16-12",
+      "severity": "spoken",
+      "before": "“I have heard the sons of Israel’s grumbling. Tell them: Between the evenings you shall eat meat, and in the morning you shall have your fill of bread. You shall know that I am YHWH your God.”",
+      "after": "“I have heard the grumbling of the sons of Israel. Tell them: Between the evenings you shall eat meat, and in the morning you shall have your fill of bread. You shall know that I am YHWH your God.”",
+      "reason": "“The sons of Israel’s grumbling” is awkward aloud; the of-phrase follows the Hebrew word order and the column’s usual wording."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 16:31",
+      "card_id": "v-16-31",
+      "severity": "spoken",
+      "before": "The house of Israel called it Man. It was like coriander seed, white, and tasted like wafers with honey.",
+      "after": "The house of Israel called it manna. It was like coriander seed, white, and tasted like wafers with honey.",
+      "reason": "Aloud, “called it Man” sounds like the English word “man”; “manna,” the form the column uses in 16:33 and 16:35, names the same Hebrew word without the confusion."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 19:1",
+      "card_id": "v-19-1",
+      "severity": "minor",
+      "before": "In the third month after the sons of Israel left the land of Egypt, on that day they came to the wilderness of Sinai.",
+      "after": "In the third month after the sons of Israel left the land of Egypt, on this day they came to the wilderness of Sinai.",
+      "reason": "The Hebrew is בַּיּוֹם הַזֶּה, “on this day,” not “on that day”; Rashi stresses the “this” (the words of Torah should be as new to you as if given today)."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 19:9",
+      "card_id": "v-19-9",
+      "severity": "minor",
+      "before": "YHWH said to Moses, “Behold, I am coming to you in a thick cloud, so that the people may hear when I speak with you and trust you forever.” Moses told the people’s words to YHWH.",
+      "after": "YHWH said to Moses, “Behold, I am coming to you in a thick cloud, so that the people may hear when I speak with you, and may also trust you forever.” Moses told the people’s words to YHWH.",
+      "reason": "Restores וְגַם (“and also”), on which Rashi comments (also the prophets who come after you)."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 19:13",
+      "card_id": "v-19-13",
+      "severity": "minor",
+      "before": "“‘No hand shall touch him, but he shall surely be stoned or shot. Whether animal or human, he shall not live. When the ram’s horn sounds a long blast, they may go up the mountain.’”",
+      "after": "“‘No hand shall touch him, but he shall surely be stoned or thrown down. Whether animal or human, he shall not live. When the ram’s horn sounds a long blast, they may go up the mountain.’”",
+      "reason": "יָרֹה יִיָּרֶה can mean “shot” or “cast down”; Rashi reads it as being thrown down to the ground (as יָרָה in 15:4), so “shot” follows a reading the edition does not prefer."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 19:15",
+      "card_id": "v-19-15",
+      "severity": "minor",
+      "before": "He said to the people, “Be ready for the third day. Do not approach a woman.”",
+      "after": "He said to the people, “Be ready for three days. Do not approach a woman.”",
+      "reason": "Moses says לִשְׁלֹשֶׁת יָמִים, “for three days,” not the “for the third day” of 19:11; Rashi builds on the difference, so it should not be harmonised."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 22:12",
+      "card_id": "v-22-13",
+      "severity": "minor",
+      "before": "If it was torn by a wild animal, he shall bring it as evidence. He shall not make restitution for what was torn.",
+      "after": "If it was torn by a wild animal, he shall bring witnesses. He shall not make restitution for what was torn.",
+      "reason": "יְבִאֵהוּ עֵד is ambiguous (bring the carcass as evidence, or bring a witness); Onkelos (ייתי ליה סהדין) and Rashi read “let him bring witnesses that it was torn,” which the edition follows."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 23:1",
+      "card_id": "v-23-1",
+      "severity": "minor",
+      "before": "You shall not spread a false report. Do not join hands with a wicked person to be a malicious witness.",
+      "after": "You shall not accept a false report. Do not join hands with a wicked person to be a malicious witness.",
+      "reason": "לֹא תִשָּׂא can mean “take up” or “carry”; Onkelos (לא תקבל) and Rashi read it as a warning not to accept a false report (and for a judge not to hear one side alone), not to spread one."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 24:10",
+      "card_id": "v-24-10",
+      "severity": "minor",
+      "before": "and they saw the God of Israel. Under His feet was something like a pavement of sapphire, clear as the very heavens.",
+      "after": "and they saw the God of Israel. Under His feet was something like the work of a sapphire brick, clear as the very heavens.",
+      "reason": "כְּמַעֲשֵׂה לִבְנַת הַסַּפִּיר is “like the work of a brick of sapphire”; Rashi explains the brick as a reminder of Israel’s slavery in brickwork, an image “pavement” loses."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 25:12",
+      "card_id": "v-25-12",
+      "severity": "minor",
+      "before": "You shall cast four gold rings for it and place them on its four feet, two rings on one side and two on the other.",
+      "after": "You shall cast four gold rings for it and place them on its four corners, two rings on one side and two on the other.",
+      "reason": "פַּעֲמֹתָיו is ambiguous (feet or corners); Onkelos (זויתיה) and Rashi read “its corners,” the upper corners next to the cover."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 25:40",
+      "card_id": "v-25-40",
+      "severity": "minor",
+      "before": "See that you make them according to the pattern shown to you on the mountain.",
+      "after": "See, and make them according to their pattern, which you are being shown on the mountain.",
+      "reason": "וּרְאֵה וַעֲשֵׂה are two commands, “see and make,” with the participle מָרְאֶה (“being shown”); Rashi reads it as God showing Moses the model there on the mountain, which “see that you make” loses."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 30:20",
+      "card_id": "v-30-20",
+      "severity": "spoken",
+      "before": "When they enter the Tent of Meeting, they shall wash with water so that they do not die, and when they approach the altar to minister and burn an offering by fire to YHWH.",
+      "after": "When they enter the Tent of Meeting, or when they approach the altar to minister and burn an offering by fire to YHWH, they shall wash with water so that they do not die.",
+      "reason": "Read aloud, the closing “and when they approach the altar…” is left without a main clause; placing both occasions (joined by אוֹ, “or”) before the washing makes clear the command covers each."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 30:34",
+      "card_id": "v-30-34",
+      "severity": "minor",
+      "before": "YHWH said to Moses, “Take fragrant spices: stacte, onycha, galbanum, and pure frankincense, in equal portions.",
+      "after": "YHWH said to Moses, “Take fragrant spices—stacte, onycha, and galbanum—fragrant spices and pure frankincense, in equal portions.",
+      "reason": "The Hebrew repeats סַמִּים (“spices”) before the frankincense; Rashi, following Keritot 6b, derives further incense spices from the repetition, so it is kept."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 30:35",
+      "card_id": "v-30-35",
+      "severity": "minor",
+      "before": "Make them into incense, a perfumer’s compound, salted, pure, and holy.",
+      "after": "Make them into incense, a perfumer’s compound, well blended, pure, and holy.",
+      "reason": "מְמֻלָּח is ambiguous; Onkelos (מערב) and Rashi read it as “thoroughly mixed” (like sailors stirring the water with oars) rather than “salted.”"
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 31:13",
+      "card_id": "v-31-13",
+      "severity": "minor",
+      "before": "“Tell the sons of Israel: ‘You must keep My Sabbaths, for they are a sign between Me and you throughout your generations, so that you may know that I am YHWH who sanctifies you.",
+      "after": "“Tell the sons of Israel: ‘Nevertheless, you must keep My Sabbaths, for they are a sign between Me and you throughout your generations, so that you may know that I am YHWH who sanctifies you.",
+      "reason": "Restores the limiting particle אַךְ; Rashi reads it as “even though you are eager in the work of the tabernacle, it shall not override the Sabbath,” linking the command to the craft instructions before it."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 32:24",
+      "card_id": "v-32-24",
+      "severity": "minor",
+      "before": "So I told them, ‘Whoever has gold, take it off.’ They gave it to me, I threw it into the fire, and this calf came out.”",
+      "after": "So I said to them, ‘Who has gold?’ They took it off and gave it to me. I threw it into the fire, and this calf came out.”",
+      "reason": "הִתְפָּרָקוּ can be read as a command or as narrative; Rashi reads Aaron as saying only “Who has gold?” while the people hurried to take it off and give it, the edition’s Rabbinic-priority reading."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 33:5",
+      "card_id": "v-33-5",
+      "severity": "minor",
+      "before": "YHWH had said to Moses, “Tell the sons of Israel: ‘You are a stiff-necked people. If I go up among you for a moment, I may consume you. Now remove your ornaments, so that I may know what to do with you.’”",
+      "after": "YHWH said to Moses, “Tell the sons of Israel: ‘You are a stiff-necked people. If I go up among you for a moment, I may consume you. Now remove your ornaments, so that I may know what to do with you.’”",
+      "reason": "וַיֹּאמֶר is a plain sequential verb; the pluperfect “had said” places God’s words before the mourning of 33:4, whereas Rashi reads “and now remove your ornaments” as a new penalty given at this point."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 33:6",
+      "card_id": "v-33-6",
+      "severity": "minor",
+      "before": "The sons of Israel stripped themselves of their ornaments from Mount Horeb onward.",
+      "after": "The sons of Israel stripped themselves of their ornaments from Mount Horeb.",
+      "reason": "מֵהַר חוֹרֵב is ambiguous; Rashi reads it as the ornaments they had received at Mount Horeb, while “onward” adds a time span the Hebrew does not state."
+    },
+    {
+      "book": "exodus",
+      "reference": "Exodus 34:9",
+      "card_id": "v-34-9",
+      "severity": "minor",
+      "before": "He said, “If I have found favor in Your sight, my Lord, please go among us, though this is a stiff-necked people. Pardon our iniquity and sin, and take us as Your inheritance.”",
+      "after": "He said, “If I have found favor in Your sight, my Lord, please let my Lord go among us, though this is a stiff-necked people. Pardon our iniquity and sin, and take us as Your inheritance.”",
+      "reason": "The Hebrew repeats אֲדֹנָי as the subject of יֵלֶךְ־נָא (“let my Lord, please, go among us”), Moses’ deferential answer to 33:3 (“I will not go up among you”); the repeated title had been dropped."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 1:16",
+      "card_id": "v-1-16",
+      "severity": "minor",
+      "before": "He shall remove its crop with its feathers and throw it beside the altar on the east, at the place for ashes.",
+      "after": "He shall remove its crop with its contents and throw it beside the altar on the east, at the place for ashes.",
+      "reason": "בְּנֹצָתָהּ is ambiguous; Onkelos (בְּאוּכְלֵיהּ, “with its food”) and Rashi (“with its innards”) read it as what the crop holds, not the bird’s feathers."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 2:2",
+      "card_id": "v-2-2",
+      "severity": "minor",
+      "before": "He shall bring it to Aaron’s sons, the priests, and take from it a full handful of its fine flour and oil, with all its frankincense. The priest shall burn its memorial portion on the altar: an offering by fire, a pleasing aroma to YHWH.",
+      "after": "He shall bring it to Aaron’s sons, the priests, and the priest shall take from it a full handful of its fine flour and oil, with all its frankincense. The priest shall burn its memorial portion on the altar: an offering by fire, a pleasing aroma to YHWH.",
+      "reason": "The subject of וְקָמַץ is unstated; Rashi (the scooping may be done where a non-priest stands) takes it as the priest, as 5:12 says outright, whereas the English had the lay offerer take the handful."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 4:23",
+      "card_id": "v-4-23",
+      "severity": "minor",
+      "before": "or his sin that he has committed is made known to him, he shall bring as his offering an unblemished male goat.",
+      "after": "once his sin that he has committed is made known to him, he shall bring as his offering an unblemished male goat.",
+      "reason": "Rashi reads אוֹ הוֹדַע as אִם הוֹדַע (“if/when it is made known”): the leader brings his offering once he learns of the sin, as in 4:14; “or” made being informed a separate trigger."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 4:28",
+      "card_id": "v-4-28",
+      "severity": "minor",
+      "before": "or his sin that he has committed is made known to him, he shall bring as his offering an unblemished female goat for the sin he has committed.",
+      "after": "when his sin that he has committed is made known to him, he shall bring as his offering an unblemished female goat for the sin he has committed.",
+      "reason": "As in 4:23, Rashi reads אוֹ הוֹדַע as “if/when it is made known”, matching “when the sin … becomes known” in 4:14; “or” made being informed a separate trigger."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 5:24",
+      "card_id": "v-6-5",
+      "severity": "minor",
+      "before": "or anything about which he swore falsely. He shall repay its principal and add a fifth to it. He shall give it to its owner on the day of his guilt offering.",
+      "after": "or anything about which he swore falsely. He shall repay its principal and add a fifth to it. He shall give it to its owner on the day he acknowledges his guilt.",
+      "reason": "בְּיוֹם אַשְׁמָתוֹ is “the day of his guilt” (אַשְׁמָה), not of his guilt offering (אָשָׁם); Rashi explains it as the day he admits his guilt, before the offering of 5:25."
+    },
+    {
+      "book": "leviticus",
+      "reference": "Leviticus 7:13",
+      "card_id": "v-7-13",
+      "severity": "minor",
+      "before": "With cakes of leavened bread he shall present his offering, with his sacrifice of thanksgiving and well-being.",
+      "after": "With cakes of leavened bread he shall present his offering, with his thanksgiving sacrifice of well-being.",
+      "reason": "זֶבַח תּוֹדַת שְׁלָמָיו is one sacrifice, the thanksgiving kind of well-being offering, rendered “his thanksgiving sacrifice of well-being” in 7:15; “thanksgiving and well-being” sounds like two sacrifices."
+    },
+    {
       "book": "leviticus",
       "reference": "Leviticus 11:45",
       "card_id": "v-11-45",
