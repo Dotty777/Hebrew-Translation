@@ -2,7 +2,7 @@
 
 Continues the Genesis pass of 13 November across the rest of the Hebrew Bible. Every row was read against the Westminster Leningrad Codex under the edition’s Literal-Smooth, Rabbinic Priority approach, for fidelity first and clarity when read aloud second. Readings were changed only where the English said something the source does not (major), lost something the source does deliberately (minor), or was hard to follow aloud (spoken).
 
-So far: 7 books, 5,690 rows reviewed, 80 readings revised (1 major, 55 minor, 24 spoken).
+So far: 16 books, 11,447 rows reviewed, 159 readings revised (16 major, 87 minor, 56 spoken).
 
 | Book | Rows reviewed | Revised | Major | Minor | Spoken | On staging |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -13,6 +13,15 @@ So far: 7 books, 5,690 rows reviewed, 80 readings revised (1 major, 55 minor, 24
 | Joshua | 659 | 4 | 0 | 3 | 1 | pending |
 | Judges | 618 | 8 | 1 | 3 | 4 | pending |
 | Ruth | 85 | 0 | 0 | 0 | 0 | pending |
+| 1 Samuel | 773 | 17 | 1 | 10 | 6 | pending |
+| 2 Samuel | 696 | 10 | 1 | 2 | 7 | pending |
+| 1 Kings | 883 | 6 | 0 | 4 | 2 | pending |
+| 2 Kings | 723 | 14 | 4 | 5 | 5 | pending |
+| 1 Chronicles | 930 | 9 | 1 | 5 | 3 | pending |
+| 2 Chronicles | 833 | 13 | 3 | 5 | 5 | pending |
+| Ezra | 280 | 2 | 1 | 0 | 1 | pending |
+| Nehemiah | 392 | 7 | 4 | 1 | 2 | pending |
+| Esther | 247 | 1 | 0 | 0 | 1 | pending |
 
 Rows that could not be revised safely were shown to the reviewers for context but locked: rows with no source text or no English, placeholder rows (“No MT counterpart …”), rows sharing one site card, and grouped Vulgate verses. Bracketed tags inside readings (“[BHS 3:1]”, “[Aramaic]”) were kept exactly.
 
