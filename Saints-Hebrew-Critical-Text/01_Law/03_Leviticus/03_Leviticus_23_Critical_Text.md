@@ -1,0 +1,608 @@
+# Leviticus 23 — Saints Hebrew Critical Text
+
+**Division:** `01_Law` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:14:42Z`
+
+**Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
+
+**Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
+
+---
+
+## Section I — Admitted Witnesses & Gatekeeper Quarantine Declaration
+
+### Admitted Collation Witnesses (Open-Source Tiers 1–4)
+| Siglum | Witness Title | Tier | Weight | License | Text-Type |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
+| **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
+
+### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
+
+| Siglum | Witness Title | Tier | License | Text-Type |
+| :--- | :--- | :---: | :--- | :--- |
+| **BenChayyim (1525)** | Jacob ben Chayyim Masoretic Majority Text (Second Rabbinic Bible Tradition) | Tier 3 | Public Domain | Medieval Masoretic Majority / Rabbinic Bible Textus Receptus |
+| **Letteris (1852)** | Meir Halevi Letteris Masoretic Hebrew Bible (1852 / 1866 Edition) | Tier 3 | Public Domain / GPL-3.0 | Van der Hooght / Ben Chayyim / Erfurt Masoretic Majority |
+
+### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
+| Source | Status | Reason Excluded from Open Critical Text |
+| :--- | :---: | :--- |
+| Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+
+---
+
+## Section II — Continuous Hebrew Critical Text
+
+**1** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+**2** דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהֹוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃
+**3** שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־קֹ֔דֶשׁ כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהֹוָ֔ה בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶֽם׃
+**4** אֵ֚לֶּה מוֹעֲדֵ֣י יְהֹוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃
+**5** בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהֹוָֽה׃
+**6** וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַיהֹוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃
+**7** בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+**8** וְהִקְרַבְתֶּ֥ם אִשֶּׁ֛ה לַיהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הַשְּׁבִיעִי֙ מִקְרָא־קֹ֔דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+**9** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+**10** דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־הַכֹּהֵֽן׃
+**11** וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהֹוָ֖ה לִֽרְצֹנְכֶ֑ם מִֽמׇּחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃
+**12** וַעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַיהֹוָֽה׃
+**13** וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַיהֹוָ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃
+**14** וְלֶ֩חֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קׇרְבַּ֖ן אֱלֹהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃
+**15** וּסְפַרְתֶּ֤ם לָכֶם֙ מִמׇּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃
+**16** עַ֣ד מִֽמׇּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהֹוָֽה׃
+**17** מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהֹוָֽה׃
+**18** וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃
+**19** וַעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃
+**20** וְהֵנִ֣יף הַכֹּהֵ֣ן ׀ אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכֻּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהֹוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהֹוָ֖ה לַכֹּהֵֽן׃
+**21** וּקְרָאתֶ֞ם בְּעֶ֣צֶם ׀ הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃
+**22** וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+**23** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+**24** דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃
+**25** כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃
+**26** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+**27** אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹ֩דֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃
+**28** וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+**29** כִּ֤י כׇל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃
+**30** וְכׇל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כׇּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃
+**31** כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹֽשְׁבֹֽתֵיכֶֽם׃
+**32** שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם בְּתִשְׁעָ֤ה לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃
+**33** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+**34** דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים לַיהֹוָֽה׃
+**35** בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+**36** שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהֹוָ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־קֹ֩דֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהֹוָה֙ עֲצֶ֣רֶת הִ֔וא כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+**37** אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהֹוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃
+**38** מִלְּבַ֖ד שַׁבְּתֹ֣ת יְהֹוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כׇּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כׇּל־נִדְבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַיהֹוָֽה׃
+**39** אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאׇסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃
+**40** וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃
+**41** וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהֹוָ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃
+**42** בַּסֻּכֹּ֥ת תֵּשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כׇּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵשְׁב֖וּ בַּסֻּכֹּֽת׃
+**43** לְמַ֘עַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+**44** וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶת־מֹעֲדֵ֖י יְהֹוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃
+
+---
+
+## Section III — Critical Apparatus & Disregarded Surface Noise
+
+### Leviticus 23:1
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹשֶׁ֥ה / משֶׁ֥ה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:2
+- *Disregarded Surface Variant:* kept `יְהֹוָ֔ה` over `יְהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:3
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַֽיהֹוָ֔ה` over `לַֽיהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `וּבַיּ֣וֹם / וּבַיֹּ֣ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:4
+- *Disregarded Surface Variant:* kept `יְהֹוָ֔ה` over `יְהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:5
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הָרִאשׁ֗וֹן / הָרִאשֹׁ֗ון` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:6
+- *Disregarded Surface Variant:* kept `לַיהֹוָ֑ה` over `לַיהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַמַּצּ֖וֹת / הַמַּצֹּ֖ות`, `מַצּ֥וֹת / מַצֹּ֥ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:7
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּוֹם֙ הָֽרִאשׁ֔וֹן / בַּיֹּום֙ הָֽרִאשֹׁ֔ון` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:8
+- *Disregarded Surface Variant:* kept `לַיהֹוָ֖ה` over `לַיהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּ֤וֹם / בַּיֹּ֤ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:9
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹשֶׁ֥ה / משֶׁ֥ה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:11
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `מִֽמׇּחֳרַת֙` over `מִֽמָּחֳרַת֙` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:12
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:13
+- *Disregarded Surface Variant:* kept `לַיהֹוָ֖ה` over `לַיהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:14
+- *Disregarded Surface Variant:* kept `וְלֶ֩חֶם֩` over `וְלֶחֶם֩` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `קׇרְבַּ֖ן` over `קָרְבַּ֖ן` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֣וֹם / הַיֹּ֣ום`, `מֹשְׁבֹֽתֵיכֶֽם׃ / משְׁבֹֽתֵיכֶֽם׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:15
+- *Disregarded Surface Variant:* kept `מִמׇּחֳרַ֣ת` over `מִמָּחֳרַ֣ת` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מִיּוֹם֙ / מִיֹּום֙` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:16
+- *Disregarded Surface Variant:* kept `מִֽמׇּחֳרַ֤ת` over `מִֽמָּחֳרַ֤ת` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:17
+- *Disregarded Surface Variant:* kept `לַֽיהֹוָֽה׃` over `לַֽיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מִמּוֹשְׁבֹ֨תֵיכֶ֜ם / מִמֹּושְׁבֹ֨תֵיכֶ֜ם` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:18
+- *Disregarded Surface Variant:* kept `לַֽיהֹוָ֔ה` over `לַֽיהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:20
+- *Disregarded Surface Variant:* kept `הַבִּכֻּרִ֤ים` over `הַבִּכּוּרִ֤ים` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
+- *Disregarded Surface Variant:* kept `יְהֹוָ֔ה` over `יְהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַיהֹוָ֖ה` over `לַיהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַבִּכֻּרִ֤ים / הַבִּכּוּרִ֤ים`, `הַבִּכֻּרִ֤ים / הַבִּכּוּרִ֤ים` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
+
+### Leviticus 23:21
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֣וֹם / הַיֹּ֣ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:22
+- *Disregarded Surface Variant:* kept `יְהֹוָ֥ה` over `יְהוָ֥ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:23
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹשֶׁ֥ה / משֶׁ֥ה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:25
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:26
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹשֶׁ֥ה / משֶׁ֥ה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:27
+- *Disregarded Surface Variant:* kept `לַחֹ֩דֶשׁ֩` over `לַחֹדֶשׁ֩` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בֶּעָשׂ֣וֹר / בֶּעָשֹׂ֣ור` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:28
+- *Disregarded Surface Variant:* kept `וְכׇל־` over `וְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `יְהֹוָ֥ה` over `יְהוָ֥ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֣וֹם / הַיֹּ֣ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:29
+- *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֣וֹם / הַיֹּ֣ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:30
+- *Disregarded Surface Variant:* kept `וְכׇל־` over `וְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֣וֹם / הַיֹּ֣ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:31
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹֽשְׁבֹֽתֵיכֶֽם׃ / מֽשְׁבֹֽתֵיכֶֽם׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:33
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹשֶׁ֥ה / משֶׁ֥ה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:34
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַסֻּכּ֛וֹת / הַסֻּכֹּ֛ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:35
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּ֥וֹם הָרִאשׁ֖וֹן / בַּיֹּ֥ום הָרִאשֹׁ֖ון` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:36
+- *Disregarded Surface Variant:* kept `לַיהֹוָ֑ה` over `לַיהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `קֹ֩דֶשׁ֩` over `קֹדֶשׁ֩` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `לַֽיהֹוָה֙` over `לַֽיהוָה֙` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּ֣וֹם / בַּיֹּ֣ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:37
+- *Disregarded Surface Variant:* kept `לַיהֹוָ֗ה` over `לַיהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:38
+- *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְּהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `נִדְבֹ֣תֵיכֶ֔ם` over `נִדְב֣וֹתֵיכֶ֔ם` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
+- *Disregarded Surface Variant:* kept `לַיהֹוָֽה׃` over `לַיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `נִדְבֹ֣תֵיכֶ֔ם / נִדְב֣וֹתֵיכֶ֔ם` (BenChayyim (1525)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
+
+### Leviticus 23:39
+- *Disregarded Surface Variant:* kept `בְּאׇסְפְּכֶם֙` over `בְּאָסְפְּכֶם֙` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּ֤וֹם הָֽרִאשׁוֹן֙ / בַּיֹּ֤ום הָֽרִאשֹׁון֙`, `וּבַיּ֥וֹם / וּבַיֹּ֥ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:40
+- *Disregarded Surface Variant:* kept `יְהֹוָ֥ה` over `יְהוָ֥ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּ֣וֹם הָרִאשׁ֗וֹן / בַּיֹּ֣ום הָרִאשֹׁ֗ון` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:41
+- *Disregarded Surface Variant:* kept `לַֽיהֹוָ֔ה` over `לַֽיהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:42
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Leviticus 23:43
+- *Disregarded Surface Variant:* kept `לְמַ֘עַן֮` over `לְמַעַן֮` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `יְהֹוָ֥ה` over `יְהוָ֥ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַסֻּכּ֗וֹת / בַסֻּכֹּ֗ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Leviticus 23:44
+- *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `מֹשֶׁ֔ה / משֶׁ֔ה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+---
+
+## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
+
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `MAM (Aleppo)`: וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `WLC (L)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `BenChayyim (1525)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `Letteris (1852)`: וַיְדַבֵּ֥ר יְהֺוָ֖ה אֶל־משֶׁ֥ה לֵּאמֹֽר׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהֹוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃
+  - `MAM (Aleppo)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהֹוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃
+  - `WLC (L)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃
+  - `BenChayyim (1525)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃
+  - `Letteris (1852)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֨ וְאָֽמַרְתָּ֣ אֲלֵהֶ֔ם מֽוֹעֲדֵ֣י יְהֺוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מֽוֹעֲדָֽי׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־קֹ֔דֶשׁ כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהֹוָ֔ה בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶֽם׃
+  - `MAM (Aleppo)`: שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־קֹ֔דֶשׁ כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהֹוָ֔ה בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶֽם׃
+  - `WLC (L)`: שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־קֹ֔דֶשׁ כָּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהוָ֔ה בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶֽם׃
+  - `BenChayyim (1525)`: שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיֹּ֣ום הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־קֹ֔דֶשׁ כָּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהוָ֔ה בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶֽם׃
+  - `Letteris (1852)`: שֵׁ֣שֶׁת יָמִים֮ תֵּֽעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־קֹ֔דֶשׁ כָּל־מְלָאכָ֖ה לֹ֣א תַֽעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהוָֹ֔ה בְּכֹ֖ל מֽוֹשְׁבֹֽתֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** אֵ֚לֶּה מוֹעֲדֵ֣י יְהֹוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃
+  - `MAM (Aleppo)`: אֵ֚לֶּה מוֹעֲדֵ֣י יְהֹוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃
+  - `WLC (L)`: אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃
+  - `BenChayyim (1525)`: אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃
+  - `Letteris (1852)`: אֵ֚לֶּה מֽוֹעֲדֵ֣י יְהֺוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמֽוֹעֲדָֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהֹוָֽה׃
+  - `WLC (L)`: בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהוָֽה׃
+  - `BenChayyim (1525)`: בַּחֹ֣דֶשׁ הָרִאשֹׁ֗ון בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהוָֽה׃
+  - `Letteris (1852)`: בַּחֹ֣דֶשׁ הָֽרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָֽעַרְבָּ֑יִם פֶּ֖סַח לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַיהֹוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃
+  - `MAM (Aleppo)`: וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַיהֹוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃
+  - `WLC (L)`: וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַיהוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃
+  - `BenChayyim (1525)`: וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצֹּ֖ות לַיהוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצֹּ֥ות תֹּאכֵֽלוּ׃
+  - `Letteris (1852)`: וּבַֽחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַֽיהוָֹ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `MAM (Aleppo)`: בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `WLC (L)`: בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `BenChayyim (1525)`: בַּיֹּום֙ הָֽרִאשֹׁ֔ון מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `Letteris (1852)`: בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־קֹ֖דֶשׁ יִֽהְיֶ֣ה לָכֶ֑ם כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַֽעֲשֽׂוּ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְהִקְרַבְתֶּ֥ם אִשֶּׁ֛ה לַיהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הַשְּׁבִיעִי֙ מִקְרָא־קֹ֔דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `MAM (Aleppo)`: וְהִקְרַבְתֶּ֥ם אִשֶּׁ֛ה לַיהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הַשְּׁבִיעִי֙ מִקְרָא־קֹ֔דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `WLC (L)`: וְהִקְרַבְתֶּ֥ם אִשֶּׁ֛ה לַיהוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הַשְּׁבִיעִי֙ מִקְרָא־קֹ֔דֶשׁ כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `BenChayyim (1525)`: וְהִקְרַבְתֶּ֥ם אִשֶּׁ֛ה לַיהוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיֹּ֤ום הַשְּׁבִיעִי֙ מִקְרָא־קֹ֔דֶשׁ כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `Letteris (1852)`: וְהִקְרַבְתֶּ֥ם אִשֶּׁ֛ה לַֽיהוָֹ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הַשְּׁבִיעִי֙ מִקְרָא־קֹ֔דֶשׁ כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַֽעֲשֽׂוּ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `MAM (Aleppo)`: וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `WLC (L)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `BenChayyim (1525)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `Letteris (1852)`: וַיְדַבֵּ֥ר יְהֺוָ֖ה אֶל־משֶׁ֥ה לֵּאמֹֽר׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־הַכֹּהֵֽן׃
+  - `MAM (Aleppo)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־הַכֹּהֵֽן׃
+  - `WLC (L)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־הַכֹּהֵֽן׃
+  - `BenChayyim (1525)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־הַכֹּהֵֽן׃
+  - `Letteris (1852)`: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֨ וְאָֽמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַֽהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִֽירְכֶ֖ם אֶל־הַכֹּהֵֽן׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהֹוָ֖ה לִֽרְצֹנְכֶ֑ם מִֽמׇּחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃
+  - `MAM (Aleppo)`: וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהֹוָ֖ה לִֽרְצֹנְכֶ֑ם מִֽמׇּחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃
+  - `WLC (L)`: וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהוָ֖ה לִֽרְצֹנְכֶ֑ם מִֽמָּחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃
+  - `BenChayyim (1525)`: וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהוָ֖ה לִֽרְצֹנְכֶ֑ם מִֽמָּחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃
+  - `Letteris (1852)`: וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהֺוָ֖ה לִֽרְצֹֽנְכֶ֑ם מִמָּֽחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: וַעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַיהֹוָֽה׃
+  - `WLC (L)`: וַעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַיהוָֽה׃
+  - `BenChayyim (1525)`: וַעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַיהוָֽה׃
+  - `Letteris (1852)`: וַֽעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַיהֹוָ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃
+  - `MAM (Aleppo)`: וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַיהֹוָ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃
+  - `WLC (L)`: וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַיהוָ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃
+  - `BenChayyim (1525)`: וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַיהוָ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃
+  - `Letteris (1852)`: וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַֽיהוָֹ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְלֶ֩חֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קׇרְבַּ֖ן אֱלֹהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃
+  - `MAM (Aleppo)`: וְלֶ֩חֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קׇרְבַּ֖ן אֱלֹהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃
+  - `WLC (L)`: וְלֶחֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קָרְבַּ֖ן אֱלֹהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃
+  - `BenChayyim (1525)`: וְלֶחֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיֹּ֣ום הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קָרְבַּ֖ן אֱלֹהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃
+  - `Letteris (1852)`: וְלֶחֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קָרְבַּ֖ן אֱלֹֽהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל משְׁבֹֽתֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וּסְפַרְתֶּ֤ם לָכֶם֙ מִמׇּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃
+  - `MAM (Aleppo)`: וּסְפַרְתֶּ֤ם לָכֶם֙ מִמׇּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃
+  - `WLC (L)`: וּסְפַרְתֶּ֤ם לָכֶם֙ מִמָּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃
+  - `BenChayyim (1525)`: וּסְפַרְתֶּ֤ם לָכֶם֙ מִמָּחֳרַ֣ת הַשַּׁבָּ֔ת מִיֹּום֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃
+  - `Letteris (1852)`: וּסְפַרְתֶּ֤ם לָכֶם֙ מִמָּֽחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּֽהְיֶֽינָה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** עַ֣ד מִֽמׇּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: עַ֣ד מִֽמׇּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהֹוָֽה׃
+  - `WLC (L)`: עַ֣ד מִֽמָּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהוָֽה׃
+  - `BenChayyim (1525)`: עַ֣ד מִֽמָּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהוָֽה׃
+  - `Letteris (1852)`: עַ֣ד מִמָּֽחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהֹוָֽה׃
+  - `MAM (Aleppo)`: מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהֹוָֽה׃
+  - `WLC (L)`: מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהוָֽה׃
+  - `BenChayyim (1525)`: מִמֹּושְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לֽ͏ַיהוָֽה׃
+  - `Letteris (1852)`: מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁתַּ֨יִם֨ שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּֽהְיֶ֔ינָה חָמֵ֖ץ תֵּֽאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃
+  - `WLC (L)`: וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהוָֽה׃
+  - `BenChayyim (1525)`: וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהוָֽה׃
+  - `Letteris (1852)`: וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִֽהְי֤וּ עֹלָה֙ לַֽיהוָֹ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃
+  - `MAM (Aleppo)`: וַעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃
+  - `WLC (L)`: וַעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃
+  - `BenChayyim (1525)`: וַעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃
+  - `Letteris (1852)`: וַֽעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְהֵנִ֣יף הַכֹּהֵ֣ן ׀ אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכֻּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהֹוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהֹוָ֖ה לַכֹּהֵֽן׃
+  - `MAM (Aleppo)`: וְהֵנִ֣יף הַכֹּהֵ֣ן ׀ אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכֻּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהֹוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהֹוָ֖ה לַכֹּהֵֽן׃
+  - `WLC (L)`: וְהֵנִ֣יף הַכֹּהֵ֣ן ׀ אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכּוּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהוָ֖ה לַכֹּהֵֽן׃
+  - `BenChayyim (1525)`: וְהֵנִ֣יף הַכֹּהֵ֣ן ׀ אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכּוּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהוָ֖ה לַכֹּהֵֽן׃
+  - `Letteris (1852)`: וְהֵנִ֣יף הַכֹּהֵ֣ן ׀ אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכּוּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהֺוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהוָֹ֖ה לַכֹּהֵֽן׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Plene / defective spelling (mater lectionis)).
+
+### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וּקְרָאתֶ֞ם בְּעֶ֣צֶם ׀ הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃
+  - `MAM (Aleppo)`: וּקְרָאתֶ֞ם בְּעֶ֣צֶם ׀ הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃
+  - `WLC (L)`: וּקְרָאתֶ֞ם בְּעֶ֣צֶם ׀ הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכָל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃
+  - `BenChayyim (1525)`: וּקְרָאתֶ֞ם בְּעֶ֣צֶם ׀ הַיֹּ֣ום הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכָל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃
+  - `Letteris (1852)`: וּקְרָאתֶ֞ם בְּעֶ֣צֶם ׀ הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִֽהְיֶ֣ה לָכֶ֔ם כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכָל־מֽוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `MAM (Aleppo)`: וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `WLC (L)`: וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `BenChayyim (1525)`: וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `Letteris (1852)`: וּבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִֽירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּֽעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהֺוָ֥ה אֱלֹֽהֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `MAM (Aleppo)`: וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `WLC (L)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `BenChayyim (1525)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `Letteris (1852)`: וַיְדַבֵּ֥ר יְהֺוָ֖ה אֶל־משֶׁ֥ה לֵּאמֹֽר׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃
+  - `MAM (Aleppo)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃
+  - `WLC (L)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃
+  - `BenChayyim (1525)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃
+  - `Letteris (1852)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִֽהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃
+  - `WLC (L)`: כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהוָֽה׃
+  - `BenChayyim (1525)`: כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהוָֽה׃
+  - `Letteris (1852)`: כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַֽעֲשׂ֑וּ וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `MAM (Aleppo)`: וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `WLC (L)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `BenChayyim (1525)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `Letteris (1852)`: וַיְדַבֵּ֥ר יְהֺוָ֖ה אֶל־משֶׁ֥ה לֵּאמֹֽר׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹ֩דֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹ֩דֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃
+  - `WLC (L)`: אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹדֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהוָֽה׃
+  - `BenChayyim (1525)`: אַ֡ךְ בֶּעָשֹׂ֣ור לַחֹדֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהוָֽה׃
+  - `Letteris (1852)`: אַ֡ךְ בֶּֽעָשׂ֣וֹר לַחֹדֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִקְרָא־קֹ֙דֶשׁ֙ יִֽהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹֽׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `MAM (Aleppo)`: וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `WLC (L)`: וְכָל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `BenChayyim (1525)`: וְכָל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיֹּ֣ום הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `Letteris (1852)`: וְכָל־מְלָאכָה֙ לֹ֣א תַֽעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהֺוָ֥ה אֱלֹֽהֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** כִּ֤י כׇל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃
+  - `MAM (Aleppo)`: כִּ֤י כׇל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃
+  - `WLC (L)`: כִּ֤י כָל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃
+  - `BenChayyim (1525)`: כִּ֤י כָל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיֹּ֣ום הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃
+  - `Letteris (1852)`: כִּ֤י כָל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְכׇל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כׇּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃
+  - `MAM (Aleppo)`: וְכׇל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כׇּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃
+  - `WLC (L)`: וְכָל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כָּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃
+  - `BenChayyim (1525)`: וְכָל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כָּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיֹּ֣ום הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃
+  - `Letteris (1852)`: וְכָל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּֽעֲשֶׂה֙ כָּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹֽשְׁבֹֽתֵיכֶֽם׃
+  - `MAM (Aleppo)`: כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹֽשְׁבֹֽתֵיכֶֽם׃
+  - `WLC (L)`: כָּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹֽשְׁבֹֽתֵיכֶֽם׃
+  - `BenChayyim (1525)`: כָּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹֽשְׁבֹֽתֵיכֶֽם׃
+  - `Letteris (1852)`: כָּל־מְלָאכָ֖ה לֹ֣א תַֽעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽשְׁבֹֽתֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם בְּתִשְׁעָ֤ה לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃
+  - `MAM (Aleppo)`: שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם בְּתִשְׁעָ֤ה לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃
+  - `WLC (L)`: שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם בְּתִשְׁעָ֤ה לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃
+  - `BenChayyim (1525)`: שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם בְּתִשְׁעָ֤ה לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃
+  - `Letteris (1852)`: שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹֽׁתֵיכֶ֑ם בְּתִשְׁעָ֤ה לַחֹ֨דֶשׁ֨ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `MAM (Aleppo)`: וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `WLC (L)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `BenChayyim (1525)`: וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+  - `Letteris (1852)`: וַיְדַבֵּ֥ר יְהֺוָ֖ה אֶל־משֶׁ֥ה לֵּאמֹֽר׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים לַיהֹוָֽה׃
+  - `WLC (L)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים לַיהֹוָֽה׃
+  - `BenChayyim (1525)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכֹּ֛ות שִׁבְעַ֥ת יָמִ֖ים לַיהֹוָֽה׃
+  - `Letteris (1852)`: דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּֽחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים לַֽיהֹוָֽה׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `MAM (Aleppo)`: בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `WLC (L)`: בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `BenChayyim (1525)`: בַּיֹּ֥ום הָרִאשֹׁ֖ון מִקְרָא־קֹ֑דֶשׁ כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `Letteris (1852)`: בַּיּ֥וֹם הָֽרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַֽעֲשֽׂוּ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהֹוָ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־קֹ֩דֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהֹוָה֙ עֲצֶ֣רֶת הִ֔וא כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `MAM (Aleppo)`: שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהֹוָ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־קֹ֩דֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהֹוָה֙ עֲצֶ֣רֶת הִ֔וא כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `WLC (L)`: שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהוָ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־קֹדֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהוָה֙ עֲצֶ֣רֶת הִ֔וא כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `BenChayyim (1525)`: שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהוָ֑ה בַּיֹּ֣ום הַשְּׁמִינִ֡י מִקְרָא־קֹדֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהוָה֙ עֲצֶ֣רֶת הִ֔וא כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+  - `Letteris (1852)`: שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַֽיהוָֹ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־קֹדֶשׁ֩ יִֽהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהֺוָה֨ עֲצֶ֣רֶת הִ֔וא כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַֽעֲשֽׂוּ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 4 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהֹוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃
+  - `MAM (Aleppo)`: אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהֹוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃
+  - `WLC (L)`: אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃
+  - `BenChayyim (1525)`: אֵ֚לֶּה מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃
+  - `Letteris (1852)`: אֵ֚לֶּה מֽוֹעֲדֵ֣י יְהֺוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַֽיהוָֹ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** מִלְּבַ֖ד שַׁבְּתֹ֣ת יְהֹוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כׇּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כׇּל־נִדְבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַיהֹוָֽה׃
+  - `MAM (Aleppo)`: מִלְּבַ֖ד שַׁבְּתֹ֣ת יְהֹוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כׇּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כׇּל־נִדְבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַיהֹוָֽה׃
+  - `WLC (L)`: מִלְּבַ֖ד שַׁבְּתֹ֣ת יְּהוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כָּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כָּל־נִדְב֣וֹתֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַיהוָֽה׃
+  - `BenChayyim (1525)`: מִלְּבַ֖ד שַׁבְּתֹ֣ת יְהוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כָּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כָּל־נִדְב֣וֹתֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַיהוָֽה׃
+  - `Letteris (1852)`: מִלְּבַ֖ד שַׁבְּתֹ֣ת יְהֺוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כָּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כָּל־נִדְבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַֽיהוָֹֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 5 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Plene / defective spelling (mater lectionis)).
+
+### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאׇסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃
+  - `MAM (Aleppo)`: אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאׇסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃
+  - `WLC (L)`: אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאָסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃
+  - `BenChayyim (1525)`: אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאָסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיֹּ֤ום הָֽרִאשֹׁון֙ שַׁבָּת֔וֹן וּבַיֹּ֥ום הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃
+  - `Letteris (1852)`: אַ֡ךְ בַּֽחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאָסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהֺוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃
+  - `MAM (Aleppo)`: וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃
+  - `WLC (L)`: וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃
+  - `BenChayyim (1525)`: וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיֹּ֣ום הָרִאשֹׁ֗ון פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃
+  - `Letteris (1852)`: וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָֽרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַֽעֲנַ֥ף עֵֽץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהֺוָ֥ה אֱלֹֽהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהֹוָ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃
+  - `MAM (Aleppo)`: וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהֹוָ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃
+  - `WLC (L)`: וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהוָ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃
+  - `BenChayyim (1525)`: וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהוָ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃
+  - `Letteris (1852)`: וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהוָֹ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** בַּסֻּכֹּ֥ת תֵּשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כׇּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵשְׁב֖וּ בַּסֻּכֹּֽת׃
+  - `MAM (Aleppo)`: בַּסֻּכֹּ֥ת תֵּשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כׇּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵשְׁב֖וּ בַּסֻּכֹּֽת׃
+  - `WLC (L)`: בַּסֻּכֹּ֥ת תֵּשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כָּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵשְׁב֖וּ בַּסֻּכֹּֽת׃
+  - `BenChayyim (1525)`: בַּסֻּכֹּ֥ת תֵּשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כָּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵשְׁב֖וּ בַּסֻּכֹּֽת׃
+  - `Letteris (1852)`: בַּסֻּכֹּ֥ת תֵּֽשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כָּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵֽשְׁב֖וּ בַּסֻּכֹּֽת׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** לְמַ֘עַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `MAM (Aleppo)`: לְמַ֘עַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `WLC (L)`: לְמַעַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `BenChayyim (1525)`: לְמַעַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכֹּ֗ות הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃
+  - `Letteris (1852)`: לְמַעַן֮ יֵֽדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהֽוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֺוָ֥ה אֱלֹֽהֵיכֶֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶת־מֹעֲדֵ֖י יְהֹוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃
+  - `MAM (Aleppo)`: וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶת־מֹעֲדֵ֖י יְהֹוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃
+  - `WLC (L)`: וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶת־מֹעֲדֵ֖י יְהוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃
+  - `BenChayyim (1525)`: וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶת־מֹעֲדֵ֖י יְהוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃
+  - `Letteris (1852)`: וַיְדַבֵּ֣ר משֶׁ֔ה אֶת־מֹֽעֲדֵ֖י יְהֺוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).

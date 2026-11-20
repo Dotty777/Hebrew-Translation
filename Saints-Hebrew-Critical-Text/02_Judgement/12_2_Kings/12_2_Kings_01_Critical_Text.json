@@ -1,0 +1,978 @@
+{
+  "edition": "Saints Hebrew Critical Text",
+  "language": "hebrew",
+  "division": "02_Judgement",
+  "book_slug": "2-kings",
+  "book_title": "2 Kings (4 Kingdoms)",
+  "usfm_code": "2KI",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:15:07Z",
+  "versification": "Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions.",
+  "versification_anchor": "WLC (L)",
+  "orthographic_base": "MAM (Aleppo)",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "MAM (Aleppo)",
+      "title": "Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML)",
+      "tier": 1,
+      "weight": 0.98,
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "siglum": "WLC (L)",
+      "title": "Westminster Leningrad Codex (Firkovich B 19A, 1008 CE)",
+      "tier": 1,
+      "weight": 0.96,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "BenChayyim (1525)",
+      "title": "Jacob ben Chayyim Masoretic Majority Text (Second Rabbinic Bible Tradition)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "Letteris (1852)",
+      "title": "Meir Halevi Letteris Masoretic Hebrew Bible (1852 / 1866 Edition)",
+      "tier": 3,
+      "license": "Public Domain / GPL-3.0",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 47815,
+      "verse": 1,
+      "critical_text": "וַיִּפְשַׁ֤ע מוֹאָב֙ בְּיִשְׂרָאֵ֔ל אַחֲרֵ֖י מ֥וֹת אַחְאָֽב׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיִּפְשַׁ֤ע מוֹאָב֙ בְּיִשְׂרָאֵ֔ל אַחֲרֵ֖י מ֥וֹת אַחְאָֽב׃",
+        "WLC (L)": "וַיִּפְשַׁ֤ע מוֹאָב֙ בְּיִשְׂרָאֵ֔ל אַחֲרֵ֖י מ֥וֹת אַחְאָֽב׃",
+        "BenChayyim (1525)": "וַיִּפְשַׁ֤ע מוֹאָב֙ בְּיִשְׂרָאֵ֔ל אַחֲרֵ֖י מ֥וֹת אַחְאָֽב׃",
+        "Letteris (1852)": "וַיִּפְשַׁ֤ע מוֹאָב֨ בְּיִשְׂרָאֵ֔ל אַֽחֲרֵ֖י מ֥וֹת אַחְאָֽב׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47816,
+      "verse": 2,
+      "critical_text": "וַיִּפֹּ֨ל אֲחַזְיָ֜ה בְּעַ֣ד הַשְּׂבָכָ֗ה בַּעֲלִיָּת֛וֹ אֲשֶׁ֥ר בְּשֹׁמְר֖וֹן וַיָּ֑חַל וַיִּשְׁלַ֣ח מַלְאָכִ֔ים וַיֹּ֤אמֶר אֲלֵהֶם֙ לְכ֣וּ דִרְשׁ֗וּ בְּבַ֤עַל זְבוּב֙ אֱלֹהֵ֣י עֶקְר֔וֹן אִם־אֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיִּפֹּ֨ל אֲחַזְיָ֜ה בְּעַ֣ד הַשְּׂבָכָ֗ה בַּעֲלִיָּת֛וֹ אֲשֶׁ֥ר בְּשֹׁמְר֖וֹן וַיָּ֑חַל וַיִּשְׁלַ֣ח מַלְאָכִ֔ים וַיֹּ֤אמֶר אֲלֵהֶם֙ לְכ֣וּ דִרְשׁ֗וּ בְּבַ֤עַל זְבוּב֙ אֱלֹהֵ֣י עֶקְר֔וֹן אִם־אֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃",
+        "WLC (L)": "וַיִּפֹּ֨ל אֲחַזְיָ֜ה בְּעַ֣ד הַשְּׂבָכָ֗ה בַּעֲלִיָּת֛וֹ אֲשֶׁ֥ר בְּשֹׁמְר֖וֹן וַיָּ֑חַל וַיִּשְׁלַ֣ח מַלְאָכִ֔ים וַיֹּ֤אמֶר אֲלֵהֶם֙ לְכ֣וּ דִרְשׁ֗וּ בְּבַ֤עַל זְבוּב֙ אֱלֹהֵ֣י עֶקְר֔וֹן אִם־אֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃",
+        "BenChayyim (1525)": "וַיִּפֹּ֨ל אֲחַזְיָ֜ה בְּעַ֣ד הַשְּׂבָכָ֗ה בַּעֲלִיָּת֛וֹ אֲשֶׁ֥ר בְּשֹׁמְר֖וֹן וַיָּ֑חַל וַיִּשְׁלַ֣ח מַלְאָכִ֔ים וַיֹּ֤אמֶר אֲלֵהֶם֙ לְכ֣וּ דִרְשׁ֗וּ בְּבַ֤עַל זְבוּב֙ אֱלֹהֵ֣י עֶקְר֔וֹן אִם־אֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃",
+        "Letteris (1852)": "וַיִּפֹּ֨ל אֲחַזְיָ֜ה בְּעַ֣ד הַשְּׂבָכָ֗ה בַּֽעֲלִיָּת֛וֹ אֲשֶׁ֥ר בְּשֹֽׁמְר֖וֹן וַיָּ֑חַל וַיִּשְׁלַ֣ח מַלְאָכִ֗ים וַיֹּ֤אמֶר אֲלֵהֶם֙ לְכ֣וּ דִרְשׁ֗וּ בְּבַ֤עַל זְבוּב֙ אֱלֹהֵ֣י עֶקְר֔וֹן אִם־אֶֽחְיֶ֖ה מֵֽחֳלִ֥י זֶֽה׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47817,
+      "verse": 3,
+      "critical_text": "וּמַלְאַ֣ךְ יְהֹוָ֗ה דִּבֶּר֙ אֶל־אֵלִיָּ֣ה הַתִּשְׁבִּ֔י ק֣וּם עֲלֵ֔ה לִקְרַ֖את מַלְאֲכֵ֣י מֶֽלֶךְ־שֹׁמְר֑וֹן וְדַבֵּ֣ר אֲלֵהֶ֔ם הֲֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתֶּם֙ הֹֽלְכִ֔ים לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֥י עֶקְרֽוֹן׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וּמַלְאַ֣ךְ יְהֹוָ֗ה דִּבֶּר֙ אֶל־אֵלִיָּ֣ה הַתִּשְׁבִּ֔י ק֣וּם עֲלֵ֔ה לִקְרַ֖את מַלְאֲכֵ֣י מֶֽלֶךְ־שֹׁמְר֑וֹן וְדַבֵּ֣ר אֲלֵהֶ֔ם הֲֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתֶּם֙ הֹֽלְכִ֔ים לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֥י עֶקְרֽוֹן׃",
+        "WLC (L)": "וּמַלְאַ֣ךְ יְהוָ֗ה דִּבֶּר֙ אֶל־אֵלִיָּ֣ה הַתִּשְׁבִּ֔י ק֣וּם עֲלֵ֔ה לִקְרַ֖את מַלְאֲכֵ֣י מֶֽלֶךְ־שֹׁמְר֑וֹן וְדַבֵּ֣ר אֲלֵהֶ֔ם הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתֶּם֙ הֹֽלְכִ֔ים לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֥י עֶקְרֽוֹן׃",
+        "BenChayyim (1525)": "וּמַלְאַ֣ךְ יְהוָ֗ה דִּבֶּר֙ אֶל־אֵלִיָּ֣ה הַתִּשְׁבִּ֔י ק֣וּם עֲלֵ֔ה לִקְרַ֖את מַלְאֲכֵ֣י מֶֽלֶךְ־שֹׁמְר֑וֹן וְדַבֵּ֣ר אֲלֵהֶ֔ם הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתֶּם֙ הֹֽלְכִ֔ים לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֥י עֶקְרֽוֹן׃",
+        "Letteris (1852)": "וּמַלְאַ֣ךְ יְהֺוָ֗ה דִּבֶּר֨ אֶל־אֵֽלִיָּ֣ה הַתִּשְׁבִּ֔י ק֣וּם עֲלֵ֔ה לִקְרַ֖את מַלְאֲכֵ֣י מֶֽלֶךְ־שֹֽׁמְר֑וֹן וְדַבֵּ֣ר אֲלֵהֶ֔ם הֲמִבְּלִ֤י אֵֽין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתֶּם֙ הֹֽלְכִ֔ים לִדְר֕וֹשׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֥י עֶקְרֽוֹן׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "יְהֹוָ֗ה",
+          "disregarded_forms": [
+            "יְהוָ֗ה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "הֲֽמִבְּלִ֤י",
+          "disregarded_forms": [
+            "הַֽמִבְּלִ֤י"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "הֲֽמִבְּלִ֤י / הַֽמִבְּלִ֤י"
+          ],
+          "witnesses": [
+            "BenChayyim (1525)"
+          ],
+          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "לִדְרֹ֕שׁ / לִדְר֕וֹשׁ"
+          ],
+          "witnesses": [
+            "Letteris (1852)"
+          ],
+          "reason": "Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47818,
+      "verse": 4,
+      "critical_text": "וְלָכֵן֙ כֹּה־אָמַ֣ר יְהֹוָ֔ה הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹא־תֵרֵ֥ד מִמֶּ֖נָּה כִּ֣י מ֣וֹת תָּמ֑וּת וַיֵּ֖לֶךְ אֵלִיָּֽה׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וְלָכֵן֙ כֹּה־אָמַ֣ר יְהֹוָ֔ה הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹא־תֵרֵ֥ד מִמֶּ֖נָּה כִּ֣י מ֣וֹת תָּמ֑וּת וַיֵּ֖לֶךְ אֵלִיָּֽה׃",
+        "WLC (L)": "וְלָכֵן֙ כֹּֽה־אָמַ֣ר יְהוָ֔ה הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּ֣י מ֣וֹת תָּמ֑וּת וַיֵּ֖לֶךְ אֵלִיָּֽה׃",
+        "BenChayyim (1525)": "וְלָכֵן֙ כֹּֽה־אָמַ֣ר יְהוָ֔ה הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּ֣י מ֣וֹת תָּמ֑וּת וַיֵּ֖לֶךְ אֵלִיָּֽה׃",
+        "Letteris (1852)": "וְלָכֵן֙ כֹּֽה־אָמַ֣ר יְהֺוָ֔ה הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּ֣י מ֣וֹת תָּמ֑וּת וַיֵּ֥לֶךְ אֵֽלִיָּֽה׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "כֹּה־",
+          "disregarded_forms": [
+            "כֹּֽה־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "יְהֹוָ֔ה",
+          "disregarded_forms": [
+            "יְהוָ֔ה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "לֹא־",
+          "disregarded_forms": [
+            "לֹֽא־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47819,
+      "verse": 5,
+      "critical_text": "וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו וַיֹּ֥אמֶר אֲלֵיהֶ֖ם מַה־זֶּ֥ה שַׁבְתֶּֽם׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו וַיֹּ֥אמֶר אֲלֵיהֶ֖ם מַה־זֶּ֥ה שַׁבְתֶּֽם׃",
+        "WLC (L)": "וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו וַיֹּ֥אמֶר אֲלֵיהֶ֖ם מַה־זֶּ֥ה שַׁבְתֶּֽם׃",
+        "BenChayyim (1525)": "וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו וַיֹּ֥אמֶר אֲלֵיהֶ֖ם מַה־זֶּ֥ה שַׁבְתֶּֽם׃",
+        "Letteris (1852)": "וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו וַיֹּ֥אמֶר אֲלֵיהֶ֖ם מַה־זֶּ֥ה שַׁבְתֶּֽם׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47820,
+      "verse": 6,
+      "critical_text": "וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵ֘ינוּ֮ לְכ֣וּ שׁ֘וּבוּ֮ אֶל־הַמֶּ֣לֶךְ אֲשֶׁר־שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה הֲֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה שֹׁלֵ֔חַ לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְר֑וֹן לָ֠כֵ֠ן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹא־תֵרֵ֥ד מִמֶּ֖נָּה כִּי־מ֥וֹת תָּמֽוּת׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵ֘ינוּ֮ לְכ֣וּ שׁ֘וּבוּ֮ אֶל־הַמֶּ֣לֶךְ אֲשֶׁר־שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה הֲֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה שֹׁלֵ֔חַ לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְר֑וֹן לָ֠כֵ֠ן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹא־תֵרֵ֥ד מִמֶּ֖נָּה כִּי־מ֥וֹת תָּמֽוּת׃",
+        "WLC (L)": "וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵינוּ֮ לְכ֣וּ שׁוּבוּ֮ אֶל־הַמֶּ֣לֶךְ אֲשֶׁר־שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה שֹׁלֵ֔חַ לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְר֑וֹן לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מ֥וֹת תָּמֽוּת׃",
+        "BenChayyim (1525)": "וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵינוּ֮ לְכ֣וּ שׁוּבוּ֮ אֶל־הַמֶּ֣לֶךְ אֲשֶׁר־שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה שֹׁלֵ֔חַ לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְר֑וֹן לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מ֥וֹת תָּמֽוּת׃",
+        "Letteris (1852)": "וַיֹּֽאמְר֨וּ אֵלָ֜יו אִ֣ישׁ ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵינוּ֮ לְכ֣וּ שׁוּבוּ֮ אֶל־הַמֶּ֣לֶךְ אֲשֶׁר־שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהֺוָ֔ה הַֽמִבְּלִ֤י אֵֽין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה שֹׁלֵ֔חַ לִדְר֕וֹשׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְר֑וֹן לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מ֥וֹת תָּמֽוּת׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 7,
+          "kept_form": "אֵלֵ֘ינוּ֮",
+          "disregarded_forms": [
+            "אֵלֵינוּ֮"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "שׁ֘וּבוּ֮",
+          "disregarded_forms": [
+            "שׁוּבוּ֮"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "יְהֹוָ֔ה",
+          "disregarded_forms": [
+            "יְהוָ֔ה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "הֲֽמִבְּלִ֤י",
+          "disregarded_forms": [
+            "הַֽמִבְּלִ֤י"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel"
+        },
+        {
+          "slot_index": 31,
+          "kept_form": "לָ֠כֵ֠ן",
+          "disregarded_forms": [
+            "לָ֠כֵן"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 36,
+          "kept_form": "לֹא־",
+          "disregarded_forms": [
+            "לֹֽא־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 39,
+          "kept_form": "כִּי־",
+          "disregarded_forms": [
+            "כִּֽי־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "הֲֽמִבְּלִ֤י / הַֽמִבְּלִ֤י",
+            "הֲֽמִבְּלִ֤י / הַֽמִבְּלִ֤י"
+          ],
+          "witnesses": [
+            "BenChayyim (1525)",
+            "Letteris (1852)"
+          ],
+          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "לִדְרֹ֕שׁ / לִדְר֕וֹשׁ"
+          ],
+          "witnesses": [
+            "Letteris (1852)"
+          ],
+          "reason": "Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 7 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47821,
+      "verse": 7,
+      "critical_text": "וַיְדַבֵּ֣ר אֲלֵהֶ֔ם מֶ֚ה מִשְׁפַּ֣ט הָאִ֔ישׁ אֲשֶׁ֥ר עָלָ֖ה לִקְרַאתְכֶ֑ם וַיְדַבֵּ֣ר אֲלֵיכֶ֔ם אֶת־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיְדַבֵּ֣ר אֲלֵהֶ֔ם מֶ֚ה מִשְׁפַּ֣ט הָאִ֔ישׁ אֲשֶׁ֥ר עָלָ֖ה לִקְרַאתְכֶ֑ם וַיְדַבֵּ֣ר אֲלֵיכֶ֔ם אֶת־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+        "WLC (L)": "וַיְדַבֵּ֣ר אֲלֵהֶ֔ם מֶ֚ה מִשְׁפַּ֣ט הָאִ֔ישׁ אֲשֶׁ֥ר עָלָ֖ה לִקְרַאתְכֶ֑ם וַיְדַבֵּ֣ר אֲלֵיכֶ֔ם אֶת־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+        "BenChayyim (1525)": "וַיְדַבֵּ֣ר אֲלֵהֶ֔ם מֶ֚ה מִשְׁפַּ֣ט הָאִ֔ישׁ אֲשֶׁ֥ר עָלָ֖ה לִקְרַאתְכֶ֑ם וַיְדַבֵּ֣ר אֲלֵיכֶ֔ם אֶת־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+        "Letteris (1852)": "וַיְדַבֵּ֣ר אֲלֵהֶ֔ם מֶ֚ה מִשְׁפַּ֣ט הָאִ֔ישׁ אֲשֶׁ֥ר עָלָ֖ה לִקְרַאתְכֶ֑ם וַיְדַבֵּ֣ר אֲלֵיכֶ֔ם אֶת־הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47822,
+      "verse": 8,
+      "critical_text": "וַיֹּאמְר֣וּ אֵלָ֗יו אִ֚ישׁ בַּ֣עַל שֵׂעָ֔ר וְאֵז֥וֹר ע֖וֹר אָז֣וּר בְּמׇתְנָ֑יו וַיֹּאמַ֕ר אֵלִיָּ֥ה הַתִּשְׁבִּ֖י הֽוּא׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיֹּאמְר֣וּ אֵלָ֗יו אִ֚ישׁ בַּ֣עַל שֵׂעָ֔ר וְאֵז֥וֹר ע֖וֹר אָז֣וּר בְּמׇתְנָ֑יו וַיֹּאמַ֕ר אֵלִיָּ֥ה הַתִּשְׁבִּ֖י הֽוּא׃",
+        "WLC (L)": "וַיֹּאמְר֣וּ אֵלָ֗יו אִ֚ישׁ בַּ֣עַל שֵׂעָ֔ר וְאֵז֥וֹר ע֖וֹר אָז֣וּר בְּמָתְנָ֑יו וַיֹּאמַ֕ר אֵלִיָּ֥ה הַתִּשְׁבִּ֖י הֽוּא׃",
+        "BenChayyim (1525)": "וַיֹּאמְר֣וּ אֵלָ֗יו אִ֚ישׁ בַּ֣עַל שֵׂעָ֔ר וְאֵז֥וֹר ע֖וֹר אָז֣וּר בְּמָתְנָ֑יו וַיֹּאמַ֕ר אֵלִיָּ֥ה הַתִּשְׁבִּ֖י הֽוּא׃",
+        "Letteris (1852)": "וַיֹּֽאמְר֣וּ אֵלָ֗יו אִ֚ישׁ בַּ֣עַל שֵׂעָ֔ר וְאֵז֥וֹר ע֖וֹר אָז֣וּר בְּמָתְנָ֑יו וַיֹּאמַ֕ר אֵֽלִיָּ֥ה הַתִּשְׁבִּ֖י הֽוּא׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 8,
+          "kept_form": "בְּמׇתְנָ֑יו",
+          "disregarded_forms": [
+            "בְּמָתְנָ֑יו"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47823,
+      "verse": 9,
+      "critical_text": "וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֣עַל אֵלָ֗יו וְהִנֵּה֙ יֹשֵׁב֙ עַל־רֹ֣אשׁ הָהָ֔ר וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים הַמֶּ֥לֶךְ דִּבֶּ֖ר רֵֽדָה׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֣עַל אֵלָ֗יו וְהִנֵּה֙ יֹשֵׁב֙ עַל־רֹ֣אשׁ הָהָ֔ר וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים הַמֶּ֥לֶךְ דִּבֶּ֖ר רֵֽדָה׃",
+        "WLC (L)": "וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֣עַל אֵלָ֗יו וְהִנֵּה֙ יֹשֵׁב֙ עַל־רֹ֣אשׁ הָהָ֔ר וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָֽאֱלֹהִ֔ים הַמֶּ֥לֶךְ דִּבֶּ֖ר רֵֽדָה׃",
+        "BenChayyim (1525)": "וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֣עַל אֵלָ֗יו וְהִנֵּה֙ יֹשֵׁב֙ עַל־רֹ֣אשׁ הָהָ֔ר וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָֽאֱלֹהִ֔ים הַמֶּ֥לֶךְ דִּבֶּ֖ר רֵֽדָה׃",
+        "Letteris (1852)": "וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂ֥ר חֲמִשִּׁ֖ים וַֽחֲמִשָּׁ֑יו וַיַּ֣עַל אֵלָ֗יו וְהִנֵּ֤ה ישֵׁב֙ עַל־רֹ֣אשׁ הָהָ֔ר וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָֽאֱלֹהִ֔ים הַמֶּ֥לֶךְ דִּבֶּ֖ר רֵֽדָה׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 15,
+          "kept_form": "הָאֱלֹהִ֔ים",
+          "disregarded_forms": [
+            "הָֽאֱלֹהִ֔ים"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "יֹשֵׁב֙ / ישֵׁב֙"
+          ],
+          "witnesses": [
+            "Letteris (1852)"
+          ],
+          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47824,
+      "verse": 10,
+      "critical_text": "וַיַּֽעֲנֶ֣ה אֵלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיַּֽעֲנֶ֣ה אֵלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+        "WLC (L)": "וַיַּעֲנֶ֣ה אֵלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+        "BenChayyim (1525)": "וַיַּעֲנֶ֣ה אֵלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+        "Letteris (1852)": "וַיַּֽעֲנֶ֣ה אֵֽלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַֽחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹֽתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ֨ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "וַיַּֽעֲנֶ֣ה",
+          "disregarded_forms": [
+            "וַיַּעֲנֶ֣ה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47825,
+      "verse": 11,
+      "critical_text": "וַיָּ֜שׇׁב וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֥ים אַחֵ֖ר וַחֲמִשָּׁ֑יו וַיַּ֙עַן֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים כֹּה־אָמַ֥ר הַמֶּ֖לֶךְ מְהֵרָ֥ה רֵֽדָה׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיָּ֜שׇׁב וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֥ים אַחֵ֖ר וַחֲמִשָּׁ֑יו וַיַּ֙עַן֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים כֹּה־אָמַ֥ר הַמֶּ֖לֶךְ מְהֵרָ֥ה רֵֽדָה׃",
+        "WLC (L)": "וַיָּ֜שָׁב וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֥ים אַחֵ֖ר וַחֲמִשָּׁ֑יו וַיַּ֙עַן֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים כֹּֽה־אָמַ֥ר הַמֶּ֖לֶךְ מְהֵרָ֥ה רֵֽדָה׃",
+        "BenChayyim (1525)": "וַיָּ֜שָׁב וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֥ים אַחֵ֖ר וַחֲמִשָּׁ֑יו וַיַּ֙עַן֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים כֹּֽה־אָמַ֥ר הַמֶּ֖לֶךְ מְהֵרָ֥ה רֵֽדָה׃",
+        "Letteris (1852)": "וַיָּ֗שָׁב וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־חֲמִשִּׁ֥ים אַחֵ֖ר וַֽחֲמִשָּׁ֑יו וַיַּ֨עַן֨ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָֽאֱלֹהִ֔ים כֹּֽה־אָמַ֥ר הַמֶּ֖לֶךְ מְהֵרָ֥ה רֵֽדָה׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "וַיָּ֜שׇׁב",
+          "disregarded_forms": [
+            "וַיָּ֜שָׁב"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "כֹּה־",
+          "disregarded_forms": [
+            "כֹּֽה־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47826,
+      "verse": 12,
+      "critical_text": "וַיַּ֣עַן אֵלִיָּה֮ וַיְדַבֵּ֣ר אֲלֵיהֶם֒ אִם־אִ֤ישׁ הָאֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ־אֱלֹהִים֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיַּ֣עַן אֵלִיָּה֮ וַיְדַבֵּ֣ר אֲלֵיהֶם֒ אִם־אִ֤ישׁ הָאֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ־אֱלֹהִים֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+        "WLC (L)": "וַיַּ֣עַן אֵלִיָּה֮ וַיְדַבֵּ֣ר אֲלֵיהֶם֒ אִם־אִ֤ישׁ הָֽאֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ־אֱלֹהִים֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+        "BenChayyim (1525)": "וַיַּ֣עַן אֵלִיָּה֮ וַיְדַבֵּ֣ר אֲלֵיהֶם֒ אִם־אִ֤ישׁ הֽ͏ָאֱלֹהִים֙ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵשׁ־אֱלֹהִים֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃",
+        "Letteris (1852)": "וַיַּ֣עַן אֵֽלִיָּה֮ וַיְדַבֵּ֣ר אֲלֵיהֶם֒ אִם־אִ֤ישׁ הָֽאֱלֹהִים֨ אָ֔נִי תֵּ֤רֶד אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹֽתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַתֵּ֤רֶד אֵֽשׁ־אֱלֹהִים֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹת֖וֹ וְאֶת־חֲמִשָּֽׁיו׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 6,
+          "kept_form": "הָאֱלֹהִים֙",
+          "disregarded_forms": [
+            "הָֽאֱלֹהִים֙"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47827,
+      "verse": 13,
+      "critical_text": "וַיָּ֗שׇׁב וַיִּשְׁלַ֛ח שַׂר־חֲמִשִּׁ֥ים שְׁלִשִׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֡עַל וַיָּבֹא֩ שַׂר־הַחֲמִשִּׁ֨ים הַשְּׁלִישִׁ֜י וַיִּכְרַ֥ע עַל־בִּרְכָּ֣יו ׀ לְנֶ֣גֶד אֵלִיָּ֗הוּ וַיִּתְחַנֵּ֤ן אֵלָיו֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים תִּיקַר־נָ֣א נַפְשִׁ֗י וְנֶ֨פֶשׁ עֲבָדֶ֥יךָֽ אֵ֛לֶּה חֲמִשִּׁ֖ים בְּעֵינֶֽיךָ׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיָּ֗שׇׁב וַיִּשְׁלַ֛ח שַׂר־חֲמִשִּׁ֥ים שְׁלִשִׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֡עַל וַיָּבֹא֩ שַׂר־הַחֲמִשִּׁ֨ים הַשְּׁלִישִׁ֜י וַיִּכְרַ֥ע עַל־בִּרְכָּ֣יו ׀ לְנֶ֣גֶד אֵלִיָּ֗הוּ וַיִּתְחַנֵּ֤ן אֵלָיו֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים תִּיקַר־נָ֣א נַפְשִׁ֗י וְנֶ֨פֶשׁ עֲבָדֶ֥יךָֽ אֵ֛לֶּה חֲמִשִּׁ֖ים בְּעֵינֶֽיךָ׃",
+        "WLC (L)": "וַיָּ֗שָׁב וַיִּשְׁלַ֛ח שַׂר־חֲמִשִּׁ֥ים שְׁלִשִׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֡עַל וַיָּבֹא֩ שַׂר־הַחֲמִשִּׁ֨ים הַשְּׁלִישִׁ֜י וַיִּכְרַ֥ע עַל־בִּרְכָּ֣יו ׀ לְנֶ֣גֶד אֵלִיָּ֗הוּ וַיִּתְחַנֵּ֤ן אֵלָיו֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָֽאֱלֹהִ֔ים תִּֽיקַר־נָ֣א נַפְשִׁ֗י וְנֶ֨פֶשׁ עֲבָדֶ֥יךָֽ אֵ֛לֶּה חֲמִשִּׁ֖ים בְּעֵינֶֽיךָ׃",
+        "BenChayyim (1525)": "וַיָּ֗שָׁב וַיִּשְׁלַ֛ח שַׂר־חֲמִשִּׁ֥ים שְׁלִשִׁ֖ים וַחֲמִשָּׁ֑יו וַיַּ֡עַל וַיָּבֹא֩ שַׂר־הַחֲמִשִּׁ֨ים הַשְּׁלִישִׁ֜י וַיִּכְרַ֥ע עַל־בִּרְכָּ֣יו ׀ לְנֶ֣גֶד אֵלִיָּ֗הוּ וַיִּתְחַנֵּ֤ן אֵלָיו֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָֽאֱלֹהִ֔ים תִּֽיקַר־נָ֣א נַפְשִׁ֗י וְנֶ֨פֶשׁ עֲבָדֶ֥יךָֽ אֵ֛לֶּה חֲמִשִּׁ֖ים בְּעֵינֶֽיךָ׃",
+        "Letteris (1852)": "וַיָּ֗שָׁב וַיִּשְׁלַ֛ח שַׂר־חֲמִשִּׁ֥ים שְׁלִשִׁ֖ים וַֽחֲמִשָּׁ֑יו וַיַּ֡עַל וַיָּבֹא֩ שַׂר־הַֽחֲמִשִּׁ֨ים הַשְּׁלִישִׁ֜י וַיִּכְרַ֥ע עַל־בִּרְכָּ֣יו ׀ לְנֶ֣גֶד אֵֽלִיָּ֗הוּ וַיִּתְחַנֵּ֤ן אֵלָיו֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָ֣אֱלֹהִ֔ים תִּֽיקַר־נָ֣א נַפְשִׁ֗י וְנֶ֨פֶשׁ עֲבָדֶ֥יךָ אֵ֛לֶּה חֲמִשִּׁ֖ים בְּעֵינֶֽיךָ׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "וַיָּ֗שׇׁב",
+          "disregarded_forms": [
+            "וַיָּ֗שָׁב"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "הָאֱלֹהִ֔ים",
+          "disregarded_forms": [
+            "הָֽאֱלֹהִ֔ים"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "תִּיקַר־",
+          "disregarded_forms": [
+            "תִּֽיקַר־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47828,
+      "verse": 14,
+      "critical_text": "הִ֠נֵּ֠ה יָ֤רְדָה אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַ֠תֹּ֠אכַל אֶת־שְׁנֵ֞י שָׂרֵ֧י הַחֲמִשִּׁ֛ים הָרִאשֹׁנִ֖ים וְאֶת־חֲמִשֵּׁיהֶ֑ם וְעַתָּ֕ה תִּיקַ֥ר נַפְשִׁ֖י בְּעֵינֶֽיךָ׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "הִ֠נֵּ֠ה יָ֤רְדָה אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַ֠תֹּ֠אכַל אֶת־שְׁנֵ֞י שָׂרֵ֧י הַחֲמִשִּׁ֛ים הָרִאשֹׁנִ֖ים וְאֶת־חֲמִשֵּׁיהֶ֑ם וְעַתָּ֕ה תִּיקַ֥ר נַפְשִׁ֖י בְּעֵינֶֽיךָ׃",
+        "WLC (L)": "הִ֠נֵּה יָ֤רְדָה אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַ֠תֹּאכַל אֶת־שְׁנֵ֞י שָׂרֵ֧י הַחֲמִשִּׁ֛ים הָרִאשֹׁנִ֖ים וְאֶת־חֲמִשֵּׁיהֶ֑ם וְעַתָּ֕ה תִּיקַ֥ר נַפְשִׁ֖י בְּעֵינֶֽיךָ׃",
+        "BenChayyim (1525)": "הִ֠נֵּה יָ֤רְדָה אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַ֠תֹּאכַל אֶת־שְׁנֵ֞י שָׂרֵ֧י הַחֲמִשִּׁ֛ים הָרִאשֹׁנִ֖ים וְאֶת־חֲמִשֵּׁיהֶ֑ם וְעַתָּ֕ה תִּיקַ֥ר נַפְשִׁ֖י בְּעֵינֶֽיךָ׃",
+        "Letteris (1852)": "הִ֠נֵּה יָ֤רְדָה אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַ֠תֹּאכַל אֶת־שְׁנֵ֞י שָׂרֵ֧י הַֽחֲמִשִּׁ֛ים הָרִֽאשֹׁנִ֖ים וְאֶת־חֲמִשֵּׁיהֶ֑ם וְעַתָּ֕ה תִּיקַ֥ר נַפְשִׁ֖י בְּעֵינֶֽיךָ׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "הִ֠נֵּ֠ה",
+          "disregarded_forms": [
+            "הִ֠נֵּה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "וַ֠תֹּ֠אכַל",
+          "disregarded_forms": [
+            "וַ֠תֹּאכַל"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47829,
+      "verse": 15,
+      "critical_text": "וַיְדַבֵּ֞ר מַלְאַ֤ךְ יְהֹוָה֙ אֶל־אֵ֣לִיָּ֔הוּ רֵ֣ד אוֹת֔וֹ אַל־תִּירָ֖א מִפָּנָ֑יו וַיָּ֛קׇם וַיֵּ֥רֶד אוֹת֖וֹ אֶל־הַמֶּֽלֶךְ׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיְדַבֵּ֞ר מַלְאַ֤ךְ יְהֹוָה֙ אֶל־אֵ֣לִיָּ֔הוּ רֵ֣ד אוֹת֔וֹ אַל־תִּירָ֖א מִפָּנָ֑יו וַיָּ֛קׇם וַיֵּ֥רֶד אוֹת֖וֹ אֶל־הַמֶּֽלֶךְ׃",
+        "WLC (L)": "וַיְדַבֵּ֞ר מַלְאַ֤ךְ יְהוָה֙ אֶל־אֵ֣לִיָּ֔הוּ רֵ֣ד אוֹת֔וֹ אַל־תִּירָ֖א מִפָּנָ֑יו וַיָּ֛קָם וַיֵּ֥רֶד אוֹת֖וֹ אֶל־הַמֶּֽלֶךְ׃",
+        "BenChayyim (1525)": "וַיְדַבֵּ֞ר מַלְאַ֤ךְ יְהוָה֙ אֶל־אֵ֣לִיָּ֔הוּ רֵ֣ד אוֹת֔וֹ אַל־תִּירָ֖א מִפָּנָ֑יו וַיָּ֛קָם וַיֵּ֥רֶד אוֹת֖וֹ אֶל־הַמֶּֽלֶךְ׃",
+        "Letteris (1852)": "וַיְדַבֵּ֞ר מַלְאַ֤ךְ יְהֺוָה֙ אֶל־אֵ֣לִיָּ֔הוּ רֵ֣ד אוֹת֔וֹ אַל־תִּירָ֖א מִפָּנָ֑יו וַיָּ֛קָם וַיֵּ֥רֶד אוֹת֖וֹ אֶל־הַמֶּֽלֶךְ׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 2,
+          "kept_form": "יְהֹוָה֙",
+          "disregarded_forms": [
+            "יְהוָה֙"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "וַיָּ֛קׇם",
+          "disregarded_forms": [
+            "וַיָּ֛קָם"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47830,
+      "verse": 16,
+      "critical_text": "וַיְדַבֵּ֨ר אֵלָ֜יו כֹּה־אָמַ֣ר יְהֹוָ֗ה יַ֜עַן אֲשֶׁר־שָׁלַ֣חְתָּ מַלְאָכִים֮ לִדְרֹשׁ֮ בְּבַ֣עַל זְבוּב֮ אֱלֹהֵ֣י עֶקְרוֹן֒ הֲֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל לִדְרֹ֖שׁ בִּדְבָר֑וֹ לָ֠כֵ֠ן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹא־תֵרֵ֥ד מִמֶּ֖נָּה כִּי־מ֥וֹת תָּמֽוּת׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיְדַבֵּ֨ר אֵלָ֜יו כֹּה־אָמַ֣ר יְהֹוָ֗ה יַ֜עַן אֲשֶׁר־שָׁלַ֣חְתָּ מַלְאָכִים֮ לִדְרֹשׁ֮ בְּבַ֣עַל זְבוּב֮ אֱלֹהֵ֣י עֶקְרוֹן֒ הֲֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל לִדְרֹ֖שׁ בִּדְבָר֑וֹ לָ֠כֵ֠ן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹא־תֵרֵ֥ד מִמֶּ֖נָּה כִּי־מ֥וֹת תָּמֽוּת׃",
+        "WLC (L)": "וַיְדַבֵּ֨ר אֵלָ֜יו כֹּֽה־אָמַ֣ר יְהוָ֗ה יַ֜עַן אֲשֶׁר־שָׁלַ֣חְתָּ מַלְאָכִים֮ לִדְרֹשׁ֮ בְּבַ֣עַל זְבוּב֮ אֱלֹהֵ֣י עֶקְרוֹן֒ הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל לִדְרֹ֖שׁ בִּדְבָר֑וֹ לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מ֥וֹת תָּמֽוּת׃",
+        "BenChayyim (1525)": "וַיְדַבֵּ֨ר אֵלָ֜יו כֹּֽה־אָמַ֣ר יְהוָ֗ה יַ֜עַן אֲשֶׁר־שָׁלַ֣חְתָּ מַלְאָכִים֮ לִדְרֹשׁ֮ בְּבַ֣עַל זְבוּב֮ אֱלֹהֵ֣י עֶקְרוֹן֒ הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל לִדְרֹ֖שׁ בִּדְבָר֑וֹ לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מ֥וֹת תָּמֽוּת׃",
+        "Letteris (1852)": "וַיְדַבֵּ֨ר אֵלָ֜יו כֹּֽה־אָמַ֣ר יְהֺוָ֗ה יַ֜עַן אֲשֶׁר־שָׁלַ֣חְתָּ מַלְאָכִים֮ לִדְרוֹשׁ֮ בְּבַ֣עַל זְבוּב֮ אֱלֹהֵ֣י עֶקְרוֹן֒ הֲמִבְּלִ֤י אֵֽין־אֱלֹהִים֨ בְּיִשְׂרָאֵ֔ל לִדְר֖וֹשׁ בִּדְבָר֑וֹ לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מ֥וֹת תָּמֽוּת׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 2,
+          "kept_form": "כֹּה־",
+          "disregarded_forms": [
+            "כֹּֽה־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "יְהֹוָ֗ה",
+          "disregarded_forms": [
+            "יְהוָ֗ה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "הֲֽמִבְּלִ֤י",
+          "disregarded_forms": [
+            "הַֽמִבְּלִ֤י"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "לָ֠כֵ֠ן",
+          "disregarded_forms": [
+            "לָ֠כֵן"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 25,
+          "kept_form": "לֹא־",
+          "disregarded_forms": [
+            "לֹֽא־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 28,
+          "kept_form": "כִּי־",
+          "disregarded_forms": [
+            "כִּֽי־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "הֲֽמִבְּלִ֤י / הַֽמִבְּלִ֤י"
+          ],
+          "witnesses": [
+            "BenChayyim (1525)"
+          ],
+          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "לִדְרֹשׁ֮ / לִדְרוֹשׁ֮",
+            "לִדְרֹ֖שׁ / לִדְר֖וֹשׁ"
+          ],
+          "witnesses": [
+            "Letteris (1852)"
+          ],
+          "reason": "Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 6 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47831,
+      "verse": 17,
+      "critical_text": "וַיָּ֜מׇת כִּדְבַ֥ר יְהֹוָ֣ה ׀ אֲשֶׁר־דִּבֶּ֣ר אֵלִיָּ֗הוּ וַיִּמְלֹ֤ךְ יְהוֹרָם֙ תַּחְתָּ֔יו בִּשְׁנַ֣ת שְׁתַּ֔יִם לִיהוֹרָ֥ם בֶּן־יְהוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה כִּ֛י לֹא־הָ֥יָה ל֖וֹ בֵּֽן׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וַיָּ֜מׇת כִּדְבַ֥ר יְהֹוָ֣ה ׀ אֲשֶׁר־דִּבֶּ֣ר אֵלִיָּ֗הוּ וַיִּמְלֹ֤ךְ יְהוֹרָם֙ תַּחְתָּ֔יו בִּשְׁנַ֣ת שְׁתַּ֔יִם לִיהוֹרָ֥ם בֶּן־יְהוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה כִּ֛י לֹא־הָ֥יָה ל֖וֹ בֵּֽן׃",
+        "WLC (L)": "וַיָּ֜מָת כִּדְבַ֥ר יְהוָ֣ה ׀ אֲשֶׁר־דִּבֶּ֣ר אֵלִיָּ֗הוּ וַיִּמְלֹ֤ךְ יְהוֹרָם֙ תַּחְתָּ֔יו בִּשְׁנַ֣ת שְׁתַּ֔יִם לִיהוֹרָ֥ם בֶּן־יְהוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה כִּ֛י לֹֽא־הָ֥יָה ל֖וֹ בֵּֽן׃",
+        "BenChayyim (1525)": "וַיָּ֜מָת כִּדְבַ֥ר יְהוָ֣ה ׀ אֲשֶׁר־דִּבֶּ֣ר אֵלִיָּ֗הוּ וַיִּמְלֹ֤ךְ יְהוֹרָם֙ תַּחְתָּ֔יו בִּשְׁנַ֣ת שְׁתַּ֔יִם לִיהוֹרָ֥ם בֶּן־יְהוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה כִּ֛י לֹֽא־הָ֥יָה ל֖וֹ בֵּֽן׃",
+        "Letteris (1852)": "וַיָּ֜מָת כִּדְבַר־יְהֺוָ֣ה ׀ אֲשֶׁר־דִּבֶּ֣ר אֵֽלִיָּ֗הוּ וַיִּמְלֹ֤ךְ יְהוֹרָם֨ תַּחְתָּ֔יו בִּשְׁנַ֣ת שְׁתַּ֔יִם לִֽיהוֹרָ֥ם בֶּן־יְהֽוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה כִּ֛י לֹא־הָ֥יָה ל֖וֹ בֵּֽן׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "וַיָּ֜מׇת",
+          "disregarded_forms": [
+            "וַיָּ֜מָת"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "יְהֹוָ֣ה",
+          "disregarded_forms": [
+            "יְהוָ֣ה"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "לֹא־",
+          "disregarded_forms": [
+            "לֹֽא־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 47832,
+      "verse": 18,
+      "critical_text": "וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלוֹא־הֵ֣מָּה כְתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "MAM (Aleppo)": "וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלוֹא־הֵ֣מָּה כְתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+        "WLC (L)": "וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלֽוֹא־הֵ֣מָּה כְתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+        "BenChayyim (1525)": "וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלֽוֹא־הֵ֣מָּה כְתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+        "Letteris (1852)": "וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלוֹא־הֵ֣מָּה כְתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "BenChayyim (1525)",
+        "Letteris (1852)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 5,
+          "kept_form": "הֲלוֹא־",
+          "disregarded_forms": [
+            "הֲלֽוֹא־"
+          ],
+          "witnesses": [
+            "WLC (L)"
+          ],
+          "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
+        }
+      ],
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

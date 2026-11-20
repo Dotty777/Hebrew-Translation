@@ -1,0 +1,187 @@
+# Psalms 97 — Saints Hebrew Critical Text
+
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:28Z`
+
+**Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
+
+**Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
+
+---
+
+## Section I — Admitted Witnesses & Gatekeeper Quarantine Declaration
+
+### Admitted Collation Witnesses (Open-Source Tiers 1–4)
+| Siglum | Witness Title | Tier | Weight | License | Text-Type |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
+| **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
+
+### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
+
+| Siglum | Witness Title | Tier | License | Text-Type |
+| :--- | :--- | :---: | :--- | :--- |
+| **BenChayyim (1525)** | Jacob ben Chayyim Masoretic Majority Text (Second Rabbinic Bible Tradition) | Tier 3 | Public Domain | Medieval Masoretic Majority / Rabbinic Bible Textus Receptus |
+| **Letteris (1852)** | Meir Halevi Letteris Masoretic Hebrew Bible (1852 / 1866 Edition) | Tier 3 | Public Domain / GPL-3.0 | Van der Hooght / Ben Chayyim / Erfurt Masoretic Majority |
+
+### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
+| Source | Status | Reason Excluded from Open Critical Text |
+| :--- | :---: | :--- |
+| Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+
+---
+
+## Section II — Continuous Hebrew Critical Text
+
+**1** יְהֹוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃
+**2** עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃
+**3** אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃
+**4** הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃
+**5** הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהֹוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כׇּל־הָאָֽרֶץ׃
+**6** הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כׇל־הָעַמִּ֣ים כְּבוֹדֽוֹ׃
+**7** יֵבֹ֤שׁוּ ׀ כׇּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝֗וֹ כׇּל־אֱלֹהִֽים׃
+**8** שָׁמְעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהֹוָֽה׃
+**9** כִּֽי־אַתָּ֤ה יְהֹוָ֗ה עֶלְי֥וֹן עַל־כׇּל־הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־כׇּל־אֱלֹהִֽים׃
+**10** אֹֽהֲבֵ֥י יְהֹוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃
+**11** א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃
+**12** שִׂמְח֣וּ צַ֭דִּיקִים בַּיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃
+
+---
+
+## Section III — Critical Apparatus & Disregarded Surface Noise
+
+### Psalms 97:1
+- *Disregarded Surface Variant:* kept `יְהֹוָ֣ה` over `יְהוָ֣ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Psalms 97:5
+- *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `כַּדּוֹנַ֗ג / כַּדֹּונַ֗ג` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Psalms 97:6
+- *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Psalms 97:7
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `ל֝֗וֹ` over `ל֝וֹ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `יֵבֹ֤שׁוּ / יֵב֤שׁוּ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Psalms 97:8
+- *Disregarded Surface Variant:* kept `יְהֹוָֽה׃` over `יְהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `צִיּ֗וֹן / צִיֹּ֗ון` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Psalms 97:9
+- *Disregarded Surface Variant:* kept `יְהֹוָ֗ה` over `יְהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+
+### Psalms 97:10
+- *Disregarded Surface Variant:* kept `אֹֽהֲבֵ֥י` over `אֹהֲבֵ֥י` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `יְהֹוָ֗ה` over `יְהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `נַפְשׁ֣וֹת / נַפְשֹׁ֣ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+### Psalms 97:12
+- *Disregarded Surface Variant:* kept `בַּיהֹוָ֑ה` over `בַּֽיהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `קׇדְשֽׁוֹ׃` over `קָדְשֽׁוֹ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `קׇדְשֽׁוֹ׃ / קָדְשֹֽׁו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+
+---
+
+## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
+
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** יְהֹוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃
+  - `MAM (Aleppo)`: יְהֹוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃
+  - `WLC (L)`: יְהוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃
+  - `BenChayyim (1525)`: יְהוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃
+  - `Letteris (1852)`: יְהֹוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃
+  - `MAM (Aleppo)`: עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃
+  - `WLC (L)`: עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃
+  - `BenChayyim (1525)`: עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃
+  - `Letteris (1852)`: עָנָ֣ן וַֽעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃
+  - `MAM (Aleppo)`: אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃
+  - `WLC (L)`: אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃
+  - `BenChayyim (1525)`: אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃
+  - `Letteris (1852)`: אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃
+  - `MAM (Aleppo)`: הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃
+  - `WLC (L)`: הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃
+  - `BenChayyim (1525)`: הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃
+  - `Letteris (1852)`: הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָֽאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהֹוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כׇּל־הָאָֽרֶץ׃
+  - `MAM (Aleppo)`: הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהֹוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כׇּל־הָאָֽרֶץ׃
+  - `WLC (L)`: הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כָּל־הָאָֽרֶץ׃
+  - `BenChayyim (1525)`: הָרִ֗ים כַּדֹּונַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כָּל־הָאָֽרֶץ׃
+  - `Letteris (1852)`: הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהֹוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כָּל־הָאָֽרֶץ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כׇל־הָעַמִּ֣ים כְּבוֹדֽוֹ׃
+  - `MAM (Aleppo)`: הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כׇל־הָעַמִּ֣ים כְּבוֹדֽוֹ׃
+  - `WLC (L)`: הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כָל־הָעַמִּ֣ים כְּבוֹדֽוֹ׃
+  - `BenChayyim (1525)`: הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כָל־הָעַמִּ֣ים כְּבוֹדֽוֹ׃
+  - `Letteris (1852)`: הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כָל־הָֽעַמִּ֣ים כְּבוֹדֽוֹ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** יֵבֹ֤שׁוּ ׀ כׇּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝֗וֹ כׇּל־אֱלֹהִֽים׃
+  - `MAM (Aleppo)`: יֵבֹ֤שׁוּ ׀ כׇּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝֗וֹ כׇּל־אֱלֹהִֽים׃
+  - `WLC (L)`: יֵבֹ֤שׁוּ ׀ כָּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝וֹ כָּל־אֱלֹהִֽים׃
+  - `BenChayyim (1525)`: יֵבֹ֤שׁוּ ׀ כָּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝וֹ כָּל־אֱלֹהִֽים׃
+  - `Letteris (1852)`: יֵב֤שׁוּ ׀ כָּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּתְהַלְלִ֥ים בָּֽאֱלִילִ֑ים הִֽשְׁתַּֽחֲווּ־ל֝֗וֹ כָּל־אֱלֹהִֽים׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** שָׁמְעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהֹוָֽה׃
+  - `MAM (Aleppo)`: שָׁמְעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהֹוָֽה׃
+  - `WLC (L)`: שָׁמְעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהוָֽה׃
+  - `BenChayyim (1525)`: שָׁמְעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיֹּ֗ון וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהוָֽה׃
+  - `Letteris (1852)`: שָֽׁמְעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהֹוָֽה׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** כִּֽי־אַתָּ֤ה יְהֹוָ֗ה עֶלְי֥וֹן עַל־כׇּל־הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־כׇּל־אֱלֹהִֽים׃
+  - `MAM (Aleppo)`: כִּֽי־אַתָּ֤ה יְהֹוָ֗ה עֶלְי֥וֹן עַל־כׇּל־הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־כׇּל־אֱלֹהִֽים׃
+  - `WLC (L)`: כִּֽי־אַתָּ֤ה יְהוָ֗ה עֶלְי֥וֹן עַל־כָּל־הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־כָּל־אֱלֹהִֽים׃
+  - `BenChayyim (1525)`: כִּֽי־אַתָּ֤ה יְהוָ֗ה עֶלְי֥וֹן עַל־כָּל־הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־כָּל־אֱלֹהִֽים׃
+  - `Letteris (1852)`: כִּֽי־אַתָּ֤ה יְהֹוָ֗ה עֶלְי֥וֹן עַל־כָּל־הָאָ֑רֶץ מְאֹ֥ד נַֽ֝עֲלֵ֗יתָ עַל־כָּל־אֱלֹהִֽים׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** אֹֽהֲבֵ֥י יְהֹוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃
+  - `MAM (Aleppo)`: אֹֽהֲבֵ֥י יְהֹוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃
+  - `WLC (L)`: אֹהֲבֵ֥י יְהוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃
+  - `BenChayyim (1525)`: אֹהֲבֵ֥י יְהוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשֹׁ֣ות חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃
+  - `Letteris (1852)`: אֹֽהֲבֵ֥י יְהֹוָ֗ה שִֽׂנְא‍֫וּ רָ֥ע שֹׁ֖מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃
+  - `MAM (Aleppo)`: א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃
+  - `WLC (L)`: א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃
+  - `BenChayyim (1525)`: א֖וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃
+  - `Letteris (1852)`: א֖וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃
+- **Philological Rationale:** Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).
+
+### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** שִׂמְח֣וּ צַ֭דִּיקִים בַּיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃
+  - `MAM (Aleppo)`: שִׂמְח֣וּ צַ֭דִּיקִים בַּיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃
+  - `WLC (L)`: שִׂמְח֣וּ צַ֭דִּיקִים בַּֽיהוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קָדְשֽׁוֹ׃
+  - `BenChayyim (1525)`: שִׂמְח֣וּ צַ֭דִּיקִים בַּֽיהוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קָדְשֹֽׁו׃
+  - `Letteris (1852)`: שִׂמְח֣וּ צַ֭דִּיקִים בַּֽיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קָדְשֽׁוֹ׃
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
