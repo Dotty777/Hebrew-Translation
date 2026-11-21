@@ -20,17 +20,17 @@
 
 **2:7** Then the LORD God formed the man, dust from the ground, and blew into his nostrils the breath of life, and the man became a living creature.
 
-**2:8** The LORD God planted a garden in Eden, in the east, and there He placed the man whom He had formed.
+**2:8** And the LORD God planted a garden in Eden, toward the east, and He set there the man whom He had formed.
 
 **2:9** Out of the ground the LORD God made every tree grow that is pleasing to the sight and good for food, with the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.
 
 **2:10** A river was flowing out of Eden to water the garden, and from there it divided and became four headstreams.
 
-**2:11** The name of the first is Pishon; it is the one that winds through the whole land of Havilah, where there is gold.
+**2:11** The name of the first is Pishon; it is the one that encircles the whole land of Havilah, where there is gold.
 
 **2:12** The gold of that land is good; bdellium and onyx stone are there.
 
-**2:13** The name of the second river is Gihon; it is the one that winds through the whole land of Cush.
+**2:13** The name of the second river is Gihon; it is the one that encircles the whole land of Cush.
 
 **2:14** The name of the third river is Tigris; it is the one that flows east of Assyria. And the fourth river is the Euphrates.
 
@@ -46,7 +46,7 @@
 
 **2:20** The man gave names to all the livestock, and to the birds of the heavens, and to every animal of the field; but for Adam there was not found a helper corresponding to him.
 
-**2:21** So the LORD God caused a deep sleep to fall on the man, and he slept; then He took one of his ribs and closed up the flesh in its place.
+**2:21** So the LORD God brought a deep sleep over the man, and he fell asleep; then He took one of his ribs and closed up flesh in its place.
 
 **2:22** The LORD God built the rib that He had taken from the man into a woman, and He brought her to the man.
 
@@ -69,6 +69,6 @@
 - **2:15** — Wayyannichehu, from the verb "to rest," means to set down or settle. Leshomrah means "to keep, guard."
 - **2:17** — Moth tamuth is an emphatic infinitive construction ("dying you will die"), rendered "you will certainly die."
 - **2:18** — Ezer kenegdo is literally "a helper as opposite him," that is, matching or corresponding to him. Ezer implies no lower rank; it is used of God in Ps 33:20.
-- **2:20** — Here the Hebrew pointing has le-adam without the article for the first time, so it is read as the personal name "Adam."
+- **2:20** — Here the Masoretic pointing has le-adam without the definite article (unlike ha-adam earlier in the chapter), marking the first personal-name use "Adam."
 - **2:21** — Tsela usually means "side"; the traditional "rib" is kept.
 - **2:23** — There is a wordplay between ishah (woman) and ish (man). The Hebrew repeats zoth, "this one," three times, and the repetition is kept.

@@ -14,23 +14,23 @@
 
 **3:4** The serpent said to the woman, "You certainly will not die!
 
-**3:5** For God knows that on the day you eat from it your eyes will be opened, and you will be like God, knowing good and evil."
+**3:5** Because God knows that on the day you eat from it, your eyes will open, and you will become like God, knowing good and evil."
 
 **3:6** When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable for gaining insight, she took from its fruit and ate; and she also gave some to her husband with her, and he ate.
 
 **3:7** Then the eyes of both of them were opened, and they knew that they were naked; so they sewed fig leaves together and made coverings for themselves.
 
-**3:8** They heard the sound of the LORD God walking in the garden in the breeze of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.
+**3:8** Then they heard the sound of the LORD God walking about in the garden at the breeze of the day, and the man and his wife hid from the LORD God's presence among the trees of the garden.
 
-**3:9** Then the LORD God called to the man and said to him, "Where are you?"
+**3:9** And the LORD God called out to the man and said to him, "Where are you?"
 
 **3:10** He said, "I heard Your sound in the garden, and I was afraid because I was naked; so I hid."
 
 **3:11** And He said, "Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?"
 
-**3:12** The man said, "The woman whom You gave to be with me, she gave me some from the tree, and I ate."
+**3:12** The man answered, "The woman You gave to be with me—she herself gave me from the tree, and I ate."
 
-**3:13** Then the LORD God said to the woman, "What is this you have done?" And the woman said, "The serpent deceived me, and I ate."
+**3:13** The LORD God said to the woman, "What is this that you have done?" And the woman replied, "The serpent misled me, and I ate."
 
 **3:14** The LORD God said to the serpent, "Because you have done this, cursed are you more than all the livestock and more than every animal of the field; on your belly you will go, and dust you will eat all the days of your life.
 
@@ -46,7 +46,7 @@
 
 **3:20** The man called his wife's name Eve, because she became the mother of all the living.
 
-**3:21** The LORD God made garments of skin for Adam and for his wife, and He clothed them.
+**3:21** And the LORD God made tunics of skin for Adam and for his wife, and He clothed them.
 
 **3:22** Then the LORD God said, "See, the man has become like one of Us, knowing good and evil; and now, he might reach out his hand and take also from the tree of life, and eat, and live forever—"
 
