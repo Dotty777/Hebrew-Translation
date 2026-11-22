@@ -1,25 +1,25 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` — **4 of 13 books complete**  
-> **Coverage:** 75 chapters, 1,904 verses, 338 translator notes  
+> **Status:** `draft: true` — **9 of 13 books complete**  
+> **Coverage:** 179 chapters, 4,717 verses, 812 translator notes  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
-## Books Included (4 / 13)
+## Books Included (9 / 13)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
+| 6 | Joshua | 24 | 643 | 109 | [`markdown/06-joshua/`](markdown/06-joshua/README.md) | [`06-joshua.json`](json/06-joshua.json) |
+| 7 | Judges | 21 | 618 | 96 | [`markdown/07-judges/`](markdown/07-judges/README.md) | [`07-judges.json`](json/07-judges.json) |
+| 8 | Ruth | 4 | 85 | 18 | [`markdown/08-ruth/`](markdown/08-ruth/README.md) | [`08-ruth.json`](json/08-ruth.json) |
+| 9 | 1 Samuel | 31 | 772 | 137 | [`markdown/09-1-samuel/`](markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](json/09-1-samuel.json) |
+| 10 | 2 Samuel | 24 | 695 | 114 | [`markdown/10-2-samuel/`](markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](json/10-2-samuel.json) |
 | 15 | Ezra | 10 | 280 | 50 | [`markdown/15-ezra/`](markdown/15-ezra/README.md) | [`15-ezra.json`](json/15-ezra.json) |
 | 16 | Nehemiah | 13 | 391 | 62 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |
 | 17 | Esther | 10 | 164 | 36 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
 | 20 | Job | 42 | 1,069 | 190 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |
 
-## Pending Books (9 / 13)
+## Pending Books (4 / 13)
 
-- **6. Joshua** — in progress
-- **7. Judges** — in progress
-- **8. Ruth** — in progress
-- **9. 1 Samuel** — in progress
-- **10. 2 Samuel** — in progress
 - **11. 1 Kings** — in progress
 - **12. 2 Kings** — in progress
 - **13. 1 Chronicles** — in progress

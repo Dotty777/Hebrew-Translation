@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Hebrew & Biblical Aramaic)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **9 of 39 Hebrew Bible books complete** (262 chapters, 7,695 verses, 1,221 translator notes).  
+> **Current Coverage:** **14 of 39 Hebrew Bible books complete** (366 chapters, 10,508 verses, 1,695 translator notes).  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb --strict` and scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the **Saints Modern English** translation of the Hebrew 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch / Torah)** | **Complete** | 5 / 5 | 187 | 5,791 | 883 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | In progress (4/13) | 4 / 13 | 75 | 1,904 | 338 | [`II-Judgement/`](II-Judgement/README.md) |
+| **II. Judgement (Historical Books & Job)** | In progress (9/13) | 9 / 13 | 179 | 4,717 | 812 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 5 | — | — | — | — |
 | **IV. Providence (Prophets)** | In progress | 0 / 16 | — | — | — | — |
 
@@ -31,10 +31,15 @@ This directory contains the **Saints Modern English** translation of the Hebrew 
 | 4 | Numbers | 36 | 1,287 | 174 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 959 | 155 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
-## Division II. Judgement (4 / 13)
+## Division II. Judgement (9 / 13)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
+| 6 | Joshua | 24 | 643 | 109 | [`II-Judgement/markdown/06-joshua/`](II-Judgement/markdown/06-joshua/README.md) | [`06-joshua.json`](II-Judgement/json/06-joshua.json) |
+| 7 | Judges | 21 | 618 | 96 | [`II-Judgement/markdown/07-judges/`](II-Judgement/markdown/07-judges/README.md) | [`07-judges.json`](II-Judgement/json/07-judges.json) |
+| 8 | Ruth | 4 | 85 | 18 | [`II-Judgement/markdown/08-ruth/`](II-Judgement/markdown/08-ruth/README.md) | [`08-ruth.json`](II-Judgement/json/08-ruth.json) |
+| 9 | 1 Samuel | 31 | 772 | 137 | [`II-Judgement/markdown/09-1-samuel/`](II-Judgement/markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](II-Judgement/json/09-1-samuel.json) |
+| 10 | 2 Samuel | 24 | 695 | 114 | [`II-Judgement/markdown/10-2-samuel/`](II-Judgement/markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](II-Judgement/json/10-2-samuel.json) |
 | 15 | Ezra | 10 | 280 | 50 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
 | 16 | Nehemiah | 13 | 391 | 62 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
 | 17 | Esther | 10 | 164 | 36 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
