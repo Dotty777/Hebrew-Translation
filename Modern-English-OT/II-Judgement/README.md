@@ -1,10 +1,10 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` — **9 of 13 books complete**  
-> **Coverage:** 179 chapters, 4,717 verses, 812 translator notes  
+> **Status:** `draft: true` — **Complete 13/13 books**  
+> **Coverage:** 291 chapters, 7,940 verses, 1,323 translator notes  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb --strict` and post-translation scholarly audit (`0` hard/soft failures).
 
-## Books Included (9 / 13)
+## Books Included (13 / 13 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -13,14 +13,11 @@
 | 8 | Ruth | 4 | 85 | 18 | [`markdown/08-ruth/`](markdown/08-ruth/README.md) | [`08-ruth.json`](json/08-ruth.json) |
 | 9 | 1 Samuel | 31 | 772 | 137 | [`markdown/09-1-samuel/`](markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](json/09-1-samuel.json) |
 | 10 | 2 Samuel | 24 | 695 | 114 | [`markdown/10-2-samuel/`](markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](json/10-2-samuel.json) |
+| 11 | 1 Kings | 22 | 754 | 103 | [`markdown/11-1-kings/`](markdown/11-1-kings/README.md) | [`11-1-kings.json`](json/11-1-kings.json) |
+| 12 | 2 Kings | 25 | 718 | 120 | [`markdown/12-2-kings/`](markdown/12-2-kings/README.md) | [`12-2-kings.json`](json/12-2-kings.json) |
+| 13 | 1 Chronicles | 29 | 930 | 139 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
+| 14 | 2 Chronicles | 36 | 821 | 149 | [`markdown/14-2-chronicles/`](markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](json/14-2-chronicles.json) |
 | 15 | Ezra | 10 | 280 | 50 | [`markdown/15-ezra/`](markdown/15-ezra/README.md) | [`15-ezra.json`](json/15-ezra.json) |
 | 16 | Nehemiah | 13 | 391 | 62 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |
 | 17 | Esther | 10 | 164 | 36 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
 | 20 | Job | 42 | 1,069 | 190 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |
-
-## Pending Books (4 / 13)
-
-- **11. 1 Kings** — in progress
-- **12. 2 Kings** — in progress
-- **13. 1 Chronicles** — in progress
-- **14. 2 Chronicles** — in progress
