@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Hebrew & Biblical Aramaic)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **30 of 39 Hebrew Bible books complete** (545 chapters, 14,781 verses, 2,502 translator notes).  
+> **Current Coverage:** **35 of 39 Hebrew Bible books complete** (751 chapters, 18,684 verses, 3,372 translator notes).  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb --strict` and scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -18,7 +18,7 @@ This directory contains the **Saints Modern English** translation of the Hebrew 
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch / Torah)** | **Complete** | 5 / 5 | 187 | 5,791 | 883 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | **Complete** | 13 / 13 | 291 | 7,940 | 1,323 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 5 | — | — | — | — |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 5 / 5 | 206 | 3,903 | 870 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,050 | 296 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
@@ -48,6 +48,16 @@ This directory contains the **Saints Modern English** translation of the Hebrew 
 | 16 | Nehemiah | 13 | 391 | 62 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
 | 17 | Esther | 10 | 164 | 36 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
 | 20 | Job | 42 | 1,069 | 190 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
+
+## Division III. Wisdom (5 / 5 Complete)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 21 | Psalms | 150 | 2,526 | 609 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
+| 22 | Proverbs | 31 | 888 | 146 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
+| 23 | Ecclesiastes | 12 | 222 | 52 | [`III-Wisdom/markdown/23-ecclesiastes/`](III-Wisdom/markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](III-Wisdom/json/23-ecclesiastes.json) |
+| 24 | Song of Songs | 8 | 117 | 34 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |
+| 25 | Lamentations | 5 | 150 | 29 | [`III-Wisdom/markdown/25-lamentations/`](III-Wisdom/markdown/25-lamentations/README.md) | [`25-lamentations.json`](III-Wisdom/json/25-lamentations.json) |
 
 ## Division IV. Providence (12 / 16)
 
