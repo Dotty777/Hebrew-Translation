@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Hebrew & Biblical Aramaic)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **2 of 39 Hebrew Bible books complete** (90 chapters, 2,686 verses, 431 translator notes).  
+> **Current Coverage:** **6 of 39 Hebrew Bible books complete** (165 chapters, 4,590 verses, 769 translator notes).  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb --strict` and scholarly audits (`0` hard/soft failures).
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the **Saints Modern English** translation of the Hebrew 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch / Torah)** | In progress (2/5) | 2 / 5 | 90 | 2,686 | 431 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | In progress | 0 / 13 | — | — | — | — |
+| **II. Judgement (Historical Books & Job)** | In progress (4/13) | 4 / 13 | 75 | 1,904 | 338 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 5 | — | — | — | — |
 | **IV. Providence (Prophets)** | In progress | 0 / 16 | — | — | — | — |
 
@@ -27,3 +27,12 @@ This directory contains the **Saints Modern English** translation of the Hebrew 
 |---:|---|---:|---:|---:|---|---|
 | 1 | Genesis | 50 | 1,531 | 251 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
 | 2 | Exodus | 40 | 1,155 | 180 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
+
+## Division II. Judgement (4 / 13)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 15 | Ezra | 10 | 280 | 50 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
+| 16 | Nehemiah | 13 | 391 | 62 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
+| 17 | Esther | 10 | 164 | 36 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
+| 20 | Job | 42 | 1,069 | 190 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
