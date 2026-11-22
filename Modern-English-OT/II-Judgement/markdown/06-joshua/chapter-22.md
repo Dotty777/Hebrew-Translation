@@ -47,7 +47,7 @@
 
 **22:21** Then the sons of Reuben, the sons of Gad, and the half-tribe of Manasseh answered and spoke to the heads of the thousands of Israel:
 
-**22:22** "God of gods, the LORD! God of gods, the LORD! He knows, and may Israel itself know! If it was in rebellion or in treachery against the LORD—do not save us this day —
+**22:22** "God of gods, the LORD! God of gods, the LORD! He knows, and may Israel itself know! If it was in rebellion or in treachery against the LORD—do not save us this day—
 
 **22:23** in building an altar for ourselves to turn back from following the LORD, or if it was to offer up burnt offering and grain offering on it, or to present sacrifices of peace offerings on it, may the LORD Himself require it.
 

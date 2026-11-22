@@ -1,6 +1,6 @@
 # Proverbs 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,10 @@
 **8:35** For the one who finds me has found life and gains favor from the LORD,
 
 **8:36** but the one who misses me does violence to his own life; all who hate me love death."
+
+## Additional Verses (Not in Saints Numbering)
+
+**8:33** *(after `8:32`)* Listen to discipline and become wise, and do not disregard it.
 
 ## Translator Notes
 

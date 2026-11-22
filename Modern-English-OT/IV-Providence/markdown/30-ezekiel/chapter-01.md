@@ -1,6 +1,6 @@
 # Ezekiel 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,6 +58,10 @@
 **1:27** And I saw something like the gleam of electrum, like the appearance of fire enclosed within it all around, from the appearance of His waist and upward; and from the appearance of His waist and downward I saw something like the appearance of fire, and there was brightness all around Him.
 
 **1:28** Like the appearance of the rainbow that is in the cloud on a day of rain, so was the appearance of the brightness all around. That was the appearance of the likeness of the glory of the LORD. And I saw it, and I fell on my face, and I heard a voice speaking.
+
+## Additional Verses (Not in Saints Numbering)
+
+**1:14** *(after `1:13`)* And the living creatures were darting back and forth, like the appearance of a lightning flash.
 
 ## Translator Notes
 

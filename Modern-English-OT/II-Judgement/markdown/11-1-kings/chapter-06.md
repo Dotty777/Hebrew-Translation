@@ -1,6 +1,6 @@
 # 1 Kings 6 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 5 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,6 +66,18 @@
 **6:35** And he carved cherubim, palm trees, and open blossoms, and overlaid them with gold smoothed evenly over the engraved work.
 
 **6:36** And he built the inner court with three courses of hewn stone and a course of cut cedar beams.
+
+## Additional Verses (Not in Saints Numbering)
+
+**6:11** *(after `6:10`)* And the word of the LORD came to Solomon, saying:
+
+**6:12** *(after `6:10`)* "As for this house that you are building, if you walk in My statutes and carry out My ordinances and keep all My commandments, walking in them, then I will uphold My word with you that I spoke to your father David."
+
+**6:13** *(after `6:10`)* "And I will dwell in the midst of the sons of Israel, and I will not abandon My people Israel."
+
+**6:14** *(after `6:10`)* And Solomon built the house and completed it.
+
+**6:18** *(after `6:17`)* And the cedar on the inside of the house was carved with gourds and open blossoms; everything was cedar, and no stone was visible.
 
 ## Translator Notes
 

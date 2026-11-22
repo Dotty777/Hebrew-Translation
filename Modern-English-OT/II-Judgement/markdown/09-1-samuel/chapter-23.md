@@ -1,6 +1,6 @@
 # 1 Samuel 23 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,6 +58,10 @@
 **23:27** Then a messenger came to Saul, saying, "Hurry and come, for the Philistines have made a raid on the land!"
 
 **23:28** So Saul turned back from pursuing after David and went to meet the Philistines. Therefore they called that place the Rock of Divisions.
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:12** *(after `23:11`)* So David asked, "Will the citizens of Keilah surrender me and my men into Saul's hand?" And the LORD said, "They will surrender you."
 
 ## Translator Notes
 

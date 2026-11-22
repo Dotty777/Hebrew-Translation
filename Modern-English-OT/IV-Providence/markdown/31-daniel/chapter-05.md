@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 8 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,24 @@
 
 **5:30** On that same night Belshazzar, the Chaldean king, was killed.
 
+## Additional Verses (Not in Saints Numbering)
+
+**5:14** *(after `5:13`)* And I have heard about you that a spirit of the gods is in you, and that enlightenment, discernment, and surpassing wisdom have been found in you.
+
+**5:15** *(after `5:13`)* And now the wise men, the enchanters, were brought in before me so that they would read this writing and make its interpretation known to me, yet they were not able to declare the interpretation of the matter.
+
+**5:18** *(after `5:17`)* As for you, King, the Most High God gave kingship, greatness, glory, and splendor to Nebuchadnezzar your father.
+
+**5:19** *(after `5:17`)* And because of the greatness that He gave him, all the peoples, nations, and languages were trembling and afraid before him. Whomever he wished, he put to death; and whomever he wished, he kept alive; and whomever he wished, he lifted up; and whomever he wished, he brought low.
+
+**5:20** *(after `5:17`)* But when his heart grew proud and his spirit became hardened to act arrogantly, he was brought down from the throne of his kingdom, and his glory was removed from him.
+
+**5:21** *(after `5:17`)* And he was driven away from human beings, and his mind was made like that of the wild animals, and his dwelling was with the wild donkeys; he was fed grass like oxen, and his body was soaked with the dew of heaven, until he came to know that the Most High God rules over the kingdom of humanity and appoints whomever He wishes over it.
+
+**5:22** *(after `5:17`)* But you, his son Belshazzar, have not humbled your heart, although you knew all of this.
+
+**5:24** *(after `5:23`)* Then the hand was sent from before Him, and this writing was inscribed.
+
 ## Translator Notes
 
 - **5:5** — "fingers ... came out": Following the Qere nepaqah (Peal perfect 3fp), which agrees with the feminine plural subject "fingers," whereas the Ketiv reads masculine plural npqw. "palm of the hand": Aramaic pas yeda refers to the flat portion of the hand from wrist to fingers.
@@ -54,3 +72,4 @@
 - **5:7** — "third in the kingdom": Aramaic talti (and talta in 5:16, 29) means "third" or "third ruler," fitting Belshazzar's historical position as co-regent under his father Nabonidus.
 - **5:8** — "its interpretation": Following the Qere ufishreh ("and its interpretation") rather than the Ketiv wpsr' ("and the interpretation").
 - **5:17** — In this critical text, the reading of the wall inscription (traditional 5:25) stands at the end of 5:17. The Aramaic words name weights—mina, shekel, and half-minas (plural parsin, preceded by u-, "and," traditionally rendered "Upharsin")—which Daniel explains in 5:26-28 by wordplay on cognate verbs ("numbered," "weighed," "divided," using singular Peres) and the name Paras ("Persia").
+- **5:24 *(additional)*** — Literally "the palm of the hand."

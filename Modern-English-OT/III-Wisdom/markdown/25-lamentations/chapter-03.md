@@ -1,6 +1,6 @@
 # Lamentations 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (62 verses, 10 translator notes)  
+> **Status:** `draft: true` (62 verses, 10 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Lamentations`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -129,6 +129,16 @@
 
 **3:66** You will pursue them in anger and wipe them out from beneath the heavens of the LORD.
 
+## Additional Verses (Not in Saints Numbering)
+
+**3:22** *(after `3:21`)* It is by the steadfast kindnesses of the LORD that we have not perished, because His compassions are not exhausted.
+
+**3:23** *(after `3:21`)* They are fresh each morning; abundant is Your faithfulness.
+
+**3:24** *(after `3:21`)* "My portion is the LORD," my soul has said; therefore I will hope in Him.
+
+**3:29** *(after `3:28`)* Let him place his mouth in the dust—perhaps there is hope.
+
 ## Translator Notes
 
 - **3:10** — The ketiv and qere are alternate Hebrew forms for "lion" (aryeh vs. ari) with no difference in meaning.
@@ -141,3 +151,4 @@
 - **3:51** — The Poel verb olalah ("deals harshly with" or "torments") is used elsewhere in Lamentations for severe affliction (1:12, 22; 2:20), and the preposition min is causal ("because of").
 - **3:56** — The rare noun ravchati ("my gasping" or "my relief," cf. Exod 8:11) derives from a root meaning "breathe freely" or "find relief"; paired with "my cry for help" after "Your ear," it denotes either a desperate gasp for breath or an appeal for relief.
 - **3:65** — The rare construct phrase meginnat-lev literally means "a covering of heart" (from a root meaning "cover" or "shield"), denoting obstinacy or dullness of heart; some alternatively connect it to a root meaning "anguish."
+- **3:22 *(additional)*** — Follows the Masoretic Hebrew first-person plural verb rather than the third-person emendation adopted by some ancient versions.

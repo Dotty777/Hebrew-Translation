@@ -1,6 +1,6 @@
 # Exodus 32 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,6 +72,10 @@
 **32:34** Now go, lead the people to the place I spoke of to you. Look, My angel will go ahead of you; yet on the day when I call to account, I will call them to account for their sin."
 
 **32:35** And the LORD struck the people because they had made the calf that Aaron made.
+
+## Additional Verses (Not in Saints Numbering)
+
+**32:9** *(after `32:8`)* Then the LORD said to Moses, "I have seen this people, and look, they are a stiff-necked people."
 
 ## Translator Notes
 

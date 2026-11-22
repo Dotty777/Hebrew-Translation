@@ -1,6 +1,6 @@
 # Jeremiah 10 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,16 @@
 
 **10:25** Pour out Your wrath upon the nations that do not know You, and upon the families that do not call on Your name; for they have devoured Jacob; they have devoured him and consumed him, and have made his habitation desolate.
 
+## Additional Verses (Not in Saints Numbering)
+
+**10:6** *(after `10:5`)* There is no one like You, LORD; great are You, and great is Your name in might.
+
+**10:7** *(after `10:5`)* Who would not fear You, King of the nations? For to You it is due, because among all the wise of the nations and in all their kingdoms there is no one like You.
+
+**10:8** *(after `10:5`)* And altogether they are senseless and foolish; the instruction of worthless things—it is wood.
+
+**10:10** *(after `10:9`)* Yet the LORD is the true God; He is the living God and the eternal King. At His wrath the earth trembles, and nations cannot withstand His indignation.
+
 ## Translator Notes
 
 - **10:5** — Literally "like a post/palm-pillar in a cucumber patch," widely understood as a scarecrow (though the noun is also a homonym for "turned/hammered work").
@@ -54,3 +64,4 @@
 - **10:13** — Qere adds the definite article ("the earth"), whereas Ketiv reads "earth" without the article. The opening phrase literally reads "at the sound of His giving," an idiomatic expression for uttering His voice in thunder.
 - **10:17** — Qere reads the standard Qal feminine singular participle ("you who dwell"), replacing the archaic Ketiv feminine ending with hireq compaginis. The noun rendered "bundle" is a hapax legomenon denoting packed belongings or wares.
 - **10:18** — The Masoretic Qal imperfect literally reads "so that they may find," without an explicit object, idiomatically meaning "so that they may feel/experience it."
+- **10:8 *(additional)*** — Hebrew habalim, literally "vanities" or "empty breaths," refers here to worthless idols.

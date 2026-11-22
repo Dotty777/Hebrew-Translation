@@ -1,6 +1,6 @@
 # Isaiah 2 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,9 +47,14 @@
 
 **2:21** to go into the clefts of the rocks and into the crevices of the cliffs, away from the dread of the LORD and from the splendor of His grandeur, when He arises to strike terror into the earth.
 
+## Additional Verses (Not in Saints Numbering)
+
+**2:22** *(after `2:21`)* Stop relying on man, who has breath in his nostrils. For what is he reckoned to be?
+
 ## Translator Notes
 
 - **2:6** — The phrase mal'u miqqedem literally reads "they are filled from the east" without naming the imported practices; yaspiqu (Hiphil of sapaq) denotes slapping or clasping hands to seal a bargain or pact, though some relate it to an Aramaic sense "abound with."
 - **2:12** — The final word weshapel is read here as a Qal consecutive perfect verb ("so that it will be brought low"), matching the verbal usage of shapel in vv. 11 and 17 and the list of lofty objects in vv. 13-16, rather than as an adjective ("and low").
 - **2:16** — The rare plural construct sekiyyot ("vessels") appears only here in the Hebrew Bible; parallel to "ships of Tarshish," it is widely linked to an Egyptian and Ugaritic term for seagoing craft, though older interpreters derived it from a root meaning "to look at" ("desirable sights" or "works of art").
 - **2:20** — The Masoretic Text divides lachpor perot into two words, widely understood as a split spelling of the reduplicated animal name chaparparot ("moles" or "shrews," literally "diggers"), paired here with "bats."
+- **2:22 *(additional)*** — The opening Hebrew idiom literally reads "cease for yourselves from man."

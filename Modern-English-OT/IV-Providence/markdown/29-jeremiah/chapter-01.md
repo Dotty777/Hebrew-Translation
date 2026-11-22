@@ -1,6 +1,6 @@
 # Jeremiah 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (19 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -42,6 +42,10 @@
 **1:18** And as for Me, look, I have made you today a fortified city, and an iron pillar, and walls of bronze against the entire land: against the kings of Judah, against her officials, against her priests, and against the people of the land.
 
 **1:19** And they will fight against you, yet they will not prevail over you, for I am with you, declares the LORD, to rescue you."
+
+## Additional Verses (Not in Saints Numbering)
+
+**2:1** *(after `1:19`)* And the word of the LORD came to me, saying:
 
 ## Translator Notes
 

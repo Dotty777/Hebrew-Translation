@@ -1,6 +1,6 @@
 # Ezekiel 40 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes)  
+> **Status:** `draft: true` (48 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -100,6 +100,10 @@
 **40:48** Then he brought me to the vestibule of the house and measured the jamb of the vestibule, five cubits on this side and five cubits on that side; and the width of the gate was three cubits on this side and three cubits on that side.
 
 **40:49** The length of the vestibule was twenty cubits, and the width was eleven cubits; and there were steps by which they would go up to it, and pillars beside the jambs, one on this side and one on that side.
+
+## Additional Verses (Not in Saints Numbering)
+
+**40:30** *(after `40:29`)* And there were vestibules all around; the length was twenty-five cubits, and the width was five cubits.
 
 ## Translator Notes
 

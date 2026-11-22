@@ -1,6 +1,6 @@
 # Proverbs 16 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,10 @@
 
 **16:33** Into the lap the lot is cast, yet from the LORD is its whole decision.
 
+## Additional Verses (Not in Saints Numbering)
+
+**16:3** *(after `16:2`)* Entrust your works to the LORD, and your plans will stand firm.
+
 ## Translator Notes
 
 - **16:5** — Hebrew yad leyad ('hand to hand') is an oath or handshake idiom expressing firm assurance, and the Niphal yinnaqeh means 'be cleared of guilt' or 'go unpunished.'
@@ -66,3 +70,4 @@
 - **16:19** — Translated from the Qere anavim ('the humble'); the Ketiv reads aniyyim ('the poor' or 'the afflicted').
 - **16:26** — Hebrew nefesh here denotes physical appetite or hunger, and the hapax verb akhaf ('presses upon') conveys the relentless urgency of needing food.
 - **16:27** — Translated from the Qere sefato (singular, 'his lip'); the Ketiv reads sefatav (dual, 'his lips').
+- **16:3 *(additional)*** — Literally 'Roll your works onto the LORD.'

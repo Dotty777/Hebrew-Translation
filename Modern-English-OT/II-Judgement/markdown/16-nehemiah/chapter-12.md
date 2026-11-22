@@ -1,6 +1,6 @@
 # Nehemiah 12 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (44 verses, 5 translator notes)  
+> **Status:** `draft: true` (44 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -92,6 +92,14 @@
 **12:46** For in the days of David and Asaph long ago, there were heads of the singers, and songs of praise and thanksgivings to God.
 
 **12:47** And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, each day's requirement in its day; and they consecrated the portions for the Levites, and the Levites consecrated the portions for the sons of Aaron.
+
+## Additional Verses (Not in Saints Numbering)
+
+**12:4** *(after `12:3`)* Iddo, Ginnethoi, Abijah,
+
+**12:5** *(after `12:3`)* Mijamin, Maadiah, Bilgah,
+
+**12:6** *(after `12:3`)* Shemaiah and Joiarib, Jedaiah,
 
 ## Translator Notes
 

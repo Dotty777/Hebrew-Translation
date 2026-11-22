@@ -1,6 +1,6 @@
 # Jeremiah 37 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (20 verses, 4 translator notes)  
+> **Status:** `draft: true` (20 verses, 4 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -44,6 +44,16 @@
 **37:23** Look, the tempest of the LORD! Fury has gone forth, a sweeping tempest; upon the head of the wicked it will whirl down.
 
 **37:24** The burning anger of the LORD will not turn back until He has done and until He has established the purposes of His heart; in the latter days you will understand it.
+
+## Additional Verses (Not in Saints Numbering)
+
+**30:10** *(after `37:9`)* As for you, do not be afraid, My servant Jacob, declares the LORD, and do not be dismayed, Israel; for look, I am going to save you from far away, and your offspring from the land of their captivity. Jacob will return and be at rest and secure, with no one to terrify him.
+
+**30:11** *(after `37:9`)* For I am with you, declares the LORD, to save you; for I will bring complete destruction upon all the nations where I have scattered you, yet I will not bring complete destruction upon you. I will discipline you with justice, and I will certainly not leave you unpunished.
+
+**30:15** *(after `37:14`)* Why do you cry out over your wound? Your pain is incurable. Because of the abundance of your iniquity, since your sins are so many, I have done these things to you.
+
+**30:22** *(after `37:21`)* And you will be My people, and I will be your God.
 
 ## Translator Notes
 

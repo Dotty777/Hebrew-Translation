@@ -9,9 +9,9 @@
 
 **5:2** "She has fallen—never again will she rise, virgin Israel! She is abandoned on her soil; there is no one to raise her."
 
-**5:3** For thus the Lord GOD says: "The city that marches out with a thousand will be left with a hundred, and the one that marches out with a hundred will be left with ten, for the house of Israel."
+**5:3** For this is what the Lord GOD says: "The city that marches out with a thousand will be left with a hundred, and the one that marches out with a hundred will be left with ten, for the house of Israel."
 
-**5:4** For thus the LORD says to the house of Israel: "Seek Me and live!
+**5:4** For this is what the LORD says to the house of Israel: "Seek Me and live!
 
 **5:5** But do not seek Bethel, and do not enter Gilgal, and do not cross over to Beersheba; for Gilgal will surely go into exile, and Bethel will come to nothing."
 
@@ -35,7 +35,7 @@
 
 **5:15** Hate evil and love good, and set up justice in the gate; perhaps the LORD, God of hosts, will show favor to the remnant of Joseph.
 
-**5:16** Therefore thus the LORD, God of hosts, the Lord, says: "In all public squares there will be wailing, and in all streets they will say, 'Alas! Alas!' And they will call the farmer to mourning, and proclaim wailing to those who know lamentation;
+**5:16** Therefore this is what the LORD, God of hosts, the Lord, says: "In all public squares there will be wailing, and in all streets they will say, 'Alas! Alas!' And they will call the farmer to mourning, and proclaim wailing to those who know lamentation;
 
 **5:17** and in all vineyards there will be wailing, because I will pass through your midst," says the LORD.
 

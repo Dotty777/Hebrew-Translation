@@ -1,6 +1,6 @@
 # Proverbs 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **11:30** The fruit of a righteous person is a tree of life, and one who wins souls is wise.
 
 **11:31** If indeed a righteous person is recompensed on the earth, how much more a wicked person and a sinner!
+
+## Additional Verses (Not in Saints Numbering)
+
+**11:4** *(after `11:3`)* Wealth brings no benefit on the day of wrath, but righteousness rescues from death.
 
 ## Translator Notes
 

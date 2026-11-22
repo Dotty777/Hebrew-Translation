@@ -49,7 +49,7 @@
 
 **41:22** Let them bring them forward and declare to us what will happen. As for the former things, what are they? Declare them, so that we may set our minds on them and know their outcome; or let us hear the things to come.
 
-**41:23** Declare the things that are coming hereafter, so that we may know that you are gods; indeed, do good or do harm, so that we may be alarmed and look on together.
+**41:23** Declare the things that are coming afterward, so that we may know that you are gods; indeed, do good or do harm, so that we may be alarmed and look on together.
 
 **41:24** Look, you are less than nothing, and your work is less than nothingness; an abomination is the one who chooses you.
 

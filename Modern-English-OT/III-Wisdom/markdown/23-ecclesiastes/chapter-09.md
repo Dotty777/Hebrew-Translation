@@ -25,7 +25,7 @@
 
 **9:10** Everything your hand finds to do, do with your strength, because there is no work or reckoning or knowledge or wisdom in Sheol, where you are going.
 
-**9:11** Once more I saw under the sun that the race does not belong to the swift, nor the battle to the mighty, nor bread to the wise, nor wealth to those of understanding, nor favor to the knowledgeable, for time and chance befall all of them.
+**9:11** Once more I saw under the sun that the race does not belong to the swift, nor the battle to the mighty, nor bread to the wise, nor wealth to those of understanding, nor favor to the knowledgeable, for time and chance happen to all of them.
 
 **9:12** Indeed, man does not even know his time: like fish caught in a cruel net and like birds caught in a snare, like them the sons of man are ensnared at an evil time, when it suddenly falls on them.
 

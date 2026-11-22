@@ -1,6 +1,6 @@
 # 1 Kings 12 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 9 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,6 +67,26 @@
 
 **12:33** And he went up to the altar that he had made in Bethel on the fifteenth day in the eighth month, in the month that he had devised out of his own heart; and he instituted a feast for the sons of Israel and went up to the altar to burn incense.
 
+## Additional Verses (Not in Saints Numbering)
+
+**12:17** *(after `12:16`)* Yet as for the sons of Israel who were living in the cities of Judah, Rehoboam reigned over them.
+
+**14:7** *(after `12:24`)* "Go, say to Jeroboam, 'This is what the LORD, the God of Israel, says: Because I lifted you up from the midst of the people and made you ruler over My people Israel.'"
+
+**14:8** *(after `12:24`)* "And I tore the kingdom from the house of David and gave it to you, yet you have not been like My servant David, who kept My commandments and who walked after Me with his whole heart, doing only what is right in My eyes."
+
+**14:9** *(after `12:24`)* "But you have done greater evil than all who came before you, and you have gone and made for yourself other gods and cast metal images to provoke Me to anger, and you have flung Me behind your back."
+
+**14:14** *(after `12:24`)* "And the LORD will raise up for Himself a king over Israel who will cut off the house of Jeroboam this very day—and what? Even now!"
+
+**14:15** *(after `12:24`)* "And the LORD will strike Israel just as a reed sways in the water, and He will uproot Israel from this good land that He gave to their fathers and scatter them beyond the River, because they made their Asherah poles, provoking the LORD."
+
+**14:16** *(after `12:24`)* "And He will hand Israel over because of the sins of Jeroboam, which he committed and by which he caused Israel to sin."
+
+**14:19** *(after `12:24`)* And the rest of the deeds of Jeroboam, how he waged war and how he reigned—indeed, they are written in the scroll of the chronicles of the kings of Israel.
+
+**14:20** *(after `12:24`)* And the days that Jeroboam reigned were twenty-two years; then he lay down with his fathers, and his son Nadab reigned in his place.
+
 ## Translator Notes
 
 - **12:3** — Ketiv reads plural "they came" while the translated Qere reads singular "he came," agreeing grammatically with the first element of the compound subject; the same Ketiv/Qere occurs in 12:21.
@@ -74,3 +94,5 @@
 - **12:15** — The noun sibbah ("turn of events"), derived from the root savav ("turn around"), occurs only here in the Hebrew Bible and denotes a divinely directed turning of affairs.
 - **12:24** — In Jeroboam's instructions to his wife, Ketiv preserves the archaic feminine pronoun atti while Qere reads standard att ("you"). In Ahijah's oracle, "every male" renders the blunt Hebrew idiom "one who urinates against a wall," and "both bound and free" translates a merism of Qal passive participles meaning everyone without exception.
 - **12:33** — Ketiv reads mlbd ("apart/alone"), likely a scribal interchange of dalet and vav, while the translated Qere reads millibbo ("out of his own heart," i.e. of his own devising).
+- **14:14 *(additional)*** — The closing Hebrew clause is abruptly elliptical—literally "this day, and what? even now"—stressing that the judgment is already imminent.
+- **14:15 *(additional)*** — Here "the River" refers to the Euphrates.

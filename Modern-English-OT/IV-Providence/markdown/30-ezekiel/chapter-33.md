@@ -1,6 +1,6 @@
 # Ezekiel 33 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes)  
+> **Status:** `draft: true` (32 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,9 +69,14 @@
 
 **33:33** And when it comes to pass—look, it is coming—then they will know that a prophet has been in their midst."
 
+## Additional Verses (Not in Saints Numbering)
+
+**33:26** *(after `33:25`)* You have depended on your sword, you have committed abomination, and each one of you has defiled his neighbor's wife; should you then possess the land?
+
 ## Translator Notes
 
 - **33:12** — Hebrew bah ("by it") is feminine singular, referring back unambiguously to feminine tsedeqah ("righteousness") rather than the nearer masculine resha ("wickedness").
 - **33:25** — Hebrew al-haddam ("with the blood") is the cultic and dietary idiom for eating meat without draining its blood, prohibited in Leviticus 19:26.
 - **33:30** — Hebrew chad ("one") is an Aramaicized form of standard Hebrew echad, occurring only here in the Hebrew text of the Old Testament.
 - **33:32** — Masoretic vocalization reads shir agavim ("a song of passionate love," echoing agavim in v. 31), followed by personal qualifiers describing a skilled singer and musician.
+- **33:26 *(additional)*** — Hebrew literally reads "stood upon your sword" and uses a feminine plural verb form for "you have committed."

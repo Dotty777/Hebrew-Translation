@@ -1,6 +1,6 @@
 # Jeremiah 40 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (13 verses, 5 translator notes)  
+> **Status:** `draft: true` (13 verses, 5 translator notes, 13 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,6 +31,34 @@
 
 **40:13** In the cities of the hill country, in the cities of the lowland, in the cities of the Negev, in the land of Benjamin, in the surroundings of Jerusalem, and in the cities of Judah, flocks will once more pass under the hands of the one who counts them," says the LORD.
 
+## Additional Verses (Not in Saints Numbering)
+
+**33:14** *(after `40:13`)* Look, days are coming, declares the LORD, when I will carry out the good word that I spoke to the house of Israel and to the house of Judah.
+
+**33:15** *(after `40:13`)* In those days and at that time I will make a branch of righteousness sprout for David, and he will administer justice and righteousness in the land.
+
+**33:16** *(after `40:13`)* In those days Judah will be saved, and Jerusalem will live securely; and this is what she will be called: "The LORD Is Our Righteousness."
+
+**33:17** *(after `40:13`)* For this is what the LORD says: David will never be without a man sitting on the throne of the house of Israel,
+
+**33:18** *(after `40:13`)* and the Levitical priests will never be without a man in My presence offering burnt offerings, burning grain offerings, and preparing sacrifices for all time.
+
+**33:19** *(after `40:13`)* Then the word of the LORD came to Jeremiah, saying:
+
+**33:20** *(after `40:13`)* This is what the LORD says: If you can annul My covenant with the day and My covenant with the night, so that day and night do not come at their proper time,
+
+**33:21** *(after `40:13`)* then My covenant may also be annulled with My servant David, so that he will not have a son reigning on his throne, and with the Levitical priests, My ministers.
+
+**33:22** *(after `40:13`)* Just as the host of the heavens cannot be counted and the sand of the sea cannot be measured, so I will multiply the offspring of My servant David and the Levites who minister to Me.
+
+**33:23** *(after `40:13`)* Then the word of the LORD came to Jeremiah, saying:
+
+**33:24** *(after `40:13`)* Have you not noticed what these people have spoken, saying, "The two families that the LORD chose, He has rejected"? And they treat My people with contempt, so that they are no longer a nation before them.
+
+**33:25** *(after `40:13`)* This is what the LORD says: If My covenant with day and night does not stand, and if I have not appointed the ordinances of heaven and earth,
+
+**33:26** *(after `40:13`)* then I will also reject the offspring of Jacob and of My servant David, so as not to take rulers from his offspring over the offspring of Abraham, Isaac, and Jacob. For I will restore their fortunes and show compassion to them.
+
 ## Translator Notes
 
 - **40:2** — The Hebrew uses three feminine singular object suffixes ("it") with no explicit antecedent in the Masoretic text, variously understood as the earth, Jerusalem, or the LORD's decree.
@@ -38,3 +66,4 @@
 - **40:5** — The terse Hebrew connects directly to 40:4: the third-person plural suffix on the Piel infinitive construct lemal'am ("to fill them") refers back to the demolished houses of Jerusalem.
 - **40:6** — The noun ateret ("abundance") is a biblical hapax legomenon, related to the root atar ("be rich, abundant").
 - **40:8** — Ketiv and Qere are purely orthographic (plene versus defective) spelling variants of the same form, "for all."
+- **33:16 *(additional)*** — MT uses the feminine pronoun here, applying this title directly to the city of Jerusalem.

@@ -1,6 +1,6 @@
 # 1 Chronicles 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes)  
+> **Status:** `draft: true` (42 verses, 5 translator notes, 12 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -89,6 +89,32 @@
 
 **1:54** the chieftain of Magdiel, the chieftain of Iram. These were the chieftains of Edom.
 
+## Additional Verses (Not in Saints Numbering)
+
+**1:11** *(after `1:10`)* And Mizraim fathered the Ludim, the Anamim, the Lehabim, the Naphtuhim,
+
+**1:12** *(after `1:10`)* the Pathrusim, the Casluhim—from whom the Philistines came out—and the Caphtorim.
+
+**1:13** *(after `1:10`)* And Canaan fathered Sidon, his firstborn, and Heth,
+
+**1:14** *(after `1:10`)* and the Jebusites, the Amorites, the Girgashites,
+
+**1:15** *(after `1:10`)* the Hivites, the Arkites, the Sinites,
+
+**1:16** *(after `1:10`)* the Arvadites, the Zemarites, and the Hamathites.
+
+**1:18** *(after `1:17`)* And Arpachshad fathered Shelah, and Shelah fathered Eber.
+
+**1:19** *(after `1:17`)* And two sons were born to Eber: the name of the one was Peleg—because in his days the earth was divided—and the name of his brother was Joktan.
+
+**1:20** *(after `1:17`)* And Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
+
+**1:21** *(after `1:17`)* Hadoram, Uzal, Diklah,
+
+**1:22** *(after `1:17`)* Ebal, Abimael, Sheba,
+
+**1:23** *(after `1:17`)* Ophir, Havilah, and Jobab. All of these were sons of Joktan.
+
 ## Translator Notes
 
 - **1:7** — The Masoretic Text reads Tarshishah (with a final -ah ending, compared with Tarshish in Genesis 10:4) and Rodanim (compared with Dodanim in Genesis 10:4).
@@ -96,3 +122,5 @@
 - **1:42** — The Masoretic Text reads Dishon here (matching verse 41), whereas verse 38 and Genesis 36:28 spell the seventh son of Seir as Dishan.
 - **1:46** — Ketiv/Qere: the written consonantal text transposes the middle letters (yod before vav), whereas the read form (qere) translated here is Avith, matching Genesis 36:35.
 - **1:51** — Ketiv/Qere: the written consonantal text reads Aliah, whereas the read form (qere) translated here is Alvah, matching Genesis 36:40. The noun rendered "chieftain" translates Hebrew alluph, a tribal or clan leader, standing without the definite article before each clan or district name.
+- **1:11 *(additional)*** — Mizraim is the Hebrew name for Egypt.
+- **1:19 *(additional)*** — Peleg means division, a wordplay on the Hebrew verb for divided.

@@ -1,6 +1,6 @@
 # Job 23 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes)  
+> **Status:** `draft: true` (16 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -37,9 +37,14 @@
 
 **23:17** for I was not cut off before the darkness, nor did He conceal the thick gloom from my face."
 
+## Additional Verses (Not in Saints Numbering)
+
+**23:14** *(after `23:13`)* For He will fulfill what is decreed for me, and many things like these are with Him.
+
 ## Translator Notes
 
 - **23:2** — MT reads יָדִי ("my hand") rather than "His hand" (found in the Septuagint and Syriac), and מְרִי literally means "rebellion/rebellious" (from מרה), though some take it as "bitter."
 - **23:9** — The four directional terms in vv. 8-9 (forward, backward, left, right) also serve as the four compass points (east, west, north, south). אָחַז is an apocopated Qal imperfect 1cs of חזה ("see/glimpse"), and יַעְטֹף can mean either "He turns" or "He conceals Himself."
 - **23:12** — MT reads מֵחֻקִּי ("more than my allotted portion," i.e., daily food or prescribed measure; cf. Prov 30:8), whereas the Septuagint and Vulgate read "in my bosom" (בְּחֵיקִי).
 - **23:17** — The Hebrew is difficult; this translation takes נִצְמַתִּי (Niphal of צמת, "be cut off") with מִפְּנֵי ("before") and extends the negative לֹא across the second clause, where כִּסָּה מִפָּנַי means "He concealed from my face." Alternatively, the verse can be read "Yet I am not silenced because of darkness, though thick gloom covers my face."
+- **23:14 *(additional)*** — Hebrew literally reads "my decree," meaning the portion allotted to me, and "with Him" refers to what He holds in His purpose.

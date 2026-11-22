@@ -1,6 +1,6 @@
 # Daniel 6 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 4 translator notes)  
+> **Status:** `draft: true` (28 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -60,6 +60,10 @@
 **6:28** He rescues and delivers, and He works signs and wonders in heaven and on earth, for He has rescued Daniel from the paw of the lions."
 
 **6:29** So this Daniel prospered during the reign of Darius and during the reign of Cyrus the Persian.
+
+## Additional Verses (Not in Saints Numbering)
+
+**6:16** *(after `6:15`)* Then those men crowded in on the king and said to the king, "Know, King, that it is a law of the Medes and Persians that no ban or statute the king establishes can be changed."
 
 ## Translator Notes
 

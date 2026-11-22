@@ -1,6 +1,6 @@
 # 1 Kings 13 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -70,6 +70,10 @@
 **13:33** After this event Jeroboam did not turn back from his evil way, but again he made priests of the high places from every part of the people; whoever wished, he would consecrate him so that he became one of the priests of the high places.
 
 **13:34** And through this matter it became the sin of the house of Jeroboam, so as to wipe it out and destroy it from the face of the earth.
+
+## Additional Verses (Not in Saints Numbering)
+
+**13:27** *(after `13:26`)* Then he spoke to his sons, saying, "Saddle the donkey for me." So they saddled it.
 
 ## Translator Notes
 

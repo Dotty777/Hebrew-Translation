@@ -1,6 +1,6 @@
 # Ezekiel 10 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -46,6 +46,10 @@
 **10:21** Each one had four faces, and each one had four wings, and the likeness of human hands was underneath their wings.
 
 **10:22** As for the likeness of their faces, they were the very faces that I had seen by the Chebar River—their appearance and themselves. Each one moved straight forward.
+
+## Additional Verses (Not in Saints Numbering)
+
+**10:14** *(after `10:13`)* And each one had four faces: the first face was the face of the cherub, the second face was the face of a human being, the third was the face of a lion, and the fourth was the face of an eagle.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Daniel 4 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 5 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,18 @@
 
 **4:37** King Nebuchadnezzar to all the peoples, nations, and languages who live in all the earth: May your peace multiply! It has pleased me to declare the signs and wonders that the Most High God has performed for me. His signs, how great they are, and His wonders, how powerful they are! His kingdom is an eternal kingdom, and His dominion lasts from generation to generation. Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because all His deeds are truth and His ways are justice, and those who walk in pride He is able to bring low.
 
+## Additional Verses (Not in Saints Numbering)
+
+**4:3** *(after `4:5`)* So a decree was issued by me to bring before me all the wise men of Babylon, so that they would make the interpretation of the dream known to me.
+
+**4:4** *(after `4:5`)* Then the magicians, the enchanters, the Chaldeans, and the astrologers came in, and I told the dream before them, yet they did not make its interpretation known to me.
+
+**4:5** *(after `4:5`)* And at last Daniel came in before me—whose name is Belteshazzar, after the name of my god, and in whom is a spirit of the holy gods—and I told the dream before him:
+
+**4:6** *(after `4:5`)* "Belteshazzar, chief of the magicians, since I know that a spirit of the holy gods is in you and no mystery perplexes you, tell me the visions of my dream that I saw and its interpretation."
+
+**4:32** *(after `4:34`)* And all the inhabitants of the earth are regarded as nothing, and He acts according to His will among the host of heaven and the inhabitants of the earth; and there is no one who can restrain His hand or say to Him, "What have You done?"
+
 ## Translator Notes
 
 - **4:13** — "watcher and holy one": Aramaic ir weqaddish uses an epexegetical conjunction (confirmed by the singular participle nachit, "descending") to designate a single vigilant heavenly messenger.
@@ -70,3 +82,5 @@
 - **4:26** — "Heaven is sovereign": Aramaic shemayya ("the heavens," grammatically plural with the plural adjective shallitin) serves here as a reverent metonymy for God.
 - **4:27** — "my counsel ... break off": Aramaic milki ("my counsel") plays on malka ("King"), and the Peal imperative peruq ("break off" or "redeem") conveys either casting away sins or redeeming them through righteous conduct.
 - **4:37** — In this critical text, Nebuchadnezzar's royal greeting and opening doxology (traditional 4:1-3) stand at the conclusion of the chapter immediately before his final declaration of praise.
+- **4:6 *(additional)*** — Alternatively, "as for the visions of my dream that I saw, tell me its interpretation."
+- **4:32 *(additional)*** — Literally "strike against His hand," an Aramaic idiom for restraining or halting someone's action.

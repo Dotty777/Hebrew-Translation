@@ -1,6 +1,6 @@
 # Esther 9 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Esther`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,6 +65,12 @@
 
 **9:32** And the command of Esther confirmed these matters of Purim, and it was written in the book.
 
+## Additional Verses (Not in Saints Numbering)
+
+**9:5** *(after `9:4`)* So the Jews struck all their enemies with blows of the sword, with slaughter and destruction, and did to those who hated them as they wished.
+
+**9:30** *(after `9:29`)* He sent letters to all the Jews, to the one hundred twenty-seven provinces of the realm of Ahasuerus—words of peace and truth.
+
 ## Translator Notes
 
 - **9:1** — Hebrew venahafoch hu uses a Niphal infinitive absolute of haphach ("turn, overturn") with the pronoun hu, literally "and it was overturned," emphasizing the complete reversal.
@@ -72,3 +78,4 @@
 - **9:19** — The ketiv reads happeruzim and the qere reads happerazim, variant plural forms meaning "rural dwellers" or "inhabitants of unwalled towns," matching perazot ("unwalled towns") in the same clause.
 - **9:25** — The feminine suffix in bevo'ah ("when it came" or "when she came") may refer either to the matter of Haman's plot (feminine machashavah) or to Esther herself. Hebrew im-hassepher literally reads "with the letter," meaning by written order.
 - **9:27** — The ketiv reads the singular Piel perfect veqibbel ("and accepted," treating "the Jews" collectively as in 9:23), whereas the qere reads the plural veqibbelu ("and they accepted") in agreement with the preceding plural qiyyemu.
+- **9:30 *(additional)*** — The Hebrew verb is masculine singular, referring to Mordecai.

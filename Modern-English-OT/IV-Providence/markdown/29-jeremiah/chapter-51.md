@@ -1,6 +1,6 @@
 # Jeremiah 51 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,10 @@
 **51:34** Thus you shall say to him: 'This is what the LORD says: "Look, what I have built I am tearing down, and what I have planted I am uprooting, and indeed it is the entire land.
 
 **51:35** And as for you, are you seeking great things for yourself? Do not seek them! For look, I am bringing disaster upon all flesh," declares the LORD, "yet I will give you your life as plunder in all the places where you go."'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**46:1** *(after `51:35`)* What came as the word of the LORD to Jeremiah the prophet regarding the nations.
 
 ## Translator Notes
 

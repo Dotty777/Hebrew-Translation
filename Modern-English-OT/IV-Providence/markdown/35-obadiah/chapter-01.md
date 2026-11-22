@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** The vision of Obadiah. Thus the Lord GOD has said concerning Edom: We have heard a report from the LORD, and an envoy has been dispatched among the nations, "Rise, and let us rise against her for battle!"
+**1:1** The vision of Obadiah. This is what the Lord GOD has said concerning Edom: We have heard a report from the LORD, and an envoy has been dispatched among the nations, "Rise, and let us rise against her for battle!"
 
 **1:2** "Look, I have made you small among the nations; you are deeply despised.
 

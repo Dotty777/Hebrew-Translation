@@ -1,6 +1,6 @@
 # Jeremiah 26 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes)  
+> **Status:** `draft: true` (26 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,10 @@
 **26:27** But you, do not fear, My servant Jacob, and do not be dismayed, Israel; for look, I am about to save you from afar, and your offspring from the land of their captivity. Jacob will return and be quiet and at ease, and no one will frighten him.
 
 **26:28** As for you, do not fear, My servant Jacob, declares the LORD, for I am with you. For I will make a complete end of all the nations to which I have banished you, yet of you I will not make a complete end; I will discipline you in justice, and I will by no means let you go unpunished.
+
+## Additional Verses (Not in Saints Numbering)
+
+**46:26** *(after `26:25`)* And I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterward she will be inhabited as in former days, declares the LORD.
 
 ## Translator Notes
 

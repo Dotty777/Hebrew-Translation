@@ -23,7 +23,7 @@
 
 **90:9** For You, LORD, are my refuge; you have made the Most High your dwelling place.
 
-**90:10** No calamity will befall you, and no plague will approach your tent.
+**90:10** No calamity will come upon you, and no plague will approach your tent.
 
 **90:11** For He will command His angels on your behalf, to watch over you in all your ways.
 

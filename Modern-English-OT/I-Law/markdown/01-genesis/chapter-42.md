@@ -11,7 +11,7 @@
 
 **42:3** And ten of Joseph's brothers went down to buy grain from Egypt.
 
-**42:4** But Jacob did not send Benjamin, Joseph's brother, along with his brothers, for he said, "Harm might befall him."
+**42:4** But Jacob did not send Benjamin, Joseph's brother, along with his brothers, for he said, "Harm might happen to him."
 
 **42:5** And the sons of Israel came to buy grain in the midst of those who came, because the famine was in the land of Canaan.
 

@@ -1,6 +1,6 @@
 # Jeremiah 30 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 6 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,10 @@
 **30:32** "Therefore her young men will fall in her squares, and all the men of war will be silenced in that day, declares the LORD of hosts.
 
 **30:33** And I will kindle a fire in the wall of Damascus, and it will devour the citadels of Ben-hadad."
+
+## Additional Verses (Not in Saints Numbering)
+
+**49:6** *(after `30:21`)* Yet afterward I will restore the fortunes of the people of Ammon, declares the LORD.
 
 ## Translator Notes
 

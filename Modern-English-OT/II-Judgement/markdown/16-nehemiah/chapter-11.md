@@ -1,6 +1,6 @@
 # Nehemiah 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 9 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,26 @@
 
 **11:36** And from the Levites, divisions of Judah were attached to Benjamin.
 
+## Additional Verses (Not in Saints Numbering)
+
+**11:16** *(after `11:15`)* and Shabbethai and Jozabad, from the heads of the Levites, who oversaw the external work for the house of God;
+
+**11:20** *(after `11:19`)* And the rest of Israel, the priests, and the Levites were in all the towns of Judah, each one in his own inheritance.
+
+**11:21** *(after `11:19`)* But the temple servants were living on the Ophel, and Ziha and Gishpa oversaw the temple servants.
+
+**11:28** *(after `11:27`)* and in Ziklag, and in Meconah and in its dependent towns,
+
+**11:29** *(after `11:27`)* and in En-rimmon, and in Zorah, and in Jarmuth,
+
+**11:32** *(after `11:31`)* Anathoth, Nob, Ananiah,
+
+**11:33** *(after `11:31`)* Hazor, Ramah, Gittaim,
+
+**11:34** *(after `11:31`)* Hadid, Zeboim, Neballat,
+
+**11:35** *(after `11:31`)* Lod and Ono, the Valley of the Craftsmen.
+
 ## Translator Notes
 
 - **11:14** — Haggedolim is a Hebrew plural form meaning the great ones, here treated as a family or ancestral name; it may alternatively be rendered the son of the great men.
@@ -66,3 +86,4 @@
 - **11:24** — At the king's hand translates the Hebrew idiom leyad hammelek, denoting service as the king's advisor or liaison.
 - **11:25** — Dependent towns here and in 11:27, 30, and 31 translates Hebrew banot, literally daughters, denoting satellite towns attached to a mother city, in distinction from chatserim, unwalled villages.
 - **11:36** — The Hebrew is a terse verbless clause literally reading And from the Levites, divisions of Judah for Benjamin, indicating that certain Levitical divisions from Judah were assigned to Benjamin's territory.
+- **11:35 *(additional)*** — The Hebrew phrase "the Valley of the Craftsmen" may either name a third settlement or describe the valley of Lod and Ono.

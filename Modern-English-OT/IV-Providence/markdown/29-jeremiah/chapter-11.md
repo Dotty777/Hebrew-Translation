@@ -1,6 +1,6 @@
 # Jeremiah 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (22 verses, 4 translator notes)  
+> **Status:** `draft: true` (22 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,9 +49,14 @@
 
 **11:23** And there will be no remnant for them, for I will bring disaster upon the men of Anathoth in the year of their punishment."
 
+## Additional Verses (Not in Saints Numbering)
+
+**11:7** *(after `11:6`)* For I solemnly warned your fathers on the day I brought them up from the land of Egypt, and up to this day, rising early and warning, saying, "Listen to My voice."
+
 ## Translator Notes
 
 - **11:2** — The Hebrew uses second-person plural verbs ("Hear... and speak") in v. 2 before shifting to second-person singular ("And you shall say") in v. 3.
 - **11:15** — The Masoretic Hebrew is notoriously compressed: a poetic feminine singular noun ("vile scheme") stands next to masculine plural "many," "consecrated flesh" takes a Qal plural verb ("passes away"), and "your evil" preserves an archaic second-person feminine singular suffix.
 - **11:19** — Literally "the tree with its bread," an idiom for a tree together with its fruit.
 - **11:20** — In Hebrew idiom, the "kidneys" and "heart" denote the deepest seat of human emotions, conscience, and inner motives.
+- **11:7 *(additional)*** — The Hebrew idiom "rising early and warning" conveys persistent, earnest admonition.

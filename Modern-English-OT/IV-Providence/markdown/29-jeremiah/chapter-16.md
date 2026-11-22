@@ -1,6 +1,6 @@
 # Jeremiah 16 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 3 translator notes)  
+> **Status:** `draft: true` (21 verses, 3 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,8 +47,20 @@
 
 **16:21** "Therefore, look, I am about to make them know; this once I will make them know My hand and My might, and they will know that My name is the LORD."
 
+## Additional Verses (Not in Saints Numbering)
+
+**17:1** *(after `16:21`)* The sin of Judah is written with an iron stylus, with a diamond point; it is engraved on the tablet of their heart and on the horns of your altars,
+
+**17:2** *(after `16:21`)* while their children remember their altars and their Asherah poles beside a leafy tree, on the high hills.
+
+**17:3** *(after `16:21`)* My mountain in the field, your wealth, all your treasures, I will give for plunder—your high places, because of sin throughout all your borders.
+
+**17:4** *(after `16:21`)* And you will relinquish—by your own doing—your inheritance that I gave you, and I will make you serve your enemies in a land that you do not know, for you have kindled a fire in My anger; it will burn forever.
+
 ## Translator Notes
 
 - **16:5** — Hebrew bet marzeah ("house of mourning") refers to a ritual funerary banquet held in honor of the dead.
 - **16:7** — The Masoretic verb yifresu (Qal of paras, "break [bread]") omits an explicit object ("bread") and is followed by al-ebel ("in mourning"), which some ancient versions read as "bread."
 - **16:16** — Translates the Qere dayyagim ("fishermen"), matching the pattern of tsayyadim ("hunters") later in the verse; the Ketiv reads dawagim (or dogim) with the same meaning.
+- **17:1 *(additional)*** — MT shifts here from third-person "their heart" to second-person plural "your altars."
+- **17:4 *(additional)*** — MT reads literally "and in you," indicating Judah forfeits its inheritance by its own doing.

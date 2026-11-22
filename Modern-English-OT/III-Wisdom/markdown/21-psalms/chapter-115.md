@@ -1,6 +1,6 @@
 # Psalms 115 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (9 verses, 5 translator notes)  
+> **Status:** `draft: true` (9 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -22,6 +22,10 @@
 **115:9** My vows to the LORD I will fulfill, yes, before all His people,
 
 **115:10** in the courtyards of the house of the LORD, within you, Jerusalem. Praise the LORD!
+
+## Additional Verses (Not in Saints Numbering)
+
+**116:14** *(after `115:4`)* I will fulfill my vows to the LORD—indeed, in the presence of all His people.
 
 ## Translator Notes
 

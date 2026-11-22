@@ -1,6 +1,6 @@
 # Joshua 6 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (26 verses, 6 translator notes)  
+> **Status:** `draft: true` (26 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,10 @@
 **6:26** At that time Joshua imposed an oath, saying, "Cursed is the man before the LORD who rises up and builds this city, Jericho: at the price of his firstborn he shall lay its foundation, and at the price of his youngest he shall set up its gates."
 
 **6:27** And the LORD was with Joshua, and his renown was throughout all the land.
+
+## Additional Verses (Not in Saints Numbering)
+
+**6:4** *(after `6:3`)* And seven priests shall carry seven ram-horn trumpets in front of the ark, and on the seventh day you shall go around the city seven times, and the priests shall sound the trumpets.
 
 ## Translator Notes
 

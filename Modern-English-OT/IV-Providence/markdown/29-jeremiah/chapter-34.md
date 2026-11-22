@@ -1,6 +1,6 @@
 # Jeremiah 34 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (17 verses, 5 translator notes)  
+> **Status:** `draft: true` (17 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -38,6 +38,16 @@
 **34:20** which Nebuchadnezzar king of Babylon did not take when he exiled Jeconiah son of Jehoiakim, king of Judah, from Jerusalem to Babylon, together with all the nobles of Judah and Jerusalem:
 
 **34:22** To Babylon they will be brought, and there they will stay until the day I attend to them, declares the LORD; then I will bring them up and restore them to this place."
+
+## Additional Verses (Not in Saints Numbering)
+
+**27:7** *(after `34:6`)* And all the nations will serve him, and his son, and his son's son, until the time of his own land comes as well; and many nations and great kings will enslave him.
+
+**27:13** *(after `34:12`)* Why should you die, you and your people, by the sword, by famine, and by plague, just as the LORD has spoken concerning the nation that will not serve the king of Babylon?
+
+**27:17** *(after `34:16`)* Do not listen to them. Serve the king of Babylon and live. Why should this city become a wasteland?
+
+**27:21** *(after `34:20`)* For this is what the LORD of hosts, the God of Israel, says concerning the vessels that remain in the house of the LORD, and in the house of the king of Judah, and in Jerusalem:
 
 ## Translator Notes
 

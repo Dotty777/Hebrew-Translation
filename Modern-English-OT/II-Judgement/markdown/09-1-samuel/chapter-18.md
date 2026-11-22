@@ -1,6 +1,6 @@
 # 1 Samuel 18 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes)  
+> **Status:** `draft: true` (19 verses, 5 translator notes, 6 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,6 +43,20 @@
 
 **18:29** So Saul feared David even more, and Saul remained an enemy to David always.
 
+## Additional Verses (Not in Saints Numbering)
+
+**18:10** *(after `18:9`)* On the next day, an evil spirit from God surged upon Saul, and he raved inside the house, while David was playing music with his hand as he did day after day, and the spear was in Saul's hand.
+
+**18:11** *(after `18:9`)* Then Saul hurled the spear and said, "I will strike through David into the wall." But David slipped aside from him twice.
+
+**18:17** *(after `18:16`)* Then Saul said to David, "Here is my older daughter Merab; I will give her to you as a wife. Only be a man of valor for me and fight the battles of the LORD." Now Saul said to himself, "Let my hand not be against him; rather, let the hand of the Philistines be against him."
+
+**18:18** *(after `18:16`)* But David said to Saul, "Who am I, and who are my kin—my father's clan in Israel—that I should become a son-in-law to the king?"
+
+**18:19** *(after `18:16`)* However, when the time arrived for Merab, Saul's daughter, to be given to David, she was given to Adriel the Meholathite as a wife.
+
+**18:30** *(after `18:29`)* Then the commanders of the Philistines marched out, and whenever they marched out, David achieved greater success than all of Saul's servants, and his name was held in very high esteem.
+
 ## Translator Notes
 
 - **18:6** — Following the Qere 'lashir' (Qal infinitive construct of 'shir,' 'to sing'); the Ketiv writes 'lshwr.' The rare noun 'shalishim,' derived from the root for 'three,' refers to a musical instrument such as a three-stringed lute or sistrum.
@@ -50,3 +64,6 @@
 - **18:14** — The Hiphil participle 'maskil' (from 'sakal,' also in verse 15) denotes both wise, prudent conduct and the success that results from it.
 - **18:21** — Hebrew 'bishtayim' (literally 'with two,' i.e., 'a second time') stands inside Saul's speech in the Masoretic Text, referring to a second opportunity to marry one of his daughters.
 - **18:29** — Hebrew 'lero'' is a rare form of the Qal infinitive construct of 'yare'' ('to fear'), paired with the Hiphil of 'yasaf' ('added') and 'od' ('still/more') to express intensifying fear.
+- **18:10 *(additional)*** — The Hebrew verb translated "raved" literally means to act as a prophet, here referring to an ecstatic frenzy.
+- **18:18 *(additional)*** — The Hebrew term translated "my kin" can also mean "my life," here clarified by the appositional phrase "my father's clan."
+- **18:30 *(additional)*** — The Hebrew verb translated "achieved greater success" conveys both prudent skill and successful results.

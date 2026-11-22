@@ -1,6 +1,6 @@
 # Joshua 10 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (41 verses, 5 translator notes)  
+> **Status:** `draft: true` (41 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -86,6 +86,12 @@
 **10:41** And Joshua struck them from Kadesh-barnea even to Gaza, and all the land of Goshen even to Gibeon.
 
 **10:42** And Joshua captured all these kings and their land at one time, because the LORD, the God of Israel, was fighting for Israel.
+
+## Additional Verses (Not in Saints Numbering)
+
+**10:15** *(after `10:14`)* And Joshua and all Israel with him returned to the camp at Gilgal.
+
+**10:43** *(after `10:42`)* And Joshua and all Israel with him returned to the camp at Gilgal.
 
 ## Translator Notes
 

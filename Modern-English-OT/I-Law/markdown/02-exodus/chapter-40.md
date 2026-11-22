@@ -1,6 +1,6 @@
 # Exodus 40 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,16 @@
 **40:37** But if the cloud was not lifted up, then they would not break camp until the day it was lifted up.
 
 **40:38** For the cloud of the LORD was over the tabernacle by day, and fire would be in it by night, before the eyes of the whole house of Israel throughout all their journeys.
+
+## Additional Verses (Not in Saints Numbering)
+
+**40:7** *(after `40:6`)* And you shall place the basin between the tent of meeting and the altar, and you shall put water in it.
+
+**40:11** *(after `40:10`)* And you shall anoint the basin and its base, and consecrate it.
+
+**40:28** *(after `40:27`)* And he set up the screen for the entrance of the tabernacle.
+
+**40:30** *(after `40:29`)* And he placed the basin between the tent of meeting and the altar, and he put water into it for washing.
 
 ## Translator Notes
 

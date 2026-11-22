@@ -1,6 +1,6 @@
 # 2 Kings 25 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`2 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,10 @@
 
 **25:30** And his provision—a continual provision—was given to him from the king, each day's portion on its day, all the days of his life.
 
+## Additional Verses (Not in Saints Numbering)
+
+**25:10** *(after `25:9`)* And the whole army of the Chaldeans who were with the commander of the guard tore down the walls of Jerusalem all around.
+
 ## Translator Notes
 
 - **25:3** — The Masoretic Hebrew reads simply 'on the ninth of the month,' without naming the month; compare the parallel account in Jeremiah 52:6, which specifies the fourth month.
@@ -70,3 +74,4 @@
 - **25:15** — The terse Hebrew phrasing literally reads 'what was gold, gold, and what was silver, silver,' indicating either items taken for their bullion value or items made of pure gold and pure silver.
 - **25:17** — The written ketiv has the singular ammah ('cubit'), whereas the read qere translated here has the plural ammot ('cubits'), agreeing with the numeral 'three.'
 - **25:27** — 'Lifted up the head of' is a Hebrew idiom meaning to show royal favor, restore to honor, and grant release from prison.
+- **25:10 *(additional)*** — The Masoretic Text omits a preposition before "commander of the guard," reading literally "who the commander of the guard."

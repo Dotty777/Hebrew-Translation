@@ -1,6 +1,6 @@
 # Nehemiah 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (36 verses, 6 translator notes)  
+> **Status:** `draft: true` (36 verses, 6 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -77,6 +77,12 @@
 
 **3:37** Do not cover their iniquity, and do not let their sin be blotted out from before You, for they have provoked anger in front of the builders.
 
+## Additional Verses (Not in Saints Numbering)
+
+**3:7** *(after `3:6`)* And next to them, Melatiah the Gibeonite and Jadon the Meronothite, the men of Gibeon and Mizpah belonging to the seat of the governor of Beyond the River, made repairs.
+
+**3:38** *(after `3:37`)* So we built the wall, and the entire wall was connected up to half its height, for the people had a heart to work.
+
 ## Translator Notes
 
 - **3:5** — 'their lords' translates plural Hebrew adonehem, which may refer to the supervisors directing the work or, as a plural of majesty, to 'their Lord' (God) or the governor.
@@ -85,3 +91,4 @@
 - **3:20** — Ketiv reads zby (Zabbai), whereas Qere reads zakkay (Zaccai). 'zealously repaired' translates the rare asyndetic pairing of Hiphil hehera ('burned with zeal') and Hiphil heheziq ('repaired').
 - **3:30** — In both 3:30 and 3:31, Ketiv reads 'hry ('after me'), whereas Qere reads aharaw ('after him'), matching the third-person sequence of the list.
 - **3:37** — 'provoked anger' renders Hiphil hik'isu used without an explicit object, an idiom denoting that they provoked God to anger in the sight of the builders.
+- **3:7 *(additional)*** — The Hebrew phrase translated "belonging to the seat" may indicate that Gibeon and Mizpah were under the administrative jurisdiction of the Persian governor of Trans-Euphrates, or that they repaired up to his official residence.

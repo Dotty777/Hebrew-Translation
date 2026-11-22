@@ -9,27 +9,27 @@
 
 **1:2** And he said, "From Zion the LORD roars, and from Jerusalem He gives forth His voice; and the shepherds' pastures mourn, and the peak of Carmel dries up."
 
-**1:3** Thus the LORD says, "On account of three transgressions of Damascus, and on account of four, I will not turn it back, because they threshed Gilead with sharp iron sledges.
+**1:3** This is what the LORD says, "On account of three transgressions of Damascus, and on account of four, I will not turn it back, because they threshed Gilead with sharp iron sledges.
 
 **1:4** So I will send fire into the house of Hazael, and it will devour the citadels of Ben-hadad.
 
 **1:5** And I will break the crossbar of Damascus, and I will cut off the inhabitant from the Valley of Aven and the one holding the scepter from Beth-eden; and the people of Aram will go into exile to Kir," says the LORD.
 
-**1:6** Thus the LORD says, "On account of three transgressions of Gaza, and on account of four, I will not turn it back, because they carried an entire captive community into exile to hand them over to Edom.
+**1:6** This is what the LORD says, "On account of three transgressions of Gaza, and on account of four, I will not turn it back, because they carried an entire captive community into exile to hand them over to Edom.
 
 **1:7** So I will send fire upon the wall of Gaza, and it will devour its citadels.
 
 **1:8** And I will cut off the inhabitant from Ashdod and the one holding the scepter from Ashkelon; and I will turn My hand back against Ekron, and the remnant of the Philistines will perish," says the Lord GOD.
 
-**1:9** Thus the LORD says, "On account of three transgressions of Tyre, and on account of four, I will not turn it back, because they handed over an entire captive community to Edom and did not remember a covenant of brothers.
+**1:9** This is what the LORD says, "On account of three transgressions of Tyre, and on account of four, I will not turn it back, because they handed over an entire captive community to Edom and did not remember a covenant of brothers.
 
 **1:10** So I will send fire upon the wall of Tyre, and it will devour its citadels."
 
-**1:11** Thus the LORD says, "On account of three transgressions of Edom, and on account of four, I will not turn it back, because he pursued his brother with the sword and ruined his compassion, and his anger tore continually, and he kept his fury endlessly.
+**1:11** This is what the LORD says, "On account of three transgressions of Edom, and on account of four, I will not turn it back, because he pursued his brother with the sword and ruined his compassion, and his anger tore continually, and he kept his fury endlessly.
 
 **1:12** So I will send fire upon Teman, and it will devour the citadels of Bozrah."
 
-**1:13** Thus the LORD says, "On account of three transgressions of the sons of Ammon, and on account of four, I will not turn it back, because they ripped open the pregnant women of Gilead in order to widen their border.
+**1:13** This is what the LORD says, "On account of three transgressions of the sons of Ammon, and on account of four, I will not turn it back, because they ripped open the pregnant women of Gilead in order to widen their border.
 
 **1:14** So I will kindle fire on the wall of Rabbah, and it will devour its citadels, with a war cry on a day of battle, with a gale on a day of whirlwind.
 

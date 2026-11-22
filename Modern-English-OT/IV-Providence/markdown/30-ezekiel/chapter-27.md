@@ -1,6 +1,6 @@
 # Ezekiel 27 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,10 @@
 **27:35** All the inhabitants of the coastlands are appalled at you, and their kings shudder with horror; their faces are convulsed.
 
 **27:36** The merchants among the peoples hiss at you; you have become a terror, and you will be no more forever."'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**27:31** *(after `27:30`)* And they will shave themselves bald for you and wrap themselves in sackcloth; they will weep over you in bitterness of soul with bitter lamentation.
 
 ## Translator Notes
 

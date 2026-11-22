@@ -1,6 +1,6 @@
 # Proverbs 15 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes)  
+> **Status:** `draft: true` (32 verses, 4 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,12 @@
 **15:32** One who casts off discipline rejects his own soul, but one who listens to reproof acquires sense.
 
 **15:33** The fear of the LORD is the discipline of wisdom, and before honor is humility.
+
+## Additional Verses (Not in Saints Numbering)
+
+**15:31** *(after `15:30`)* An ear that listens to life-giving correction will lodge among the wise.
+
+**16:1** *(after `15:33`)* The preparations of the heart belong to a person, but the response of the tongue comes from the LORD.
 
 ## Translator Notes
 

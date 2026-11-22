@@ -1,6 +1,6 @@
 # 1 Kings 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (39 verses, 4 translator notes)  
+> **Status:** `draft: true` (39 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,7 +59,7 @@
 
 **11:30** Then Ahijah seized the new cloak that was on him and tore it into twelve pieces.
 
-**11:31** And he said to Jeroboam, "Take for yourself ten pieces, for thus says the LORD, the God of Israel: 'Look, I am about to tear the kingdom out of the hand of Solomon, and I will give you the ten tribes,
+**11:31** And he said to Jeroboam, "Take for yourself ten pieces, for this is what the LORD, the God of Israel, says: 'Look, I am about to tear the kingdom out of the hand of Solomon, and I will give you the ten tribes,
 
 **11:32** while the one tribe shall belong to him, for the sake of My servant David and for the sake of Jerusalem, the city that I have chosen out of all the tribes of Israel,
 
@@ -82,6 +82,10 @@
 **11:42** And the days that Solomon reigned in Jerusalem over all Israel were forty years.
 
 **11:43** And Solomon slept with his fathers and was buried in the city of David his father, and his son Rehoboam reigned in his place. Now it happened when Jeroboam the son of Nebat heard of it—he was still in Egypt, where he had fled from the presence of King Solomon—that Jeroboam stayed in Egypt.
+
+## Additional Verses (Not in Saints Numbering)
+
+**11:39** *(after `11:38`)* "And I will afflict the offspring of David on account of this, yet not for all time."
 
 ## Translator Notes
 

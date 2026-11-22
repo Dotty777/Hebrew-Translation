@@ -27,7 +27,7 @@
 
 **21:11** "Because Manasseh, king of Judah, has done these abominations, acting more wickedly than all that the Amorites before him had done, and has also caused Judah to sin through his idols,
 
-**21:12** therefore thus says the LORD, the God of Israel: Look, I am bringing calamity upon Jerusalem and Judah, such that both ears of everyone who hears it will ring.
+**21:12** therefore this is what the LORD, the God of Israel, says: Look, I am bringing calamity upon Jerusalem and Judah, such that both ears of everyone who hears it will ring.
 
 **21:13** I will stretch out over Jerusalem the measuring line of Samaria and the plumb line of the house of Ahab, and I will wipe Jerusalem just as someone wipes a dish, wiping it and turning it face down.
 

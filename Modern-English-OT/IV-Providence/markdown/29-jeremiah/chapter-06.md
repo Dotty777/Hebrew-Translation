@@ -1,6 +1,6 @@
 # Jeremiah 6 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **6:29** The bellows are scorched; the lead is consumed by the fire. In vain the refining continues, yet the wicked are not separated.
 
 **6:30** "Rejected silver," people call them, because the LORD has rejected them.
+
+## Additional Verses (Not in Saints Numbering)
+
+**7:1** *(after `6:30`)* The word that came to Jeremiah from the LORD, saying:
 
 ## Translator Notes
 

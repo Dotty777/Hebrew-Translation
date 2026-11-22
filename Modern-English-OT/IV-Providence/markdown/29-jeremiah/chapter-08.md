@@ -1,6 +1,6 @@
 # Jeremiah 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -46,6 +46,12 @@
 **8:22** Is there no balm in Gilead? Is there no healer there? Why then has the healing of the daughter of my people not appeared?
 
 **8:23** If only my head were waters, and my eyes a spring of tears, so that I might weep day and night for those killed of the daughter of my people!
+
+## Additional Verses (Not in Saints Numbering)
+
+**8:11** *(after `8:10`)* And they have treated the wound of the daughter of My people lightly, saying, "Peace, peace," yet there is no peace.
+
+**8:12** *(after `8:10`)* Were they ashamed because they committed an abomination? No, they were not ashamed at all, and they did not know how to feel disgrace. Therefore they will fall among those who fall; at the time of their punishment they will stumble, says the LORD.
 
 ## Translator Notes
 

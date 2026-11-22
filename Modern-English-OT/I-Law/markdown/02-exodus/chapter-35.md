@@ -1,6 +1,6 @@
 # Exodus 35 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes)  
+> **Status:** `draft: true` (31 verses, 4 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,6 +66,12 @@
 **35:34** And He has put it in his heart to teach, both him and Oholiab son of Ahisamach, of the tribe of Dan.
 
 **35:35** He has filled them with skill of heart to do every work of a craftsman, of a designer, of an embroiderer in blue, in purple, in crimson yarn, and in fine linen, and of a weaver—makers of every kind of work and devisers of designs."
+
+## Additional Verses (Not in Saints Numbering)
+
+**35:8** *(after `35:7`)* and oil for illumination, and spices for the anointing oil and for the fragrant incense,
+
+**35:18** *(after `35:12`)* the pegs of the tabernacle and the pegs of the courtyard, along with their cords;
 
 ## Translator Notes
 

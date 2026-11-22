@@ -1,6 +1,6 @@
 # Jeremiah 52 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 7 translator notes)  
+> **Status:** `draft: true` (28 verses, 7 translator notes, 6 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,20 @@
 
 **52:34** And as for his allowance, a continual allowance was given to him from the king of Babylon, each day's portion, until the day of his death, all the days of his life.
 
+## Additional Verses (Not in Saints Numbering)
+
+**52:2** *(after `52:1`)* And he did what was evil in the eyes of the LORD, according to everything Jehoiakim had done.
+
+**52:3** *(after `52:1`)* For on account of the LORD's anger this happened in Jerusalem and Judah until He cast them away from His presence. And Zedekiah rebelled against the king of Babylon.
+
+**52:15** *(after `52:14`)* And Nebuzaradan the chief of the guard deported some of the poorest of the people, the rest of the people who remained in the city, the defectors who had defected to the king of Babylon, and the rest of the craftsmen.
+
+**52:28** *(after `52:27`)* These are the people whom Nebuchadnezzar deported: in the seventh year, three thousand twenty-three Judeans;
+
+**52:29** *(after `52:27`)* in the eighteenth year of Nebuchadnezzar, eight hundred thirty-two individuals from Jerusalem.
+
+**52:30** *(after `52:27`)* In the twenty-third year of Nebuchadnezzar, Nebuzaradan the chief of the guard deported seven hundred forty-five Judean individuals. Altogether, there were four thousand six hundred individuals.
+
 ## Translator Notes
 
 - **52:1** — Translated from the qere (read form) Hamutal; the ketiv (written form) spells the name Hamital.
@@ -70,3 +84,5 @@
 - **52:23** — Hebrew ruchah (literally 'toward the wind') refers to the pomegranates exposed on the outer sides of the capital's latticework.
 - **52:31** — Translated from the qere 'the house of confinement' (Qal passive participle of kl' 'confine'); the ketiv reads an orthographic variant of the same noun for prison.
 - **52:32** — Translated from the qere 'the kings' (with the definite article); the ketiv omits the definite article ('kings').
+- **52:15 *(additional)*** — The Hebrew term rendered "craftsmen" refers to skilled artisans, though some understand it as a variant spelling for "populace" or "multitude" as in 2 Kings 25:11.
+- **52:28 *(additional)*** — Hebrew spells the king's name Nebuchadrezzar here and in the following two verses, a variant of Nebuchadnezzar.

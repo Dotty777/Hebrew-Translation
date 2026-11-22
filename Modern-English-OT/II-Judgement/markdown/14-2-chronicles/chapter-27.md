@@ -1,6 +1,6 @@
 # 2 Chronicles 27 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (8 verses, 2 translator notes)  
+> **Status:** `draft: true` (8 verses, 2 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -20,6 +20,10 @@
 **27:7** Now the rest of the deeds of Jotham, and all his wars and his ways, see, they are written in the book of the kings of Israel and Judah.
 
 **27:9** Then Jotham lay down with his fathers, and they buried him in the city of David; and his son Ahaz became king in his place.
+
+## Additional Verses (Not in Saints Numbering)
+
+**27:8** *(after `27:7`)* He was twenty-five years old when he began his reign, and he reigned for sixteen years in Jerusalem.
 
 ## Translator Notes
 

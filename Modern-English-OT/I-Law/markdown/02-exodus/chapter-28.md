@@ -1,6 +1,6 @@
 # Exodus 28 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes)  
+> **Status:** `draft: true` (37 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -78,6 +78,16 @@
 **28:42** And make for them linen undergarments to cover naked flesh; they shall reach from the waist to the thighs.
 
 **28:43** And they shall be on Aaron and on his sons when they enter the tent of meeting, or when they approach the altar to minister in the holy place, so that they will not bear guilt and die. It shall be a perpetual statute for him and for his descendants after him.
+
+## Additional Verses (Not in Saints Numbering)
+
+**28:23** *(after `28:22`)* And you shall make two gold rings on the breastpiece, and place the two rings at the two edges of the breastpiece.
+
+**28:26** *(after `28:29`)* And you shall make two gold rings and set them on the two ends of the breastpiece, along its border facing inward toward the ephod.
+
+**28:27** *(after `28:29`)* And you shall make two gold rings and place them low on the two shoulder pieces of the ephod, toward its front, right beside its seam above the woven waistband of the ephod.
+
+**28:28** *(after `28:29`)* And they shall tie the breastpiece by its rings to the rings of the ephod with a blue cord, so that it rests upon the woven waistband of the ephod and the breastpiece will not slip loose from the ephod.
 
 ## Translator Notes
 

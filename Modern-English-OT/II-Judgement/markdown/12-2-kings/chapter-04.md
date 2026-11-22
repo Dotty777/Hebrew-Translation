@@ -89,7 +89,7 @@
 
 **4:42** Now a man came from Baal-shalishah and brought to the man of God bread of the firstfruits, twenty loaves of barley and fresh ears of grain in his sack. And he said, "Give it to the people that they may eat."
 
-**4:43** But his attendant said, "How can I set this before a hundred men?" Yet he said, "Give it to the people that they may eat, for thus says the LORD, 'They shall eat and have some left over.'"
+**4:43** But his attendant said, "How can I set this before a hundred men?" Yet he said, "Give it to the people that they may eat, for this is what the LORD says, 'They shall eat and have some left over.'"
 
 **4:44** So he set it before them, and they ate and had some left over, according to the word of the LORD.
 

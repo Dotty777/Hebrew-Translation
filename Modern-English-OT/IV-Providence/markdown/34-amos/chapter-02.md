@@ -5,17 +5,17 @@
 
 ## Text
 
-**2:1** Thus the LORD says, "On account of three transgressions of Moab, and on account of four, I will not turn it back, because he burned the bones of the king of Edom into lime.
+**2:1** This is what the LORD says, "On account of three transgressions of Moab, and on account of four, I will not turn it back, because he burned the bones of the king of Edom into lime.
 
 **2:2** So I will send fire upon Moab, and it will devour the citadels of Kerioth; and Moab will die amid uproar, with a war cry, with the sound of a ram's horn.
 
 **2:3** And I will cut off the judge from its midst, and I will kill all its officials with him," says the LORD.
 
-**2:4** Thus the LORD says, "On account of three transgressions of Judah, and on account of four, I will not turn it back, because they rejected the law of the LORD and did not keep His statutes, and their lies, after which their fathers walked, caused them to stray.
+**2:4** This is what the LORD says, "On account of three transgressions of Judah, and on account of four, I will not turn it back, because they rejected the law of the LORD and did not keep His statutes, and their lies, after which their fathers walked, caused them to stray.
 
 **2:5** So I will send fire upon Judah, and it will devour the citadels of Jerusalem."
 
-**2:6** Thus the LORD says, "On account of three transgressions of Israel, and on account of four, I will not turn it back, because they sell a righteous person for silver and a needy one for a pair of sandals,
+**2:6** This is what the LORD says, "On account of three transgressions of Israel, and on account of four, I will not turn it back, because they sell a righteous person for silver and a needy one for a pair of sandals,
 
 **2:7** those who trample the head of the weak into the dust of the earth and turn aside the way of the afflicted; and a man and his father go to the same young woman, so as to profane My holy name.
 

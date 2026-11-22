@@ -1,6 +1,6 @@
 # 1 Samuel 17 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 31 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,6 +69,70 @@
 
 **17:54** And David took the Philistine's head and brought it to Jerusalem, while he placed his weapons in his tent.
 
+## Additional Verses (Not in Saints Numbering)
+
+**17:12** *(after `17:11`)* Now David was the son of that Ephrathite man from Bethlehem in Judah, whose name was Jesse, and he had eight sons. In the days of Saul the man was old, advanced among men.
+
+**17:13** *(after `17:11`)* Jesse's three oldest sons had departed and followed Saul to the battle; and the names of his three sons who went to the battle were Eliab the firstborn, next to him Abinadab, and the third Shammah.
+
+**17:14** *(after `17:11`)* David was the youngest, while the three oldest followed Saul.
+
+**17:15** *(after `17:11`)* Yet David kept going and returning from Saul's side to shepherd his father's flock in Bethlehem.
+
+**17:16** *(after `17:11`)* And the Philistine drew near morning and evening, and he presented himself for forty days.
+
+**17:17** *(after `17:11`)* Then Jesse said to his son David, "Please take for your brothers this ephah of roasted grain and these ten loaves of bread, and carry them quickly to the camp to your brothers.
+
+**17:18** *(after `17:11`)* Also bring these ten portions of cheese to the commander of the thousand, check on your brothers' well-being, and bring back a pledge from them."
+
+**17:19** *(after `17:11`)* Saul, together with them and all the men of Israel, was in the Valley of Elah, fighting against the Philistines.
+
+**17:20** *(after `17:11`)* David got up early in the morning, left the flock in the care of a keeper, took up the provisions, and set out just as Jesse had commanded him. He reached the camp perimeter as the army was marching out to the battle line and raising the battle shout.
+
+**17:21** *(after `17:11`)* Israel and the Philistines drew up their forces, battle line opposite battle line.
+
+**17:22** *(after `17:11`)* David left the baggage he was carrying in the hands of the baggage keeper and ran to the battle line; when he arrived, he asked about his brothers' well-being.
+
+**17:23** *(after `17:11`)* As he was speaking with them, suddenly the champion—Goliath by name, the Philistine from Gath—came up out of the Philistine battle lines and spoke those same words, and David heard them.
+
+**17:24** *(after `17:11`)* All the men of Israel, upon seeing the man, fled from his presence and were terribly afraid.
+
+**17:25** *(after `17:11`)* The men of Israel said, "Have you seen this man who keeps coming up? Surely he comes up to defy Israel! As for the man who strikes him down, the king will enrich him with great wealth, give him his daughter, and make his father's household free in Israel."
+
+**17:26** *(after `17:11`)* Then David spoke to the men standing beside him, saying, "What will be done for the man who strikes down that Philistine and removes the disgrace from Israel? For who is this uncircumcised Philistine, that he has defied the battle lines of the living God?"
+
+**17:27** *(after `17:11`)* The people replied to him with the same words, saying, "This is what will be done for the man who strikes him down."
+
+**17:28** *(after `17:11`)* When his oldest brother Eliab heard him talking to the men, Eliab's anger flared up against David, and he said, "Why is it that you have come down here? And in whose care have you left those few sheep in the wilderness? I myself know your arrogance and the malice of your heart, for you have come down to watch the battle."
+
+**17:29** *(after `17:11`)* David replied, "What have I done now? Was it not just a word?"
+
+**17:30** *(after `17:11`)* Then he turned away from him to face another man and said the same words, and the people gave him the same answer as the first time.
+
+**17:31** *(after `17:11`)* The words David spoke were overheard, and they reported them before Saul, who had him brought in.
+
+**17:41** *(after `17:40`)* And the Philistine kept advancing, drawing nearer and nearer to David, with the man carrying the large shield ahead of him.
+
+**17:50** *(after `17:49`)* So David overpowered the Philistine with a sling and a stone; he struck the Philistine down and killed him, though there was no sword in David's hand.
+
+**17:55** *(after `17:54`)* When Saul saw David going out to face the Philistine, he said to Abner, the commander of the army, "Whose son is this young man, Abner?" And Abner answered, "As surely as your soul lives, Your Majesty, I do not know."
+
+**17:56** *(after `17:54`)* And the king said, "You yourself inquire whose son this youth is."
+
+**17:57** *(after `17:54`)* As David came back from striking down the Philistine, Abner took him and brought him into Saul's presence, with the Philistine's head in his hand.
+
+**17:58** *(after `17:54`)* Saul asked him, "Whose son are you, young man?" David replied, "The son of your servant Jesse, the Bethlehemite."
+
+**18:1** *(after `17:54`)* Once he finished speaking to Saul, Jonathan's soul became bound fast to David's soul, and Jonathan loved him like his own soul.
+
+**18:2** *(after `17:54`)* On that day Saul took him in and did not permit him to return to his father's house.
+
+**18:3** *(after `17:54`)* Then Jonathan and David established a covenant, because Jonathan loved him like his own soul.
+
+**18:4** *(after `17:54`)* Jonathan removed the robe that was on him and gave it to David, together with his battle tunic—even his sword, his bow, and his belt.
+
+**18:5** *(after `17:54`)* David went out, and wherever Saul sent him he succeeded; so Saul placed him in charge of the men of war, and it was pleasing in the eyes of all the people as well as in the eyes of Saul's servants.
+
 ## Translator Notes
 
 - **17:4** — The Hebrew phrase rendered 'champion' is literally 'the man of the space between,' referring to a warrior who fights single combat between opposing armies. The Masoretic Text gives his height as six cubits and a span, whereas the Septuagint and 4QSama read four cubits and a span.
@@ -76,3 +140,8 @@
 - **17:34** — Hebrew uses singular verbs and habitual weqatal forms across verses 34-35 to describe repeated past encounters. The particle 'et' before 'the bear' is unusual before a subject and functions coordinately here ('or a bear').
 - **17:39** — The verb rendered 'tried' is the Hiphil of 'ya'al' ('undertook, attempted'); the Septuagint appears to reflect a transposed root meaning 'grew weary' or 'struggled.'
 - **17:52** — Masoretic Hebrew reads 'gay'' ('a valley,' or possibly a place name 'Gai'), whereas the Septuagint reads 'Gath,' matching the end of the verse.
+- **17:12 *(additional)*** — The Hebrew expression literally rendered "advanced among men" indicates that Jesse was far along in age during Saul's reign.
+- **17:17 *(additional)*** — An ephah was a dry measure of roughly twenty-two liters.
+- **17:18 *(additional)*** — A "pledge" here refers to a personal token from the brothers confirming that they had received the supplies and were safe.
+- **17:25 *(additional)*** — Being made "free in Israel" meant exemption from royal taxation and mandatory state labor.
+- **17:29 *(additional)*** — The concise Hebrew question literally asks "Is it not a word/matter?" and can mean either "Was it not just a question?" or "Is there not a real cause here?"

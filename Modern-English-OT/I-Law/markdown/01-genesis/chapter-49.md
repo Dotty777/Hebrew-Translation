@@ -5,7 +5,7 @@
 
 ## Text
 
-**49:1** Then Jacob called for his sons and said, "Assemble yourselves, so that I may declare to you what will befall you in the latter days.
+**49:1** Then Jacob called for his sons and said, "Assemble yourselves, so that I may declare to you what will happen to you in the latter days.
 
 **49:2** Gather together and listen, sons of Jacob, and listen to Israel your father.
 

@@ -1,6 +1,6 @@
 # Exodus 38 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 5 translator notes, 12 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,6 +51,32 @@
 
 **38:27** And from it Moses and Aaron and his sons would wash their hands and their feet. Whenever they entered the tent of meeting and when they approached the altar, they would wash, just as the LORD commanded Moses.
 
+## Additional Verses (Not in Saints Numbering)
+
+**37:11** *(after `38:9`)* And he overlaid it with pure gold, and he made for it a molding of gold all around.
+
+**37:12** *(after `38:9`)* And he made for it a frame a handbreadth wide all around, and he made a molding of gold for its frame all around.
+
+**37:20** *(after `38:16`)* And on the lampstand itself were four cups shaped like almond blossoms, with its bulbs and its flowers.
+
+**37:21** *(after `38:16`)* And there was a bulb of one piece with it beneath two of the branches, and a bulb of one piece with it beneath two of the branches, and a bulb of one piece with it beneath two of the branches—for the six branches going out from it.
+
+**37:24** *(after `38:17`)* Out of a talent of pure gold he made it and all its articles.
+
+**37:25** *(after `38:17`)* Then he made the incense altar of acacia wood: one cubit was its length and one cubit its width—it was square—and two cubits its height. Its horns were of one piece with it.
+
+**37:26** *(after `38:17`)* He overlaid it with pure gold—its top, its walls all around, and its horns—and he made for it a molding of gold all around.
+
+**37:27** *(after `38:17`)* And he made for it two gold rings beneath its molding, on its two flanks—on its two opposite sides—as holders for poles by which to carry it.
+
+**37:28** *(after `38:17`)* And he made the poles out of acacia wood, and he overlaid them with gold.
+
+**38:2** *(after `38:22`)* And he made its horns at its four corners. Its horns were of one piece with it, and he overlaid it with bronze.
+
+**38:6** *(after `38:24`)* And he made the poles out of acacia wood, and he overlaid them with bronze.
+
+**38:7** *(after `38:24`)* And he inserted the poles through the rings on the sides of the altar to carry it with them. He made it hollow out of planks.
+
 ## Translator Notes
 
 - **38:5** — Hebrew kapporet, traditionally rendered 'mercy seat,' derives from the root k-p-r ('to atone/cover') and denotes the golden lid over the ark associated with atonement.
@@ -58,3 +84,5 @@
 - **38:11** — The Hebrew source text contains two consecutive pole-making statements—first indefinite ('poles of acacia wood') and then definite ('the poles of acacia wood ... to carry the table')—both rendered directly from the text.
 - **38:26** — The Qal participle and perfect of tsava ('to serve/perform assigned duty') describe women performing organized service at the entrance of the tent of meeting; mar'ot denotes polished bronze mirrors.
 - **38:27** — The Qal weqatal ('would wash') followed by the Qal yiqtol ('would wash') expresses repeated, customary action whenever Moses, Aaron, and his sons entered the tent or approached the altar.
+- **37:12 *(additional)*** — A handbreadth was roughly three inches, or about seven and a half centimeters.
+- **37:24 *(additional)*** — A talent weighed roughly seventy-five pounds, or about thirty-four kilograms.

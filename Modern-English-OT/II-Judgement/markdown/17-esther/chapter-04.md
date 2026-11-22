@@ -1,6 +1,6 @@
 # Esther 4 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes)  
+> **Status:** `draft: true` (16 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Esther`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -36,6 +36,10 @@
 **4:16** "Go, assemble all the Jews who are found in Susa, and fast on my behalf; do not eat and do not drink for three days, night and day. I and my female attendants will also fast in the same way. And then I will go in to the king, which is not according to the law; and should I perish, I perish."
 
 **4:17** Then Mordecai went on his way and did according to everything Esther had charged him.
+
+## Additional Verses (Not in Saints Numbering)
+
+**4:6** *(after `4:5`)* Then Hathach went out to Mordecai, to the city's public square in front of the king's gate.
 
 ## Translator Notes
 

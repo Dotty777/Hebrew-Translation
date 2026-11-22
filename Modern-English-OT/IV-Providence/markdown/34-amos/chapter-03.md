@@ -25,9 +25,9 @@
 
 **3:10** "And they do not know how to do what is upright," declares the LORD, "those who hoard violence and plunder in their citadels."
 
-**3:11** Therefore, thus the Lord GOD says, "An adversary, all around the land! And he will bring down your strength from you, and your citadels will be plundered."
+**3:11** Therefore, this is what the Lord GOD says, "An adversary, all around the land! And he will bring down your strength from you, and your citadels will be plundered."
 
-**3:12** Thus the LORD says, "Just as the shepherd rescues from the mouth of the lion two legs or a piece of an ear, so the sons of Israel who dwell in Samaria will be rescued, with the corner of a bed and the damask of a couch."
+**3:12** This is what the LORD says, "Just as the shepherd rescues from the mouth of the lion two legs or a piece of an ear, so the sons of Israel who dwell in Samaria will be rescued, with the corner of a bed and the damask of a couch."
 
 **3:13** "Hear and bear witness against the house of Jacob," declares the Lord GOD, the God of hosts.
 

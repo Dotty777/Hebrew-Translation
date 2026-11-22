@@ -1,6 +1,6 @@
 # Joshua 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,10 @@
 
 **8:29** And he hanged the king of Ai on a tree until evening time; then at sunset Joshua gave a command, and they took his corpse down from the tree, threw it at the entrance of the city gate, and raised a large heap of stones over him, which remains to this day.
 
+## Additional Verses (Not in Saints Numbering)
+
+**8:26** *(after `8:25`)* And Joshua did not pull back his hand, with which he had extended the javelin, until he had devoted all the residents of Ai to destruction.
+
 ## Translator Notes
 
 - **8:12** — Hebrew aqevo literally means its heel, used militarily for the rear guard or ambush force positioned west of the city. The text reads Qal vayyelek, went, rather than spent the night.
@@ -66,3 +70,4 @@
 - **8:15** — The verb vayyinnage'u is the sole Niphal occurrence of naga in the Hebrew Bible, used here in a tolerative sense meaning allowed themselves to be struck or beaten.
 - **8:16** — Ketiv reads ba-ir, in the city, while Qere reads ba-Ai, in Ai; this translation follows the Qere.
 - **8:20** — Hebrew lo hayah bahem yadayim literally reads there were no hands in them, an idiom for having no power or room to escape.
+- **8:26 *(additional)*** — The Hebrew term rendered "javelin" may also refer to a curved sword or scimitar.

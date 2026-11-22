@@ -1,6 +1,6 @@
 # Ezekiel 32 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,6 +66,10 @@
 **32:31** Pharaoh will see them and be comforted over all his multitude, Pharaoh and all his army, killed by the sword, declares the Lord GOD.
 
 **32:32** For I have spread My terror in the land of the living; yet he will be laid down in the midst of the uncircumcised with those killed by the sword, Pharaoh and all his multitude, declares the Lord GOD."
+
+## Additional Verses (Not in Saints Numbering)
+
+**32:19** *(after `32:18`)* Whom do you surpass in loveliness? Go down and be made to lie with the uncircumcised.
 
 ## Translator Notes
 

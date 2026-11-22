@@ -1,6 +1,6 @@
 # Proverbs 21 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **21:30** There is no wisdom, there is no understanding, and there is no counsel against the LORD.
 
 **21:31** A horse is prepared for the day of battle, yet to the LORD belongs the victory.
+
+## Additional Verses (Not in Saints Numbering)
+
+**21:5** *(after `21:4`)* The plans of a diligent person certainly bring abundance, but everyone who rushes certainly comes to poverty.
 
 ## Translator Notes
 

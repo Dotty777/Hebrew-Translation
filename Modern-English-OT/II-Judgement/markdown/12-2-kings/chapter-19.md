@@ -67,7 +67,7 @@
 
 **19:31** For from Jerusalem a remnant will go out, and survivors from Mount Zion. The zeal of the LORD of hosts will accomplish this.'
 
-**19:32** Therefore thus says the LORD concerning the king of Assyria: 'He will not enter this city or shoot an arrow there; he will not confront it with a shield or pile up a siege ramp against it.
+**19:32** Therefore this is what the LORD says concerning the king of Assyria: 'He will not enter this city or shoot an arrow there; he will not confront it with a shield or pile up a siege ramp against it.
 
 **19:33** By the road on which he came, he will return; and this city he will not enter, declares the LORD.
 

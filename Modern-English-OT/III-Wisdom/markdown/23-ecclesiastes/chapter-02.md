@@ -33,7 +33,7 @@
 
 **2:14** The wise man has his eyes in his head, whereas the fool walks in darkness; yet I too came to know that one fate befalls all of them.
 
-**2:15** Then I said in my heart, "Like the fate of the fool, it will befall me as well; why then have I been exceedingly wise?" And I spoke in my heart that this too is vapor.
+**2:15** Then I said in my heart, "Like the fate of the fool, it will happen to me as well; why then have I been exceedingly wise?" And I spoke in my heart that this too is vapor.
 
 **2:16** For there is no remembrance forever of the wise man, just as of the fool, seeing that in the coming days everything will already have been forgotten; and how the wise man dies even as the fool!
 

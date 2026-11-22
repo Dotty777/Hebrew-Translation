@@ -1,6 +1,6 @@
 # 1 Samuel 12 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -55,6 +55,10 @@
 
 **12:25** Yet if you indeed do evil, both you and your king will be swept away."
 
+## Additional Verses (Not in Saints Numbering)
+
+**13:1** *(after `12:25`)* Saul was one year old when he became king, and he reigned two years over Israel.
+
 ## Translator Notes
 
 - **12:5** — Lit., 'and he said, "Witness."' The MT uses a singular verb here, understood collectively of the assembly of Israel speaking with one voice.
@@ -62,3 +66,4 @@
 - **12:11** — MT reads 'Bedan,' a deliverer not otherwise named in the book of Judges (some ancient versions read 'Barak').
 - **12:14** — The final clause ('then both you and the king... will follow after the LORD') is rendered here as the result clause; some grammarians read it as continuing the conditional clause with an implied conclusion such as 'it will be well.'
 - **12:15** — MT reads literally 'against you and against your fathers,' often understood elliptically as a comparison ('as against your fathers').
+- **13:1 *(additional)*** — The Hebrew text literally reads "one year old" and "two years," widely recognized as an ancient loss of the original numerals for Saul's age and the length of his reign.

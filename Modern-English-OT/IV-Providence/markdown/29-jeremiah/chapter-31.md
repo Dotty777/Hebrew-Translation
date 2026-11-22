@@ -1,6 +1,6 @@
 # Jeremiah 31 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (44 verses, 5 translator notes)  
+> **Status:** `draft: true` (44 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -92,6 +92,14 @@
 **31:43** Terror and pit and snare are upon you, inhabitant of Moab," declares the LORD.
 
 **31:44** "The one who flees from the terror will fall into the pit, and the one who climbs out of the pit will be caught in the snare; for I will bring upon her, upon Moab, the year of their punishment," declares the LORD.
+
+## Additional Verses (Not in Saints Numbering)
+
+**48:45** *(after `31:44`)* In the shadow of Heshbon fugitives stood without strength, for fire went out from Heshbon and a flame from the midst of Sihon, and it devoured the brow of Moab and the crown of the head of the sons of tumult.
+
+**48:46** *(after `31:44`)* Woe to you, Moab! The people of Chemosh have perished, because your sons have been taken into captivity and your daughters into exile.
+
+**48:47** *(after `31:44`)* But I will restore the fortunes of Moab in the last days, declares the LORD. Up to this point is the judgment on Moab.
 
 ## Translator Notes
 

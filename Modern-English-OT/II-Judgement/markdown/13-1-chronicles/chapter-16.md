@@ -1,6 +1,6 @@
 # 1 Chronicles 16 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes)  
+> **Status:** `draft: true` (42 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -88,6 +88,10 @@
 **16:42** With them—Heman and Jeduthun—were trumpets and cymbals for those sounding aloud, and instruments for the song of God; and the sons of Jeduthun were at the gate.
 
 **16:43** Then all the people went away, each to his house, and David turned back to bless his household.
+
+## Additional Verses (Not in Saints Numbering)
+
+**16:24** *(after `16:23`)* Recount His glory among the nations, His marvelous deeds among all the peoples.
 
 ## Translator Notes
 

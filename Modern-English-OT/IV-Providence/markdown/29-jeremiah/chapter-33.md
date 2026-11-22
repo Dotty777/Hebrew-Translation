@@ -1,6 +1,6 @@
 # Jeremiah 33 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (24 verses, 4 translator notes)  
+> **Status:** `draft: true` (24 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,9 +53,14 @@
 
 **33:24** However, the hand of Ahikam son of Shaphan was with Jeremiah, so that he would not be given into the hand of the people to put him to death.
 
+## Additional Verses (Not in Saints Numbering)
+
+**27:1** *(after `33:24`)* At the beginning of the reign of Jehoiakim son of Josiah, king of Judah, this word came to Jeremiah from the LORD, saying:
+
 ## Translator Notes
 
 - **33:3** — Note the threefold wordplay on the Hebrew root for evil or disaster (ra'ah/ro'a): 'evil way,' 'the disaster,' and 'the evil of their deeds.' The Niphal of nacham ('relent') is used consistently here and in vv. 13 and 19 for God withholding announced judgment.
 - **33:5** — 'rising early and sending' renders two paired infinitives absolute (Hiphil hashkem and Qal shaloach), a recurring Jeremianic idiom expressing persistent, tireless action.
 - **33:6** — Ketiv/Qere variant: the written ketiv has the extended feminine demonstrative form hazothah ('this'), while the read qere has the standard feminine demonstrative hazzoth ('this').
 - **33:18** — Ketiv/Qere variant: the written ketiv reads 'Micaiah' (the longer theophoric spelling), whereas the read qere has the shorter form 'Micah,' followed here.
+- **27:1 *(additional)*** — MT reads "Jehoiakim" here, though the ensuing oracle is set in the reign of Zedekiah.

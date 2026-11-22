@@ -1,6 +1,6 @@
 # Exodus 25 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (39 verses, 5 translator notes)  
+> **Status:** `draft: true` (39 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -82,6 +82,10 @@
 **25:39** Out of a talent of pure gold it shall be made, along with all these utensils.
 
 **25:40** And see to it that you make them according to their pattern, which you are being shown on the mountain."
+
+## Additional Verses (Not in Saints Numbering)
+
+**25:6** *(after `25:5`)* oil for illumination, spices for the anointing oil and for the fragrant incense;
 
 ## Translator Notes
 

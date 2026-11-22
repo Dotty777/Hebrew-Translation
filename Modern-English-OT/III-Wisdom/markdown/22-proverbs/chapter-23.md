@@ -1,6 +1,6 @@
 # Proverbs 23 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (34 verses, 6 translator notes)  
+> **Status:** `draft: true` (34 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,6 +72,10 @@
 **23:34** And you will be like one lying down in the heart of the sea, and like one lying atop a mast.
 
 **23:35** "They struck me, yet I felt no pain; they pounded me, yet I did not know it. When will I wake up? I will seek it once again."
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:23** *(after `23:22`)* Acquire truth and do not sell it—wisdom, discipline, and understanding.
 
 ## Translator Notes
 

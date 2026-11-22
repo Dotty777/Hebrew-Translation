@@ -1,6 +1,6 @@
 # Joshua 13 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,10 @@
 **13:31** and half of Gilead, and Ashtaroth and Edrei, the cities of the kingdom of Og in Bashan, belonged to the sons of Machir the son of Manasseh, to half of the sons of Machir according to their clans.
 
 **13:32** These are the portions that Moses assigned as an inheritance in the plains of Moab, beyond the Jordan by Jericho, to the east.
+
+## Additional Verses (Not in Saints Numbering)
+
+**13:33** *(after `13:32`)* To the tribe of Levi, however, Moses did not give an inheritance; the LORD, the God of Israel, is Himself their inheritance, just as He spoke to them.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Proverbs 20 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 6 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,9 +47,24 @@
 
 **20:30** Wounding bruises are a scouring away of evil, and blows scour the chambers of the inner being.
 
+## Additional Verses (Not in Saints Numbering)
+
+**20:14** *(after `20:13`)* "No good, no good," the buyer says, but once he walks off, then he boasts.
+
+**20:15** *(after `20:13`)* There is gold and an abundance of rubies, yet lips of knowledge are a precious ornament.
+
+**20:16** *(after `20:13`)* Take his garment, since he has put up security for a stranger, and hold him in pledge on behalf of a foreign woman.
+
+**20:17** *(after `20:13`)* Sweet to a man is bread of deceit, but afterward his mouth will fill with gravel.
+
+**20:18** *(after `20:13`)* Plans stand firm through counsel; wage war with skillful guidance.
+
+**20:19** *(after `20:13`)* One who goes about as a gossip exposes a secret; do not associate with anyone who opens his lips wide.
+
 ## Translator Notes
 
 - **20:4** — Ketiv reads the asyndetic Qal imperfect "yish'al" ("he begs/seeks"); the translated qere reads the waw-consecutive Qal perfect "wesha'al" ("so he begs/seeks").
 - **20:9** — In the Saints Hebrew Critical Text, this verse combines material matching MT 20:9 and 20:20-22 and contains two ketiv/qere variants: ketiv "be'ishon" ("in the pupil/middle of darkness") vs. translated qere "be'eshun" ("in deep darkness"), and ketiv "mevuchelet" ("gained greedily" or "loathed") vs. translated qere Pual participle "mevohelet" ("gained hastily").
 - **20:25** — The rare verb "yala'" denotes speaking rashly or blurting out a dedicatory declaration ("It is sacred"); an older interpretation connected it to a root meaning "to swallow/devour" something holy.
 - **20:30** — Ketiv reads "tamriq" (a Hiphil verbal form "scours away" or a variant noun); the translated qere reads the noun "tamruq" ("a scouring / cleansing").
+- **20:16 *(additional)*** — Following the traditional reading 'a foreign woman'; the written consonantal text reads 'foreigners.'

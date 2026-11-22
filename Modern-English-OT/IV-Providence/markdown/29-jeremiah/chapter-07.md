@@ -1,6 +1,6 @@
 # Jeremiah 7 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,10 @@
 **7:33** And the corpses of this people will become food for the birds of the sky and for the beasts of the earth, and no one will frighten them away.
 
 **7:34** And I will cause to cease from the cities of Judah and from the streets of Jerusalem the sound of joy and the sound of gladness, the voice of the bridegroom and the voice of the bride, for the land will become a wasteland."
+
+## Additional Verses (Not in Saints Numbering)
+
+**7:27** *(after `7:26`)* And you will speak all these words to them, yet they will not listen to you; and you will call to them, yet they will not answer you.
 
 ## Translator Notes
 

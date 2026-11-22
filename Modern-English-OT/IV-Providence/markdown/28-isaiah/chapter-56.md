@@ -1,6 +1,6 @@
 # Isaiah 56 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (11 verses, 3 translator notes)  
+> **Status:** `draft: true` (11 verses, 3 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,8 +27,13 @@
 
 **56:11** And the dogs are fierce in appetite; they do not know satisfaction. And they are shepherds who do not know how to understand; all of them have turned to their own way, each man for his dishonest gain, without exception.
 
+## Additional Verses (Not in Saints Numbering)
+
+**56:12** *(after `56:11`)* "Come," they say, "I will get wine, and we will drink deeply of strong drink. And tomorrow will be like this day—vastly greater."
+
 ## Translator Notes
 
 - **56:5** — Hebrew yad literally means 'hand' and idiomatically denotes a memorial monument or standing place. The final clause shifts in the Masoretic Text to the distributive singular lo (literally 'to him'), rendered 'each one.'
 - **56:10** — Hebrew hozim (Qal participle of hazah) occurs only here in the Hebrew Bible and denotes dreaming or drowsing incoherently. Masoretic tzofaw is a defective spelling of tzofayw ('his watchmen,' referring to Israel).
 - **56:11** — Hebrew miqqatzehu literally means 'from its end/extremity,' an idiom denoting totality ('without exception').
+- **56:12 *(additional)*** — "They say" is supplied to introduce the abrupt Hebrew quotation, and the closing phrase literally reads "great, exceedingly much."

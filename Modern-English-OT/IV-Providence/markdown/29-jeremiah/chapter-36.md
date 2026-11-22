@@ -1,6 +1,6 @@
 # Jeremiah 36 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 5 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,18 @@
 
 **36:32** therefore this is what the LORD says: Look, I am about to punish Shemaiah the Nehelamite and his offspring; he shall not have a man dwelling among this people, and he shall not see the good that I am about to do for My people, declares the LORD, because he has spoken rebellion against the LORD.'"
 
+## Additional Verses (Not in Saints Numbering)
+
+**29:16** *(after `36:15`)* For this is what the LORD says regarding the king who sits on the throne of David, and regarding all the people living in this city, your brothers who did not go out with you into exile:
+
+**29:17** *(after `36:15`)* This is what the LORD of hosts says: Look, I am sending the sword, the famine, and the plague against them, and I will make them like disgusting figs that cannot be eaten because they are so bad.
+
+**29:18** *(after `36:15`)* I will pursue them with the sword, the famine, and the plague, and I will make them an object of dread to all the kingdoms of the earth, to be a curse, a horror, a hissing, and a disgrace among all the nations where I have banished them,
+
+**29:19** *(after `36:15`)* because they did not listen to My words, declares the LORD, when I sent My servants the prophets to them, sending them time and again—yet you did not listen, declares the LORD.
+
+**29:20** *(after `36:15`)* As for you, listen to the word of the LORD, all you exiles whom I sent away from Jerusalem to Babylon.
+
 ## Translator Notes
 
 - **36:8** — Hebrew machlemim is a Hiphil participle with the second-person plural subject 'you,' understood either causatively ('that you cause to be dreamed,' i.e., solicit from your prophets) or as an internal Hiphil ('that you dream').
@@ -66,3 +78,4 @@
 - **36:21** — The Hebrew here spells the king's name Nebuchadrezzar (closer to Akkadian Nabu-kudurri-usur), contrasting with Nebuchadnezzar in 36:1 and 36:3; vv. 21-22 also feature wordplay across Kolaiah (Qolayah), 'curse' (qelalah), and 'roasted them' (qalam).
 - **36:23** — Ketiv reads hwyde' (a scribal transposition of yod and vav), whereas Qere reads hayyodea' (Qal active participle of yada' with the definite article, 'the one who knows').
 - **36:26** — Peqidim ('overseers') is plural despite the singular address to Zephaniah, either stating a general office ('that there should be overseers') or including his fellow priests; tsinoq ('iron collar') is a biblical Hebrew hapax legomenon for a restraining neck-iron or pillory.
+- **29:19 *(additional)*** — MT shifts abruptly from third person ("they") to second person plural ("you").

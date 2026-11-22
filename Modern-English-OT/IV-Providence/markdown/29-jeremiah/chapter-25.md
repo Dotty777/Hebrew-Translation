@@ -1,6 +1,6 @@
 # Jeremiah 25 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (19 verses, 6 translator notes)  
+> **Status:** `draft: true` (19 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -42,6 +42,10 @@
 **25:18** I will set My throne in Elam, and I will destroy king and officials from there," declares the LORD.
 
 **25:19** "Yet it will happen in the latter days that I will restore the fortunes of Elam," declares the LORD.
+
+## Additional Verses (Not in Saints Numbering)
+
+**25:14** *(after `25:13`)* For many nations and great kings will enslave them as well, and I will repay them according to their deeds and according to the work of their hands.
 
 ## Translator Notes
 

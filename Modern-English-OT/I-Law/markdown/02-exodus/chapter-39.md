@@ -1,6 +1,6 @@
 # Exodus 39 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (19 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -42,6 +42,10 @@
 **39:22** According to everything that the LORD commanded Moses, so the sons of Israel did all the work.
 
 **39:23** And Moses saw all the work, and look, they had done it; just as the LORD commanded, so they had done. And Moses blessed them.
+
+## Additional Verses (Not in Saints Numbering)
+
+**39:39** *(after `39:15`)* the bronze altar and its bronze grating, its poles and all its articles; the basin and its base;
 
 ## Translator Notes
 

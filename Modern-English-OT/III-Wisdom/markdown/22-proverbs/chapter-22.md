@@ -1,6 +1,6 @@
 # Proverbs 22 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,10 @@
 
 **22:29** Have you seen a man proficient in his work? Before kings he will take his stand; he will not take his stand before obscure men.
 
+## Additional Verses (Not in Saints Numbering)
+
+**22:6** *(after `22:5`)* Train a child according to his way; even when he grows old, he will not turn aside from it.
+
 ## Translator Notes
 
 - **22:11** — The translation follows the Masoretic Qere tohar-lev ('purity of heart', construct noun). The Ketiv reads tahor ('pure', adjective).
@@ -68,3 +72,4 @@
 - **22:20** — The translation follows the vocalized Masoretic Qere shalishim ('noble things', plural of shalish, officer or noble, comparable to Prov 8:6). The Ketiv reads shilshom ('formerly' or 'previously'), while many scholars revocalize the Qere as sheloshim ('thirty' sayings).
 - **22:21** — Hebrew qosht ('reliability' or 'truth') is a rare noun cognate with Aramaic qeshot ('truth'). The final participle sholekhekha ('those who sent you') is masculine plural in the Masoretic Text.
 - **22:23** — The rare verb qava ('despoil' or 'rob', elsewhere only in Mal 3:8-9) is repeated in a double-accusative construction ('despoil those who despoil them of life') to highlight poetic retribution.
+- **22:6 *(additional)*** — Literally 'according to the mouth of his way,' meaning either the path suited to him or the way he ought to go.

@@ -23,7 +23,7 @@
 
 **28:9** But the woman said to him, "Look, you yourself know what Saul has done, how he has cut off the mediums and the spiritists from the land. Why then are you laying a snare for my life, to put me to death?"
 
-**28:10** Then Saul swore to her by the LORD, saying, "As the LORD lives, no punishment will befall you for this matter."
+**28:10** Then Saul swore to her by the LORD, saying, "As the LORD lives, no punishment will come upon you for this matter."
 
 **28:11** The woman asked, "Whom should I bring up for you?" And he answered, "Bring Samuel up for me."
 

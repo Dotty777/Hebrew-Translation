@@ -1,6 +1,6 @@
 # Proverbs 4 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,6 +57,10 @@
 
 **4:27** Do not turn aside to the right or to the left; remove your foot from evil.
 
+## Additional Verses (Not in Saints Numbering)
+
+**4:7** *(after `4:6`)* The beginning of wisdom: acquire wisdom, and with all your possessions, acquire understanding.
+
 ## Translator Notes
 
 - **4:13** — The feminine object suffix on nitsreha ("guard her") and feminine pronoun hi' ("she") refer either back to feminine wisdom (4:5-11) or to discipline (musar, normally masculine) personified alongside wisdom.
@@ -64,3 +68,4 @@
 - **4:18** — Hebrew holekh va'or (literally "going and brightening") is an idiom for continuous increase, and nekhon hayyom (Niphal participle of kun in construct with "the day") literally denotes "the established point of the day," meaning full daylight or midday.
 - **4:23** — Hebrew mikkol-mishmar uses the comparative preposition min ("above / more than all that is kept"), and totse'ot chayyim literally means "the outgoings" or "sources of life."
 - **4:26** — Hebrew palles (Piel imperative of palas) can mean either "weigh / examine carefully" or "make level" (compare Isaiah 26:7); both lead to the result that all one's ways "will be firm" (yikkonu, Niphal imperfect of kun).
+- **4:7 *(additional)*** — Or 'at the cost of all you possess.'

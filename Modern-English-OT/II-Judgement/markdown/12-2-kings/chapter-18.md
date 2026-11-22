@@ -65,7 +65,7 @@
 
 **18:30** And do not allow Hezekiah to cause you to trust in the LORD, saying, 'The LORD will certainly deliver us, and this city will not be given into the hand of the king of Assyria.'
 
-**18:31** Do not listen to Hezekiah; for thus says the king of Assyria: Make peace with me and come out to me, and eat, each one from his vine and each one from his fig tree, and drink, each one the water of his cistern,
+**18:31** Do not listen to Hezekiah; for this is what the king of Assyria says: Make peace with me and come out to me, and eat, each one from his vine and each one from his fig tree, and drink, each one the water of his cistern,
 
 **18:32** until I come and take you to a land like your land—a land of grain and new wine, a land of bread and vineyards, a land of fresh olive oil and honey—so that you may live and not die. And do not listen to Hezekiah when he entices you, saying, 'The LORD will deliver us.'
 

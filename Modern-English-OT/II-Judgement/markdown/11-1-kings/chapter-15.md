@@ -1,6 +1,6 @@
 # 1 Kings 15 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes)  
+> **Status:** `draft: true` (32 verses, 4 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,9 +69,16 @@
 
 **15:34** He did what was evil in the eyes of the LORD and walked in the way of Jeroboam and in his sin by which he caused Israel to sin.
 
+## Additional Verses (Not in Saints Numbering)
+
+**15:6** *(after `15:5`)* And there was warfare between Rehoboam and Jeroboam all the days of his life.
+
+**15:32** *(after `15:31`)* And there was warfare between Asa and Baasha, king of Israel, all their days.
+
 ## Translator Notes
 
 - **15:4** — Hebrew nir, a by-form of ner ('lamp'), is used metaphorically for an enduring Davidic dynastic line (cf. 1 Kgs 11:36), though some scholars compare Akkadian niru ('yoke, dominion').
 - **15:13** — The rare noun miphletset (from a root meaning 'to shudder') denotes an abominable or repulsive image made for Asherah; gebirah ('queen mother', lit. 'great lady') was an official royal title in Judah.
 - **15:15** — Following the Qere (construct plural, 'and the dedicated things of', linked to 'the house of the LORD'); the Ketiv reads 'and his dedicated thing(s)', making 'the house of the LORD' the destination ('into the house of the LORD', cf. 2 Chr 15:18).
 - **15:23** — Hebrew chalah et-raglav literally reads 'he became sick as to his feet', using the particle et to mark the affected body part (accusative of specification).
+- **15:6 *(additional)*** — The Masoretic Text literally names Rehoboam here, even within the account of Abijam's reign.
