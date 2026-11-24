@@ -27,7 +27,7 @@
 
 **51:11** Therefore, this is what the LORD of hosts, the God of Israel, says: 'Look, I am setting My face against you for disaster, and to cut off all Judah.
 
-**51:12** And I will take the remnant of Judah who have set their faces to enter the land of Egypt to sojourn there, and they will all be consumed; in the land of Egypt they will fall, by the sword and by famine they will be consumed. From the least to the greatest, by the sword and by famine they will die, and they will become an imprecation, a horror, a curse, and a reproach.
+**51:12** And I will take the remnant of Judah who have set their faces to enter the land of Egypt to sojourn there, and they will all be consumed; in the land of Egypt they will fall, by the sword and by famine they will be consumed. From the least to the greatest, by the sword and by famine they will die, and they will become an execration, a horror, a curse, and a reproach.
 
 **51:13** And I will punish those who live in the land of Egypt, just as I punished Jerusalem, with the sword, with famine, and with pestilence.
 

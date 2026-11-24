@@ -59,7 +59,7 @@
 
 - **2:2** — The Hebrew reads "on the seventh day" in both clauses (contrast the Greek "sixth day" in the first clause). Shabath means to stop or cease, the root of "Sabbath"; "ceased" keeps that sense rather than suggesting tiredness.
 - **2:3** — The Hebrew has "which God created to make," which is rendered "had created and made" so that it reads naturally.
-- **2:4** — Toledoth ("generations") introduces a new section, as at 5:1 and elsewhere in Genesis. The divine name YHWH first appears here, joined to Elohim, so it is rendered "the LORD God."
+- **2:4** — Toledoth ("generations") introduces a new section, as at 5:1 and elsewhere in Genesis. The divine name first appears here, joined to Elohim, so it is rendered "the LORD God."
 - **2:6** — The meaning of ed is uncertain (a mist, or an underground spring or stream); "mist" is the traditional sense.
 - **2:7** — There is a wordplay between adam (man) and adamah (ground). Nefesh chayyah is the same phrase used for animals in 1:20, 24, so it is rendered "living creature" to keep the term consistent. Wayyippach means "blew" or "breathed."
 - **2:10** — Rashim, literally "heads," is rendered "headstreams," meaning the sources of four rivers.

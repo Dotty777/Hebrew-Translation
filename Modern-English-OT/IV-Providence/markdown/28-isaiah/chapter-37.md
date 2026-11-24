@@ -73,7 +73,7 @@
 
 **37:34** By the way that he came, he will return, and he will not enter this city, declares the LORD.
 
-**37:35** For I will defend this city to save it, for My own sake and for the sake of My servant David."
+**37:35** And I will defend this city to save it, for My own sake and for the sake of My servant David."
 
 **37:36** Then the angel of the LORD went out and struck down one hundred eighty-five thousand in the camp of Assyria; and when they rose early in the morning, look, all of them were dead bodies.
 

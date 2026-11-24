@@ -25,7 +25,7 @@
 
 **18:10** And Jethro said, "Blessed be the LORD, who rescued you from the hand of Egypt and from the hand of Pharaoh, who rescued the people from under the hand of Egypt.
 
-**18:11** Now I know that the LORD is greater than all the gods; indeed, in the very matter in which they acted arrogantly against them."
+**18:11** Now I know that the LORD is greater than all the gods; indeed, in the matter in which they acted arrogantly against them."
 
 **18:12** Then Jethro, Moses' father-in-law, brought a burnt offering and sacrifices for God; and Aaron came with all the elders of Israel to eat bread with Moses' father-in-law before God.
 

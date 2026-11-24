@@ -17,7 +17,7 @@
 
 **11:6** A sword will whirl through his cities, put an end to his diviners, and devour them because of their schemes.
 
-**11:7** And My people cling to turning away from Me; though they summon him to the Most High, not one at all will exalt Him.
+**11:7** And My people cling to turning away from Me; though they summon him upward, not one at all will exalt Him.
 
 **11:8** How could I give you up, Ephraim, deliver you over, Israel? How could I make you like Admah, set you like Zeboiim? My heart turns over within Me; all at once My compassions are stirred.
 
@@ -31,5 +31,5 @@
 
 - **11:3** — Hebrew tirgalti is a rare Tiphel perfect (denominative from regel, 'foot') meaning 'taught to walk'; MT shifts to the third person masculine singular in qacham al-zero'otaw ('He took them up in His arms,' with aphaeretic Qal perfect qach for laqach).
 - **11:6** — Hebrew baddaw may mean 'his diviners/oracle-priests' (bad II, cf. Jer 50:36) or 'his gate-bars' (bad I).
-- **11:7** — A difficult verse in MT: telu'im (Qal passive participle of tala) literally means 'hung/suspended toward,' and yiqra'uhu ('they call him') with el-al ('to the Most High') and Polel yeromem ('exalt') is variously construed.
+- **11:7** — A difficult verse in MT: telu'im (Qal passive participle of tala) literally means 'hung/suspended toward,' and yiqra'uhu ('they call him') with el-al ('upward,' often understood as 'to the Most High') and Polel yeromem ('exalt') is variously construed.
 - **11:9** — Hebrew be'ir is taken as 'in fury/wrath' (ir II, parallel to 'burning anger'); alternatively it means 'into a city' (ir I).

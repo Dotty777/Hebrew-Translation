@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **4:4** — The Masoretic Text reads we'ammekha kimrivei khohen ("for your people are like those who dispute with a priest"), using a Hiphil masculine plural construct participle of riv; some modern versions emend the text to read "my dispute is with you, priest."
+- **4:4** — The Masoretic Text reads we'ammekha kimrivei khohen ("for your people are like those who dispute with a priest"), using a Hiphil masculine plural construct participle of riv; a conjectural emendation would read "my dispute is with you, priest."
 - **4:6** — The written Ketiv reads w'm's'k with an extra aleph before the pronominal suffix; the translation follows the read Qere we'em'asekha ("and I will reject you"), the standard Qal imperfect 1cs form of ma'as with a 2ms suffix.
 - **4:8** — The Hebrew noun chatta't means both "sin" and "sin offering," creating a wordplay on priests eating sacrificial sin offerings while feeding on the people's wrongdoing; the singular suffix on nafsho ("his appetite") is distributive.
 - **4:10** — The Masoretic verse division places the infinitive lishmor ("to heed") at the end of verse 10 rather than joining it to the opening nouns of verse 11.

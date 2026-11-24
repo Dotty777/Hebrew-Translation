@@ -59,7 +59,7 @@
 
 **23:27** Then Balak said to Balaam, "Please come, I will take you to another place; perhaps it will be right in the eyes of God, and you will curse them for me from there."
 
-**23:28** So Balak took Balaam to the summit of Peor, which overlooks Jeshimon.
+**23:28** So Balak took Balaam to the summit of Peor, which overlooks the wasteland.
 
 **23:29** Balaam said to Balak, "Build seven altars for me here, and prepare seven bulls and seven rams for me here."
 

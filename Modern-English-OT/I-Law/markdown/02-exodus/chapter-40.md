@@ -9,7 +9,7 @@
 
 **40:2** "On the day of the first month, on the first of the month, you shall set up the tabernacle of the tent of meeting.
 
-**40:3** You shall place the ark of the testimony there, and screen the ark with the curtain.
+**40:3** You shall place the ark of the testimony there, and screen the ark with the veil.
 
 **40:4** You shall bring in the table and lay out its arrangement, and bring in the lampstand and light its lamps.
 
@@ -35,15 +35,15 @@
 
 **40:17** It happened in the first month, in the second year, on the first of the month, that the tabernacle was set up.
 
-**40:18** Moses set up the tabernacle: he put down its bases, placed its frames, put in its crossbars, and set up its pillars.
+**40:18** Moses set up the tabernacle: he put down its bases, placed its planks, put in its crossbars, and set up its pillars.
 
 **40:19** He spread out the tent over the tabernacle and placed the covering of the tent over it on top, just as the LORD commanded Moses.
 
 **40:20** He took the testimony and put it into the ark, placed the poles on the ark, and put the atonement cover on the ark above.
 
-**40:21** He brought the ark into the tabernacle, placed the screening curtain, and screened the ark of the testimony, just as the LORD commanded Moses.
+**40:21** He brought the ark into the tabernacle, placed the screening veil, and screened the ark of the testimony, just as the LORD commanded Moses.
 
-**40:22** He put the table in the tent of meeting, on the side of the tabernacle toward the north, outside the curtain.
+**40:22** He put the table in the tent of meeting, on the side of the tabernacle toward the north, outside the veil.
 
 **40:23** He laid out an arrangement of bread on it before the LORD, just as the LORD commanded Moses.
 
@@ -51,7 +51,7 @@
 
 **40:25** And he lit the lamps before the LORD, just as the LORD commanded Moses.
 
-**40:26** He placed the gold altar in the tent of meeting, in front of the curtain.
+**40:26** He placed the gold altar in the tent of meeting, in front of the veil.
 
 **40:27** And he burned aromatic incense on it, just as the LORD commanded Moses.
 
@@ -84,5 +84,5 @@
 - **40:2** — The Hebrew phrase literally reads "on the day of the first month," likely referring to the opening new-moon day of the first month, and is immediately specified by "on the first of the month."
 - **40:4** — The Hiphil verb from the root alah (literally "cause to go up," also in 40:25) with lamps denotes either lighting them so the flame rises or mounting the detachable oil lamps atop the lampstand.
 - **40:15** — The unusual Hebrew idiom combining a finite form of the verb hayah ("to be") with its own infinitive construct (literally "and it shall be to be") expresses enduring appointment: their anointing is to stand for them as an everlasting priesthood.
-- **40:20** — The Hebrew term kapporet ("atonement cover") derives from the root kafar ("to atone, cover"), naming the gold lid of the ark as the place of atonement; the traditional rendering "mercy seat" entered English via the Septuagint and Vulgate.
+- **40:20** — The Hebrew term kapporet ("atonement cover") derives from the root kafar ("to atone, cover"), naming the gold lid of the ark as the place of atonement; the Septuagint (hilasterion) and Vulgate (propitiatorium) likewise render it with words connected to atonement.
 - **40:35** — The Qal verb shakan ("rested, dwelt") plays on the cognate noun mishkan ("tabernacle," literally "dwelling place") at the end of the verse.

@@ -80,5 +80,5 @@
 ## Translator Notes
 
 - **10:21** — "The sanctuary" (ha-miqdāš) refers metonymically to the sacred furnishings of the sanctuary carried by the Kohathites (cf. Num 4:15). The passive rendering "was set up" represents an impersonal third-person plural Hiphil (wəhēqîmû, literally "and they set up"), referring to the Gershonites and Merarites arriving ahead of them.
-- **10:34** — In this critical text, verses 34-35 contain the Song of the Ark and verse 36 describes the cloud of the LORD, whereas traditional Masoretic versification places the cloud verse at 10:34 and the Song of the Ark at 10:35-36.
+- **10:34** — In the Hebrew, the cloud verse is 10:34 and the Song of the Ark is 10:35-36; this edition's verse numbering places the Song of the Ark at 10:34-35 and the cloud verse at 10:36, the order also found in the Septuagint.
 - **10:35** — The infinitive construct bənuḥōh ("when it came to rest") exhibits an archaic third-person masculine singular suffix (-ōh). The phrase "to the ten thousands of the thousands of Israel" renders an unmarked directive accusative construct chain (riḇəḇōṯ ʾalpê yiśrāʾēl) following the imperative "Return."

@@ -43,7 +43,7 @@
 
 **65:19** I will exult in Jerusalem and be joyful in My people; never again will the sound of weeping or the sound of outcry be heard in her.
 
-**65:20** There will no longer be an infant there of only a few days, nor an elderly man who does not complete his days; for the youth will die at a hundred years old, and the sinner at a hundred years old will be cursed.
+**65:20** There will no longer be an infant there of a few days, nor an elderly man who does not complete his days; for the youth will die at a hundred years old, and the sinner at a hundred years old will be cursed.
 
 **65:21** They will build houses and live in them, and they will plant vineyards and eat their fruit.
 

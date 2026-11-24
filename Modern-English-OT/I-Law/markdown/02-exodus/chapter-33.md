@@ -29,7 +29,7 @@
 
 **33:12** Then Moses said to the LORD, "See, You are saying to me, 'Bring this people up,' yet You have not made known to me whom You will send with me. Still You have said, 'I know you by name, and you have also found favor in My eyes.'
 
-**33:13** Now then, if I have indeed found favor in Your eyes, please make Your ways known to me so that I may know You, in order that I may find favor in Your eyes; and see that this nation is Your people."
+**33:13** Now then, if I have found favor in Your eyes, please make Your ways known to me so that I may know You, in order that I may find favor in Your eyes; and see that this nation is Your people."
 
 **33:14** He said, "My presence will go, and I will grant you rest."
 

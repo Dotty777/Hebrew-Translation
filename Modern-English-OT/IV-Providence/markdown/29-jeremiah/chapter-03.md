@@ -43,7 +43,7 @@
 
 **3:19** "I Myself said, 'How I would set you among the sons and give you a desirable land, the most splendid inheritance of the hosts of nations!' And I thought you would call Me 'My Father' and would not turn away from following Me.
 
-**3:20** Yet as a woman treacherously departs from her companion, so you have acted treacherously against Me, house of Israel," declares the LORD.
+**3:20** Surely, as a woman treacherously departs from her companion, so you have acted treacherously against Me, house of Israel," declares the LORD.
 
 **3:21** A voice is heard on the bare heights, the weeping pleadings of the sons of Israel, because they have perverted their way; they have forgotten the LORD their God.
 

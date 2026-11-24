@@ -27,7 +27,7 @@
 
 **39:11** Then I took the deed of purchase, both the sealed copy—the terms and stipulations—and the open copy.
 
-**39:12** And I gave the deed of purchase to Baruch, the son of Neriah, the son of Mahseiah, in the sight of Hanamel my cousin, and in the sight of the witnesses who wrote in the deed of purchase, in the sight of all the Jews who were sitting in the courtyard of the guard.
+**39:12** And I gave the deed of purchase to Baruch, the son of Neriah, the son of Mahseiah, in the sight of Hanamel my uncle, and in the sight of the witnesses who wrote in the deed of purchase, in the sight of all the Jews who were sitting in the courtyard of the guard.
 
 **39:13** And I commanded Baruch in their sight, saying,
 
@@ -97,6 +97,6 @@
 
 - **39:1** — Ketiv reads the construct bishnat ("in the year of") before the definite ordinal, whereas Qere reads the absolute bashanah ("in the tenth year"); both convey the same date.
 - **39:9** — Literally "seven shekels and ten of the silver," an additive Hebrew numeral construction meaning seventeen shekels of silver.
-- **39:12** — MT reads dodi ("my uncle" or "my relative") without ben ("son of"), unlike 39:8-9; rendered "my cousin" in context.
+- **39:12** — MT reads dodi ("my uncle") here without ben ("son of"), unlike 39:7-9, where Hanamel is the son of Jeremiah's uncle; dod can also denote a kinsman more broadly.
 - **39:23** — Ketiv reads the plural ("Your laws"), whereas Qere reads the singular ("Your law"); the Hiphil wayyiqtol wattaqre ("You caused to befall") is spelled with final aleph from the root qara II (equivalent to qarah, "happen, befall").
 - **39:35** — The Hiphil infinitive construct leha'avir literally means "to cause to pass over" (without "through the fire" in the Hebrew text here), an idiom for child sacrifice to Molech.

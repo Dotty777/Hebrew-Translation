@@ -17,7 +17,7 @@
 
 **6:6** So the LORD regretted that He had made man on the earth, and He was pained to His heart.
 
-**6:7** And the LORD said, "I will wipe out man whom I created from the surface of the ground, from man to animals, to creeping things, and to the birds of the sky, for I regret that I made them."
+**6:7** And the LORD said, "I will wipe out man whom I created from the surface of the ground, from man to animals, to creeping things, and to the birds of the heavens, for I regret that I made them."
 
 **6:8** Noah, however, found favor in the eyes of the LORD.
 

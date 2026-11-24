@@ -29,7 +29,7 @@
 
 ## Translator Notes
 
-- **64:1** — MT 64:1-11 corresponds to 64:2-12 in most English Bibles (where MT 63:19b is 64:1), and this verse continues the theophany plea of 63:19. The noun hamasim ("brushwood") is a hapax legomenon denoting dry twigs or kindling.
+- **64:1** — This verse continues the theophany plea of 63:19, whose second half begins the plea in the Masoretic division. The noun hamasim ("brushwood") is a hapax legomenon denoting dry twigs or kindling.
 - **64:2** — The verb nazollu ("quaked") is pointed as a Niphal perfect of zll II ("shake, quake"), matching 63:19, though its sound also evokes nzl ("flow, melt").
 - **64:4** — The closing clause bahem olam weniwwashea ("in them we have been a long time, and shall we be saved?") is sharply elliptic in the Masoretic Text; "in them" is usually taken to refer to the sins just confessed, with a verb of continuance understood before the Niphal niwwashea.
 - **64:6** — The Masoretic form wattemugenu is a transitive Qal wayyiqtol of mwg ("melt, dissolve"), whereas ancient versions such as the Septuagint and Syriac reflect the root mgn ("deliver up").

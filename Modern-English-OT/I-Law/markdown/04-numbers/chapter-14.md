@@ -69,7 +69,7 @@
 
 **14:32** Yet your own corpses will fall in this wilderness.
 
-**14:33** And your children will be shepherds in the wilderness for forty years, and they will bear your unfaithfulness until your corpses come to an end in the wilderness.
+**14:33** And your children will be shepherds in the wilderness for forty years, and they will bear your acts of prostitution until your corpses come to an end in the wilderness.
 
 **14:34** By the number of the days in which you explored the land, forty days—for each day a year—you will bear your iniquities for forty years, and you will know My hostility.
 

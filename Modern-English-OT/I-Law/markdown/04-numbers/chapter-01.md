@@ -109,7 +109,7 @@
 
 **1:52** And the sons of Israel shall camp, each by his own camp and each by his own banner, according to their divisions.
 
-**1:53** The Levites, however, shall camp around the tabernacle of the testimony, so that no wrath will be upon the assembly of the sons of Israel; and the Levites shall keep watch over the tabernacle of the testimony."
+**1:53** The Levites, however, shall camp around the tabernacle of the testimony, so that no wrath will be upon the assembly of the sons of Israel; and the Levites shall guard the charge of the tabernacle of the testimony."
 
 **1:54** So the sons of Israel did; according to everything the LORD commanded Moses, thus they did.
 

@@ -45,7 +45,7 @@
 
 **31:20** Moab is put to shame, for it is dismayed. Wail and cry out! Declare by the Arnon that Moab is devastated.
 
-**31:21** Judgment has also come upon the land of the plateau: upon Holon, upon Jahzah, upon Mephaath,
+**31:21** And judgment has come upon the land of the plateau: upon Holon, upon Jahzah, upon Mephaath,
 
 **31:22** upon Dibon, upon Nebo, upon Beth-diblathaim,
 

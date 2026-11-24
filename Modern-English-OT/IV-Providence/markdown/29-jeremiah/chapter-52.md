@@ -23,19 +23,19 @@
 
 **52:11** Then he blinded the eyes of Zedekiah and bound him with bronze fetters, and the king of Babylon brought him to Babylon and put him in the house of custody until the day of his death.
 
-**52:12** Now in the fifth month, on the tenth day of the month, which was the nineteenth year of King Nebuchadnezzar, king of Babylon, Nebuzaradan the chief of the guard, who stood before the king of Babylon, came into Jerusalem.
+**52:12** Now in the fifth month, on the tenth day of the month, which was the nineteenth year of King Nebuchadnezzar, king of Babylon, Nebuzaradan the captain of the guard, who stood before the king of Babylon, came into Jerusalem.
 
 **52:13** And he burned the house of the LORD, the house of the king, and all the houses of Jerusalem, and every great house he burned with fire.
 
-**52:14** And all the army of the Chaldeans who were with the chief of the guard tore down all the walls of Jerusalem all around.
+**52:14** And all the army of the Chaldeans who were with the captain of the guard tore down all the walls of Jerusalem all around.
 
-**52:16** But some of the poorest of the land Nebuzaradan the chief of the guard left behind as vinedressers and as plowmen.
+**52:16** But some of the poorest of the land Nebuzaradan the captain of the guard left behind as vinedressers and as plowmen.
 
 **52:17** Now the Chaldeans broke in pieces the bronze pillars that belonged to the house of the LORD, and the stands, and the bronze sea that was in the house of the LORD, and they carried all their bronze to Babylon.
 
 **52:18** And they took the pots, the shovels, the wick trimmers, the basins, the ladles, and all the bronze vessels with which they used to minister.
 
-**52:19** And the chief of the guard took the bowls, the firepans, the basins, the pots, the lampstands, the ladles, and the pitchers, what was of gold as gold, and what was of silver as silver.
+**52:19** And the captain of the guard took the bowls, the firepans, the basins, the pots, the lampstands, the ladles, and the pitchers, what was of gold as gold, and what was of silver as silver.
 
 **52:20** As for the two pillars, the one sea, and the twelve bronze oxen that were under the stands, which King Solomon had made for the house of the LORD, there was no weighing the bronze of all these vessels.
 
@@ -45,11 +45,11 @@
 
 **52:23** There were ninety-six pomegranates on the outside; all the pomegranates upon the latticework all around were one hundred.
 
-**52:24** And the chief of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the threshold.
+**52:24** And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the threshold.
 
 **52:25** And from the city he took one officer who was overseer over the men of war, and seven men from those who saw the king's face who were found in the city, and the scribe of the commander of the army, who mustered the people of the land, and sixty men from the people of the land who were found in the midst of the city.
 
-**52:26** And Nebuzaradan the chief of the guard took them and led them to the king of Babylon at Riblah.
+**52:26** And Nebuzaradan the captain of the guard took them and led them to the king of Babylon at Riblah.
 
 **52:27** Then the king of Babylon struck them down and put them to death at Riblah in the land of Hamath. Thus Judah went into exile from its land.
 
@@ -67,13 +67,13 @@
 
 **52:3** *(after `52:1`)* For on account of the LORD's anger this happened in Jerusalem and Judah until He cast them away from His presence. And Zedekiah rebelled against the king of Babylon.
 
-**52:15** *(after `52:14`)* And Nebuzaradan the chief of the guard deported some of the poorest of the people, the rest of the people who remained in the city, the defectors who had defected to the king of Babylon, and the rest of the craftsmen.
+**52:15** *(after `52:14`)* And Nebuzaradan the captain of the guard deported some of the poorest of the people, the rest of the people who remained in the city, the defectors who had defected to the king of Babylon, and the rest of the craftsmen.
 
 **52:28** *(after `52:27`)* These are the people whom Nebuchadnezzar deported: in the seventh year, three thousand twenty-three Judeans;
 
 **52:29** *(after `52:27`)* in the eighteenth year of Nebuchadnezzar, eight hundred thirty-two individuals from Jerusalem.
 
-**52:30** *(after `52:27`)* In the twenty-third year of Nebuchadnezzar, Nebuzaradan the chief of the guard deported seven hundred forty-five Judean individuals. Altogether, there were four thousand six hundred individuals.
+**52:30** *(after `52:27`)* In the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the guard deported seven hundred forty-five Judean individuals. Altogether, there were four thousand six hundred individuals.
 
 ## Translator Notes
 

@@ -25,6 +25,6 @@
 
 ## Translator Notes
 
-- **1:2** — The opening clause places a construct noun directly before a finite Piel verb (tehillat dibber-YHWH, literally "the beginning of the LORD spoke"); the preposition be- ("through") can also mean "with" or "to."
+- **1:2** — The opening clause places a construct noun directly before a finite Piel verb (tehillat dibber followed by the divine name, literally "the beginning of the LORD spoke"); the preposition be- ("through") can also mean "with" or "to."
 - **1:6** — Lo-ruhamah means "She has not been shown compassion" (Pual perfect of raham, echoing the Piel verb "show compassion"). The closing clause (ki naso essa lahem, literally "that forgiving I should forgive them") carries forward the preceding negation ("I will no longer"), though some take ki adversatively as "but I will surely take them away."
 - **1:9** — Lo-ammi means "Not My people." The closing Hebrew clause (we-anoki lo-ehyeh lakem, literally "and I will not be to you") omits any predicate noun such as "God" and echoes the covenantal name Ehyeh ("I AM") of Exodus 3:14.

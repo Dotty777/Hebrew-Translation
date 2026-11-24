@@ -41,7 +41,7 @@
 
 **28:18** They are emptiness, a work of mockery; at the time of their reckoning they will perish.
 
-**28:19** Not like these is the portion of Jacob, for He is the Former of all things, and of the tribe of His inheritance; the LORD of hosts is His name.
+**28:19** Not like these is the portion of Jacob, for He is the Former of all things, and the tribe of His inheritance; the LORD of hosts is His name.
 
 **28:20** "You are a war club to Me, weapons of war; and with you I dash to pieces nations, and with you I destroy kingdoms;
 

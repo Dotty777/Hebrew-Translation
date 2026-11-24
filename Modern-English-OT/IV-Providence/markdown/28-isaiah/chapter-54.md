@@ -31,7 +31,7 @@
 
 **54:13** And all your children will be disciples of the LORD, and abundant will be the peace of your children.
 
-**54:14** By righteousness you will be established; far from oppression you will be, for you will not be afraid, and far from terror, for it will not approach you.
+**54:14** By righteousness you will be established; be far from oppression, for you will not be afraid, and from terror, for it will not approach you.
 
 **54:15** Look, if anyone indeed attacks, it is not from Me; whoever attacks you will fall because of you.
 

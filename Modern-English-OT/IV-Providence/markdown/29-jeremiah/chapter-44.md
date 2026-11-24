@@ -23,7 +23,7 @@
 
 **44:9** This is what the LORD says: Do not deceive yourselves, saying, 'The Chaldeans will surely depart from us,' for they will not depart.
 
-**44:10** For even if you struck down the entire army of Chaldeans who are fighting against you, and only wounded men were left among them, they would still rise up, each man in his tent, and burn this city with fire."
+**44:10** For even if you struck down the entire army of Chaldeans who are fighting against you, and wounded men were left among them, they would still rise up, each man in his tent, and burn this city with fire."
 
 **44:11** Now it happened, when the army of the Chaldeans had withdrawn from Jerusalem because of Pharaoh's army,
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**19:1** In the third month after the sons of Israel had gone out from the land of Egypt, on that very day they came into the wilderness of Sinai.
+**19:1** In the third month after the sons of Israel had gone out from the land of Egypt, on that day they came into the wilderness of Sinai.
 
 **19:2** They set out from Rephidim, came into the wilderness of Sinai, and camped in the wilderness; and Israel camped there in front of the mountain.
 
@@ -35,13 +35,13 @@
 
 **19:15** And he said to the people, "Be ready by the third day; do not go near a woman."
 
-**19:16** Now on the third day, when morning came, there were thunder and lightning, and a heavy cloud upon the mountain, and a very loud sound of a trumpet, and all the people who were in the camp trembled.
+**19:16** Now on the third day, when morning came, there were thunder and lightning, and a heavy cloud upon the mountain, and a very loud sound of a ram's horn, and all the people who were in the camp trembled.
 
 **19:17** Then Moses brought the people out from the camp to meet God, and they stationed themselves at the base of the mountain.
 
 **19:18** Now Mount Sinai smoked completely, because the LORD had come down upon it in fire; and its smoke went up like the smoke of a furnace, and the entire mountain trembled violently.
 
-**19:19** And the sound of the trumpet kept growing louder and louder; Moses would speak, and God would answer him with a voice.
+**19:19** And the sound of the ram's horn kept growing louder and louder; Moses would speak, and God would answer him with a voice.
 
 **19:20** Then the LORD descended upon Mount Sinai, to the summit of the mountain; and the LORD summoned Moses to the summit of the mountain, and Moses went up.
 

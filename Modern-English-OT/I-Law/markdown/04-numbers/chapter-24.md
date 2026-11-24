@@ -9,7 +9,7 @@
 
 **24:2** Balaam raised his eyes and saw Israel dwelling by its tribes, and the Spirit of God came upon him.
 
-**24:3** He lifted up his discourse and said, "The declaration of Balaam, son of Beor, and the declaration of the man with an opened eye,
+**24:3** He took up his oracle and said, "The declaration of Balaam, son of Beor, and the declaration of the man with an opened eye,
 
 **24:4** the declaration of one who hears the sayings of God, who sees the vision of the Almighty, falling down, yet with eyes uncovered:
 
@@ -33,7 +33,7 @@
 
 **24:14** And now, see, I am going to my people; come, let me counsel you about what this people will do to your people in the latter days."
 
-**24:15** He lifted up his discourse and said, "The declaration of Balaam, son of Beor, and the declaration of the man with an opened eye,
+**24:15** He took up his oracle and said, "The declaration of Balaam, son of Beor, and the declaration of the man with an opened eye,
 
 **24:16** the declaration of one who hears the sayings of God and knows the knowledge of the Most High, who sees the vision of the Almighty, falling down, yet with eyes uncovered:
 

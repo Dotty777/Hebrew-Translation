@@ -67,7 +67,7 @@
 
 **29:18** *(after `36:15`)* I will pursue them with the sword, the famine, and the plague, and I will make them an object of dread to all the kingdoms of the earth, to be a curse, a horror, a hissing, and a disgrace among all the nations where I have banished them,
 
-**29:19** *(after `36:15`)* because they did not listen to My words, declares the LORD, when I sent My servants the prophets to them, sending them time and again—yet you did not listen, declares the LORD.
+**29:19** *(after `36:15`)* because they did not listen to My words, declares the LORD, when I sent My servants the prophets to them, rising early and sending—yet you did not listen, declares the LORD.
 
 **29:20** *(after `36:15`)* As for you, listen to the word of the LORD, all you exiles whom I sent away from Jerusalem to Babylon.
 

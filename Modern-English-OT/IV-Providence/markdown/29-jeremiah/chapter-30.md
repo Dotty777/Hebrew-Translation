@@ -71,7 +71,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**49:6** *(after `30:21`)* Yet afterward I will restore the fortunes of the people of Ammon, declares the LORD.
+**49:6** *(after `30:21`)* Yet afterward I will restore the fortunes of the sons of Ammon, declares the LORD.
 
 ## Translator Notes
 

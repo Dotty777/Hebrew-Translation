@@ -87,7 +87,7 @@
 
 **12:41** And it happened at the end of four hundred and thirty years, on that very day, all the hosts of the LORD came out from the land of Egypt.
 
-**12:42** It was a night of vigil by the LORD to bring them out from the land of Egypt; this very night belongs to the LORD, a vigil for all the sons of Israel throughout their generations.
+**12:42** It is a night of vigil for the LORD to bring them out from the land of Egypt; this very night belongs to the LORD, a vigil for all the sons of Israel throughout their generations.
 
 **12:43** Then the LORD said to Moses and Aaron, "This is the statute concerning the Passover: no foreigner may eat of it;
 

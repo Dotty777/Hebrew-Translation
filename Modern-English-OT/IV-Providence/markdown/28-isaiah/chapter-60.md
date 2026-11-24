@@ -15,7 +15,7 @@
 
 **60:5** Then you will see and be radiant, and your heart will throb and expand; because the abundance of the sea will be turned toward you, the wealth of the nations will come to you.
 
-**60:6** A throng of camels will cover you, the young camels of Midian and Ephah; all those from Sheba will come; they will carry gold and frankincense, and herald the praises of the LORD.
+**60:6** A throng of camels will cover you, the young camels of Midian and Ephah; all of them will come from Sheba; they will carry gold and frankincense, and herald the praises of the LORD.
 
 **60:7** All the flocks of Kedar will be gathered to you; the rams of Nebaioth will minister to you; they will go up with acceptance onto My altar, and I will beautify the house of My splendor.
 

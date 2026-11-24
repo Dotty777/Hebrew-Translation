@@ -15,11 +15,11 @@
 
 **49:5** And now the LORD says, the One who formed me from the womb to be a servant to Him, to bring Jacob back to Him and for Israel to be gathered to Him—and I am honored in the eyes of the LORD, and my God has become my strength—
 
-**49:6** He says, "It is too light a matter for you to be My servant to raise up the tribes of Jacob and to bring back the preserved ones of Israel; I will also give you as a light to the nations, so that My salvation may extend to the end of the earth."
+**49:6** He says, "It is too light a matter for you to be My servant to raise up the tribes of Jacob and to bring back the preserved ones of Israel; I will also give you as a light to the nations, to be My salvation to the end of the earth."
 
 **49:7** This is what the LORD, the Redeemer of Israel and its Holy One, says to one despised in soul, to one loathed by a nation, to a servant of rulers: "Kings will see and rise up, princes also will bow low, for the sake of the LORD, who is faithful, the Holy One of Israel, and He has chosen you."
 
-**49:8** This is what the LORD says: "In a time of favor I answered you, and on a day of salvation I helped you; I will preserve you and give you as a covenant of the people, to raise up the land, to allot the desolate inheritances,
+**49:8** This is what the LORD says: "In a time of favor I answered you, and on a day of salvation I helped you; I will preserve you and give you as a covenant for the people, to raise up the land, to allot the desolate inheritances,
 
 **49:9** saying to the prisoners, 'Go out,' and to those in darkness, 'Reveal yourselves.' Along the roads they will graze, and on all bare heights will be their pasture.
 

@@ -17,7 +17,7 @@
 
 **10:6** And your houses will be filled, and the houses of all your servants, and the houses of all Egypt, something that neither your fathers nor your fathers' fathers have seen from the day they came to be on the earth until this day.'" Then he turned and went out from Pharaoh.
 
-**10:7** Then Pharaoh's servants said to him, "How long will this man be a snare to us? Let the men go so that they may serve the LORD their God. Do you not yet know that Egypt is ruined?"
+**10:7** Then Pharaoh's servants said to him, "How long will this be a snare to us? Let the men go so that they may serve the LORD their God. Do you not yet know that Egypt is ruined?"
 
 **10:8** So Moses and Aaron were brought back to Pharaoh, and he said to them, "Go, serve the LORD your God. Who exactly are the ones going?"
 
@@ -68,5 +68,5 @@
 - **10:1** — The Hiphil verb הִכְבַּדְתִּי ("made heavy") depicts Pharaoh's heart as dull and unresponsive, distinct from the Piel verb חִזֵּק ("strengthened/hardened") in 10:20, 27 and 11:10. The Masoretic singular suffix in בְּקִרְבּוֹ ("in his midst") refers to Pharaoh or his realm.
 - **10:5** — "The surface of the land" translates the Hebrew idiom עֵין הָאָרֶץ, literally "the eye of the land" (also in 10:15).
 - **10:10** — Pharaoh's opening clause is a sarcastic imprecation ("So may the LORD be with you, just as..."). The idiom רָעָה נֶגֶד פְּנֵיכֶם ("evil is right before your face") can mean either that they harbor evil intentions or that disaster awaits them directly ahead.
-- **10:19** — Hebrew רוּחַ־יָם (literally "sea wind") denotes a west wind blowing from the Mediterranean. יָמָּה סּוּף is literally "to the Sea of Reeds," traditionally rendered "the Red Sea" following the Septuagint.
+- **10:19** — Hebrew רוּחַ־יָם (literally "sea wind") denotes a west wind blowing from the Mediterranean. יָמָּה סּוּף is literally "to the Sea of Reeds"; the Septuagint calls it the Red Sea.
 - **10:21** — וְיָמֵשׁ חֹשֶׁךְ ("darkness one can feel") uses an impersonal Hiphil jussive of the root מושׁ (a by-form of משׁשׁ, "to feel/grope"), literally "so that one may feel darkness."

@@ -47,7 +47,7 @@
 
 **1:21** God created the great sea creatures and every moving living creature with which the waters teemed, according to their kinds, and every bird of wing according to its kind; and God saw that it was good.
 
-**1:22** And God blessed them, saying, "Bear fruit and increase, and fill the waters in the seas, and let the birds increase on the earth."
+**1:22** And God blessed them, saying, "Be fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth."
 
 **1:23** And there was evening, and there was morning: a fifth day.
 
@@ -59,7 +59,7 @@
 
 **1:27** So God created humanity in His image; in the image of God He created him; male and female He created them.
 
-**1:28** And God blessed them, and God said to them, "Bear fruit and increase, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the heavens and over every living creature that crawls on the earth."
+**1:28** And God blessed them, and God said to them, "Be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the heavens and over every living creature that crawls on the earth."
 
 **1:29** Then God said, "Look, I have given you every plant yielding seed that is on the face of all the earth, and every tree that has in it the fruit of a tree yielding seed; they will be food for you.
 
@@ -69,7 +69,7 @@
 
 ## Translator Notes
 
-- **1:1** — The Hebrew has the plural hashamayim, so "the heavens" (contrast the Greek and Latin singular); the wording follows the locked style policy example.
+- **1:1** — The Hebrew has the plural hashamayim, so "the heavens" (contrast the Greek and Latin singular).
 - **1:2** — Tohu wavohu is a rhyming pair meaning unformed and unfilled, rendered "formless and empty." Ruach can mean wind, breath or spirit; with "of God" and the participle "hovering" (as of a bird over its young, Deut 32:11) it is rendered "the Spirit of God."
 - **1:5** — The Hebrew says yom echad, literally "day one" or "one day," with a cardinal number; the following days use ordinals ("a second day"), and only the sixth has the article.
 - **1:6** — Raqia (from a verb meaning to beat out or spread) is rendered "expanse" throughout.

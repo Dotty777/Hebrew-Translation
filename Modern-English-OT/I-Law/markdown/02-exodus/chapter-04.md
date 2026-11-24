@@ -31,7 +31,7 @@
 
 **4:13** But he said, "Please, Lord, send now by the hand of whomever You will send."
 
-**4:14** Then the anger of the LORD burned against Moses, and He said, "Is there not Aaron your brother, the Levite? I know that he indeed speaks well. Moreover, look, he is coming out to meet you, and he will see you and rejoice in his heart.
+**4:14** Then the anger of the LORD burned against Moses, and He said, "Is there not Aaron your brother, the Levite? I know that he can surely speak. Moreover, look, he is coming out to meet you, and he will see you and rejoice in his heart.
 
 **4:15** You shall speak to him and place the words in his mouth; and I Myself will be with your mouth and with his mouth, and I will instruct you in what you shall do.
 
@@ -65,7 +65,7 @@
 
 **4:30** And Aaron spoke all the words that the LORD had spoken to Moses, and he performed the signs before the eyes of the people.
 
-**4:31** Then the people believed; and they heard that the LORD had visited the sons of Israel and that He had seen their affliction, so they bowed down and worshiped.
+**4:31** Then the people believed; and they heard that the LORD had attended to the sons of Israel and that He had seen their affliction, so they bowed down and worshiped.
 
 ## Translator Notes
 

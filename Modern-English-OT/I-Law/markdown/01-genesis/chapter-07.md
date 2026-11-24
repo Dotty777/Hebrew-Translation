@@ -9,7 +9,7 @@
 
 **7:2** From every clean animal you shall take for yourself by sevens, a male and its mate, and from the animals that are not clean, two, a male and its mate;
 
-**7:3** also from the birds of the sky by sevens, male and female, to keep offspring alive on the surface of the entire earth.
+**7:3** also from the birds of the heavens by sevens, male and female, to keep offspring alive on the surface of the entire earth.
 
 **7:4** For in seven more days I will cause it to rain upon the earth forty days and forty nights, and I will wipe out every existing thing that I have made from the surface of the ground."
 
@@ -49,7 +49,7 @@
 
 **7:22** Everything in whose nostrils was the breath of the spirit of life, of all that was on the dry land, died.
 
-**7:23** So He wiped out every existing thing that was on the surface of the ground, from man to animals, to creeping things, and to the birds of the sky, and they were wiped out from the earth; and only Noah remained, and those who were with him in the ark.
+**7:23** So He wiped out every existing thing that was on the surface of the ground, from man to animals, to creeping things, and to the birds of the heavens, and they were wiped out from the earth; and only Noah remained, and those who were with him in the ark.
 
 **7:24** And the waters prevailed over the earth for one hundred and fifty days.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**17:1** Abram was ninety-nine years old when the LORD appeared to Abram and said to him, "I am God Almighty. Walk continually in My presence and be blameless,
+**17:1** Abram was ninety-nine years old when the LORD appeared to Abram and said to him, "I am God Almighty. Walk before Me and be blameless,
 
 **17:2** and I will set My covenant between Me and you, and I will multiply you very greatly."
 
@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **17:1** — "God Almighty" translates Hebrew El Shaddai, whose etymology is uncertain (possibly "God of the mountain" or "God of sufficiency"). The verb "walk continually" renders the Hithpael imperative of halakh, expressing habitual conduct.
+- **17:1** — "God Almighty" translates Hebrew El Shaddai, whose etymology is uncertain (possibly "God of the mountain" or "God of sufficiency"). The verb "walk" renders the Hithpael imperative of halakh, which can express habitual conduct.
 - **17:11** — The form unemaltem ("you shall circumcise") is analyzed either as a Qal perfect from a by-form namal taking a direct object ("the flesh of your foreskin") or as an unusual Niphal of mul (compare the Niphal with the direct-object marker in 17:14 and 17:25).
 - **17:14** — The Masoretic Text has no "on the eighth day" here (found in the Samaritan Pentateuch and Septuagint). The feminine demonstrative pronoun is written h-w-a by Pentateuchal convention and read hi ("that").
 - **17:16** — The Masoretic Text consistently uses feminine singular forms ("I will bless her... she will become... from her"), whereas the Septuagint, Syriac, and Vulgate shift to masculine pronouns referring to the promised son.

@@ -33,4 +33,4 @@
 - **6:5** — The Masoretic Text reads umishpatekha or yetse ("and your judgments are like light going forth," referring to the judgments pronounced against you), whereas the Septuagint divides the consonants differently to read "and My judgment goes forth as light."
 - **6:7** — Hebrew ke'adam can be translated either as "like Adam" (referring to the first man) or generically as "like mankind/humans."
 - **6:10** — The written Ketiv reads sh'ryryh (with yod instead of waw); the translation follows the read Qere sha'aruriyyah ("an appalling thing" or "a horrible thing").
-- **6:11** — The idiom shuv shevut ("restore the fortunes," literally "turn a turning" or "bring back the captivity") closes verse 11 in the Masoretic Text, though some modern versions attach this clause to 7:1.
+- **6:11** — The idiom shuv shevut ("restore the fortunes," literally "turn a turning" or "bring back the captivity") closes verse 11 in the Masoretic Text, though some interpreters attach this clause to 7:1.

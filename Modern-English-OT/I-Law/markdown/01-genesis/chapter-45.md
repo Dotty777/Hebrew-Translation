@@ -39,7 +39,7 @@
 
 **45:17** Then Pharaoh said to Joseph, "Say to your brothers, 'Do this: load your beasts and go, enter the land of Canaan,
 
-**45:18** and take your father and your households and come to me, and I will give you the best of the land of Egypt, and you will eat the fat of the land.'
+**45:18** and take your father and your households and come to me, and I will give you the best of the land of Egypt, and eat the fat of the land.'
 
 **45:19** Now as for you, you are commanded: 'Do this: take wagons for yourselves from the land of Egypt for your little ones and for your wives, and carry your father and come.
 

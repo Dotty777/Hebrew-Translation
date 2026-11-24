@@ -53,5 +53,5 @@
 
 - **48:7** — Hebrew metah alai (lit. "died upon me") is an idiom expressing bereavement and painful personal loss.
 - **48:14** — The rare Piel verb sikkel occurs only here in the Hebrew Bible and is generally understood as "crossing" (from a Semitic cognate meaning "intertwine"), though some connect it with the root for insight ("guiding knowingly").
-- **48:16** — The Piel jussive verb yevarekh ("may He bless") is singular despite following both "the God" (v. 15) and "the Angel," uniting them in the blessing; the unique Qal verb yidgu ("may they teem") is related to the noun for fish, conveying prolific growth.
+- **48:16** — The Piel jussive verb yevarekh ("may He bless") is singular, following the series "the God ... the God ... the Angel" (vv. 15-16); the unique Qal verb yidgu ("may they teem") is related to the noun for fish, conveying prolific growth.
 - **48:22** — Hebrew shekhem ("ridge, shoulder, portion") forms a deliberate wordplay with the place name Shechem, where Joseph was later buried (Josh 24:32).

@@ -31,7 +31,7 @@
 
 **39:7** *(after `46:3`)* He also put out the eyes of Zedekiah and bound him in bronze shackles to bring him to Babylon.
 
-**39:8** *(after `46:3`)* The Chaldeans burned the house of the king and the houses of the people with fire, and they tore down the walls of Jerusalem.
+**39:8** *(after `46:3`)* The Chaldeans burned the house of the king and the house of the people with fire, and they tore down the walls of Jerusalem.
 
 **39:9** *(after `46:3`)* Then Nebuzaradan the captain of the guard exiled to Babylon the rest of the people who were left in the city, the deserters who had defected to him, and the rest of the people who remained.
 

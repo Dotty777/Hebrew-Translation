@@ -89,9 +89,9 @@
 
 **28:26** *(after `28:22`)* And you shall make two gold rings and set them on the two ends of the breastpiece, along its border facing inward toward the ephod.
 
-**28:27** *(after `28:22`)* And you shall make two gold rings and place them low on the two shoulder pieces of the ephod, toward its front, right beside its seam above the woven waistband of the ephod.
+**28:27** *(after `28:22`)* And you shall make two gold rings and place them low on the two shoulder pieces of the ephod, toward its front, right beside its seam above the woven band of the ephod.
 
-**28:28** *(after `28:22`)* And they shall tie the breastpiece by its rings to the rings of the ephod with a blue cord, so that it rests upon the woven waistband of the ephod and the breastpiece will not slip loose from the ephod.
+**28:28** *(after `28:22`)* And they shall tie the breastpiece by its rings to the rings of the ephod with a blue cord, so that it rests upon the woven band of the ephod and the breastpiece will not slip loose from the ephod.
 
 ## Translator Notes
 

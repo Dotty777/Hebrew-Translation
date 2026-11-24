@@ -49,7 +49,7 @@
 
 **49:22** A fruitful branch is Joseph, a fruitful branch beside a spring; its offshoots climb over a wall.
 
-**49:23** Archers dealt bitterly with him, shot at him, and harried him;
+**49:23** Archers dealt bitterly with him, shot at him, and bore a grudge against him;
 
 **49:24** yet his bow remained steadfast, and the arms of his hands stayed nimble by the hands of the Mighty One of Jacob—from there comes the Shepherd, the Stone of Israel—
 
@@ -75,6 +75,6 @@
 
 - **49:4** — The hapax noun pachaz denotes reckless turbulence or boiling over; the verse abruptly shifts from second person ("you defiled") to third person (alah, "he went up") as Jacob turns in indignation.
 - **49:5** — The rare noun mekherotehem occurs only here in the Hebrew Bible; it is most often understood as "blades" or "swords," though some scholars interpret it as "schemes" or "agreements."
-- **49:10** — The Masoretic text reads the single word Shiloh, traditionally taken as a messianic title or place name; several ancient versions understand it as shelloh, "the one to whom it belongs" (cf. Ezek 21:27).
+- **49:10** — The Masoretic text reads the single word Shiloh, which has been taken as a name, a title, or the place Shiloh; several ancient versions understand it as shelloh, "the one to whom it belongs" (cf. Ezek 21:27).
 - **49:21** — Following the Masoretic vocalization ("doe" and "words of beauty"); with altered vocalization of the same consonants, some interpreters read either "that bears lovely fawns" or "a spreading terebinth that yields lovely branches."
-- **49:26** — The Masoretic text vocalizes horai ("my progenitors") followed by ad-ta'avat ("as far as the limit/bounty of"); by redividing and repointing horai ad, the Septuagint and several modern versions read "the ancient mountains."
+- **49:26** — The Masoretic text vocalizes horai ("my progenitors") followed by ad-ta'avat ("as far as the limit/bounty of"); by redividing and repointing horai ad, the Septuagint reads "enduring mountains."

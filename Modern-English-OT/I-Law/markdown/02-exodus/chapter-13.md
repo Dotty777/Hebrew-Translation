@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **13:8** — Hebrew literally reads ba'avur zeh asah YHWH li ("on account of this [which] the LORD did for me"), with the demonstrative zeh introducing an elliptical relative clause explaining the observance.
+- **13:8** — The Hebrew clause (beginning ba'avur zeh) literally reads "on account of this [which] the LORD did for me," with the demonstrative zeh introducing an elliptical relative clause explaining the observance.
 - **13:10** — Literally "from days to days" (miyyamim yamimah), a Hebrew idiom denoting an annual cycle.
 - **13:17** — The particle ki functions concessively ("although/even though"). The Hebrew also plays on sound between naham (Qal of nhh, "led them") and yinnahem (Niphal of nhm, "change their minds/regret").
 - **13:18** — Hebrew yam-suph literally means "Sea of Reeds." The Qal passive participle hamushim ("equipped for battle" or "in battle array") is a rare military term of debated etymology (cf. Josh 1:14; 4:12; Judg 7:11).

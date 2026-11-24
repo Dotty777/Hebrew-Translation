@@ -29,7 +29,7 @@
 
 **46:12** Listen to Me, you stubborn of heart, who are far from righteousness:
 
-**46:13** I have brought My righteousness near; it is not far off, and My salvation will not delay. And I will grant salvation in Zion, for Israel My splendor.
+**46:13** I have brought My righteousness near; it will not be far off, and My salvation will not delay. And I will grant salvation in Zion, for Israel My splendor.
 
 ## Translator Notes
 

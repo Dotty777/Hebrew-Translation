@@ -47,9 +47,9 @@
 
 **30:21** And your ears will hear a word behind you, saying, "This is the way; walk in it," whenever you turn to the right or turn to the left.
 
-**30:22** And you will defile the plating of your silver carved images and the sheathing of your gold cast images. You will scatter them like a menstrual cloth; "Get out!" you will say to it.
+**30:22** And you will defile the plating of your silver carved images and the sheathing of your gold cast image. You will scatter them like a menstrual cloth; "Get out!" you will say to it.
 
-**30:23** Then He will give rain for the seed with which you sow the ground, and bread from the produce of the ground will be rich and plentiful. In that day your livestock will graze in a broad pasture.
+**30:23** Then He will give rain for your seed with which you sow the ground, and bread from the produce of the ground, and it will be rich and plentiful. In that day your livestock will graze in a broad pasture.
 
 **30:24** And the oxen and the young donkeys that work the ground will eat seasoned fodder that has been winnowed with shovel and winnowing fork.
 

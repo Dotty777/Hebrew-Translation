@@ -75,7 +75,7 @@
 
 **3:35** And the leader of the father's house for the clans of Merari was Zuriel son of Abihail; they were to encamp on the side of the tabernacle northward.
 
-**3:36** Now the appointed charge of the sons of Merari was the frames of the tabernacle, its bars, its pillars, its bases, all its articles, and all its service,
+**3:36** Now the appointed charge of the sons of Merari was the planks of the tabernacle, its crossbars, its pillars, its bases, all its articles, and all its service,
 
 **3:37** and the pillars of the courtyard all around, with their bases, their pegs, and their cords.
 

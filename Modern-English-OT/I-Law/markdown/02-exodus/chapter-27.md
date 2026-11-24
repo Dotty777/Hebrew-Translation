@@ -35,7 +35,7 @@
 
 **27:15** And for the second flank, fifteen cubits of hangings; their pillars shall be three, and their bases three.
 
-**27:16** And for the gate of the courtyard there shall be a screen of twenty cubits, of blue, purple, crimson, and twisted fine linen, the work of an embroiderer; its pillars shall be four, and its bases four.
+**27:16** And for the gate of the courtyard there shall be a screen of twenty cubits, of blue, purple, crimson, and twisted fine linen, the work of an embroiderer; their pillars shall be four, and their bases four.
 
 **27:17** All the pillars of the courtyard all around shall be banded with silver; their hooks shall be of silver, and their bases of bronze.
 

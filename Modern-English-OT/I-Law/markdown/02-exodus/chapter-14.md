@@ -71,6 +71,6 @@
 
 - **14:11** — Hebrew stacks two negatives, hamibbeli ein (lit. "from lack of there-not-being"), for emphatic sarcasm.
 - **14:13** — Hebrew asher re'item et-mitsrayim can be read adverbially ("the way you have seen the Egyptians," contrasting with seeing them dead in v. 30) or relatively ("the Egyptians whom you have seen").
-- **14:20** — Translates the Masoretic text directly (wayhi he'anan wehahoshekh wayya'er et-hallaylah), which concisely captures the cloud's dual effect of darkness and illumination without harmonizing to ancient versions.
+- **14:20** — Literally "and there was the cloud and the darkness, and it lit up the night" (wayhi he'anan wehahoshekh wayya'er et-hallaylah); the terse Hebrew is usually taken to mean that the cloud was dark toward one camp and gave light toward the other. The Septuagint reads "and the night passed" instead.
 - **14:25** — The Masoretic text reads wayyasar (Hiphil of sur, "removed" or "turned aside"), rather than the Samaritan/Septuagint variant "bound/clogged." The noun kevedut ("difficulty/heaviness") shares the root k-v-d with the LORD's "winning glory" in vv. 4, 17, and 18.
 - **14:27** — Hebrew etan denotes a perennial, steady flow or normal state of water, and the Piel wayna'er (from na'ar) vividly pictures the LORD shaking the Egyptians off into the sea (cf. Ps 136:15).

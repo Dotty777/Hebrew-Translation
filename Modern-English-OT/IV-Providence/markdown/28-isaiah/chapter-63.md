@@ -49,4 +49,4 @@
 - **63:9** — Following the qere lo ('to Him'), forming the Hebrew idiom 'He was distressed' (literally 'it was distressing to Him'); the written ketiv reads lo' ('not').
 - **63:11** — The Masoretic text has the compressed clause 'remembered the days of old, Moses, His people,' here smoothed with 'His people' as subject, and reads the plural ro'ey ('shepherds of His flock,' e.g., Moses and Aaron).
 - **63:14** — The Masoretic verb tenichennu is the Hiphil of nuach ('granted them rest,' literally 'gave it rest,' referring collectively to the people), rather than nachah ('led').
-- **63:19** — Masoretic 63:19 includes the plea numbered 64:1 in most English Bibles. The verb nazollu is the Niphal of zalal ('to quake').
+- **63:19** — In the Masoretic verse division the plea 'If only You would tear open the heavens...' belongs to 63:19, and chapter 64 begins with the next verse. The verb nazollu is the Niphal of zalal ('to quake').

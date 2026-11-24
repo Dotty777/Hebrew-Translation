@@ -69,12 +69,12 @@
 
 **23:32** You shall not make a covenant with them or with their gods.
 
-**23:33** They shall not dwell in your land, or else they will cause you to sin against Me; for if you serve their gods, it will certainly become a snare to you.
+**23:33** They shall not dwell in your land, or else they will cause you to sin against Me; for if you serve their gods, it will certainly become a snare to you."
 
 ## Translator Notes
 
 - **23:2** — Hebrew plays on two stems of the root natah ('turn/incline'): the Qal infinitive construct lintot ('to turn aside' after the many) and the Hiphil infinitive construct lehattot ('to bend/pervert' justice, with the object 'justice' implied from the parallel Hiphil verb in 23:6).
 - **23:5** — Hebrew pairs two verbs from homonymous roots 'azav: 'azav I ('leave, abandon') with 'to him,' followed by an emphatic Qal infinitive absolute and imperfect of 'azav II ('free, release, help') with 'with him.' Alternatively, 'you must hold back' can be read as continuing the conditional clause ('and you would refrain from helping him, you must certainly help him').
-- **23:17** — Hebrew reads ha'adon YHWH ('the Sovereign, the LORD'), using the definite singular noun ha'adon rather than the usual 'adonai before the Tetragrammaton.
+- **23:17** — Hebrew reads ha'adon followed by the divine name ('the Sovereign, the LORD'), using the definite singular noun ha'adon rather than the usual 'adonai before the divine name.
 - **23:25** — The Masoretic Hebrew shifts in mid-verse from third-person singular ('and He will bless,' referring to the LORD your God) back to first-person singular ('and I will remove'), a change preserved here without harmonizing to the ancient versions.
 - **23:28** — The collective feminine singular noun hatsir'ah is traditionally rendered 'the hornets' (also in Deut 7:20 and Josh 24:12), though some lexicographers relate it to a Semitic root meaning 'panic' or 'discouragement.'

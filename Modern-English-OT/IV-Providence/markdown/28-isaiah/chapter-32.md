@@ -7,7 +7,7 @@
 
 **32:1** See, a king will reign according to righteousness, and officials will rule according to justice.
 
-**32:2** And each one will be like a refuge from the wind and a shelter from a downpour, like channels of water in a dry place, like the shade of a massive crag in a weary land.
+**32:2** And a man will be like a refuge from the wind and a shelter from a downpour, like channels of water in a dry place, like the shade of a massive crag in a weary land.
 
 **32:3** Then the eyes of those who see will not be shut, and the ears of those who hear will pay close attention.
 
@@ -33,7 +33,7 @@
 
 **32:14** For the palace has been abandoned, the throng of the city has been deserted; the citadel and watchtower have become caves forever, a joy for wild donkeys, a pasture for flocks,
 
-**32:15** until the Spirit is poured out on us from on high, and the wilderness turns into an orchard, and the orchard is reckoned as a forest.
+**32:15** until a spirit is poured out on us from on high, and the wilderness turns into an orchard, and the orchard is reckoned as a forest.
 
 **32:16** Then justice will dwell in the wilderness, and righteousness will abide in the orchard.
 

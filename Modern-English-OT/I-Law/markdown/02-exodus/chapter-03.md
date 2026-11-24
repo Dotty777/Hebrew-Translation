@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **3:14** — Hebrew Ehyeh asher ehyeh ("I WILL BE WHO I WILL BE") uses the Qal imperfect of hayah ("be"), echoing "I will be with you" in v. 12; it is also widely rendered timelessly as "I AM WHO I AM" and connects by wordplay to the divine name YHWH ("the LORD") in v. 15.
+- **3:14** — Hebrew Ehyeh asher ehyeh ("I WILL BE WHO I WILL BE") uses the Qal imperfect of hayah ("be"), which can also carry present force ("I AM WHO I AM"); it echoes "I will be with you" in v. 12 and connects by wordplay to the divine name ("the LORD") in v. 15.
 - **3:16** — Hebrew paqod paqadti pairs the Qal infinitive absolute and perfect of paqad ("attend to," "visit," or "take careful notice of") for emphasis, echoing Joseph's final words in Genesis 50:24-25.
 - **3:19** — The Masoretic Text reads literally velo beyad chazaqah ("and not by a strong hand," i.e., not even when faced with a strong hand), whereas the Septuagint reads "unless by a mighty hand."
 - **3:22** — Hebrew venitsaltem is the Piel of natsal ("strip" or "plunder"), forming an ironic wordplay with the Hiphil of the same root in v. 8 (lehattsilo, "to rescue them").

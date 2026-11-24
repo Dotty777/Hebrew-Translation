@@ -27,7 +27,7 @@
 
 **8:11** And Aaron shall wave the Levites as a wave offering before the LORD from the sons of Israel, so that they may perform the service of the LORD.
 
-**8:12** And the Levites shall lay their hands upon the heads of the bulls, and prepare the one as a sin offering and the other as a burnt offering to the LORD, to atone for the Levites.
+**8:12** And the Levites shall lay their hands upon the heads of the bulls, then you shall offer the one as a sin offering and the other as a burnt offering to the LORD, to atone for the Levites.
 
 **8:13** You shall station the Levites before Aaron and before his sons, and wave them as a wave offering to the LORD.
 

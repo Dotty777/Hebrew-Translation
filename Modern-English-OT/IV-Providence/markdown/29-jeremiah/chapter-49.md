@@ -47,7 +47,7 @@
 
 **49:21** And I have told you today, yet you have not obeyed the voice of the LORD your God or anything for which He has sent me to you.
 
-**49:22** Now therefore know for certain that you will die by the sword, by the famine, and by the pestilence in the place where you desire to go to reside."
+**49:22** And now know for certain that you will die by the sword, by the famine, and by the pestilence in the place where you desire to go to reside."
 
 ## Translator Notes
 

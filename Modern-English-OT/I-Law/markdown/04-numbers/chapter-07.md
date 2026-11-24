@@ -19,7 +19,7 @@
 
 **7:7** Two of the wagons and four of the oxen he gave to the sons of Gershon, in accordance with their service.
 
-**7:8** And four of the wagons and eight of the oxen he gave to the sons of Merari, in accordance with their service, under the charge of Ithamar son of Aaron the priest.
+**7:8** And four of the wagons and eight of the oxen he gave to the sons of Merari, in accordance with their service, under the hand of Ithamar son of Aaron the priest.
 
 **7:9** But to the sons of Kohath he did not give any, for the service of the holy things rested on them; they were to carry them on the shoulder.
 
@@ -191,4 +191,4 @@
 - **7:18** — On the second day the Masoretic Text uniquely repeats the Hiphil verb hiqriv ("presented," spelled defectively in v. 19), whereas the introductory entries from the third day onward (vv. 24, 30, 36, 42) omit the verb entirely in verbless ledger clauses.
 - **7:72** — Literally "on day eleven day" (similarly v. 78, "on day twelve day"). Because Biblical Hebrew lacks ordinal adjectives above ten, it expresses "eleventh" and "twelfth" using the cardinal numeral framed by the repeated noun "day."
 - **7:86** — Literally "ten, ten the cup," using Hebrew distributive repetition to indicate "ten shekels for each cup," with the weight unit "shekels" omitted by idiom here and in v. 85.
-- **7:89** — "Speaking" renders the rare Hithpael participle middabber (with assimilated taw, cf. Ezek 2:2; 43:6), and "atonement cover" renders hakkapporet (traditionally "mercy seat"). The closing clause "and He spoke to him" (Piel wayyiqtol) takes God as subject, mirroring "with Him" earlier in the verse, though "the voice" is also grammatically possible ("and it spoke to him").
+- **7:89** — "Speaking" renders the rare Hithpael participle middabber (with assimilated taw, cf. Ezek 2:2; 43:6), and "atonement cover" renders hakkapporet. The closing clause "and He spoke to him" (Piel wayyiqtol) takes God as subject, mirroring "with Him" earlier in the verse, though "the voice" is also grammatically possible ("and it spoke to him").

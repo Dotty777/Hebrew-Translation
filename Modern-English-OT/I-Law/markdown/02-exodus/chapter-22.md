@@ -19,7 +19,7 @@
 
 **22:7** If the thief is not found, then the owner of the house shall draw near to God to establish whether he has stretched out his hand to his neighbor's goods.
 
-**22:8** In every case of transgression, whether for an ox, for a donkey, for a sheep, for a garment, or for any lost item of which someone says, "This is it," the case of the two of them shall come to God; the one whom God declares guilty shall pay double to his neighbor.
+**22:8** In every case of transgression, whether for an ox, for a donkey, for a sheep, for a garment, or for any lost item of which someone says, 'This is it,' the case of the two of them shall come to God; the one whom God declares guilty shall pay double to his neighbor.
 
 **22:9** When a man gives a donkey, or an ox, or a sheep, or any animal to his neighbor to keep, and it dies or is injured or is carried off with no one seeing,
 

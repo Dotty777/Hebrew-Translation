@@ -31,7 +31,7 @@
 
 **7:13** Yet Pharaoh's heart grew hard, and he did not listen to them, just as the LORD had spoken.
 
-**7:14** Then the LORD said to Moses, "Pharaoh's heart is unyielding; he has refused to release the people.
+**7:14** Then the LORD said to Moses, "Pharaoh's heart is heavy; he has refused to release the people.
 
 **7:15** Go to Pharaoh in the morning; look, he is going out to the water. Station yourself to meet him on the bank of the Nile, and take in your hand the staff that was turned into a snake,
 
@@ -69,4 +69,4 @@
 - **7:13** — Exodus 7 uses three distinct Hebrew roots for Pharaoh's obduracy: qashah in the Hiphil ("make hard/stiff," 7:3), chazaq in the intransitive Qal ("grow hard/strong," 7:13, 22), and the stative kaved (literally "heavy," i.e., "unyielding," 7:14).
 - **7:17** — The phrase "in My hand" (beyadi) continues the LORD's first-person oracle ("I am about to strike," anoki makkeh), attributing the action of His human agent holding the staff (7:15, 19-20) directly to Himself (cf. 7:25).
 - **7:19** — Hebrew uba'etsim uba'avanim (literally "in the woods and in the stones," i.e., "in wood and in stone") refers to water held in wooden and stone containers.
-- **7:26** — Verses 7:26-29 follow the Masoretic versification, corresponding to 8:1-4 in most English versions.
+- **7:26** — Verses 7:26-29 follow the Masoretic versification; the Vulgate numbers them 8:1-4.

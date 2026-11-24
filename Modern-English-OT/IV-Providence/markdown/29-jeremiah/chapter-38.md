@@ -41,7 +41,7 @@
 
 **38:18** "I have indeed heard Ephraim grieving: 'You disciplined me, and I was disciplined, like an untrained calf. Bring me back, and I will return, for You are the LORD my God.
 
-**38:19** For after I turned away, I felt remorse; and after I was instructed, I struck my thigh. I was ashamed and also humiliated, because I bore the disgrace of my youth.'
+**38:19** For after I turned, I felt remorse; and after I was instructed, I struck my thigh. I was ashamed and also humiliated, because I bore the disgrace of my youth.'
 
 **38:20** Is Ephraim a precious son to Me? Is he a child of delight? For whenever I speak against him, I certainly remember him still. Therefore My inward parts yearn for him; I will surely show him compassion," declares the LORD.
 

@@ -59,7 +59,7 @@
 
 **47:27** Now Israel settled in the land of Egypt, in the land of Goshen; they acquired property in it, and they became fruitful and increased greatly.
 
-**47:28** And Jacob lived seventeen years in the land of Egypt, so the days of Jacob, the years of his life, were one hundred forty-seven years.
+**47:28** And Jacob lived seventeen years in the land of Egypt, and the days of Jacob, the years of his life, were one hundred forty-seven years.
 
 **47:29** When the days drew near for Israel to die, he summoned his son Joseph and said to him, "If now I have found favor in your eyes, please place your hand under my thigh and deal with me in loyal love and faithfulness: please do not bury me in Egypt.
 

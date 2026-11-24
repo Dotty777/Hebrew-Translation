@@ -13,7 +13,7 @@
 
 **46:4** I Myself will go down with you to Egypt, and I Myself will also surely bring you up, and Joseph will place his hand on your eyes."
 
-**46:5** Jacob then rose from Beersheba, and Israel's sons carried their father Jacob, their little ones, and their wives in the wagons Pharaoh had sent to carry him.
+**46:5** Jacob then rose from Beersheba, and the sons of Israel carried their father Jacob, their little ones, and their wives in the wagons Pharaoh had sent to carry him.
 
 **46:6** They took their livestock and the possessions they had acquired in the land of Canaan, and they came to Egypt, Jacob and all his offspring with him.
 

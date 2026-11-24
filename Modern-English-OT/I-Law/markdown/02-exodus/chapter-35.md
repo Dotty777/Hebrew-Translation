@@ -23,9 +23,9 @@
 
 **35:10** And let everyone among you who is skilled of heart come and make everything that the LORD has commanded:
 
-**35:11** the tabernacle, its tent and its covering, its clasps and its frames, its crossbars, its pillars, and its bases;
+**35:11** the tabernacle, its tent and its covering, its clasps and its planks, its crossbars, its pillars, and its bases;
 
-**35:12** the ark and its poles, the atonement cover, and the curtain of the screen;
+**35:12** the ark and its poles, the atonement cover, and the veil of the screen;
 
 **35:13** the table and its poles and all its utensils, and the bread of the Presence;
 

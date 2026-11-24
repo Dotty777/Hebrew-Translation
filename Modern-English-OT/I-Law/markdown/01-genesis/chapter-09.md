@@ -5,9 +5,9 @@
 
 ## Text
 
-**9:1** Then God blessed Noah and his sons and said to them, "Be fruitful and grow numerous, and fill the earth.
+**9:1** Then God blessed Noah and his sons and said to them, "Be fruitful and multiply, and fill the earth.
 
-**9:2** And the dread of you and the terror of you will be upon every beast of the earth and upon every bird of the sky; along with everything that moves on the ground and all the fish of the sea, they have been given into your hand.
+**9:2** And the dread of you and the terror of you will be upon every wild animal of the earth and upon every bird of the heavens; along with everything that moves on the ground and all the fish of the sea, they have been given into your hand.
 
 **9:3** Every moving creature that is alive will be food for you; just as with the green vegetation, I have given everything to you.
 
@@ -17,13 +17,13 @@
 
 **9:6** One who sheds the blood of man, by man his blood will be shed, because in God's image He made man.
 
-**9:7** As for you, be fruitful and grow numerous; teem on the earth and grow numerous in it."
+**9:7** As for you, be fruitful and multiply; teem on the earth and multiply in it."
 
 **9:8** Then God spoke to Noah and to his sons with him, saying,
 
 **9:9** "As for Me, look, I am establishing My covenant with you and with your offspring after you,
 
-**9:10** and with every living creature that is with you—among the birds, the livestock, and every beast of the earth with you—from all that came out of the ark to every beast of the earth.
+**9:10** and with every living creature that is with you—among the birds, the livestock, and every wild animal of the earth with you—from all that came out of the ark to every wild animal of the earth.
 
 **9:11** And I will establish My covenant with you: all flesh will never again be cut off by the waters of the flood, and there will never again be a flood to destroy the earth."
 

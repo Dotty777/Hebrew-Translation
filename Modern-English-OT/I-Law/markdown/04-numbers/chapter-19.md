@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **19:2** — Hebrew parah adummah literally means "red cow"; parah denotes a cow and is traditionally rendered "heifer" following the Septuagint and Hebrews 9:13.
+- **19:2** — Hebrew parah adummah literally means "red cow"; parah denotes a cow. The Septuagint renders it damalis ("heifer").
 - **19:3** — The third-person masculine singular verbs "slaughter" (shachat) here and "burn" (saraf) in verse 5 are used impersonally ("one shall...") because Eleazar oversees the rite ("before him," "in his sight") rather than slaughtering or burning the cow himself.
 - **19:9** — Hebrew chattat ("purification offering") is the same noun translated "sin offering" in 18:9; in this chapter it aligns with the privative Hithpael ("purify himself," vv. 12, 13, 20) and Piel ("purify him," v. 19) stems of chata.
 - **19:12** — Following the Masoretic cantillation (tipcha on "seventh day"), both "third day" and "seventh day" modify the Hithpael verb "purify himself," consistent with verse 19; alternatively, "on the seventh day" can be grouped with "he will be clean" and "he will not be clean."

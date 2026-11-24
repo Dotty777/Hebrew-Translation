@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **4:1** — Hebrew plays on the name Cain (qayin) and the Qal verb qaniti ("I have acquired"). The phrase et-YHWH literally reads "with the LORD," often understood as "with the help of the LORD."
+- **4:1** — Hebrew plays on the name Cain (qayin) and the Qal verb qaniti ("I have acquired"). The phrase et with the divine name literally reads "with the LORD," often understood as "with the help of the LORD."
 - **4:7** — Hebrew se'et is the Qal infinitive construct of nasa ("lift up"), likely denoting the lifting of a fallen face or acceptance. Although chatta't ("sin") is grammatically feminine, the Qal participle rovets ("crouching") and the following pronouns are masculine, personifying sin as a lurking predator.
 - **4:8** — The Masoretic Hebrew uses wayyomer ("said/spoke") without recording any spoken words; ancient versions such as the Septuagint and Samaritan Pentateuch supply "Let us go out to the field."
 - **4:13** — Hebrew awon encompasses both guilt/iniquity and its resulting punishment, and minneso (preposition min plus Qal infinitive construct of nasa) can mean either "too great to bear" or "too great to forgive."

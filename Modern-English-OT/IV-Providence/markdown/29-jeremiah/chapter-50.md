@@ -21,7 +21,7 @@
 
 **50:8** Then the word of the LORD came to Jeremiah in Tahpanhes, saying,
 
-**50:9** "Take large stones in your hand and hide them in the mortar in the brick pavement that is at the entrance of the house of Pharaoh in Tahpanhes, in the sight of Jewish men.
+**50:9** "Take large stones in your hand and hide them in the mortar in the brick pavement that is at the entrance of the house of Pharaoh in Tahpanhes, in the sight of Judean men.
 
 **50:10** And say to them, 'This is what the LORD of hosts, the God of Israel, says: Look, I am sending and will fetch Nebuchadnezzar king of Babylon, My servant, and I will set his throne above these stones that I have hidden, and he will spread his royal canopy over them.
 

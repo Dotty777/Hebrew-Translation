@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **2:3** — Ammi ("My people") and Ruhamah ("She has been shown compassion") reverse the names Lo-ammi and Lo-ruhamah from chapter 1. Masoretic Hosea 2:1-3 corresponds to 1:10-2:1 in many English Bibles.
+- **2:3** — Ammi ("My people") and Ruhamah ("She has been shown compassion") reverse the names Lo-ammi and Lo-ruhamah from chapter 1.
 - **2:8** — The Masoretic Hebrew shifts abruptly from second-person feminine singular ("your way," darkek) to third-person feminine singular ("her wall ... her paths ... she will not find"); "erect a wall against her" renders a cognate construction literally "wall up her wall."
 - **2:17** — Achor means "trouble" (cf. Joshua 7:26). The Qal verb anetah ("she will answer") links to the fivefold "answer" in 2:23-24, though the same root can also mean "sing" (as in Exodus 15:21).
 - **2:18** — Hebrew baali means both "my master/husband" and "my Baal," creating a deliberate link to "the names of the Baals" in 2:19 in contrast to ishi ("my husband").

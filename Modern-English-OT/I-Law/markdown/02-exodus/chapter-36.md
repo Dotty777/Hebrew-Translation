@@ -19,7 +19,7 @@
 
 **36:7** For the material was enough for them for all the work, to do it, and to spare.
 
-**36:8** From the blue, purple, and crimson yarn they made woven garments for ministering in the sanctuary, and they made the holy garments for Aaron, just as the LORD had commanded Moses.
+**36:8** From the blue, purple, and crimson yarn they made finely woven garments for ministering in the sanctuary, and they made the holy garments for Aaron, just as the LORD had commanded Moses.
 
 **36:9** He made the ephod of gold, blue, purple, and crimson yarn, and twisted fine linen.
 
@@ -31,7 +31,7 @@
 
 **36:13** They fashioned the onyx stones, enclosed in gold filigree settings, engraved like the engravings of a signet according to the names of the sons of Israel.
 
-**36:14** He set them on the shoulder pieces of the ephod as stones of remembrance for the sons of Israel, just as the LORD had commanded Moses.
+**36:14** He set them on the shoulder pieces of the ephod as stones of reminder for the sons of Israel, just as the LORD had commanded Moses.
 
 **36:15** He made the breastpiece as the work of a skilled designer, like the work of the ephod, of gold, blue, purple, and crimson yarn, and twisted fine linen.
 
@@ -39,11 +39,11 @@
 
 **36:17** They set in it four rows of stones: a row of carnelian, topaz, and emerald was the first row.
 
-**36:18** The second row was turquoise, lapis lazuli, and rock crystal.
+**36:18** The second row was turquoise, lapis lazuli, and chalcedony.
 
 **36:19** The third row was jacinth, agate, and amethyst.
 
-**36:20** And the fourth row was chrysolite, onyx, and jasper; they were enclosed in gold filigree settings in their mountings.
+**36:20** And the fourth row was beryl, onyx, and jasper; they were enclosed in gold filigree settings in their mountings.
 
 **36:21** The stones corresponded to the names of the sons of Israel, twelve of them according to their names, like the engravings of a signet, each according to his name, for the twelve tribes.
 
@@ -84,7 +84,7 @@
 ## Translator Notes
 
 - **36:7** — The Hebrew noun melakah ("work") is used twice, first in the extended sense of contributed "material" and then as "work"; wehoter is a Hiphil infinitive absolute of yatar ("to leave over"), used adverbially to express a surplus ("and to spare").
-- **36:8** — The rare expression bigde-serad ("woven garments") is of uncertain etymology, variously understood as finely woven or braided textiles or as official garments of service.
+- **36:8** — The rare expression bigde-serad ("finely woven garments") is of uncertain etymology, variously understood as finely woven or braided textiles or as official garments of service.
 - **36:11** — The Ketiv writes the noun with a third-person masculine singular suffix lacking yod (qtswwtw), while the Qere reads the standard plural form qetsotayw ("its ends"), which is translated here.
 - **36:17** — The precise mineralogical identification of several of the twelve Hebrew gemstone names in verses 17-20 remains uncertain; the renderings here reflect established lexical and historical identifications.
 - **36:31** — The Hophal participle moshzar ("twisted") appears here in the Hebrew text without shesh ("fine linen"), directly modifying the dyed yarns.

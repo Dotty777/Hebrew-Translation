@@ -41,7 +41,7 @@
 
 **44:18** They do not know and they do not understand, for their eyes have been plastered shut from seeing, and their hearts from comprehending.
 
-**44:19** No one takes it to heart, nor is there knowledge or discernment to say, "Half of it I burned in the fire; I also baked bread over its coals, roasted meat, and ate it. Shall I make the rest of it into an abomination? Shall I fall prostrate before a block of wood?"
+**44:19** He does not take it to heart, nor is there knowledge or discernment to say, "Half of it I burned in the fire; I also baked bread over its coals, roasted meat, and ate it. Shall I make the rest of it into an abomination? Shall I fall prostrate before a block of wood?"
 
 **44:20** He feeds on ashes; a deluded heart has led him astray, so that he cannot rescue his own life, nor say, "Is there not a lie in my right hand?"
 

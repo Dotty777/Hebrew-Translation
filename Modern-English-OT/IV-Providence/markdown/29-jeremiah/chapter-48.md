@@ -9,7 +9,7 @@
 
 **48:2** Then Ishmael son of Nethaniah and the ten men who were with him rose up and struck Gedaliah son of Ahikam, son of Shaphan, with the sword, and he put him to death, the one whom the king of Babylon had appointed over the land.
 
-**48:3** Ishmael also struck down all the Jews who were with him, with Gedaliah, in Mizpah, and the Chaldeans who were found there, the men of war.
+**48:3** Ishmael also struck down all the Judeans who were with him, with Gedaliah, in Mizpah, and the Chaldeans who were found there, the men of war.
 
 **48:4** Now it happened on the second day after Gedaliah was put to death, when no one knew,
 

@@ -37,7 +37,7 @@
 
 **18:16** And as for its redemption, from a month old you shall redeem it at your valuation: five shekels of silver by the shekel of the sanctuary—it is twenty gerahs.
 
-**18:17** However, you shall not redeem the firstborn of an ox, or the firstborn of a sheep, or the firstborn of a goat; they are holy. You shall splash their blood on the altar and turn their fat into smoke as a fire offering, for a pleasing aroma to the LORD.
+**18:17** However, you shall not redeem the firstborn of an ox, or the firstborn of a sheep, or the firstborn of a goat; they are holy. You shall splash their blood on the altar and turn their fat into smoke as a fire offering, for a soothing fragrance to the LORD.
 
 **18:18** And their flesh shall be yours; like the breast of the wave offering and like the right thigh, it shall be yours.
 
