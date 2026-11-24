@@ -62,6 +62,6 @@
 ## Translator Notes
 
 - **15:2** — Hebrew uses the shortened poetic divine name Yah and the form zimrat, 'song' (or possibly 'might/defense'), sharing the first-person possessive force of 'my strength.' The verb rendered 'I will glorify Him' is a hapax legomenon Hiphil of navah, meaning 'glorify/beautify' or possibly 'prepare a dwelling for.'
-- **15:4** — Hebrew yam-suph literally means 'Sea of Reeds' (so also in 15:22), traditionally known as the Red Sea following the Septuagint.
+- **15:4** — Hebrew yam-suph literally means 'Sea of Reeds' (so also in 15:22); the Septuagint calls it the Red Sea.
 - **15:6** — The Niphal participle ne'dari ('majestic') carries the archaic poetic linking vowel known as hireq compaginis.
 - **15:25** — Hebrew uses masculine singular pronominal suffixes ('for him,' 'tested him') referring collectively to the people of Israel, which is grammatically singular.

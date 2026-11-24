@@ -13,7 +13,7 @@
 
 **16:4** Anyone belonging to Baasha who dies in the city, the dogs will eat; and anyone belonging to him who dies in the field, the birds of the sky will eat."
 
-**16:5** And the rest of the deeds of Baasha, and what he did, and his might, are they not written in the scroll of the chronicles of the kings of Israel?
+**16:5** And the rest of the deeds of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?
 
 **16:6** And Baasha lay down with his fathers and was buried in Tirzah, and his son Elah began to reign in his place.
 
@@ -31,7 +31,7 @@
 
 **16:13** on account of all the sins of Baasha and the sins of his son Elah, which they sinned and by which they caused Israel to sin, provoking the LORD, the God of Israel, to anger with their empty idols.
 
-**16:14** And the rest of the deeds of Elah and all that he did, are they not written in the scroll of the chronicles of the kings of Israel?
+**16:14** And the rest of the deeds of Elah and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 
 **16:15** In the twenty-seventh year of Asa king of Judah, Zimri reigned seven days in Tirzah, while the people were encamped against Gibbethon, which belonged to the Philistines.
 
@@ -43,7 +43,7 @@
 
 **16:19** because of his sins that he sinned, in doing what was evil in the eyes of the LORD, walking in the way of Jeroboam and in his sin that he committed, causing Israel to sin.
 
-**16:20** And the rest of the deeds of Zimri, and his conspiracy that he conspired, are they not written in the scroll of the chronicles of the kings of Israel?
+**16:20** And the rest of the deeds of Zimri, and his conspiracy that he conspired, are they not written in the book of the chronicles of the kings of Israel?
 
 **16:21** Then the people of Israel were divided in half: half of the people followed Tibni son of Ginath to make him king, and the other half followed Omri.
 
@@ -57,7 +57,7 @@
 
 **16:26** He walked in all the way of Jeroboam son of Nebat and in his sin by which he caused Israel to sin, provoking the LORD, the God of Israel, to anger with their empty idols.
 
-**16:27** And the rest of the deeds of Omri that he did, and his might that he showed, are they not written in the scroll of the chronicles of the kings of Israel?
+**16:27** And the rest of the deeds of Omri that he did, and his might that he showed, are they not written in the book of the chronicles of the kings of Israel?
 
 **16:28** And Omri lay down with his fathers and was buried in Samaria, and his son Ahab began to reign in his place.
 

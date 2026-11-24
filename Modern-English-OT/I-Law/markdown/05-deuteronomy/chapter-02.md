@@ -5,7 +5,7 @@
 
 ## Text
 
-**2:1** Then we turned and traveled toward the wilderness along the road to the Red Sea, just as the LORD had spoken to me, and we went around Mount Seir for many days.
+**2:1** Then we turned and traveled toward the wilderness along the road to the Sea of Reeds, just as the LORD had spoken to me, and we went around Mount Seir for many days.
 
 **2:2** Then the LORD said to me:
 

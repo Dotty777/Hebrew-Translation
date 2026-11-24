@@ -83,7 +83,7 @@
 
 **1:39** And your little ones, who you said would become plunder, and your children, who today do not know good and evil, they shall enter there, and to them I will give it, and they shall possess it.
 
-**1:40** But you, turn back and set out into the wilderness along the way of the Red Sea."
+**1:40** But you, turn back and set out into the wilderness along the way of the Sea of Reeds."
 
 **1:41** Then you answered and said to me, "We have sinned against the LORD. We ourselves will go up and fight, according to all that the LORD our God commanded us." Then each of you strapped on his weapons of war, and you considered it a light thing to go up into the hill country.
 

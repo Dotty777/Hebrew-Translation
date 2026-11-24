@@ -53,7 +53,7 @@
 
 **14:24** But as for My servant Caleb, because a different spirit has been with him and he has followed Me wholeheartedly, I will bring him into the land where he went, and his offspring will take possession of it.
 
-**14:25** Now the Amalekites and the Canaanites are living in the valley. Tomorrow turn around and set out into the wilderness by the way to the Red Sea."
+**14:25** Now the Amalekites and the Canaanites are living in the valley. Tomorrow turn around and set out into the wilderness by the way to the Sea of Reeds."
 
 **14:26** Then the LORD spoke to Moses and to Aaron, saying,
 

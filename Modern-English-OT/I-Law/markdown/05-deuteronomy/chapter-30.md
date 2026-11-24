@@ -21,7 +21,7 @@
 
 **30:8** And you yourself will again listen to the voice of the LORD, and do all His commandments that I am commanding you today.
 
-**30:9** Then the LORD your God will make you abound in every work of your hand, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground, for good; for the LORD will again delight over you for good, just as He delighted over your fathers,
+**30:9** Then the LORD your God will make you abound in every work of your hand, in the fruit of your womb, in the fruit of your livestock, and in the fruit of your soil, for good; for the LORD will again delight over you for good, just as He delighted over your fathers,
 
 **30:10** if you listen to the voice of the LORD your God, to keep His commandments and His statutes that are written in this book of the law, if you return to the LORD your God with all your heart and with all your soul.
 

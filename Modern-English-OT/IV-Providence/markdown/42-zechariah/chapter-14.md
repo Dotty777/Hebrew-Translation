@@ -35,13 +35,13 @@
 
 **14:15** And likewise will be the plague on the horse, the mule, the camel, and the donkey, and all the livestock that will be in those camps, just like this plague.
 
-**14:16** And it will happen that everyone left from all the nations that came against Jerusalem will go up year after year to bow down to the King, the LORD of hosts, and to celebrate the Festival of Booths.
+**14:16** And it will happen that everyone left from all the nations that came against Jerusalem will go up year after year to bow down to the King, the LORD of hosts, and to celebrate the Feast of Booths.
 
 **14:17** And it will happen that whichever of the families of the earth does not go up to Jerusalem to bow down to the King, the LORD of hosts, on them there will be no rain.
 
-**14:18** And if the family of Egypt does not go up and does not come, then on them there will be none; there will be the plague by which the LORD will strike the nations that do not go up to celebrate the Festival of Booths.
+**14:18** And if the family of Egypt does not go up and does not come, then on them there will be none; there will be the plague by which the LORD will strike the nations that do not go up to celebrate the Feast of Booths.
 
-**14:19** This will be the penalty of Egypt, and the penalty of all the nations that do not go up to celebrate the Festival of Booths.
+**14:19** This will be the penalty of Egypt, and the penalty of all the nations that do not go up to celebrate the Feast of Booths.
 
 **14:20** On that day there will be on the bells of the horses, "Holy to the LORD." And the pots in the house of the LORD will be like the sprinkling bowls before the altar.
 

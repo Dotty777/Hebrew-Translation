@@ -45,5 +45,5 @@
 
 - **8:6** — The noun translated "lifting up" (Hebrew mo'al) is a hapax legomenon derived from the root 'alah ("go up"), referring to raising the hands in prayer and blessing.
 - **8:8** — The Pual participle mephorash ("distinctly") can also mean "with translation" or "paragraph by paragraph" (cf. the cognate Aramaic participle in Ezra 4:18). The verb wayyavinu with bammiqra' is taken intransitively as "they understood what was read" (cf. v. 12), though it could also be parsed as a causative Hiphil meaning "they gave understanding of the reading."
-- **8:9** — The title "the governor" renders the Persian loanword hattirshata', used of the governor of Judah (cf. Ezra 2:63; Neh 7:65, 70; 10:1).
-- **8:10** — The noun ma'oz ("stronghold") denotes a fortified refuge or place of strength, often translated "strength."
+- **8:9** — The title "the governor" renders the Persian loanword hattirshata', used of the governor of Judah (cf. Ezra 2:63; Neh 7:65, 70; 10:2).
+- **8:10** — The noun ma'oz ("stronghold") denotes a fortified refuge or place of strength.

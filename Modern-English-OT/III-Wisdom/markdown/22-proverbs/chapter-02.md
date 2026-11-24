@@ -43,7 +43,7 @@
 
 **2:19** None who go in to her will return, and they will not reach the paths of life.
 
-**2:20** Thus you will walk in the way of good people, and you will keep the paths of the righteous.
+**2:20** So you may walk in the way of good people, and keep the paths of the righteous.
 
 **2:21** For the upright will dwell in the land, and the blameless will stay in it,
 

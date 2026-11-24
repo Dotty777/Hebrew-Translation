@@ -39,7 +39,7 @@
 
 **1:17** So he died according to the word of the LORD that Elijah had spoken, and Jehoram began to reign in his place in the second year of Jehoram son of Jehoshaphat, king of Judah, because he had no son.
 
-**1:18** As for the rest of the deeds of Ahaziah that he did, are they not written in the Book of the Chronicles of the Kings of Israel?
+**1:18** As for the rest of the deeds of Ahaziah that he did, are they not written in the book of the chronicles of the kings of Israel?
 
 ## Translator Notes
 

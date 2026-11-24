@@ -99,7 +99,7 @@
 
 **4:47** And they took possession of his land and the land of Og king of Bashan—the two kings of the Amorites who were beyond the Jordan, toward the sunrise—
 
-**4:48** from Aroer, which is on the rim of the valley of the Arnon, as far as Mount Sion, that is, Hermon,
+**4:48** from Aroer, which is on the rim of the Wadi Arnon, as far as Mount Sion, that is, Hermon,
 
 **4:49** and all the Arabah beyond the Jordan eastward, as far as the Sea of the Arabah, beneath the slopes of Pisgah.
 

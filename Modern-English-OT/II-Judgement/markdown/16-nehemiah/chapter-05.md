@@ -13,7 +13,7 @@
 
 **5:4** And there were those who said, "We have borrowed silver for the king's tax on our fields and our vineyards.
 
-**5:5** And now, our flesh is like the flesh of our brothers, our children are like their children; yet look, we are forcing our sons and our daughters to be slaves, and some of our daughters have already been brought into bondage, and there is no power in our hand, since our fields and our vineyards belong to others."
+**5:5** And now, our flesh is like the flesh of our brothers, our children are like their children; yet look, we are forcing our sons and our daughters to be slaves, and some of our daughters have been brought into bondage, and there is no power in our hand, since our fields and our vineyards belong to others."
 
 **5:6** I became very angry when I heard their outcry and these words.
 

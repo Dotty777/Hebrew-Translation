@@ -24,7 +24,7 @@
 - [Chapter 16](chapter-16.md) — 10 verses, 3 notes
 - [Chapter 17](chapter-17.md) — 18 verses, 5 notes
 - [Chapter 18](chapter-18.md) — 28 verses, 6 notes
-- [Chapter 19](chapter-19.md) — 51 verses, 5 notes
+- [Chapter 19](chapter-19.md) — 51 verses, 6 notes
 - [Chapter 20](chapter-20.md) — 6 verses, 4 notes, +3 additional
 - [Chapter 21](chapter-21.md) — 45 verses, 5 notes
 - [Chapter 22](chapter-22.md) — 34 verses, 5 notes

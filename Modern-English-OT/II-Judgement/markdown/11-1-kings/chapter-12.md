@@ -97,7 +97,7 @@
 
 **14:18** *(after `12:24`)* And they buried him, and all Israel mourned for him, according to the word of the LORD that He spoke by the hand of His servant Ahijah the prophet.
 
-**14:19** *(after `12:24`)* And the rest of the deeds of Jeroboam, how he waged war and how he reigned—indeed, they are written in the scroll of the chronicles of the kings of Israel.
+**14:19** *(after `12:24`)* And the rest of the deeds of Jeroboam, how he waged war and how he reigned—indeed, they are written in the book of the chronicles of the kings of Israel.
 
 **14:20** *(after `12:24`)* And the days that Jeroboam reigned were twenty-two years; then he lay down with his fathers, and his son Nadab reigned in his place.
 

@@ -9,7 +9,7 @@
 
 **8:2** Then I looked, and look, a likeness like the appearance of fire: from the appearance of His waist and downward was fire, and from His waist and upward was like the appearance of radiance, like the sheen of glowing metal.
 
-**8:3** And He stretched out the form of a hand and took hold of me by a lock of my head; and the Spirit lifted me up between the earth and the heavens and brought me to Jerusalem in visions of God, to the entrance of the inner gate that faces toward the north, where the seat of the statue of jealousy was, which provokes to jealousy.
+**8:3** And He stretched out the form of a hand and took hold of me by a lock of my head; and a spirit lifted me up between the earth and the heavens and brought me to Jerusalem in visions of God, to the entrance of the inner gate that faces toward the north, where the seat of the statue of jealousy was, which provokes to jealousy.
 
 **8:4** And look, there was the glory of the God of Israel, like the appearance that I had seen in the plain.
 

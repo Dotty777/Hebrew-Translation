@@ -5,7 +5,7 @@
 
 ## Text
 
-**54:1** For the music leader, with stringed instruments. A Maskil of David.
+**54:1** For the music director, with stringed instruments. A Maskil of David.
 
 **54:2** Listen closely, God, to my prayer, and do not conceal Yourself from my plea for favor.
 

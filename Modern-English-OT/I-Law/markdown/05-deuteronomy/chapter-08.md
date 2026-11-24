@@ -25,7 +25,7 @@
 
 **8:10** Once you have eaten and are satisfied, you must bless the LORD your God on account of the good land that He gave you.
 
-**8:11** Watch yourself so that you do not forget the LORD your God by failing to keep His commandments, His ordinances, and His statutes that I command you today;
+**8:11** Watch yourself so that you do not forget the LORD your God by failing to keep His commandments, His judgments, and His statutes that I command you today;
 
 **8:12** or else, after you have eaten and are satisfied, and build good houses and inhabit them,
 
@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **8:3** — The Masoretic text reads kol-motsa pi-YHWH, everything that goes forth from the mouth of the LORD, without a separate noun for word as supplied in the Septuagint and later Greek citations.
+- **8:3** — The Masoretic text reads kol-motsa pi- followed by the divine name, everything that goes forth from the mouth of the LORD, without a separate noun for word as supplied in the Septuagint and later Greek citations.
 - **8:7** — The plural tehomot, deep waters, derives from tehom, the deep, and denotes subterranean water sources emerging as springs across the landscape.
 - **8:8** — The construct phrase zeit shemen, literally olive of oil, refers to oil-bearing olive trees rather than wild olives.
 - **8:15** — The collective singular phrase nachash saraf, fiery serpents, pairs nachash, serpent, with saraf from the root meaning to burn, referring to venomous snakes whose bite burns or whose appearance is fiery.

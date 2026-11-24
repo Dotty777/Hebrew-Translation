@@ -41,7 +41,7 @@
 
 **20:18** "Get up, go down to meet Ahab, king of Israel, who is in Samaria. Look, he is in the vineyard of Naboth, where he has gone down to take possession of it.
 
-**20:19** And you shall speak to him, saying, 'This is what the LORD says: Have you murdered and also taken possession?' And you shall speak to him, saying, 'This is what the LORD says: In the place where the dogs licked Naboth's blood, the dogs will lick your blood as well, even yours.'"
+**20:19** And you shall speak to him, saying, 'This is what the LORD says: Have you murdered and also taken possession?' And you shall speak to him, saying, 'This is what the LORD says: In the place where the dogs licked Naboth's blood, the dogs will lick your blood, even yours.'"
 
 **20:20** Ahab said to Elijah, "Have you found me, my enemy?" He answered, "I have found you, because you have sold yourself to do what is evil in the eyes of the LORD.
 

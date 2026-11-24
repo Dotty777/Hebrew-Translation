@@ -35,7 +35,7 @@
 
 **11:15** He said to him, "This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
 
-**11:16** Instead, when they came up from Egypt, Israel marched through the wilderness as far as the Red Sea and arrived at Kadesh.
+**11:16** Instead, when they came up from Egypt, Israel marched through the wilderness as far as the Sea of Reeds and arrived at Kadesh.
 
 **11:17** Then Israel sent messengers to the king of Edom, saying, 'Please allow me to cross through your land,' but the king of Edom did not listen. They also sent to the king of Moab, and he was unwilling; so Israel stayed at Kadesh.
 

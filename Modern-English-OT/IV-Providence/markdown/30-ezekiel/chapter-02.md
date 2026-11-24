@@ -7,7 +7,7 @@
 
 **2:1** Then He said to me, "Son of man, stand on your feet, so that I may speak with you."
 
-**2:2** And the Spirit came into me as He spoke to me, and stood me on my feet; and I heard the One speaking to me.
+**2:2** And a spirit came into me as He spoke to me, and stood me on my feet; and I heard the One speaking to me.
 
 **2:3** Then He said to me, "Son of man, I am sending you to the sons of Israel, to rebellious nations who have rebelled against Me; they and their fathers have transgressed against Me to this very day.
 
@@ -27,6 +27,6 @@
 
 ## Translator Notes
 
-- **2:2** — The noun ruach ('Spirit') lacks the definite article here (as also in 3:12, 14) and can denote 'the Spirit,' 'a spirit,' or 'wind.' The participle middabber ('the One speaking') is a rare Hithpael form of dabar with assimilated taw.
+- **2:2** — The noun ruach ('spirit') lacks the definite article here (as also in 3:12, 14, 24) and can denote 'the Spirit,' 'a spirit,' or 'wind.' The participle middabber ('the One speaking') is a rare Hithpael form of dabar with assimilated taw.
 - **2:6** — Sarabim ('briers') is a hapax legomenon, traditionally understood alongside sallonim ('thorns') as thorny briers or stubborn resisters.
 - **2:10** — Hi ('woe') occurs only here in the Hebrew Bible, likely a shortened form of nehi ('wailing') or an exclamation of grief.

@@ -57,7 +57,7 @@
 
 **2:26** and his force, their mustered men, numbers sixty-two thousand seven hundred.
 
-**2:27** And those who camp next to him shall be the tribe of Asher; the leader of the sons of Asher is Pagiel son of Ocran,
+**2:27** And those who camp next to him shall be the tribe of Asher; the leader of the sons of Asher is Pagiel son of Ochran,
 
 **2:28** and his force, their mustered men, numbers forty-one thousand five hundred.
 

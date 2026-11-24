@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **30:1** — In Masoretic versification, 30:1 closes the festival-offering instructions of chapters 28-29; most English Bibles number this verse as 29:40 and consequently number 30:2-17 as 30:1-16.
+- **30:1** — In Masoretic versification, 30:1 closes the festival-offering instructions of chapters 28-29; in versifications that number this verse 29:40, Hebrew 30:2-17 becomes 30:1-16.
 - **30:3** — Hebrew hishava is a Niphal infinitive absolute continuing the finite verb 'vows' (yiddor); lo yachel uses the Hiphil of halal, literally meaning 'he shall not treat as profane' or violate his spoken word.
 - **30:6** — The Hiphil verb heni (from nu, to hold back, restrain, or forbid) takes the woman herself as its direct object, whereas hefer (from parar, to nullify, 30:9, 13-16) takes the vow or obligation as its object.
 - **30:7** — Hebrew hayo tihyeh le-ish uses the Qal infinitive absolute plus imperfect of hayah with le-ish, literally 'if she indeed becomes a man's,' an idiom for marriage; mivta (occurring only here and in 30:9) derives from bata, meaning to speak hastily or rashly.

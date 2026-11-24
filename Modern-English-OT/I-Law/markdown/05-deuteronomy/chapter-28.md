@@ -89,7 +89,7 @@
 
 **28:42** The cricket will take possession of all your trees and the fruit of your soil.
 
-**28:43** The resident foreigner who is in your midst will ascend above you higher and higher, while you will descend lower and lower.
+**28:43** The resident alien who is in your midst will ascend above you higher and higher, while you will descend lower and lower.
 
 **28:44** He will lend to you, yet you will not lend to him; he will become the head, and you will become the tail.
 

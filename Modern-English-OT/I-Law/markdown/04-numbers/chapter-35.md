@@ -76,6 +76,6 @@
 ## Translator Notes
 
 - **35:6** — Hebrew uses the single root רצח (רֹצֵחַ) throughout this chapter both for an accidental or untried killer (vv. 6, 11-12, 25-28) and for a culpable murderer under capital sentence (vv. 16-19, 21, 30-31), as well as for lawful execution by the avenger of blood (vv. 27, 30).
-- **35:11** — וְהִקְרִיתֶם is the Hiphil of קרה ("cause to meet" or "make accessible"), used uniquely here for designating conveniently located cities of refuge.
+- **35:11** — וְהִקְרִיתֶם is the Hiphil of קרה ("cause to meet" or "make accessible"), used here for designating conveniently located cities of refuge.
 - **35:25** — Hebrew expresses "who was anointed" via an active impersonal construction (אֲשֶׁר־מָשַׁח אֹתוֹ, literally "whom one anointed"); a similar indefinite active construction appears in v. 30 (יִרְצַח אֶת־הָרֹצֵחַ, literally "one shall kill the murderer").
 - **35:32** — MT vocalizes לָנוּס as the Qal infinitive construct ("for fleeing"), understood here substantivally as "for one who has fled," and reads simply הַכֹּהֵן ("the priest") without "high" (contrast vv. 25, 28).

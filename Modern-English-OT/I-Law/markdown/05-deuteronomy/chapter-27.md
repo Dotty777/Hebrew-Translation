@@ -41,7 +41,7 @@
 
 **27:18** 'Cursed is the one who leads a blind person astray on the road.' And all the people shall say, 'Amen.'
 
-**27:19** 'Cursed is the one who subverts the justice due a resident alien, an orphan, or a widow.' And all the people shall say, 'Amen.'
+**27:19** 'Cursed is the one who subverts the justice due a resident alien, a fatherless child, or a widow.' And all the people shall say, 'Amen.'
 
 **27:20** 'Cursed is the one who lies with his father's wife, because he has uncovered the edge of his father's garment.' And all the people shall say, 'Amen.'
 
@@ -62,5 +62,5 @@
 - **27:4** — The Masoretic Text reads "on Mount Ebal," whereas the Samaritan Pentateuch reads "on Mount Gerizim."
 - **27:8** — "clearly and thoroughly" renders two adverbial infinitives absolute: the Piel infinitive absolute of ba'ar ("make plain/clear") and the Hiphil infinitive absolute of yatav ("do well/thoroughly").
 - **27:9** — "Keep silent" renders the Hiphil imperative of sakat, a word occurring only here in the Hebrew Bible, calling for hushed attention.
-- **27:20** — "uncovered the edge of his father's garment" renders a Hebrew idiom (literally "uncovered his father's wing/hem," cf. Deut 22:30) denoting the violation of his father's marital bed.
-- **27:26** — The Masoretic Text reads "the words of this law" without "all" (contrast vv. 3 and 8), whereas the Samaritan Pentateuch and Septuagint include "all" (cf. Gal 3:10).
+- **27:20** — "uncovered the edge of his father's garment" renders a Hebrew idiom (literally "uncovered his father's wing/hem," cf. Deut 23:1) denoting the violation of his father's marital bed.
+- **27:26** — The Masoretic Text reads "the words of this law" without "all" (contrast vv. 3 and 8), whereas the Samaritan Pentateuch and Septuagint include "all."

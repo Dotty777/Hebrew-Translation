@@ -5,7 +5,7 @@
 
 ## Text
 
-**12:1** For the music leader. A psalm of David.
+**12:1** For the music director. A psalm of David.
 
 **12:2** How long, LORD, will You forget me forever? How long will You conceal Your face from me?
 

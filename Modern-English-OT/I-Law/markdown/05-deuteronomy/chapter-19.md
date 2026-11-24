@@ -13,7 +13,7 @@
 
 **19:4** And this is the case of the killer who may flee there and live: one who strikes his neighbor unintentionally, without having hated him beforehand.
 
-**19:5** When someone goes with his neighbor into the forest to chop wood, and his hand swings with the axe to cut down the tree, and the iron slips off the wooden handle and hits his neighbor so that he dies, that person may flee to one of these cities and live.
+**19:5** When someone goes with his neighbor into the forest to chop wood, and his hand swings with the axe to cut down the tree, and the iron slips off the wood and hits his neighbor so that he dies, that person may flee to one of these cities and live.
 
 **19:6** Otherwise, the avenger of blood might chase after the killer while his heart is hot, and overtake him because the road is long, and strike him fatally, even though no sentence of death applied to him, since he had not hated him beforehand.
 
@@ -37,7 +37,7 @@
 
 **19:16** If a malicious witness rises against a man to testify against him of a transgression,
 
-**19:17** then the two men who have the dispute are to stand before the LORD, before the priests and the judges who are there in those days.
+**19:17** then the two men who have the dispute are to stand before the LORD, before the priests and the judges who will be in those days.
 
 **19:18** And the judges must investigate thoroughly; and if indeed the witness is a false witness, having testified falsely against his brother,
 

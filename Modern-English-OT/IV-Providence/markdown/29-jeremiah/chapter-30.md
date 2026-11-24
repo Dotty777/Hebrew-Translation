@@ -33,7 +33,7 @@
 
 **30:14** Therefore hear the counsel of the LORD that He has devised against Edom, and His designs that He has conceived against the inhabitants of Teman: Surely the little ones of the flock will drag them away; surely their pasture will be appalled at them.
 
-**30:15** At the sound of their fall the earth quakes; an outcry—its sound is heard at the Red Sea.
+**30:15** At the sound of their fall the earth quakes; an outcry—its sound is heard at the Sea of Reeds.
 
 **30:16** Look, like an eagle he will soar up and swoop, and spread his wings over Bozrah; and the heart of the warriors of Edom in that day will be like the heart of a woman in labor.
 

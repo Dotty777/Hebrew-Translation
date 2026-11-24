@@ -15,7 +15,7 @@
 
 **16:5** Now the boundary of the sons of Ephraim by their clans was this: the boundary of their inheritance on the east was Ataroth-addar as far as Upper Beth-horon.
 
-**16:6** Then the boundary went out toward the sea, at Michmethath on the north, and the boundary turned eastward to Taanath-shiloh and passed by it on the east of Janoah.
+**16:6** Then the boundary went out toward the sea, at Michmethath on the north, and the boundary turned eastward to Taanath-shiloh and passed by it on the east to Janoah.
 
 **16:7** It descended from Janoah to Ataroth and to Naarah, reached Jericho, and went out at the Jordan.
 

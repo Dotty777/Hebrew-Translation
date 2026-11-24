@@ -5,7 +5,7 @@
 
 ## Text
 
-**55:1** For the music leader, according to The Dove of Distant Silence. A Miktam of David, when the Philistines captured him in Gath.
+**55:1** For the music director, according to The Dove of Distant Silence. A Miktam of David, when the Philistines captured him in Gath.
 
 **55:2** Show me grace, God, for mortal man has trampled me; fighting all day long, he presses hard against me.
 

@@ -25,7 +25,7 @@
 
 **1:10** And the likeness of their faces was the face of a man; and the four of them had the face of a lion on the right side, and the four of them had the face of an ox on the left side, and the four of them had the face of an eagle.
 
-**1:11** Such were their faces. And their wings were spread apart above: each had two that joined another, and two that covered their bodies.
+**1:11** And their faces and their wings were spread apart above: each had two that joined another, and two that covered their bodies.
 
 **1:12** And each one went in the direction it faced; wherever the spirit was to go, they went; they did not turn as they went.
 

@@ -43,6 +43,6 @@
 
 - **11:2** — Ketiv reads habbatsur (Qal passive participle of batsar, "fortified" or "inaccessible"), while Qere reads the adjective habbatsir ("impenetrable" or "dense"); both describe a thick, impenetrable forest.
 - **11:7** — Following the Masoretic Text laken aniyye hattson ("indeed, the afflicted of the flock"; cf. v. 11). The Septuagint redivides the consonants to read "for the sheep merchants."
-- **11:13** — The Masoretic Text clearly reads hayyotser (Qal participle of yatsar, "the potter"). Some ancient versions and modern translations emend to ha'otsar ("the treasury"), which departs from the Hebrew text.
+- **11:13** — The Masoretic Text clearly reads hayyotser (Qal participle of yatsar, "the potter"). Some ancient versions (e.g. the Syriac) reflect ha'otsar ("the treasury") instead.
 - **11:16** — Hebrew hanna'ar normally means "the young" (collectively, the young of the flock). Some interpreters instead connect the word to the verb na'ar ("shake out") and render it "the scattered" or "straying."
 - **11:17** — The final -i on ro'i ("shepherd") and ozevi ("who deserts") is the archaic poetic linking vowel (hireq compaginis) rather than the first-person possessive suffix "my."

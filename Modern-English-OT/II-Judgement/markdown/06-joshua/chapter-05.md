@@ -15,7 +15,7 @@
 
 **5:5** For all the people who came out were circumcised, yet none of the people born in the wilderness along the way after they came out of Egypt had been circumcised.
 
-**5:6** For forty years the sons of Israel walked in the wilderness until the entire nation, the men of war who came out of Egypt, had come to an end, because they did not listen to the voice of the LORD; to them the LORD had sworn that He would not let them see the land that the LORD had sworn to their fathers to give to us, a land flowing with milk and honey.
+**5:6** For forty years the sons of Israel walked in the wilderness until the entire nation, the men of war who came out of Egypt, had come to an end, who did not listen to the voice of the LORD; to them the LORD had sworn that He would not let them see the land that the LORD had sworn to their fathers to give to us, a land flowing with milk and honey.
 
 **5:7** As for their sons whom He raised up in their place, Joshua circumcised them; for they were uncircumcised, since they had not been circumcised on the way.
 

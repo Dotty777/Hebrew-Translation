@@ -5,7 +5,7 @@
 
 ## Text
 
-**11:1** For the music leader, on the Sheminith. A psalm of David.
+**11:1** For the music director, on the Sheminith. A psalm of David.
 
 **11:2** Save, LORD, for the loyal one has come to an end; for the trustworthy have vanished from among the sons of mankind.
 

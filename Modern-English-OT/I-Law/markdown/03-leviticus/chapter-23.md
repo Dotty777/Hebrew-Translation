@@ -15,7 +15,7 @@
 
 **23:5** In the first month, on the fourteenth of the month, between the two evenings, is Passover to the LORD.
 
-**23:6** And on the fifteenth day of this month is the Festival of Unleavened Bread to the LORD; for seven days you shall eat unleavened bread.
+**23:6** And on the fifteenth day of this month is the Feast of Unleavened Bread to the LORD; for seven days you shall eat unleavened bread.
 
 **23:7** On the first day you shall have a holy assembly; you shall not do any occupational work.
 
@@ -71,7 +71,7 @@
 
 **23:33** And the LORD spoke to Moses, saying,
 
-**23:34** "Speak to the sons of Israel, saying, 'On the fifteenth day of this seventh month is the Festival of Booths for seven days to the LORD.
+**23:34** "Speak to the sons of Israel, saying, 'On the fifteenth day of this seventh month is the Feast of Booths for seven days to the LORD.
 
 **23:35** On the first day is a holy assembly; you shall not do any occupational work.
 

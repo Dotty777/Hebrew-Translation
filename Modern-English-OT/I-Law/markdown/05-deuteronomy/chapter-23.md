@@ -37,7 +37,7 @@
 
 **23:16** You shall not surrender to his master a slave who has escaped to you from his master.
 
-**23:17** With you he shall live in your midst, in the place that he chooses in one of your towns, wherever it is good for him; you shall not oppress him.
+**23:17** With you he shall live in your midst, in the place that he chooses in one of your gates, wherever it is good for him; you shall not oppress him.
 
 **23:18** There shall not be a female shrine prostitute from among the daughters of Israel, and there shall not be a male shrine prostitute from among the sons of Israel.
 

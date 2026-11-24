@@ -1,6 +1,6 @@
 # Joshua 19 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (51 verses, 5 translator notes)  
+> **Status:** `draft: true` (51 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,7 +25,7 @@
 
 **19:10** Then the third lot came up for the sons of Zebulun according to their clans. And the border of their inheritance extended as far as Sarid.
 
-**19:11** Then their border went up westward and to Maralah, and reached Dabbesheth, and reached to the brook that is opposite Jokneam.
+**19:11** Then their border went up westward and to Maralah, and reached Dabbesheth, and reached to the wadi that is opposite Jokneam.
 
 **19:12** From Sarid it turned eastward toward the sunrise to the border of Chisloth-tabor; then it went out to Daberath and went up to Japhia.
 
@@ -99,7 +99,7 @@
 
 **19:47** This was the inheritance of the tribe of the sons of Dan according to their clans, these cities and their villages.
 
-**19:48** Now the territory of the sons of Dan slipped away from them; so the sons of Dan went up and fought against Leshem and captured it, and struck it with the edge of the sword, and took possession of it and settled in it; and they called Leshem Dan, after the name of Dan their father.
+**19:48** Now the territory of the sons of Dan went out from them; and the sons of Dan went up and fought against Leshem and captured it, and struck it with the edge of the sword, and took possession of it and settled in it; and they called Leshem Dan, after the name of Dan their father.
 
 **19:49** When they finished apportioning the land as an inheritance according to its borders, the sons of Israel gave an inheritance to Joshua son of Nun in their midst.
 
@@ -114,3 +114,4 @@
 - **19:22** — Ketiv writes Shahazumah; qere reads Shahazimah.
 - **19:29** — Ketiv writes a prefix-conjugation form with waw, while qere reads the weqatal form ('and ... were') matching the surrounding boundary verbs and vv. 14 and 22. The phrase 'from the region of Achzib' translates the Masoretic wording directly.
 - **19:34** — The Masoretic Text includes 'and Judah' at the Jordan on the east, even though Judah lay far to the south; some connect this to Judean-affiliated clans in Transjordan (cf. 1 Chr 2:21-22), while the Septuagint omits 'Judah.'
+- **19:48** — "Went out from them" renders the Hebrew literally; the phrase may mean that the territory was lost to them or that it extended beyond them.

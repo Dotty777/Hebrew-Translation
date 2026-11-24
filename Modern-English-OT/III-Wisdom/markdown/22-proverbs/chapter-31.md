@@ -71,4 +71,4 @@
 - **31:4** — Ketiv/Qere: Qere reads ei ("where?"), rendered here as rulers asking "Where is strong drink?"; Ketiv has the consonants aleph-waw, often vocalized as a noun meaning "desire" (from the root avah) or taken as "or".
 - **31:16** — Ketiv/Qere: Qere reads the third-person feminine singular Qal perfect nate'ah ("she plants"), agreeing with the feminine subject; Ketiv omits the final he.
 - **31:27** — Ketiv/Qere: Qere reads halikhot ("ways" or "activities"), plural of halikhah; Ketiv transposes the yod and lamed and omits the plural waw.
-- **31:28** — In the source text, the acrostic verses here are ordered and numbered as Ayin (31:26), Tsade (31:27), and Pe combined with Qoph (31:28), with no separate 31:25 key (differing from standard Masoretic numbering where Ayin is 31:25 and Pe is 31:26).
+- **31:28** — The Hebrew numbers the Ayin line ('Strength and splendor are her clothing') as 31:25 and the Pe line ('With wisdom she opens her mouth') as 31:26; this edition shows the Ayin line at 31:26 and joins the Pe line to the Qoph line here at 31:28, with no separate 31:25.

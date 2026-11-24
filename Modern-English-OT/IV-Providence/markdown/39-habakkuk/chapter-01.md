@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** The burden that Habakkuk the prophet saw.
+**1:1** The pronouncement that Habakkuk the prophet saw.
 
 **1:2** How long, LORD, have I cried for help, and You do not listen? I shout to You, "Violence!" and You do not save.
 
@@ -41,8 +41,8 @@
 
 ## Translator Notes
 
-- **1:1** — The burden renders Hebrew massa, literally a lifting up or burden, used as a technical term for a weighty prophetic pronouncement or oracle.
+- **1:1** — Pronouncement renders Hebrew massa, literally a lifting up or burden, used as a technical term for a weighty prophetic pronouncement or oracle.
 - **1:5** — Be astounded, be amazed pairs the Hithpael and Qal imperatives of the same root (tamah) for strong emphasis. The Qal active participle po'el (doing) lacks an explicit pronoun in Hebrew and is confirmed as first-person (I am doing) by the LORD's words in v. 6.
 - **1:9** — The surge of their faces is forward translates the rare hapax noun megammat (meaning uncertain: surge, thrust, set, or horde) with qadimah (forward or eastward).
 - **1:11** — Sweep on like a wind renders terse Masoretic Hebrew (halaph ruah) taking ruah as an adverbial comparison; alternatively, his spirit changes.
-- **1:12** — We will not die follows the Masoretic Hebrew (lo namut), which traditional scribal notes (tiqqun sopherim) identify as safeguarding reverent speech alongside the sense You do not die.
+- **1:12** — We will not die follows the Masoretic Hebrew (lo namut); rabbinic tradition lists it among the tiqqune sopherim (scribal corrections), holding that it replaced an original "You do not die."

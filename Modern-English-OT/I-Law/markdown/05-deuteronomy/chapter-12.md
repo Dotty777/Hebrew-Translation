@@ -27,7 +27,7 @@
 
 **12:11** then to the place that the LORD your God will choose to make His name dwell, there you shall bring all that I am commanding you: your burnt offerings and your sacrifices, your tithes and the contribution of your hand, and all the choicest of your vows that you vow to the LORD.
 
-**12:12** And you shall rejoice before the LORD your God, you, your sons and your daughters, your male servants and your female servants, and the Levite who is within your gates, since he has no portion or inheritance with you.
+**12:12** And you shall rejoice before the LORD your God, you, your sons and your daughters, your male slaves and your female slaves, and the Levite who is within your gates, since he has no portion or inheritance with you.
 
 **12:13** Guard yourself that you do not offer up your burnt offerings in every place that you see;
 
@@ -39,7 +39,7 @@
 
 **12:17** You are not permitted to eat within your gates the tithe of your grain, your new wine, or your fresh oil, or the firstborn of your herd or your flock, or any of your vows that you vow, or your freewill offerings, or the contribution of your hand;
 
-**12:18** rather, you shall eat them before the LORD your God in the place that the LORD your God will choose—you, your son and your daughter, your male servant and your female servant, and the Levite who is within your gates—and you shall rejoice before the LORD your God in every undertaking of your hand.
+**12:18** rather, you shall eat them before the LORD your God in the place that the LORD your God will choose—you, your son and your daughter, your male slave and your female slave, and the Levite who is within your gates—and you shall rejoice before the LORD your God in every undertaking of your hand.
 
 **12:19** Guard yourself that you do not forsake the Levite all your days on your land.
 

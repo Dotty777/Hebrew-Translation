@@ -35,7 +35,7 @@
 
 **13:15** In those days I saw in Judah some who were treading winepresses on the Sabbath, bringing in heaps of grain and loading them on donkeys, as well as wine, grapes, figs, and every kind of load, and bringing them into Jerusalem on the Sabbath day. So I solemnly warned them on the day they sold provisions.
 
-**13:16** Tyrians also lived there, bringing in fish and all sorts of wares, and selling them on the Sabbath to the sons of Judah, and in Jerusalem.
+**13:16** And Tyrians lived there, bringing in fish and all sorts of wares, and selling them on the Sabbath to the sons of Judah, and in Jerusalem.
 
 **13:17** Then I contended with the nobles of Judah and said to them, "What is this evil thing you are doing, desecrating the Sabbath day?
 

@@ -13,7 +13,7 @@
 
 **1:4** "And I will stretch out My hand against Judah and against all the residents of Jerusalem, and I will cut off from this place the remnant of Baal, the name of the idolatrous priests together with the priests,
 
-**1:5** and those who bow down on the rooftops to the host of the heavens, and those who bow down, who swear to the LORD and swear by Milcom,
+**1:5** and those who bow down on the rooftops to the host of the heavens, and those who bow down, who swear to the LORD and swear by their king,
 
 **1:6** and those who turn away from following after the LORD, and those who have not sought the LORD and have not inquired of Him."
 
@@ -45,6 +45,6 @@
 
 - **1:2** — Hebrew pairs the Qal infinitive absolute of asap ("gather/remove") with the Hiphil imperfect of sup ("bring to an end/sweep away"), creating an emphatic wordplay meaning "thoroughly sweep away."
 - **1:3** — Hebrew hammakselot ("the stumbling blocks," from kasal, "stumble") can refer either to idolatrous objects that cause sin or to heaps of ruins.
-- **1:5** — Masoretic bemalkam literally reads "by their king," widely understood as a vocalization referring to the Ammonite deity Milcom (also spelled Malcam).
+- **1:5** — Masoretic bemalkam reads "by their king," probably alluding to the Ammonite god Milcom, whose name the Syriac and Vulgate read here.
 - **1:11** — "The Mortar" translates hammaktes (Maktesh), a basin-shaped commercial district of Jerusalem; "people of Canaan" idiomatically denotes traders, paired with netile kasep (Qal passive participle of natal, "laden with silver" or "weighing out silver").
 - **1:12** — "Thicken on their dregs" translates the Qal participle of qapa ("congeal/thicken") with semarim ("dregs/lees"), a winemaking image depicting undisturbed complacency.

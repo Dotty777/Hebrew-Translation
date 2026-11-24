@@ -13,7 +13,7 @@
 
 **22:4** Then he said to Jehoshaphat, "Will you go with me to war at Ramoth-Gilead?" And Jehoshaphat said to the king of Israel, "I am like you, my people are like your people, my horses are like your horses."
 
-**22:5** Jehoshaphat also said to the king of Israel, "First, please inquire for the word of the LORD."
+**22:5** And Jehoshaphat said to the king of Israel, "First, please inquire for the word of the LORD."
 
 **22:6** So the king of Israel assembled the prophets, around four hundred men, and asked them, "Should I go against Ramoth-Gilead to war, or should I hold back?" They replied, "Go up, and the Lord will give it into the king's hand."
 

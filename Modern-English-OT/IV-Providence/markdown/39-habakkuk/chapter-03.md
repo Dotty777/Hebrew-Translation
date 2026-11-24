@@ -49,4 +49,4 @@
 - **3:9** — Sworn were the shafts of command translates the notoriously terse Masoretic Hebrew shevu'ot mattot 'omer (literally oaths, rods/shafts/tribes, word) without conjectural emendation.
 - **3:13** — For the salvation of Your anointed one reflects the unusual construction leyesha' 'et-meshihekha, where the noun yesha' (salvation) governs the direct object marker 'et- (or alternatively, 'et- functions as the preposition with).
 - **3:16** — To come up against the people who attack us renders the terse clause la'alot le'am yegudennu; the syntax can alternatively be read with 'am as the subject (for an invading people to come up against us).
-- **3:19** — GOD the Lord reflects the reversed Masoretic divine title YHWH 'adonay, in which the Tetragrammaton is pointed with the vowels of 'elohim before 'adonay.
+- **3:19** — GOD the Lord reflects the Masoretic order of the divine name followed by 'adonay (the reverse of the usual 'adonay plus the divine name); the divine name is pointed here with the vowels of 'elohim.

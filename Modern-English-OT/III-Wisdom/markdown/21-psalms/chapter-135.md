@@ -29,11 +29,11 @@
 
 **135:12** with a strong hand and with an outstretched arm, for His faithful love lasts forever;
 
-**135:13** to the One who split the Red Sea into parts, for His faithful love lasts forever,
+**135:13** to the One who split the Sea of Reeds into parts, for His faithful love lasts forever,
 
 **135:14** and caused Israel to pass through its midst, for His faithful love lasts forever,
 
-**135:15** yet overturned Pharaoh and his army in the Red Sea, for His faithful love lasts forever;
+**135:15** yet overturned Pharaoh and his army in the Sea of Reeds, for His faithful love lasts forever;
 
 **135:16** to the One who led His people in the wilderness, for His faithful love lasts forever;
 
@@ -60,6 +60,6 @@
 ## Translator Notes
 
 - **135:1** — The refrain ki le'olam chasdo is a verbless Hebrew clause literally reading "for forever is His chesed," where chesed denotes loyal, covenantal love.
-- **135:13** — Hebrew legozer ... ligzarim uses a cognate verb-and-noun phrase ("to the One who cuts into cut parts"), and yam-suph literally means "Sea of Reeds," traditionally known as the Red Sea.
+- **135:13** — Hebrew legozer ... ligzarim uses a cognate verb-and-noun phrase ("to the One who cuts into cut parts"), and yam-suph literally means "Sea of Reeds"; the Septuagint calls it the Red Sea.
 - **135:15** — Hebrew ni'er (Piel perfect of na'ar) literally means "shook off" or "shook out," echoing Exodus 14:27.
 - **135:24** — Hebrew wayyifreqenu (Qal wayyiqtol of paraq) literally means "tore us away" or "pulled us free," a verb used in late Biblical Hebrew and Aramaic for rescuing or delivering.

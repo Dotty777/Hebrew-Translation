@@ -5,7 +5,7 @@
 
 ## Text
 
-**5:1** For the music leader, for the Nehiloth. A psalm of David.
+**5:1** For the music director, for the Nehiloth. A psalm of David.
 
 **5:2** Listen closely to my words, LORD; discern my groaning.
 

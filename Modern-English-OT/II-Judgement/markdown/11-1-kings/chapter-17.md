@@ -33,7 +33,7 @@
 
 **17:14** For this is what the LORD, the God of Israel, says: 'The jar of flour will not be used up, and the flask of oil will not run short, until the day the LORD gives rain on the face of the ground.'"
 
-**17:15** So she went and acted according to the word of Elijah, and she and he and her household ate for many days.
+**17:15** So she went and acted according to the word of Elijah, and she and he and her household ate for days.
 
 **17:16** The jar of flour was not used up, and the flask of oil did not run short, according to the word of the LORD that He spoke through Elijah.
 

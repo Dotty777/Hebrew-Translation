@@ -27,11 +27,11 @@
 
 **3:11** And go, go in to the exiles, to the sons of your people, and speak to them and say to them, 'This is what the Lord GOD says,' whether they listen or refrain."
 
-**3:12** Then the Spirit lifted me up, and I heard behind me the sound of a great rumbling: "Blessed be the glory of the LORD from His place!"
+**3:12** Then a spirit lifted me up, and I heard behind me the sound of a great rumbling: "Blessed be the glory of the LORD from His place!"
 
 **3:13** And there was the sound of the wings of the living creatures brushing one against another, and the sound of the wheels alongside them, and the sound of a great rumbling.
 
-**3:14** So the Spirit lifted me up and took me away; and I went bitter in the fury of my spirit, while the hand of the LORD pressed hard upon me.
+**3:14** So a spirit lifted me up and took me away; and I went bitter in the fury of my spirit, while the hand of the LORD pressed hard upon me.
 
 **3:15** Then I came to the exiles at Tel Abib, who were dwelling by the Chebar River, and I dwelt where they were dwelling; and I sat there seven days, stunned, in their midst.
 
@@ -51,7 +51,7 @@
 
 **3:23** So I got up and went out to the valley, and look, the glory of the LORD was standing there, like the glory that I had seen by the Chebar River, and I fell on my face.
 
-**3:24** Then the Spirit came into me and stood me on my feet, and He spoke with me and said to me, "Go, shut yourself inside your house.
+**3:24** Then a spirit came into me and stood me on my feet, and He spoke with me and said to me, "Go, shut yourself inside your house.
 
 **3:25** And as for you, son of man, look, they will put cords on you and bind you with them, and you will not go out among them.
 

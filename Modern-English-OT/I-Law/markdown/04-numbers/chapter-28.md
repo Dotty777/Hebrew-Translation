@@ -15,7 +15,7 @@
 
 **28:5** and one-tenth of an ephah of fine flour for a grain offering, mixed with a quarter of a hin of beaten oil.
 
-**28:6** It is a continual burnt offering that was instituted at Mount Sinai for a soothing fragrance, a fire offering to the LORD.
+**28:6** It is a continual burnt offering that was prepared at Mount Sinai for a soothing fragrance, a fire offering to the LORD.
 
 **28:7** And its drink offering shall be a quarter of a hin for the one lamb; in the sanctuary pour out a drink offering of strong drink to the LORD.
 
@@ -65,7 +65,7 @@
 
 **28:30** one male goat to make atonement for you.
 
-**28:31** Apart from the continual burnt offering and its grain offering you shall prepare them—they shall be unblemished for you—along with their drink offerings.'"
+**28:31** Apart from the continual burnt offering and its grain offering you shall prepare them—they shall be unblemished for you—along with their drink offerings.
 
 ## Translator Notes
 

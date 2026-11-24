@@ -5,7 +5,7 @@
 
 ## Text
 
-**4:1** For the music leader, on stringed instruments. A psalm of David.
+**4:1** For the music director, on stringed instruments. A psalm of David.
 
 **4:2** When I call, answer me, God of my righteousness; in distress You have made room for me. Show me favor and hear my prayer.
 

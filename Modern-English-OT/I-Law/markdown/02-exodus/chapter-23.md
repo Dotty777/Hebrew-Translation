@@ -33,9 +33,9 @@
 
 **23:14** Three times in the year you shall celebrate a festival to Me.
 
-**23:15** You shall keep the Festival of Unleavened Bread: for seven days you shall eat unleavened bread, just as I commanded you, at the appointed time of the month of Abib, for in it you went out from Egypt; and no one shall appear before Me empty-handed.
+**23:15** You shall keep the Feast of Unleavened Bread: for seven days you shall eat unleavened bread, just as I commanded you, at the appointed time of the month of Abib, for in it you went out from Egypt; and no one shall appear before Me empty-handed.
 
-**23:16** And you shall keep the Festival of Harvest, of the firstfruits of your labors that you sow in the field, and the Festival of Ingathering at the close of the year, when you gather in your labors from the field.
+**23:16** And you shall keep the Feast of Harvest, of the firstfruits of your labors that you sow in the field, and the Feast of Ingathering at the close of the year, when you gather in your labors from the field.
 
 **23:17** Three times in the year all your males shall appear before the Sovereign, the LORD.
 
@@ -65,7 +65,7 @@
 
 **23:30** Little by little I will drive them out from before you, until you become fruitful and inherit the land.
 
-**23:31** And I will fix your border from the Red Sea to the sea of the Philistines, and from the wilderness to the River, for I will give into your hand the inhabitants of the land, and you shall drive them out from before you.
+**23:31** And I will fix your border from the Sea of Reeds to the sea of the Philistines, and from the wilderness to the River, for I will give into your hand the inhabitants of the land, and you shall drive them out from before you.
 
 **23:32** You shall not make a covenant with them or with their gods.
 

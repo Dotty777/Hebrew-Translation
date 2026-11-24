@@ -5,7 +5,7 @@
 
 ## Text
 
-**53:1** For the music leader, with stringed instruments. A Maskil of David.
+**53:1** For the music director, with stringed instruments. A Maskil of David.
 
 **53:2** When the Ziphites came and said to Saul, "Is David not hiding himself with us?"
 

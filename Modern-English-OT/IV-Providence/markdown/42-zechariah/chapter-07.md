@@ -21,7 +21,7 @@
 
 **7:8** Then the word of the LORD came to Zechariah, saying:
 
-**7:9** Thus has the LORD of hosts spoken, saying, "Judge with true justice, and practice loyal love and compassion, each man with his brother.
+**7:9** This is what the LORD of hosts has said, saying, "Judge with true justice, and practice loyal love and compassion, each man with his brother.
 
 **7:10** Do not oppress the widow or the fatherless, the resident alien or the poor, and do not devise evil in your hearts, each man against his brother."
 

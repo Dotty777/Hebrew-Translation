@@ -13,7 +13,7 @@
 
 **7:4** Now the city was spacious and large, yet the people inside it were few, and no houses had been built.
 
-**7:5** Then my God put it into my heart to gather the nobles, the officials, and the people to be registered by genealogy. And I found the scroll of the genealogy of those who had come up at first, and I found written in it:
+**7:5** Then my God put it into my heart, and I gathered the nobles, the officials, and the people to be registered by genealogy. And I found the scroll of the genealogy of those who had come up at first, and I found written in it:
 
 **7:6** These are the people of the province who came up from the captivity of the exile, whom Nebuchadnezzar king of Babylon had exiled. They returned to Jerusalem and to Judah, each man to his own city.
 
@@ -154,7 +154,7 @@
 - **7:2** — The prefixed preposition on "man of faithfulness" functions as a kaph of confirmation ("truly a man of faithfulness"); the pronoun "he" is singular, referring specifically to Hananiah.
 - **7:3** — The written text (ketiv) reads "and he said," while the read tradition (qere) followed here reads "and I said." The verb translated "close" is a Hiphil form occurring only here in Biblical Hebrew, and "station" renders a Hiphil infinitive absolute functioning as an imperative.
 - **7:4** — The word translated "spacious" is literally "wide of hands," a Hebrew idiom meaning broad and expansive in every direction.
-- **7:33** — Hebrew distinguishes "the other Nebo" here and "the other Elam" in 7:34 from identically named places or clans; the register also alternates between "sons of" (7:8-25, 34-36) and "men of" (7:26-33).
+- **7:33** — Hebrew distinguishes "the other Nebo" here and "the other Elam" in 7:34 from identically named places or clans; the register also alternates between "sons of" (7:8-25, 34-38) and "men of" (7:26-33).
 - **7:52** — The written text (ketiv) spells the name "Nephushesim," while the read tradition (qere) followed here reads "Nephishesim."
 - **7:64** — The verb translated "disqualified as unclean" is a Pual form of a root meaning to defile or declare ritually impure, distinct from the homonymous root meaning to redeem.
 - **7:65** — The title translated "governor" is the Persian loanword tirshatha, used for the Persian-appointed ruler of Judah.

@@ -23,7 +23,7 @@
 
 **31:9** And Moses wrote this law and gave it to the priests, the sons of Levi, the bearers of the ark of the covenant of the LORD, and to all the elders of Israel.
 
-**31:10** Then Moses commanded them, saying, "At the end of every seven years, at the appointed time of the year of release, during the Festival of Booths,
+**31:10** Then Moses commanded them, saying, "At the end of every seven years, at the appointed time of the year of release, during the Feast of Booths,
 
 **31:11** when all Israel comes to appear in the presence of the LORD your God in the place that He will choose, you are to read this law before all Israel in their hearing.
 

@@ -35,7 +35,7 @@
 
 **31:15** And Moses said to them, "Have you kept every female alive?
 
-**31:16** Look, these are the very ones who, by the word of Balaam, brought the sons of Israel to commit unfaithfulness against the LORD in the matter of Peor, and the plague was in the congregation of the LORD.
+**31:16** Look, these were the ones who, by the word of Balaam, brought the sons of Israel to commit unfaithfulness against the LORD in the matter of Peor, and the plague was in the congregation of the LORD.
 
 **31:17** And now, kill every male among the little ones, and kill every woman who has known a man by lying with a male.
 
@@ -53,7 +53,7 @@
 
 **31:24** And you shall wash your garments on the seventh day and you will be clean, and after that you may come into the camp."
 
-**31:25** And the LORD said to Moses,
+**31:25** And the LORD said to Moses, saying,
 
 **31:26** "Take a count of the captured booty, of both people and animals, you and Eleazar the priest and the heads of the fathers of the congregation;
 

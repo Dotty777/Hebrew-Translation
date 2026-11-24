@@ -7,11 +7,11 @@
 
 **32:1** Now the sons of Reuben and the sons of Gad had abundant livestock, exceedingly numerous; and they saw the land of Jazer and the land of Gilead, and look, the place was a place for livestock.
 
-**32:2** Then the sons of Gad and the sons of Reuben came and spoke to Moses, to Eleazar the priest, and to the leaders of the assembly, saying,
+**32:2** Then the sons of Gad and the sons of Reuben came and spoke to Moses, to Eleazar the priest, and to the leaders of the congregation, saying,
 
 **32:3** "Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,
 
-**32:4** the land that the LORD struck down before the assembly of Israel, is a land for livestock, and your servants have livestock."
+**32:4** the land that the LORD struck down before the congregation of Israel, is a land for livestock, and your servants have livestock."
 
 **32:5** And they said, "If we have found favor in your eyes, may this land be given to your servants for a possession; do not make us cross the Jordan."
 

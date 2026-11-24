@@ -27,7 +27,7 @@
 
 **23:11** Therefore watch closely over your souls, to love the LORD your God.
 
-**23:12** For if you ever turn back and cling to the remnant of these nations, these that remain with you, and intermarry with them, and mingle with them and they with you,
+**23:12** For if you do turn back and cling to the remnant of these nations, these that remain with you, and intermarry with them, and mingle with them and they with you,
 
 **23:13** know for certain that the LORD your God will not continue to drive out these nations from before you; and they will become a snare and a trap for you, and a whip on your sides, and thorns in your eyes, until you perish from this good land that the LORD your God has given you.
 

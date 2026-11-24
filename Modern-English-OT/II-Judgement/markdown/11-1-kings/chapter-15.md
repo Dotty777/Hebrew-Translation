@@ -15,7 +15,7 @@
 
 **15:5** because David did what was right in the eyes of the LORD and did not turn aside from anything that He commanded him all the days of his life, except in the matter of Uriah the Hittite.
 
-**15:7** And the rest of the deeds of Abijam and all that he did, are they not written in the scroll of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.
+**15:7** And the rest of the deeds of Abijam and all that he did, are they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.
 
 **15:8** And Abijam lay down with his fathers, and they buried him in the city of David, and his son Asa began to reign in his place.
 
@@ -39,7 +39,7 @@
 
 **15:18** Then Asa took all the silver and the gold remaining in the treasuries of the house of the LORD and the treasuries of the king's house, and he put them into the hand of his servants. And King Asa sent them to Ben-hadad son of Tabrimmon, son of Hezion, king of Aram, who resided in Damascus, saying,
 
-**15:19** "Let there be a treaty between me and you, as between my father and your father. Look, I have sent you a gift of silver and gold; go, break your treaty with Baasha king of Israel, so that he will withdraw from me."
+**15:19** "Let there be a covenant between me and you, as between my father and your father. Look, I have sent you a bribe of silver and gold; go, break your covenant with Baasha king of Israel, so that he will withdraw from me."
 
 **15:20** Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, and he struck Ijon, Dan, Abel-beth-maacah, and all Chinneroth, along with all the land of Naphtali.
 
@@ -47,7 +47,7 @@
 
 **15:22** Then King Asa issued a proclamation to all Judah, with no one exempt, and they carried away the stones of Ramah and its timber with which Baasha had been building; and with them King Asa built Geba of Benjamin and Mizpah.
 
-**15:23** And the rest of all the deeds of Asa, and all his might, and all that he did, and the cities that he built, are they not written in the scroll of the chronicles of the kings of Judah? Yet in the time of his old age he became diseased in his feet.
+**15:23** And the rest of all the deeds of Asa, and all his might, and all that he did, and the cities that he built, are they not written in the book of the chronicles of the kings of Judah? Yet in the time of his old age he became diseased in his feet.
 
 **15:24** And Asa lay down with his fathers and was buried with his fathers in the city of David his father, and his son Jehoshaphat began to reign in his place.
 
@@ -63,7 +63,7 @@
 
 **15:30** because of the sins of Jeroboam that he sinned and by which he caused Israel to sin, because of his provocation by which he provoked the LORD, the God of Israel, to anger.
 
-**15:31** And the rest of the deeds of Nadab and all that he did, are they not written in the scroll of the chronicles of the kings of Israel?
+**15:31** And the rest of the deeds of Nadab and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 
 **15:33** In the third year of Asa king of Judah, Baasha son of Ahijah became king over all Israel in Tirzah for twenty-four years.
 

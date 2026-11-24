@@ -35,7 +35,7 @@
 
 **6:15** Thus the wall was finished on the twenty-fifth of Elul, in fifty-two days.
 
-**6:16** Now when all our enemies heard of it, all the nations that were around us were afraid, and they fell very low in their own eyes; for they knew that this work had been done by our God.
+**6:16** Now when all our enemies heard of it, all the nations that were around us were afraid, and they fell very low in their own eyes; and they knew that this work had been done by our God.
 
 **6:17** Also in those days, the nobles of Judah were sending many letters to Tobiah, and letters from Tobiah were coming to them.
 

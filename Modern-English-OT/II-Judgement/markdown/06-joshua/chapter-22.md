@@ -59,7 +59,7 @@
 
 **22:27** rather, it shall be a witness between us and you, and between our generations after us, that we are to perform the service of the LORD before Him with our burnt offerings, with our sacrifices, and with our peace offerings,' so that your sons will not say in time to come to our sons, 'You have no portion in the LORD.'
 
-**22:28** And we thought that if it should happen that they speak to us or to our generations in time to come, then we would say, 'Look at the replica of the altar of the LORD that our fathers made, not for burnt offering and not for sacrifice; rather, it is a witness between us and you.'
+**22:28** And we said that if it should happen that they speak to us or to our generations in time to come, then we would say, 'Look at the replica of the altar of the LORD that our fathers made, not for burnt offering and not for sacrifice; rather, it is a witness between us and you.'
 
 **22:29** Far be it from us indeed to rebel against the LORD and to turn back today from following the LORD by building an altar for burnt offering, for grain offering, and for sacrifice, besides the altar of the LORD our God that is before His tabernacle."
 

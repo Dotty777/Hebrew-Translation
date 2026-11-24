@@ -45,13 +45,13 @@
 
 **22:20** But if this matter is true, that signs of virginity were not found for the young woman,
 
-**22:21** then they shall bring the young woman out to the entrance of her father's house, and the men of her city shall stone her with stones so that she dies, because she has done a disgraceful thing in Israel by committing sexual immorality in her father's house. And you shall clear away the evil from your midst.
+**22:21** then they shall bring the young woman out to the entrance of her father's house, and the men of her city shall stone her with stones so that she dies, because she has done a disgraceful thing in Israel by committing sexual immorality in her father's house. And you shall purge the evil from your midst.
 
-**22:22** If a man is found lying with a woman married to a husband, then both of them shall die—the man who lay with the woman, and the woman. And you shall clear away the evil from Israel.
+**22:22** If a man is found lying with a woman married to a husband, then both of them shall die—the man who lay with the woman, and the woman. And you shall purge the evil from Israel.
 
 **22:23** If there is a young woman, a virgin betrothed to a man, and a man finds her in the city and lies with her,
 
-**22:24** then you shall bring both of them out to the gate of that city, and stone them with stones so that they die—the young woman because she did not cry out in the city, and the man because he violated the wife of his neighbor. And you shall clear away the evil from your midst.
+**22:24** then you shall bring both of them out to the gate of that city, and stone them with stones so that they die—the young woman because she did not cry out in the city, and the man because he violated the wife of his neighbor. And you shall purge the evil from your midst.
 
 **22:25** But if in the field the man finds the betrothed young woman, and the man overpowers her and lies with her, then the man who lay with her, he alone, shall die.
 

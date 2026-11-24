@@ -9,7 +9,7 @@
 
 **26:2** you must take a portion of the first of all the fruit of the soil that you bring in from your land, which the LORD your God is giving you, place it in a basket, and go to the place that the LORD your God will choose to have His name dwell there.
 
-**26:3** You shall go to the priest who serves in those days and say to him, "Today I declare to the LORD your God that I have entered the land that the LORD swore to our fathers to give us."
+**26:3** You shall go to the priest who will be in those days and say to him, "Today I declare to the LORD your God that I have entered the land that the LORD swore to our fathers to give us."
 
 **26:4** The priest shall then take the basket from your hand and set it down in front of the altar of the LORD your God.
 
@@ -35,7 +35,7 @@
 
 **26:15** Look down from Your holy dwelling place, from the heavens, and bless Your people Israel and the soil that You have given to us, just as You swore to our fathers, a land flowing with milk and honey."
 
-**26:16** This very day the LORD your God is commanding you to carry out these statutes and judgments; therefore you must keep and do them with all your heart and with all your soul.
+**26:16** This very day the LORD your God is commanding you to carry out these statutes and judgments; and you must keep and do them with all your heart and with all your soul.
 
 **26:17** Today you have affirmed the LORD to be God for you, and that you will walk in His ways, keep His statutes, His commands, and His judgments, and listen to His voice.
 

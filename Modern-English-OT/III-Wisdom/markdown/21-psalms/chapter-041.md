@@ -5,7 +5,7 @@
 
 ## Text
 
-**41:1** For the music leader: a Maskil of the sons of Korah.
+**41:1** For the music director: a Maskil of the sons of Korah.
 
 **41:2** Just as a deer yearns for channels of water, so my soul yearns for You, God.
 

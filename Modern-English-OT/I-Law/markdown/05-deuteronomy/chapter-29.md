@@ -23,7 +23,7 @@
 
 **29:9** You are standing today, all of you, before the LORD your God: your heads, your tribes, your elders, and your officers, every man of Israel,
 
-**29:10** your little ones, your wives, and your sojourner who is in the midst of your camps, from the cutter of your wood to the drawer of your water,
+**29:10** your little ones, your wives, and your resident alien who is in the midst of your camps, from the cutter of your wood to the drawer of your water,
 
 **29:11** so that you may enter into the covenant of the LORD your God and into His oath, which the LORD your God is making with you today,
 
@@ -66,5 +66,5 @@
 - **29:4** — Here and in v. 5 ("I led you... I am the LORD your God"), Moses shifts abruptly from third-person reference to the LORD (vv. 1-3) into first-person divine speech before returning to first-person plural with Israel ("us... we") in v. 6.
 - **29:8** — "succeed" translates the Hiphil of sakal, which encompasses both acting wisely and achieving success as the fruit of wisdom.
 - **29:9** — The Masoretic text attaches the second-person plural suffix to both nouns (rashekem shivtekem, "your heads, your tribes"), either listing them in series or placing "your tribes" in apposition to "your heads" (unlike the construct reading "heads of your tribes" in the Septuagint and Samaritan Pentateuch).
-- **29:18** — "so as to sweep away the watered with the dry" renders the Qal infinitive construct of saphah with two feminine adjectives (haravah and hatsemeah), a merism for total devastation engulfing innocent and guilty alike; Hebrew alah ("sworn curse" here and in vv. 19-20, 30:7) denotes a covenant oath backed by imprecations (rendered "oath" in vv. 11, 13).
+- **29:18** — "so as to sweep away the watered with the dry" renders the Qal infinitive construct of saphah with two feminine adjectives (haravah and hatsemeah), probably a merism for total devastation; Hebrew alah ("sworn curse" here and in vv. 19-20, 30:7) denotes a covenant oath backed by imprecations (rendered "oath" in vv. 11, 13).
 - **29:28** — In the Masoretic text, extraordinary dots (puncta extraordinaria) mark the ten letters of lanu ulevanenu ("to us and to our children") and the first letter (ayin) of ad ("forever"), an ancient scribal marking whose original significance is debated.

@@ -17,11 +17,11 @@
 
 **105:6** We have sinned along with our fathers; we have acted perversely, we have acted wickedly.
 
-**105:7** Our fathers in Egypt did not comprehend Your wondrous deeds; they did not remember the abundance of Your acts of loyal love, and they rebelled beside the sea, at the Red Sea.
+**105:7** Our fathers in Egypt did not comprehend Your wondrous deeds; they did not remember the abundance of Your acts of loyal love, and they rebelled beside the sea, at the Sea of Reeds.
 
 **105:8** Yet He saved them for the sake of His name, to make His might known.
 
-**105:9** He rebuked the Red Sea, and it dried up; then He led them through the depths as across a wilderness.
+**105:9** He rebuked the Sea of Reeds, and it dried up; then He led them through the depths as across a wilderness.
 
 **105:10** And He saved them from the hand of one who hated them, and He redeemed them from the enemy's hand.
 
@@ -47,7 +47,7 @@
 
 **105:21** They forgot God, their Savior, the One who performed great deeds in Egypt,
 
-**105:22** wondrous deeds in the land of Ham, fearsome deeds beside the Red Sea.
+**105:22** wondrous deeds in the land of Ham, fearsome deeds beside the Sea of Reeds.
 
 **105:23** Then He declared He would destroy them—had Moses, His chosen one, not stood in the breach before Him to turn back His fury from bringing ruin.
 

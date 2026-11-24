@@ -49,7 +49,7 @@
 
 **4:22** then you shall let your children know, saying, 'On dry land Israel crossed over this Jordan.'
 
-**4:23** For the LORD your God dried up the waters of the Jordan from before you until you crossed over, just as the LORD your God did to the Red Sea, which He dried up from before us until we crossed over,
+**4:23** For the LORD your God dried up the waters of the Jordan from before you until you crossed over, just as the LORD your God did to the Sea of Reeds, which He dried up from before us until we crossed over,
 
 **4:24** so that all the peoples of the earth may know the hand of the LORD, that it is mighty, and so that you may fear the LORD your God always."
 

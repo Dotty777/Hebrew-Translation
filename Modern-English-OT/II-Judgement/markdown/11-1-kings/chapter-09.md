@@ -33,7 +33,7 @@
 
 **9:14** And Hiram sent to the king one hundred twenty talents of gold.
 
-**9:26** Now King Solomon made a fleet of ships at Ezion-geber, which is beside Eloth on the shore of the Red Sea, in the land of Edom.
+**9:26** Now King Solomon made a fleet of ships at Ezion-geber, which is beside Eloth on the shore of the Sea of Reeds, in the land of Edom.
 
 **9:27** Hiram sent his servants with the fleet, seamen who knew the sea, together with the servants of Solomon.
 

@@ -27,7 +27,7 @@
 
 **17:11** Also in Issachar and in Asher, Manasseh had Beth-shean and its surrounding towns, Ibleam and its surrounding towns, the inhabitants of Dor and its surrounding towns, the inhabitants of En-dor and its surrounding towns, the inhabitants of Taanach and its surrounding towns, and the inhabitants of Megiddo and its surrounding towns, the three heights.
 
-**17:12** Yet the sons of Manasseh were unable to dispossess these cities, and the Canaanites were determined to live in that land.
+**17:12** Yet the sons of Manasseh were unable to dispossess these cities, and the Canaanites were determined to live in this land.
 
 **17:13** Then, when the sons of Israel grew strong, they subjected the Canaanites to forced labor, yet they did not completely dispossess them.
 
@@ -44,7 +44,7 @@
 ## Translator Notes
 
 - **17:4** — "According to the command of the LORD" literally reads "to the mouth of the LORD," an idiom for divine command. The verb "he gave" is masculine singular in the Hebrew text, referring to Joshua.
-- **17:11** — Here and in verse 16, "its surrounding towns" literally reads "its daughters," the Hebrew idiom for dependent towns around a main city. "The three heights" translates a difficult Hebrew phrase literally meaning "three of the height/region," referring to three upland districts (sometimes rendered "the third is Napheth").
+- **17:11** — Here and in verse 16, "its surrounding towns" literally reads "its daughters," the Hebrew idiom for dependent towns around a main city. "The three heights" translates a difficult Hebrew phrase literally meaning "three of the height/region," referring to three upland districts (the phrase may also be construed as a place name, "Napheth").
 - **17:14** — "Since the LORD has blessed me thus far" renders a stacked Hebrew idiom literally meaning "to the extent that up to here the LORD has blessed me."
 - **17:15** — The verb "clear" (here and in verse 18) is the Piel stem of a root meaning "to cut down" or "clear forest," distinct from the Qal verb "to create."
 - **17:18** — The Hebrew conjunction "ki" appears five times in this verse with shifting adversative ("but"), concessive ("though" / "even though"), and causal ("for") senses.

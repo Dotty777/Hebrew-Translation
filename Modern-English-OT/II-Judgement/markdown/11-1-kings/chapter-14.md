@@ -21,7 +21,7 @@
 
 **14:28** Whenever the king went into the house of the LORD, the guards would carry them and bring them back to the chamber of the guards.
 
-**14:29** Now the rest of the acts of Rehoboam and everything that he did, are they not written in the book of the annals of the kings of Judah?
+**14:29** Now the rest of the deeds of Rehoboam and everything that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 **14:30** And there was war between Rehoboam and Jeroboam all the time.
 

@@ -15,7 +15,7 @@
 
 **24:5** And I sent Moses and Aaron, and I struck Egypt with what I did in its midst; and after that I brought you out.
 
-**24:6** So I brought your fathers out from Egypt, and you came to the sea, and the Egyptians pursued after your fathers with chariots and with horsemen to the Red Sea.
+**24:6** So I brought your fathers out from Egypt, and you came to the sea, and the Egyptians pursued after your fathers with chariots and with horsemen to the Sea of Reeds.
 
 **24:7** And they cried out to the LORD, and He set deep darkness between you and the Egyptians, and He brought the sea over them and covered them. Your eyes saw what I did in Egypt, and you lived in the wilderness many days.
 

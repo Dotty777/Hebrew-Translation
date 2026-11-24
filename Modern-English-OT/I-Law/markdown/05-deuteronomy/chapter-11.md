@@ -11,7 +11,7 @@
 
 **11:3** and His signs and His deeds that He did in the midst of Egypt to Pharaoh, king of Egypt, and to all his land,
 
-**11:4** and what He did to the army of Egypt, to its horses and to its chariots, how He made the waters of the Red Sea flow over them as they pursued after you, and the LORD destroyed them to this day,
+**11:4** and what He did to the army of Egypt, to its horses and to its chariots, how He made the waters of the Sea of Reeds flow over them as they pursued after you, and the LORD destroyed them to this day,
 
 **11:5** and what He did for you in the wilderness until you arrived at this place,
 

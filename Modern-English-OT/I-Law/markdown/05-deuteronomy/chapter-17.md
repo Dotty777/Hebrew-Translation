@@ -17,17 +17,17 @@
 
 **17:6** By the testimony of two witnesses or three witnesses the one to die shall be put to death; he shall not be put to death by the testimony of one witness.
 
-**17:7** The hand of the witnesses shall be upon him first to put him to death, and the hand of all the people last; and you shall sweep away the evil from your midst.
+**17:7** The hand of the witnesses shall be upon him first to put him to death, and the hand of all the people last; and you shall purge the evil from your midst.
 
 **17:8** If a matter for judgment is too difficult for you—between blood and blood, between lawsuit and lawsuit, and between blow and blow, matters of dispute in your gates—then you shall rise and go up to the place that the LORD your God will choose.
 
-**17:9** You shall come to the Levitical priests and to the judge who is there in those days; you shall inquire, and they shall declare to you the word of judgment.
+**17:9** You shall come to the Levitical priests and to the judge who will be in those days; you shall inquire, and they shall declare to you the word of judgment.
 
 **17:10** And you shall act according to the word that they declare to you from that place which the LORD will choose, and you shall take care to do according to all that they teach you.
 
 **17:11** According to the teaching that they teach you and according to the judgment that they speak to you, you shall act; you shall not turn aside from the word that they declare to you, to the right or to the left.
 
-**17:12** As for the man who acts in presumption by not listening to the priest who stands to minister there to the LORD your God, or to the judge—that man shall die, and you shall sweep away the evil from Israel.
+**17:12** As for the man who acts in presumption by not listening to the priest who stands to minister there to the LORD your God, or to the judge—that man shall die, and you shall purge the evil from Israel.
 
 **17:13** And all the people will hear and fear, and they will not act presumptuously anymore.
 
@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **17:3** — The text shifts abruptly to first-person divine speech (lo-tsivviti, Piel perfect of tsavah, "which I have not commanded") without a quotation formula, highlighting the LORD's direct authority behind Moses' instructions.
+- **17:3** — The text shifts abruptly to first-person divine speech (lo-tsivviti, Piel perfect of tsavah, "which I have not commanded") without a quotation formula.
 - **17:8** — The three paired expressions cover difficult judicial distinctions involving homicide ("blood and blood," dam), civil or legal claims ("lawsuit and lawsuit," din), and physical assault or skin affliction ("blow and blow," nega').
 - **17:9** — "The Levitical priests" translates the characteristic Deuteronomic appositional phrase ha-kohanim ha-leviyyim, literally "the priests, the Levites" (compare 17:18; 18:1).
 - **17:18** — Hebrew mishneh ha-torah ha-zot means "a copy/duplicate of this law" (rendered in the Septuagint as to deuteronomion touto, "this second law," whence the English name Deuteronomy). The compound preposition millifne ("from before") indicates copying from the authoritative scroll kept by the Levitical priests.

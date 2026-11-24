@@ -11,7 +11,7 @@
 
 **21:3** And the LORD listened to the voice of Israel and gave over the Canaanites, and they devoted them and their cities to utter destruction; so they called the name of the place Hormah.
 
-**21:4** They set out from Mount Hor along the road to the Red Sea in order to go around the land of Edom, and the soul of the people grew impatient on the way.
+**21:4** They set out from Mount Hor along the road to the Sea of Reeds in order to go around the land of Edom, and the soul of the people grew impatient on the way.
 
 **21:5** The people spoke against God and against Moses, "Why did you bring us up from Egypt to die in the wilderness? For there is no bread and there is no water, and our soul loathes this wretched bread."
 

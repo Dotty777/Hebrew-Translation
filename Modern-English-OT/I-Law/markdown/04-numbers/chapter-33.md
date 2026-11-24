@@ -23,9 +23,9 @@
 
 **33:9** They departed from Marah and came to Elim. At Elim there were twelve springs of water and seventy palm trees, and they camped there.
 
-**33:10** They departed from Elim and camped by the Red Sea.
+**33:10** They departed from Elim and camped by the Sea of Reeds.
 
-**33:11** They departed from the Red Sea and camped in the wilderness of Sin.
+**33:11** They departed from the Sea of Reeds and camped in the wilderness of Sin.
 
 **33:12** They departed from the wilderness of Sin and camped at Dophkah.
 
@@ -99,11 +99,11 @@
 
 **33:47** They departed from Almon-diblathaim and camped in the mountains of Abarim, before Nebo.
 
-**33:48** They departed from the mountains of Abarim and camped in the plains of Moab by the Jordan across from Jericho.
+**33:48** They departed from the mountains of Abarim and camped in the plains of Moab by the Jordan at Jericho.
 
 **33:49** They camped along the Jordan, from Beth-jeshimoth as far as Abel-shittim, in the plains of Moab.
 
-**33:50** Then the LORD spoke to Moses in the plains of Moab by the Jordan across from Jericho, saying,
+**33:50** Then the LORD spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
 
 **33:51** "Speak to the sons of Israel and say to them, 'When you cross over the Jordan into the land of Canaan,
 
@@ -120,7 +120,7 @@
 ## Translator Notes
 
 - **33:4** — Hebrew uses the Piel participle of qabar ('bury'), expressing the extensive burial of many dead across Egypt.
-- **33:8** — Masoretic Hebrew reads 'from before Hahiroth' (omitting 'Pi-'), whereas the Samaritan Pentateuch and some ancient versions harmonize to 'from Pi-hahiroth' as in 33:7.
-- **33:10** — Hebrew yam-suph literally means 'Sea of Reeds,' traditionally rendered 'Red Sea.'
+- **33:8** — The Hebrew reads 'from before Hahiroth' (mippenei hahirot), without the 'Pi-' of 33:7.
+- **33:10** — Hebrew yam-suph literally means 'Sea of Reeds,' the Septuagint calls it the Red Sea.
 - **33:53** — The Hiphil of yarash means 'drive out' when taking inhabitants as its object (33:52, 55), but 'take possession of' when taking the land itself as its object here, paralleling the Qal infinitive 'to possess' at the end of the verse.
 - **33:55** — Hebrew sikkim ('barbs') is a biblical hapax legomenon denoting sharp thorns or barbs, paired with tseninim ('thorns'); the verb tsarar ('harass') conveys active hostility.

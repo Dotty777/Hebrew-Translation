@@ -51,7 +51,7 @@
 
 **10:24** And when they had brought these kings out to Joshua, Joshua summoned all the men of Israel and said to the commanders of the men of war who had gone with him, "Come near, place your feet on the necks of these kings." So they came near and placed their feet on their necks.
 
-**10:25** Then Joshua said to them, "Do not be afraid and do not be dismayed; be strong and courageous, for this is what the LORD will do to all your enemies against whom you fight."
+**10:25** Then Joshua said to them, "Do not be afraid and do not be dismayed; be strong and resolute, for this is what the LORD will do to all your enemies against whom you fight."
 
 **10:26** And afterward Joshua struck them and put them to death, and he hanged them on five trees; and they remained hanging on the trees until evening.
 

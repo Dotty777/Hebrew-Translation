@@ -61,6 +61,6 @@
 
 - **7:2** — Ketiv ארבעת (feminine construct) vs. Qere אַרְבַּע (masculine construct, standard before feminine כַּנְפוֹת, literally 'wings' or 'edges').
 - **7:4** — הַצְּפִירָה ('the doom', also in 7:10) is a rare noun meaning 'cycle/turn of fate' or 'doom' (compare 'crown/wreath' in Isa 28:5); הֵד is a hapax legomenon related to הֵידָד ('joyful shouting').
-- **7:10** — The Saints critical text places MT 7:6-9 at 7:3-6 and MT 7:3-4 at 7:7-8, omits key 7:9, and combines MT 7:5 with 7:10 here.
+- **7:10** — This edition's verse arrangement differs from the Hebrew here: Hebrew 7:6-9 appear at 7:3-6 and Hebrew 7:3-4 at 7:7-8, there is no separate 7:9, and Hebrew 7:5 ('This is what the Lord GOD says: Disaster, a singular disaster! Look, it is coming!') is combined with 7:10 here.
 - **7:11** — Contains two hapax legomena of uncertain sense in elliptical verbless clauses: מֶהֱמֵהֶם ('of their abundance/wealth', or 'tumult') and נֹהַּ ('eminence/preeminence', or possibly 'wailing' from נהה).
 - **7:21** — Ketiv וחללוה (third-person feminine singular suffix) vs. Qere וְחִלְּלוּהוּ (third-person masculine singular suffix, referring back to the masculine 'beauty of its ornament' in 7:20).

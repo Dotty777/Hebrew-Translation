@@ -71,7 +71,7 @@
 
 **10:33** from the Jordan toward the rising of the sun, all the land of Gilead—the Gadites, the Reubenites, and the Manassites—from Aroer, which is by the valley of the Arnon, both Gilead and Bashan.
 
-**10:34** Now the rest of the deeds of Jehu, and everything that he did, and all his might, are they not written in the Book of the Chronicles of the Kings of Israel?
+**10:34** Now the rest of the deeds of Jehu, and everything that he did, and all his might, are they not written in the book of the chronicles of the kings of Israel?
 
 **10:35** And Jehu lay down with his fathers, and they buried him in Samaria; and Jehoahaz his son reigned in his place.
 

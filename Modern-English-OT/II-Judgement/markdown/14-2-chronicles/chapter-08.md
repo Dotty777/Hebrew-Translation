@@ -29,7 +29,7 @@
 
 **8:12** Then Solomon offered up burnt offerings to the LORD upon the altar of the LORD, which he had built in front of the portico,
 
-**8:13** according to each day's requirement, offering up in keeping with the command of Moses for the Sabbaths, for the new moons, and for the appointed festivals three times a year: at the Festival of Unleavened Bread, at the Festival of Weeks, and at the Festival of Booths.
+**8:13** according to each day's requirement, offering up in keeping with the command of Moses for the Sabbaths, for the new moons, and for the appointed festivals three times a year: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths.
 
 **8:14** Following the regulation of his father David, he stationed the divisions of the priests at their service, and the Levites at their posts to praise and to minister before the priests according to each day's requirement, and the gatekeepers in their divisions at every gate; for such was the command of David, the man of God.
 

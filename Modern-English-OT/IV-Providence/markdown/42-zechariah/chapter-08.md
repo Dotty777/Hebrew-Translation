@@ -7,7 +7,7 @@
 
 **8:1** Then the word of the LORD of hosts came, saying:
 
-**8:2** This is what the LORD of hosts says: "I am zealous for Zion with great zeal, and with great fury I am zealous for her."
+**8:2** This is what the LORD of hosts says: "I am jealous for Zion with great jealousy, and with great fury I am jealous for her."
 
 **8:3** This is what the LORD says: "I have returned to Zion and will reside within Jerusalem; and Jerusalem will be called the City of Truth, and the mountain of the LORD of hosts, the Mountain of Holiness."
 

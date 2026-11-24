@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** An oracle: the word of the LORD is against the land of Hadrach, and Damascus is its resting place, for the eye of mankind and of all the tribes of Israel is toward the LORD,
+**9:1** A pronouncement: the word of the LORD is against the land of Hadrach, and Damascus is its resting place, for the eye of mankind and of all the tribes of Israel is toward the LORD,
 
 **9:2** and also Hamath, which borders on it, and Tyre and Sidon, though she is very wise.
 

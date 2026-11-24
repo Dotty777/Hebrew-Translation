@@ -23,7 +23,7 @@
 
 **2:9** And she said to the men, "I know that the LORD has given the land to you, that the dread of you has fallen on us, and that all who dwell in the land have melted away before you.
 
-**2:10** For we heard how the LORD dried up the waters of the Red Sea before you when you came out from Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan—to Sihon and to Og—whom you devoted to total destruction.
+**2:10** For we heard how the LORD dried up the waters of the Sea of Reeds before you when you came out from Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan—to Sihon and to Og—whom you devoted to total destruction.
 
 **2:11** When we heard, our hearts melted, and no spirit endured any longer in any man because of you; for the LORD your God—He is God in the heavens above and on the earth below.
 

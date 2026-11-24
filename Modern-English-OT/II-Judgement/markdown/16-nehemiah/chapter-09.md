@@ -21,7 +21,7 @@
 
 **9:8** You found his heart faithful before You, and You made the covenant with him to give the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites—to give it to his descendants. And You have fulfilled Your words, for You are righteous.
 
-**9:9** You saw the affliction of our fathers in Egypt, and You heard their outcry at the Red Sea.
+**9:9** You saw the affliction of our fathers in Egypt, and You heard their outcry at the Sea of Reeds.
 
 **9:10** You performed signs and wonders against Pharaoh, against all his servants, and against all the people of his land, because You knew that they had acted arrogantly against them; and You made a name for Yourself, as it is this day.
 
@@ -35,7 +35,7 @@
 
 **9:15** You gave them bread from heaven for their hunger, and You brought out water for them from a rock for their thirst; and You told them to go in to possess the land that You had lifted up Your hand to give to them.
 
-**9:16** Yet they, our fathers, acted arrogantly; they stiffened their neck and did not listen to Your commandments.
+**9:16** Yet they and our fathers acted arrogantly; they stiffened their neck and did not listen to Your commandments.
 
 **9:17** They refused to listen and did not remember Your wondrous deeds that You had done with them; instead, they stiffened their neck and appointed a leader to return to their slavery in their rebellion. Yet You are a God of forgiveness, gracious and compassionate, slow to anger and abounding in loyal love, and You did not abandon them.
 

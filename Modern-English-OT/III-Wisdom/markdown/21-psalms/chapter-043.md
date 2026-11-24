@@ -5,7 +5,7 @@
 
 ## Text
 
-**43:1** For the music leader: of the sons of Korah, a Maskil.
+**43:1** For the music director: of the sons of Korah, a Maskil.
 
 **43:2** God, with our ears we have heard; our fathers have recounted to us the deed You performed in their days, in days of old.
 

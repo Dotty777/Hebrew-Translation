@@ -30,4 +30,4 @@
 - **3:1** — Hebrew ha-satan ("the Accuser" or "the Adversary," traditionally rendered "Satan") carries the definite article as a courtroom title and forms a cognate wordplay with the Qal infinitive construct lesitno ("to accuse him").
 - **3:4** — Hebrew wehalbesh is a Hiphil infinitive absolute of labash ("to clothe/dress") continuing the preceding finite verb he'evarti (Hiphil perfect of avar, literally "I have caused to pass away"); machalatsot denotes costly or festive robes (elsewhere only in Isa 3:22).
 - **3:7** — The rare form mahlekim is variously parsed as the plural of mahalak ("walkways/rights of access") or an Aramaizing Hiphil participle of halak ("ones who walk"), granting Joshua access among the heavenly attendants.
-- **3:8** — Hebrew tsemach ("Branch" or "Sprout") lacks the definite article and functions here as a messianic title or proper name (cf. 6:12).
+- **3:8** — Hebrew tsemach ("Branch" or "Sprout") lacks the definite article and functions here as a title or proper name (cf. 6:12).

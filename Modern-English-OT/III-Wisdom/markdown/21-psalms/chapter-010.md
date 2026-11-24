@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** For the music leader. Of David. In the LORD I have taken refuge; how can you tell my soul, "Flee to your mountain, bird!
+**10:1** For the music director. Of David. In the LORD I have taken refuge; how can you tell my soul, "Flee to your mountain, bird!
 
 **10:2** For look, the wicked bend a bow; they have readied their arrow on the bowstring to shoot in darkness at those upright of heart.
 

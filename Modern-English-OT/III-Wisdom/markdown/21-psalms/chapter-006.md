@@ -5,7 +5,7 @@
 
 ## Text
 
-**6:1** For the music leader, on stringed instruments, according to the Sheminith. A psalm of David.
+**6:1** For the music director, on stringed instruments, according to the Sheminith. A psalm of David.
 
 **6:2** LORD, do not reprove me in Your anger, and do not discipline me in Your fury.
 

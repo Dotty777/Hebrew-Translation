@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **13:1** — The Masoretic Text begins chapter 13 here (numbered 12:32 in most English translations), so verse numbers throughout chapter 13 are one higher than in standard English Bibles.
+- **13:1** — The Masoretic Text begins chapter 13 with this verse; in the verse division of the Latin Vulgate tradition it is 12:32, and the remaining verses of chapter 13 are numbered one lower there.
 - **13:6** — The Hiphil of nadach (literally "thrust/drive away") is used consistently in vv. 6, 11, and 14 for driving or leading someone astray from faithfulness to the LORD. Here sarah ("rebellion") literally denotes turning aside or defection.
 - **13:14** — Hebrew anashim bene-beliyya'al is literally "men, sons of worthlessness" (or "wickedness"). The same noun beliyya'al recurs in 15:9 for a "worthless" thought.
 - **13:16** — The Hiphil infinitive absolute hacharem ("devoting to destruction," from charam) denotes placing persons or property under the irreversible ban (cherem, v. 18) dedicated to the LORD. In v. 17, kalil ("whole offering") is a sacrificial term for an offering consumed entirely by fire.

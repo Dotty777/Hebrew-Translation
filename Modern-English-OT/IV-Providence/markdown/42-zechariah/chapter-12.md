@@ -5,7 +5,7 @@
 
 ## Text
 
-**12:1** The oracle of the word of the LORD concerning Israel—the declaration of the LORD, who stretches out the heavens, founds the earth, and forms the spirit of man within him:
+**12:1** The pronouncement of the word of the LORD concerning Israel—the declaration of the LORD, who stretches out the heavens, founds the earth, and forms the spirit of man within him:
 
 **12:2** "Look, I am about to make Jerusalem a bowl of staggering for all the peoples around; and it will also be against Judah during the siege against Jerusalem.
 

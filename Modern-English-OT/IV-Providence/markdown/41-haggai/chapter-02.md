@@ -1,6 +1,6 @@
 # Haggai 2 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Haggai`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,3 +58,4 @@
 - **2:13** — Hebrew teme-nefesh, literally "unclean of a person/soul," is the standard priestly legal expression for ritual impurity contracted from a corpse (cf. Lev 22:4; Num 9:10).
 - **2:15** — The phrase "from this day onward" (literally "from this day and upward") is identical in 2:15 and 2:18; some interpreters take it in 2:15 as looking backward in view of the following clause ("before a stone was placed on a stone").
 - **2:16** — Hebrew mihyotam (literally "from their being") is a terse temporal expression meaning "from the time those things were"; purah elsewhere means "winepress" (Isa 63:3) and here denotes measures drawn from the press.
+- **2:17** — Hebrew we'en-'etkhem 'elay is verbless (literally "and there was not you to Me"); "turn back" supplies the implied sense (compare Amos 4:9).

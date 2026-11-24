@@ -39,7 +39,7 @@
 
 **13:17** Now it came about, when Pharaoh sent the people out, that God did not lead them by the road of the land of the Philistines, although it was near; for God said, "Otherwise the people might change their minds when they see war and turn back to Egypt."
 
-**13:18** So God brought the people around by the road of the wilderness toward the Red Sea; and equipped for battle, the sons of Israel went up from the land of Egypt.
+**13:18** So God brought the people around by the road of the wilderness toward the Sea of Reeds; and equipped for battle, the sons of Israel went up from the land of Egypt.
 
 **13:19** And Moses took the bones of Joseph with him, because Joseph had solemnly made the sons of Israel swear, saying, "God will certainly attend to you, and you shall bring up my bones from here with you."
 

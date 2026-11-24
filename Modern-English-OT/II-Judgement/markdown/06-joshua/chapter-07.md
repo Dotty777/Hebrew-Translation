@@ -51,7 +51,7 @@
 
 **7:23** They took them out from inside the tent, brought them to Joshua and to all the sons of Israel, and poured them out before the LORD.
 
-**7:24** Then Joshua, and all Israel with him, took Achan son of Zerah, the silver, the cloak, the ingot of gold, his sons, his daughters, his oxen, his donkeys, his flock, his tent, and all that belonged to him, and they brought them up to the Valley of Achor.
+**7:24** Then Joshua, and all Israel with him, took Achan son of Zerah, the silver, the cloak, the ingot of gold, his sons, his daughters, his ox, his donkey, his flock, his tent, and all that belonged to him, and they brought them up to the Valley of Achor.
 
 **7:25** Joshua said, "Why have you brought trouble on us? The LORD will bring trouble on you today!" Then all Israel stoned him with stones; and they burned them with fire and stoned them with stones.
 

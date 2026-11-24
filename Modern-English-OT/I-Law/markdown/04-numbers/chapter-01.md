@@ -29,7 +29,7 @@
 
 **1:12** for Dan, Ahiezer son of Ammishaddai;
 
-**1:13** for Asher, Pagiel son of Ocran;
+**1:13** for Asher, Pagiel son of Ochran;
 
 **1:14** for Gad, Eliasaph son of Deuel;
 

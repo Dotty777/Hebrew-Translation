@@ -49,7 +49,7 @@
 
 **8:22** Thus Edom has been in revolt from under the hand of Judah to this day. Then Libnah revolted at that time.
 
-**8:23** Now the rest of the deeds of Joram, and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+**8:23** Now the rest of the deeds of Joram, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 **8:24** So Joram lay down with his fathers and was buried with his fathers in the city of David, and his son Ahaziah became king in his place.
 

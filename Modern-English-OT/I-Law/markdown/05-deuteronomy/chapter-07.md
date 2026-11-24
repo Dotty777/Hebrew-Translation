@@ -25,9 +25,9 @@
 
 **7:10** and who repays those who hate Him to their face in order to destroy them; He will not delay with one who hates Him—to his face He will repay him.
 
-**7:11** So you must keep the commandment, the statutes, and the ordinances that I command you today, by doing them.
+**7:11** So you must keep the commandment, the statutes, and the judgments that I command you today, by doing them.
 
-**7:12** Then it will happen that because you listen to these ordinances, and keep them and do them, the LORD your God will keep for you the covenant and the loyal love that He swore to your fathers.
+**7:12** Then it will happen that because you listen to these judgments, and keep them and do them, the LORD your God will keep for you the covenant and the loyal love that He swore to your fathers.
 
 **7:13** He will love you, bless you, and make you numerous; He will bless the fruit of your womb and the fruit of your soil—your grain, your new wine, and your fresh oil, the offspring of your cattle and the young of your flock—on the land that He swore to your fathers to give you.
 

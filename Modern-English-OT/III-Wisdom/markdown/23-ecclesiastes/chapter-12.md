@@ -19,11 +19,11 @@
 
 **12:7** and the dust goes back to the earth just as it was, and the spirit goes back to God, who gave it.
 
-**12:8** "Vapor of vapors," said the Assembler, "everything is vapor."
+**12:8** "Vapor of vapors," said the Convener, "everything is vapor."
 
-**12:9** And beyond being wise, the Assembler also taught knowledge to the people; he weighed, investigated, and set in order many proverbs.
+**12:9** And beyond being wise, the Convener also taught knowledge to the people; he weighed, investigated, and set in order many proverbs.
 
-**12:10** The Assembler sought to find words of delight, and written in uprightness were words of truth.
+**12:10** The Convener sought to find words of delight, and written in uprightness were words of truth.
 
 **12:11** Words of wise men are like goads, and like driven nails are the masters of collections; they were given from one Shepherd.
 
@@ -37,6 +37,6 @@
 
 - **12:5** — Hebrew yane'ts is a Hiphil imperfect meaning 'blossoms' (spelled with an orthographic aleph), and ha-'aviyyonah (occurring only here) denotes the caperberry, an ancient stimulant often rendered 'desire' by connection with the root meaning 'to desire.'
 - **12:6** — The written ketiv reads yirchaq ('is removed' or 'grows distant'), while the read qere followed here reads yerateq (Niphal imperfect, 'is snapped' or 'severed').
-- **12:8** — Hebrew hevel literally means 'vapor' or 'breath,' used metaphorically for transience or futility; ha-Qoheleth ('the Assembler') is a title derived from the root qhl ('to assemble').
+- **12:8** — Hebrew hevel literally means 'vapor' or 'breath,' used metaphorically for transience or futility; ha-Qoheleth ('the Convener') is a title derived from the root qhl ('to assemble').
 - **12:10** — The Masoretic Text vocalizes katuv as a Qal passive participle ('written'), rather than an active finite verb ('wrote').
 - **12:11** — Hebrew ba'ale asuppot literally means 'masters of collections,' referring either to compilers/sages of wisdom assemblies or idiomatically to 'collected sayings.'
