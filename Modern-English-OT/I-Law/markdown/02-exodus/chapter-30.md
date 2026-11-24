@@ -45,7 +45,7 @@
 
 **30:20** When they go into the tent of meeting, they shall wash with water so that they will not die; or when they approach the altar to minister, to burn an offering by fire to the LORD,
 
-**30:21** they shall wash their hands and their feet so that they will not die; and it shall be an everlasting statute for them, for him and for his offspring throughout their generations."
+**30:21** they shall wash their hands and their feet so that they will not die; and it shall be an everlasting statute for them, for him and for his seed throughout their generations."
 
 **30:22** And the LORD spoke to Moses, saying,
 

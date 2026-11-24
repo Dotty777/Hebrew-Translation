@@ -97,7 +97,7 @@
 
 ## Translator Notes
 
-- **11:6** — Masoretic vocalization reads ha-yoldah (Qal active participle with 3fs suffix), "the one who fathered her," rather than "her child"; likewise "his arm" translates the MT text (uzero'o) rather than an emendation to "his offspring."
+- **11:6** — Masoretic vocalization reads ha-yoldah (Qal active participle with 3fs suffix), "the one who fathered her," rather than "her child"; likewise "his arm" translates the MT text (uzero'o) rather than an emendation to "his seed" (zar'o).
 - **11:8** — Hebrew ya'amod min literally means "stand away from" (hold back from); alternatively, the preposition may be taken comparatively as "outlast the king of the north."
 - **11:10** — Following the Qere (veyitgareh, 3ms Hithpael imperfect, "he will press the war"); the Ketiv (vyitgaru) reads a 3mp plural ("they will wage war").
 - **11:12** — Following the Qere (veram, waw + Qal perfect); the Ketiv (yarum) reads a Qal imperfect with essentially the same meaning ("his heart will be lifted up").

@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** In the first year of Darius son of Ahasuerus, from the lineage of Media, who was made king over the kingdom of the Chaldeans,
+**9:1** In the first year of Darius son of Ahasuerus, from the seed of Media, who was made king over the kingdom of the Chaldeans,
 
 **9:2** in the first year of his reign, I, Daniel, perceived in the books the number of the years concerning which the word of the LORD had come to Jeremiah the prophet, that seventy years must be fulfilled for the ruins of Jerusalem.
 

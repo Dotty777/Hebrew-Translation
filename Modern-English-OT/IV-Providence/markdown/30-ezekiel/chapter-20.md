@@ -13,7 +13,7 @@
 
 **20:4** Will you judge them? Will you judge, son of man? Make known to them the abominations of their fathers.
 
-**20:5** And say to them, 'This is what the Lord GOD says: On the day I chose Israel, I lifted My hand to the offspring of the house of Jacob and made Myself known to them in the land of Egypt, and I lifted My hand to them, saying, "I am the LORD your God."
+**20:5** And say to them, 'This is what the Lord GOD says: On the day I chose Israel, I lifted My hand to the seed of the house of Jacob and made Myself known to them in the land of Egypt, and I lifted My hand to them, saying, "I am the LORD your God."
 
 **20:6** On that day I lifted My hand to them to bring them out from the land of Egypt into a land that I had scouted out for them, flowing with milk and honey; it is the splendor of all the lands.
 

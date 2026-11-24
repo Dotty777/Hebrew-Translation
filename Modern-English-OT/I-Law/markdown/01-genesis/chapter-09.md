@@ -21,7 +21,7 @@
 
 **9:8** Then God spoke to Noah and to his sons with him, saying,
 
-**9:9** "As for Me, look, I am establishing My covenant with you and with your offspring after you,
+**9:9** "As for Me, look, I am establishing My covenant with you and with your seed after you,
 
 **9:10** and with every living creature that is with you—among the birds, the livestock, and every wild animal of the earth with you—from all that came out of the ark to every wild animal of the earth.
 

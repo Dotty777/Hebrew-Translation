@@ -51,7 +51,7 @@
 
 **25:24** And Gedaliah swore to them and to their men, and he said to them, "Do not fear the servants of the Chaldeans; reside in the land and serve the king of Babylon, and it will be good for you."
 
-**25:25** And it happened in the seventh month that Ishmael, son of Nethaniah, son of Elishama, of royal lineage, came with ten men, and they struck down Gedaliah—and he died—as well as the Judeans and the Chaldeans who were with him at Mizpah.
+**25:25** And it happened in the seventh month that Ishmael, son of Nethaniah, son of Elishama, of the royal seed, came with ten men, and they struck down Gedaliah—and he died—as well as the Judeans and the Chaldeans who were with him at Mizpah.
 
 **25:26** Then all the people, from small to great, along with the commanders of the forces, rose up and went into Egypt, for they feared the Chaldeans.
 

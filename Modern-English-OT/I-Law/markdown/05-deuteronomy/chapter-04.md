@@ -77,7 +77,7 @@
 
 **4:36** From the heavens He caused you to hear His voice to discipline you, and on the earth He made you see His great fire, and you heard His words from within the fire.
 
-**4:37** And because He loved your fathers and chose their offspring after them, He brought you out by His presence, with His great strength, from Egypt,
+**4:37** And because He loved your fathers and chose their seed after them, He brought you out by His presence, with His great strength, from Egypt,
 
 **4:38** to dispossess nations greater and mightier than you from before you, to bring you in, to give to you their land as an inheritance, as on this day.
 
@@ -108,5 +108,5 @@
 - **4:7** — The Hebrew phrase for "a god so close" pairs a grammatically plural adjective with the morphologically plural noun for deity, and can be rendered either "a god so close" or "gods so close."
 - **4:13** — Literally "the ten words," the Hebrew phrase traditionally referred to as the Ten Commandments.
 - **4:23** — The Piel verb rendered "has forbidden you" literally means "commanded you," used elliptically in a prohibition for "commanded you not to make."
-- **4:37** — The Masoretic Hebrew literally has singular suffixes, "his offspring after him," functioning as a collective or distributive singular after plural "your fathers."
+- **4:37** — The Masoretic Hebrew literally has singular suffixes, "his seed after him," functioning as a collective or distributive singular after plural "your fathers."
 - **4:48** — Mount Sion reflects the Masoretic spelling Si'on, which is distinct from Jerusalem's Zion and is likely a variant of Sirion in Deuteronomy 3:9, another name for Mount Hermon.

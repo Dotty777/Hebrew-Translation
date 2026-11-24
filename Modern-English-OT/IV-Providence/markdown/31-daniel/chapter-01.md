@@ -9,7 +9,7 @@
 
 **1:2** And the Lord gave into his hand Jehoiakim king of Judah and some of the articles of the house of God. He brought them to the land of Shinar, to the house of his god, and the articles he brought into the treasure house of his god.
 
-**1:3** Then the king told Ashpenaz, the chief of his eunuchs, to bring some of the sons of Israel, both from the royal offspring and from the nobles,
+**1:3** Then the king told Ashpenaz, the chief of his eunuchs, to bring some of the sons of Israel, both from the royal seed and from the nobles,
 
 **1:4** youths without any blemish, good in appearance, insightful in all wisdom, possessing knowledge, discerning in learning, and having the ability to stand in the king's palace—and to teach them the writings and language of the Chaldeans.
 

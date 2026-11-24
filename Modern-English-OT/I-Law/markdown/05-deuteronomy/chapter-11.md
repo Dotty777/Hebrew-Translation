@@ -21,7 +21,7 @@
 
 **11:8** So you shall keep the entire commandment that I am commanding you today, in order that you may be strong, and enter and possess the land that you are crossing over to possess,
 
-**11:9** and in order that you may lengthen your days on the land that the LORD swore to your fathers to give to them and to their offspring, a land flowing with milk and honey.
+**11:9** and in order that you may lengthen your days on the land that the LORD swore to your fathers to give to them and to their seed, a land flowing with milk and honey.
 
 **11:10** For the land that you are entering to possess is not like the land of Egypt from which you came out, where you would sow your seed and water it with your foot like a vegetable garden.
 

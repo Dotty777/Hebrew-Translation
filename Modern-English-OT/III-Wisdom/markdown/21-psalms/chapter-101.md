@@ -61,7 +61,7 @@
 
 **101:28** Yet You are the same, and Your years will not end.
 
-**101:29** The children of Your servants will abide, and before You their offspring will be established.
+**101:29** The children of Your servants will abide, and before You their seed will be established.
 
 ## Translator Notes
 

@@ -105,7 +105,7 @@
 
 **22:50** Therefore I will thank You, LORD, among the nations, and to Your name I will sing praise.
 
-**22:51** He is the tower of His king's salvation, and He shows loyal love to His anointed, to David and to his offspring forever."
+**22:51** He is the tower of His king's salvation, and He shows loyal love to His anointed, to David and to his seed forever."
 
 ## Translator Notes
 

@@ -51,7 +51,7 @@
 
 **21:23** I will recount Your name to my brothers; within the assembly I will praise You.
 
-**21:24** Praise Him, you who fear the LORD; all the offspring of Jacob, honor Him, and stand in awe before Him, all the offspring of Israel.
+**21:24** Praise Him, you who fear the LORD; all the seed of Jacob, honor Him, and stand in awe before Him, all the seed of Israel.
 
 **21:25** For He has not despised and has not detested the affliction of the afflicted one, nor has He hidden His face from him; but when he cried out for help to Him, He listened.
 
@@ -65,7 +65,7 @@
 
 **21:30** All the thriving of the earth eat and bow down; all who descend to the dust will kneel before Him, even one who could not keep his own soul alive.
 
-**21:31** Offspring will serve Him; it will be recounted about the Lord to the future generation.
+**21:31** A seed will serve Him; it will be recounted about the Lord to the future generation.
 
 **21:32** They will come and announce His righteousness to a people yet to be born, that He has acted.
 

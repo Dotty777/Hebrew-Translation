@@ -77,7 +77,7 @@
 
 **28:42** And make for them linen undergarments to cover naked flesh; they shall reach from the waist to the thighs.
 
-**28:43** And they shall be on Aaron and on his sons when they enter the tent of meeting, or when they approach the altar to minister in the holy place, so that they will not bear guilt and die. It shall be a perpetual statute for him and for his descendants after him.
+**28:43** And they shall be on Aaron and on his sons when they enter the tent of meeting, or when they approach the altar to minister in the holy place, so that they will not bear guilt and die. It shall be a perpetual statute for him and for his seed after him.
 
 ## Additional Verses (Not in Saints Numbering)
 

@@ -45,7 +45,7 @@
 
 **59:20** And a Redeemer will come to Zion, and to those in Jacob who turn from rebellion, declares the LORD.
 
-**59:21** "And as for Me, this is My covenant with them," says the LORD: "My Spirit who is upon you, and My words that I have placed in your mouth, will not depart from your mouth, nor from the mouth of your descendants, nor from the mouth of your descendants' descendants," says the LORD, "from this moment and forever."
+**59:21** "And as for Me, this is My covenant with them," says the LORD: "My Spirit who is upon you, and My words that I have placed in your mouth, will not depart from your mouth, nor from the mouth of your seed, nor from the mouth of your seed's seed," says the LORD, "from this moment and forever."
 
 ## Translator Notes
 

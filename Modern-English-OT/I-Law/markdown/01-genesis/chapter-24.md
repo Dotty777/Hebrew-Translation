@@ -17,7 +17,7 @@
 
 **24:6** Abraham said to him, "Be on your guard that you do not bring my son back there.
 
-**24:7** The LORD, the God of the heavens, who took me from my father's house and from the land of my birth, and who spoke to me, and who swore to me, saying, 'I will give this land to your offspring,' He will send His angel ahead of you, and you will take a wife for my son from there.
+**24:7** The LORD, the God of the heavens, who took me from my father's house and from the land of my birth, and who spoke to me, and who swore to me, saying, 'I will give this land to your seed,' He will send His angel ahead of you, and you will take a wife for my son from there.
 
 **24:8** And if the woman is unwilling to come after you, then you will be clear of this oath of mine; only do not bring my son back there."
 
@@ -123,7 +123,7 @@
 
 **24:59** So they sent off their sister Rebekah and her nurse, along with Abraham's servant and his men.
 
-**24:60** They blessed Rebekah and said to her, "Our sister, become thousands of ten thousands, and may your offspring take possession of the gate of those who hate him!"
+**24:60** They blessed Rebekah and said to her, "Our sister, become thousands of ten thousands, and may your seed take possession of the gate of those who hate him!"
 
 **24:61** Then Rebekah rose, along with her female attendants, and they rode on the camels and went after the man. So the servant took Rebekah and set out.
 

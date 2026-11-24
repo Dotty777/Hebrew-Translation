@@ -41,7 +41,7 @@
 
 **45:18** For this is what the LORD says, Creator of the heavens—He is God—who formed the earth and made it; He established it; He did not create it a wasteland, He formed it to be inhabited: "I am the LORD, and there is no other.
 
-**45:19** I have not spoken in secret, in a place of a land of darkness; I did not say to the offspring of Jacob, 'Seek Me in vain.' I, the LORD, speak righteousness, declaring things that are upright.
+**45:19** I have not spoken in secret, in a place of a land of darkness; I did not say to the seed of Jacob, 'Seek Me in vain.' I, the LORD, speak righteousness, declaring things that are upright.
 
 **45:20** Gather yourselves and come, draw near together, survivors of the nations! They have no knowledge, those who carry the wood of their carved image and pray to a god that does not save.
 
@@ -53,7 +53,7 @@
 
 **45:24** 'Only in the LORD,' one will say of Me, 'are righteousness and strength.'" To Him they will come and be put to shame, all who are incensed against Him.
 
-**45:25** In the LORD all the offspring of Israel will be vindicated and will glory.
+**45:25** In the LORD all the seed of Israel will be vindicated and will glory.
 
 ## Translator Notes
 

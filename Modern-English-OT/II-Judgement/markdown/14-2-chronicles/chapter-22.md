@@ -23,7 +23,7 @@
 
 **22:9** He searched for Ahaziah, and they captured him while he was hiding in Samaria; they brought him to Jehu and put him to death. Then they buried him, for they said, "He is a son of Jehoshaphat, who sought the LORD with all his heart." And the house of Ahaziah had no one able to retain strength for the kingdom.
 
-**22:10** Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring of the house of Judah.
+**22:10** Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal seed of the house of Judah.
 
 **22:11** But Jehoshabeath the king's daughter took Joash son of Ahaziah and stole him away from among the king's sons who were being put to death, and she placed him and his nurse in the bedroom. So Jehoshabeath, daughter of King Jehoram and wife of Jehoiada the priest—for she was the sister of Ahaziah—hid him from Athaliah, so that she did not put him to death.
 

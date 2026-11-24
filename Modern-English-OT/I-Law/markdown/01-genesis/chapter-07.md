@@ -9,7 +9,7 @@
 
 **7:2** From every clean animal you shall take for yourself by sevens, a male and its mate, and from the animals that are not clean, two, a male and its mate;
 
-**7:3** also from the birds of the heavens by sevens, male and female, to keep offspring alive on the surface of the entire earth.
+**7:3** also from the birds of the heavens by sevens, male and female, to keep seed alive on the surface of the entire earth.
 
 **7:4** For in seven more days I will cause it to rain upon the earth forty days and forty nights, and I will wipe out every existing thing that I have made from the surface of the ground."
 

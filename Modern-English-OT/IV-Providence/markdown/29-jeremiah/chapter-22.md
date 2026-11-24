@@ -59,11 +59,11 @@
 
 **22:27** But to the land to which they lift up their soul to return, there they will not return."
 
-**22:28** Is this man Coniah a despised, shattered pot, or a vessel in which there is no delight? Why have he and his offspring been hurled away and thrown into a land that they did not know?
+**22:28** Is this man Coniah a despised, shattered pot, or a vessel in which there is no delight? Why have he and his seed been hurled away and thrown into a land that they did not know?
 
 **22:29** Land, land, land, hear the word of the LORD!
 
-**22:30** This is what the LORD says: "Register this man as childless, a man who will not succeed in his days; for no man from his offspring will succeed, sitting on the throne of David and ruling again in Judah."
+**22:30** This is what the LORD says: "Register this man as childless, a man who will not succeed in his days; for no man from his seed will succeed, sitting on the throne of David and ruling again in Judah."
 
 ## Translator Notes
 

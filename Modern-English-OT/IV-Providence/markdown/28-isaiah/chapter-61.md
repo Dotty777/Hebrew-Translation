@@ -21,7 +21,7 @@
 
 **61:8** For I, the LORD, love justice; I hate robbery in a burnt offering. And I will give their recompense in faithfulness, and I will make an everlasting covenant with them.
 
-**61:9** Their offspring will become known among the nations, and their posterity in the midst of the peoples; everyone who sees them will recognize them, that they are offspring whom the LORD has blessed.
+**61:9** Their seed will become known among the nations, and their posterity in the midst of the peoples; everyone who sees them will recognize them, that they are a seed whom the LORD has blessed.
 
 **61:10** I rejoice exceedingly in the LORD; my soul exults in my God, for He has dressed me in garments of salvation, and He has wrapped me in a robe of righteousness, like a bridegroom who puts on a headdress like a priest, and like a bride who arrays herself with her ornaments.
 

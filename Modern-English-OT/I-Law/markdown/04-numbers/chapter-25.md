@@ -29,7 +29,7 @@
 
 **25:12** Therefore say, 'Look, I am giving him My covenant of peace,
 
-**25:13** and it will be for him and for his offspring after him a covenant of an everlasting priesthood, because he was zealous for his God and made atonement for the sons of Israel.'"
+**25:13** and it will be for him and for his seed after him a covenant of an everlasting priesthood, because he was zealous for his God and made atonement for the sons of Israel.'"
 
 **25:14** Now the name of the man of Israel who was struck down, the one who was struck down with the Midianite woman, was Zimri, son of Salu, a leader of a father's house among the Simeonites.
 

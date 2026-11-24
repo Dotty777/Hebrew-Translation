@@ -29,7 +29,7 @@
 
 **32:12** Rescue me, please, from the hand of my brother, from the hand of Esau, for I am afraid of him, that he may come and strike me, mother along with children.
 
-**32:13** Yet You Yourself said, 'I will surely deal well with you, and I will make your offspring like the sand of the sea, which cannot be counted because of its abundance.'"
+**32:13** Yet You Yourself said, 'I will surely deal well with you, and I will make your seed like the sand of the sea, which cannot be counted because of its abundance.'"
 
 **32:14** So he lodged there that night, and from what had come into his hand he took a gift for Esau his brother:
 

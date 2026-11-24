@@ -17,7 +17,7 @@
 
 **20:6** He said, "LORD, God of our fathers, are You not God in the heavens? You rule over all the kingdoms of the nations; in Your hand are strength and might, and there is no one who can withstand You.
 
-**20:7** Did You not, our God, drive out the inhabitants of this land from before Your people Israel, and give it to the offspring of Abraham, who loved You, forever?
+**20:7** Did You not, our God, drive out the inhabitants of this land from before Your people Israel, and give it to the seed of Abraham, who loved You, forever?
 
 **20:8** They lived in it and built for You in it a sanctuary for Your name, saying,
 

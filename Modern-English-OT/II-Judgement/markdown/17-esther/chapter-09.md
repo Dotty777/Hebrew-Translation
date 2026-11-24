@@ -55,13 +55,13 @@
 
 **9:26** Therefore they called these days Purim, after the name of Pur. Therefore, because of all the words of this letter, and what they had seen concerning this matter, and what had come upon them,
 
-**9:27** the Jews established and accepted upon themselves, upon their descendants, and upon all who joined themselves to them, without fail, to keep observing these two days according to what was written for them and at their appointed time every single year.
+**9:27** the Jews established and accepted upon themselves, upon their seed, and upon all who joined themselves to them, without fail, to keep observing these two days according to what was written for them and at their appointed time every single year.
 
-**9:28** And these days are to be remembered and observed throughout every generation, every family, every province, and every city; and these days of Purim will not pass away from among the Jews, nor will their remembrance come to an end among their descendants.
+**9:28** And these days are to be remembered and observed throughout every generation, every family, every province, and every city; and these days of Purim will not pass away from among the Jews, nor will their remembrance come to an end among their seed.
 
 **9:29** Then Queen Esther daughter of Abihail and Mordecai the Jew wrote with full authority to confirm this second letter of Purim.
 
-**9:31** to establish these days of Purim at their appointed times, just as Mordecai the Jew and Queen Esther had established for them, and just as they had established for themselves and for their descendants the matters of the fasts and their outcry.
+**9:31** to establish these days of Purim at their appointed times, just as Mordecai the Jew and Queen Esther had established for them, and just as they had established for themselves and for their seed the matters of the fasts and their outcry.
 
 **9:32** And the command of Esther confirmed these matters of Purim, and it was written in the book.
 

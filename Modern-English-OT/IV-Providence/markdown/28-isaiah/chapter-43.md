@@ -13,7 +13,7 @@
 
 **43:4** Because you are precious in My eyes, you are honored, and I love you, I will give people instead of you and nations in place of your life.
 
-**43:5** Do not be afraid, for I am with you; from the east I will bring your offspring, and from the west I will gather you.
+**43:5** Do not be afraid, for I am with you; from the east I will bring your seed, and from the west I will gather you.
 
 **43:6** I will say to the north, 'Give them up,' and to the south, 'Do not hold back! Bring My sons from afar and My daughters from the end of the earth,
 

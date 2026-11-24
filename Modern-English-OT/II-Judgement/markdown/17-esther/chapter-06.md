@@ -29,7 +29,7 @@
 
 **6:12** Then Mordecai returned to the king's gate, while Haman hurried to his house, mourning, his head covered.
 
-**6:13** And Haman recounted to his wife Zeresh and to all his friends everything that had happened to him. Then his wise men and his wife Zeresh said to him, "If Mordecai, before whom you have begun to fall, is of the offspring of the Jews, you will not prevail against him, but you will certainly fall before him."
+**6:13** And Haman recounted to his wife Zeresh and to all his friends everything that had happened to him. Then his wise men and his wife Zeresh said to him, "If Mordecai, before whom you have begun to fall, is of the seed of the Jews, you will not prevail against him, but you will certainly fall before him."
 
 **6:14** While they were still speaking with him, the king's eunuchs arrived and rushed to bring Haman to the banquet that Esther had prepared.
 

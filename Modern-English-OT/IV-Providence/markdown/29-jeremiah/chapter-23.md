@@ -19,7 +19,7 @@
 
 **23:7** "Therefore look, days are coming," declares the LORD, "when they will no longer say, 'As the LORD lives, who brought the sons of Israel up out of the land of Egypt,'
 
-**23:8** but rather, 'As the LORD lives, who brought up and who brought the offspring of the house of Israel out of the northern land and out of all the lands where I had driven them.' Then they will dwell on their own soil."
+**23:8** but rather, 'As the LORD lives, who brought up and who brought the seed of the house of Israel out of the northern land and out of all the lands where I had driven them.' Then they will dwell on their own soil."
 
 **23:9** Concerning the prophets: My heart is broken within me; all my bones tremble. I have become like a drunk man, and like a man whom wine has overwhelmed, because of the LORD and because of His holy words.
 

@@ -57,7 +57,7 @@
 
 **105:26** So He lifted His hand to them to cause them to fall in the wilderness,
 
-**105:27** and to cause their offspring to fall among the nations, and to scatter them across the lands.
+**105:27** and to cause their seed to fall among the nations, and to scatter them across the lands.
 
 **105:28** Then they bound themselves to Baal of Peor, and they ate sacrifices to the dead.
 

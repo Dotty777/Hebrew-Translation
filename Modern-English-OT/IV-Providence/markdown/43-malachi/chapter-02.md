@@ -9,7 +9,7 @@
 
 **2:2** If you will not listen, and if you will not take it to heart to give honor to My name," says the LORD of hosts, "then I will send the curse among you and I will curse your blessings; indeed, I have already cursed them, because you are not taking it to heart.
 
-**2:3** Look, I am about to rebuke your offspring, and I will spread dung on your faces, the dung of your festivals; and you will be carried off with it.
+**2:3** Look, I am about to rebuke your seed, and I will spread dung on your faces, the dung of your festivals; and you will be carried off with it.
 
 **2:4** Then you will know that I have sent this command to you, so that My covenant with Levi may remain," says the LORD of hosts.
 
@@ -33,7 +33,7 @@
 
 **2:14** Yet you say, "For what cause?" Because the LORD has borne witness between you and the wife of your youth, with whom you yourself have broken faith, even though she is your partner and the wife of your covenant.
 
-**2:15** Did He not make them one, though a remnant of spirit belonged to Him? And why the one? He was seeking godly offspring. Therefore guard yourselves in your spirit, and let none of you break faith with the wife of his youth.
+**2:15** Did He not make them one, though a remnant of spirit belonged to Him? And why the one? He was seeking godly seed. Therefore guard yourselves in your spirit, and let none of you break faith with the wife of his youth.
 
 **2:16** For He hates divorce, says the LORD, the God of Israel, and violence covers his garment, says the LORD of hosts. Therefore guard yourselves in your spirit, and do not break faith.
 
@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **2:3** — Masoretic Hebrew reads 'rebuking for you the seed/offspring' (et-hazzera), which can denote either priestly descendants or sown grain. The final verb is an impersonal third-person singular Qal (wenasa, literally 'and one will carry you away to/with it').
+- **2:3** — Masoretic Hebrew reads 'rebuking for you the seed' (et-hazzera), which can denote either priestly descendants or sown grain. The final verb is an impersonal third-person singular Qal (wenasa, literally 'and one will carry you away to/with it').
 - **2:12** — Hebrew er weoneh, literally 'one who wakes and one who answers,' is an idiomatic merism meaning every living person or descendant without exception.
 - **2:15** — The Hebrew of the first half is highly compressed and syntactically difficult; an alternative reading takes 'the One' as the subject throughout ('Did not the One make them, and a remnant of spirit belongs to Him? And what does the One seek?'). At the end of the verse, Hebrew shifts from second-person singular ('your youth') to a third-person singular jussive ('let him not break faith').
 - **2:16** — Masoretic Hebrew has the third-person singular Qal perfect sane ('He hates') with the Piel infinitive construct shallach ('sending away/divorce'), followed by Piel perfect wekhissah ('and violence covers his garment' or 'and he covers his garment with violence'). The subject of sane is not expressed; the clause can also be read with the husband as subject ('the one who hates and divorces covers his garment with violence').

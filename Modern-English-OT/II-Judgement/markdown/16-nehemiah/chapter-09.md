@@ -7,7 +7,7 @@
 
 **9:1** Now on the twenty-fourth day of this month, the sons of Israel assembled with fasting, in sackcloth, and with earth on them.
 
-**9:2** The descendants of Israel separated themselves from all foreigners, and they stood and confessed their sins and the iniquities of their fathers.
+**9:2** The seed of Israel separated themselves from all foreigners, and they stood and confessed their sins and the iniquities of their fathers.
 
 **9:3** They stood up in their place and read from the book of the law of the LORD their God for a fourth of the day, and for another fourth they were confessing and worshiping the LORD their God.
 
@@ -19,7 +19,7 @@
 
 **9:7** You are the LORD God, who chose Abram, brought him out of Ur of the Chaldeans, and gave him the name Abraham.
 
-**9:8** You found his heart faithful before You, and You made the covenant with him to give the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites—to give it to his descendants. And You have fulfilled Your words, for You are righteous.
+**9:8** You found his heart faithful before You, and You made the covenant with him to give the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites—to give it to his seed. And You have fulfilled Your words, for You are righteous.
 
 **9:9** You saw the affliction of our fathers in Egypt, and You heard their outcry at the Sea of Reeds.
 

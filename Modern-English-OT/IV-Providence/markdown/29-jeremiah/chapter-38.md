@@ -73,11 +73,11 @@
 
 **38:34** And no longer will each one teach his neighbor, nor each one his brother, saying, 'Know the LORD,' for all of them will know Me, from the smallest of them to the greatest of them," declares the LORD, "for I will pardon their iniquity, and their sin I will no longer remember."
 
-**38:35** This is what the LORD says: "If the heavens above can be measured and the foundations of the earth below can be searched out, then I too will reject all the offspring of Israel for everything they have done," declares the LORD.
+**38:35** This is what the LORD says: "If the heavens above can be measured and the foundations of the earth below can be searched out, then I too will reject all the seed of Israel for everything they have done," declares the LORD.
 
 **38:36** This is what the LORD says, who sets the sun for light by day and the statutes of the moon and stars for light by night, who agitates the sea so that its waves roar—the LORD of hosts is His name:
 
-**38:37** "If these statutes depart from before Me," declares the LORD, "then the offspring of Israel will also cease from being a nation before Me for all time."
+**38:37** "If these statutes depart from before Me," declares the LORD, "then the seed of Israel will also cease from being a nation before Me for all time."
 
 **38:38** "Look, days are coming," declares the LORD, "and the city will be built for the LORD from the Tower of Hananel to the Corner Gate.
 

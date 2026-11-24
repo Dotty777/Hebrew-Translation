@@ -67,11 +67,11 @@
 
 **19:31** The firstborn said to the younger, "Our father is old, and there is no man on the earth to come in to us according to the way of all the earth.
 
-**19:32** Come, let us give our father wine to drink and let us lie with him, so that we may preserve offspring from our father."
+**19:32** Come, let us give our father wine to drink and let us lie with him, so that we may preserve seed from our father."
 
 **19:33** So they gave their father wine to drink that night, and the firstborn came in and lay with her father, and he did not know when she lay down or when she got up.
 
-**19:34** The next day the firstborn said to the younger, "Look, I lay with my father last night; let us give him wine to drink tonight as well, and you go in and lie with him, so that we may preserve offspring from our father."
+**19:34** The next day the firstborn said to the younger, "Look, I lay with my father last night; let us give him wine to drink tonight as well, and you go in and lie with him, so that we may preserve seed from our father."
 
 **19:35** So they gave their father wine to drink that night as well, and the younger rose and lay with him; and he did not know when she lay down or when she got up.
 

@@ -41,7 +41,7 @@
 
 **48:18** If only you had given heed to My commandments, then your peace would have been like a river and your righteousness like the waves of the sea;
 
-**48:19** and your offspring would have been like the sand, and the descendants from your body like its grains; its name would not be cut off or destroyed from before Me."
+**48:19** and your seed would have been like the sand, and the descendants from your body like its grains; its name would not be cut off or destroyed from before Me."
 
 **48:20** Go out from Babylon, flee from the Chaldeans! With a voice of joyful shouting declare it, make this heard, send it forth to the end of the earth; say, "The LORD has redeemed His servant Jacob."
 

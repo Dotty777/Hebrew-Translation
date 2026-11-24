@@ -13,7 +13,7 @@
 
 **17:4** So Eleazar the priest took the bronze firepans that those who were burned had presented, and they were hammered out as a plating for the altar,
 
-**17:5** as a reminder to the sons of Israel, so that no outsider, who is not from the offspring of Aaron, should draw near to burn incense before the LORD, and so that he would not become like Korah and like his company, just as the LORD had spoken to him through Moses.
+**17:5** as a reminder to the sons of Israel, so that no outsider, who is not from the seed of Aaron, should draw near to burn incense before the LORD, and so that he would not become like Korah and like his company, just as the LORD had spoken to him through Moses.
 
 **17:6** On the next day, the entire congregation of the sons of Israel grumbled against Moses and against Aaron, saying, "You have put the people of the LORD to death!"
 

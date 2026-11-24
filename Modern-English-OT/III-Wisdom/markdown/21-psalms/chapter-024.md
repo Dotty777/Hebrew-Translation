@@ -29,7 +29,7 @@
 
 **24:12** Who is this man who fears the LORD? He will instruct him in the way he ought to choose.
 
-**24:13** His soul will dwell in well-being, and his offspring will possess the land.
+**24:13** His soul will dwell in well-being, and his seed will possess the land.
 
 **24:14** The secret counsel of the LORD belongs to those who fear Him, and He will make His covenant known to them.
 

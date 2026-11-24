@@ -5,7 +5,7 @@
 
 ## Text
 
-**48:1** Now it happened in the seventh month that Ishmael son of Nethaniah, son of Elishama, from the royal offspring and the chief officers of the king, and ten men with him, came to Gedaliah son of Ahikam at Mizpah, and they ate bread together there in Mizpah.
+**48:1** Now it happened in the seventh month that Ishmael son of Nethaniah, son of Elishama, from the royal seed and the chief officers of the king, and ten men with him, came to Gedaliah son of Ahikam at Mizpah, and they ate bread together there in Mizpah.
 
 **48:2** Then Ishmael son of Nethaniah and the ten men who were with him rose up and struck Gedaliah son of Ahikam, son of Shaphan, with the sword, and he put him to death, the one whom the king of Babylon had appointed over the land.
 

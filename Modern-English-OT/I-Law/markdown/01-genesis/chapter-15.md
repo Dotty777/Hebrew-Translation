@@ -9,11 +9,11 @@
 
 **15:2** Abram said, "Lord GOD, what will You give me, since I go on childless, and the heir of my household is Eliezer of Damascus?"
 
-**15:3** And Abram said, "See, to me You have given no offspring, and look, one born in my household is to be my heir."
+**15:3** And Abram said, "See, to me You have given no seed, and look, one born in my household is to be my heir."
 
 **15:4** And look, the word of the LORD came to him, saying, "This one will not be your heir; rather, one who comes out from your own body—he will be your heir."
 
-**15:5** He brought him outside and said, "Look up now to the heavens and count the stars, if you can count them." Then He said to him, "So will your offspring be."
+**15:5** He brought him outside and said, "Look up now to the heavens and count the stars, if you can count them." Then He said to him, "So will your seed be."
 
 **15:6** And he trusted in the LORD, and He counted it as righteousness for him.
 
@@ -29,7 +29,7 @@
 
 **15:12** Now as the sun was about to go down, a deep sleep fell on Abram; and look, a dread, a great darkness, was falling on him.
 
-**15:13** Then He said to Abram, "Know for certain that your offspring will be sojourners in a land that is not theirs, and they will serve them, and they will afflict them for four hundred years.
+**15:13** Then He said to Abram, "Know for certain that your seed will be a sojourner in a land that is not theirs, and they will serve them, and they will afflict them for four hundred years.
 
 **15:14** Yet I will also judge the nation they will serve, and after that they will come out with great possessions.
 
@@ -39,7 +39,7 @@
 
 **15:17** When the sun had gone down and thick darkness had set in, look—there was a smoking firepot and a torch of fire that passed between these pieces.
 
-**15:18** On that day the LORD made a covenant with Abram, saying, "To your offspring I have given this land, from the river of Egypt to the great river, the Euphrates River:
+**15:18** On that day the LORD made a covenant with Abram, saying, "To your seed I have given this land, from the river of Egypt to the great river, the Euphrates River:
 
 **15:19** the Kenites, the Kenizzites, and the Kadmonites,
 
@@ -53,4 +53,4 @@
 - **15:2** — Hebrew ben-mesheq beti contains the hapax legomenon mesheq (likely "acquisition" or "stewardship," hence "heir"), forming a wordplay with Dammeseq ("Damascus") at the end of the verse.
 - **15:6** — Hebrew he'emin (Hiphil perfect of aman with simple waw) expresses active trust or belief, and wayyachsheveha carries a feminine singular object suffix referring to that act of trust.
 - **15:9** — Hebrew meshulleshet / meshullash (Pual participle of shalash, literally "threefold") is generally understood to mean "three-year-old," though some ancient interpreters took it to mean "three of each."
-- **15:13** — Hebrew shifts the subject across two active verbs: va'avadum ("they [the offspring] will serve them") and ve'innu otam ("they [the inhabitants] will afflict them").
+- **15:13** — Hebrew shifts the subject across two active verbs: va'avadum ("they [your seed] will serve them") and ve'innu otam ("they [the inhabitants] will afflict them").

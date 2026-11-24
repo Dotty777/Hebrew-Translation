@@ -15,7 +15,7 @@
 
 **30:5** And the LORD your God will bring you to the land that your fathers possessed, and you will possess it; and He will make you prosper and make you more numerous than your fathers.
 
-**30:6** Then the LORD your God will circumcise your heart and the heart of your offspring, to love the LORD your God with all your heart and with all your soul, for the sake of your life.
+**30:6** Then the LORD your God will circumcise your heart and the heart of your seed, to love the LORD your God with all your heart and with all your soul, for the sake of your life.
 
 **30:7** And the LORD your God will place all these sworn curses upon your enemies and upon those who hate you, who pursued you.
 
@@ -41,7 +41,7 @@
 
 **30:18** I announce to you today that you will certainly perish; you will not prolong your days on the land that you are crossing the Jordan to enter and possess.
 
-**30:19** I summon the heavens and the earth as witnesses against you today: life and death I have placed before you, the blessing and the curse. Choose life, therefore, so that you may live, you and your offspring,
+**30:19** I summon the heavens and the earth as witnesses against you today: life and death I have placed before you, the blessing and the curse. Choose life, therefore, so that you may live, you and your seed,
 
 **30:20** loving the LORD your God, listening to His voice, and clinging to Him; for He is your life and the length of your days, so that you may live on the land that the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to them."
 

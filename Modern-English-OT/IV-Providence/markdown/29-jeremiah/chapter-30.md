@@ -11,7 +11,7 @@
 
 **30:3** If grape harvesters came to you, would they not leave gleanings? If thieves came by night, they would destroy what suffices for them.
 
-**30:4** But I have laid Esau bare; I have uncovered his hiding places, and he is unable to hide himself. His offspring, his brothers, and his neighbors are devastated, and he is no more.
+**30:4** But I have laid Esau bare; I have uncovered his hiding places, and he is unable to hide himself. His seed, his brothers, and his neighbors are devastated, and he is no more.
 
 **30:5** Leave your fatherless children; I will preserve them alive, and let your widows trust in Me."
 

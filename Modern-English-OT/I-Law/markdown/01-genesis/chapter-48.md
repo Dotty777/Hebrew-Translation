@@ -11,7 +11,7 @@
 
 **48:3** Jacob said to Joseph, "God Almighty appeared to me at Luz in the land of Canaan and blessed me.
 
-**48:4** And He said to me, 'See, I am going to make you fruitful and multiply you, and I will make you into an assembly of peoples, and I will give this land to your offspring after you as a perpetual possession.'
+**48:4** And He said to me, 'See, I am going to make you fruitful and multiply you, and I will make you into an assembly of peoples, and I will give this land to your seed after you as a perpetual possession.'
 
 **48:5** So now, your two sons born to you in the land of Egypt before my coming to you into Egypt belong to me; Ephraim and Manasseh shall be mine, like Reuben and Simeon.
 
@@ -25,7 +25,7 @@
 
 **48:10** Now the eyes of Israel had grown heavy from old age; he was unable to see. So he brought them near to him, and he kissed them and embraced them.
 
-**48:11** Then Israel said to Joseph, "I did not suppose I would see your face, yet look, God has let me see your offspring too."
+**48:11** Then Israel said to Joseph, "I did not suppose I would see your face, yet look, God has let me see your seed too."
 
 **48:12** Then Joseph brought them out from beside his knees and bowed low with his face to the ground.
 
@@ -41,7 +41,7 @@
 
 **48:18** Then Joseph said to his father, "Not like this, my father, because this one is the firstborn; lay your right hand on his head."
 
-**48:19** Yet his father refused and said, "I know, my son, I know; he too will become a people, and he too will grow great. Nevertheless, his younger brother will grow greater than he, and his offspring will become a fullness of nations."
+**48:19** Yet his father refused and said, "I know, my son, I know; he too will become a people, and he too will grow great. Nevertheless, his younger brother will grow greater than he, and his seed will become a fullness of nations."
 
 **48:20** So he blessed them on that day, saying, "By you Israel will pronounce blessing, saying, 'May God make you like Ephraim and like Manasseh.'" Thus he set Ephraim ahead of Manasseh.
 

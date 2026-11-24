@@ -21,7 +21,7 @@
 
 **65:8** This is what the LORD says: "Just as new wine is found in the cluster and someone says, 'Do not destroy it, because a blessing is in it,' so will I act for the sake of My servants, so as not to destroy all of it.
 
-**65:9** I will bring out offspring from Jacob, and from Judah an inheritor of My mountains; My chosen ones will inherit it, and My servants will reside there.
+**65:9** I will bring out seed from Jacob, and from Judah an inheritor of My mountains; My chosen ones will inherit it, and My servants will reside there.
 
 **65:10** Sharon will become a grazing land for flocks, and the Valley of Achor a resting place for cattle, for My people who have sought Me.
 
@@ -49,7 +49,7 @@
 
 **65:22** They will not build and another live there; they will not plant and another eat; for like the days of a tree will be the days of My people, and My chosen ones will use to the full the work of their hands.
 
-**65:23** They will not toil in vain, nor bear children for sudden disaster, because they are the offspring of the LORD's blessed ones, and their descendants are with them.
+**65:23** They will not toil in vain, nor bear children for sudden disaster, because they are the seed of the LORD's blessed ones, and their descendants are with them.
 
 **65:24** And it will happen that before they call, I will answer, and while they are still speaking, I will listen.
 

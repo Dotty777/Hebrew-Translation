@@ -27,9 +27,9 @@
 
 **21:11** And the matter was deeply troubling in the eyes of Abraham on account of his son.
 
-**21:12** But God said to Abraham, "Do not let it be troubling in your eyes because of the boy and because of your slave woman. In all that Sarah says to you, listen to her voice, for in Isaac offspring will be named for you.
+**21:12** But God said to Abraham, "Do not let it be troubling in your eyes because of the boy and because of your slave woman. In all that Sarah says to you, listen to her voice, for in Isaac seed will be named for you.
 
-**21:13** And I will also make the son of the slave woman into a nation, for he is your offspring."
+**21:13** And I will also make the son of the slave woman into a nation, for he is your seed."
 
 **21:14** Abraham got up early in the morning, took bread and a skin of water, and gave them to Hagar—placing them on her shoulder—together with the child, and sent her away. And she went and wandered in the wilderness of Beersheba.
 

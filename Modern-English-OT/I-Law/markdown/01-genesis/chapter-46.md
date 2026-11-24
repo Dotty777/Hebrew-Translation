@@ -15,9 +15,9 @@
 
 **46:5** Jacob then rose from Beersheba, and the sons of Israel carried their father Jacob, their little ones, and their wives in the wagons Pharaoh had sent to carry him.
 
-**46:6** They took their livestock and the possessions they had acquired in the land of Canaan, and they came to Egypt, Jacob and all his offspring with him.
+**46:6** They took their livestock and the possessions they had acquired in the land of Canaan, and they came to Egypt, Jacob and all his seed with him.
 
-**46:7** His sons and his sons' sons with him, his daughters and his sons' daughters, and all his offspring he brought with him into Egypt.
+**46:7** His sons and his sons' sons with him, his daughters and his sons' daughters, and all his seed he brought with him into Egypt.
 
 **46:8** These are the names of the sons of Israel who came to Egypt, Jacob and his sons: Jacob's firstborn, Reuben.
 

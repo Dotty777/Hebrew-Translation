@@ -47,7 +47,7 @@
 
 **44:21** And no priest shall drink wine when entering the inner courtyard.
 
-**44:22** And they shall not take a widow or a divorced woman for themselves as wives, but only virgins from the offspring of the house of Israel, or they may take a widow who is the widow of a priest.
+**44:22** And they shall not take a widow or a divorced woman for themselves as wives, but only virgins from the seed of the house of Israel, or they may take a widow who is the widow of a priest.
 
 **44:23** And they shall teach My people to discern between the holy and the common, and make them know the distinction between the unclean and the clean.
 

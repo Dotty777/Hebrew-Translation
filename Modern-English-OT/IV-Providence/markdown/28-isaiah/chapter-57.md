@@ -9,9 +9,9 @@
 
 **57:2** He comes into peace; they rest on their beds, whoever walks in his uprightness.
 
-**57:3** But you, come close here, sons of a sorceress, offspring of an adulterer and of her who commits prostitution!
+**57:3** But you, come close here, sons of a sorceress, seed of an adulterer and of her who commits prostitution!
 
-**57:4** At whom are you mocking? At whom do you open wide the mouth and stretch out the tongue? Are you not children of rebellion, offspring of falsehood,
+**57:4** At whom are you mocking? At whom do you open wide the mouth and stretch out the tongue? Are you not children of rebellion, seed of falsehood,
 
 **57:5** you who are inflamed with passion among the oaks, beneath every lush tree, who slaughter the children in the ravines, beneath the clefts of the rocks?
 

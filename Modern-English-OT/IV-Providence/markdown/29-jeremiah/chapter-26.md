@@ -53,7 +53,7 @@
 
 **26:25** The LORD of hosts, the God of Israel, has said, "Look, I am about to punish Amon of No, and Pharaoh, and Egypt, and her gods, and her kings—even Pharaoh and those who trust in him."
 
-**26:27** But you, do not fear, My servant Jacob, and do not be dismayed, Israel; for look, I am about to save you from afar, and your offspring from the land of their captivity. Jacob will return and be quiet and at ease, and no one will frighten him.
+**26:27** But you, do not fear, My servant Jacob, and do not be dismayed, Israel; for look, I am about to save you from afar, and your seed from the land of their captivity. Jacob will return and be quiet and at ease, and no one will frighten him.
 
 **26:28** As for you, do not fear, My servant Jacob, declares the LORD, for I am with you. For I will make a complete end of all the nations to which I have banished you, yet of you I will not make a complete end; I will discipline you in justice, and I will by no means let you go unpunished.
 

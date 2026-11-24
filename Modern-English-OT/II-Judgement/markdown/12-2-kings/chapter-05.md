@@ -57,7 +57,7 @@
 
 **5:26** Then he said to him, "Did not my heart go along when the man turned back from his chariot to meet you? Is it a time to take the silver and to take garments, and olive groves and vineyards, and flocks and herds, and male servants and female servants?
 
-**5:27** Therefore the leprosy of Naaman shall cling to you and to your offspring forever." So he went out from his presence leprous, like snow.
+**5:27** Therefore the leprosy of Naaman shall cling to you and to your seed forever." So he went out from his presence leprous, like snow.
 
 ## Translator Notes
 

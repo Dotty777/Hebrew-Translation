@@ -33,7 +33,7 @@
 
 **10:14** See, to the LORD your God belong the heavens and the heaven of heavens, the earth and everything that is in it.
 
-**10:15** Yet the LORD fixed His affection on your fathers alone, to love them, and He chose their offspring after them—you—out of all the peoples, as it is this day.
+**10:15** Yet the LORD fixed His affection on your fathers alone, to love them, and He chose their seed after them—you—out of all the peoples, as it is this day.
 
 **10:16** So circumcise the foreskin of your heart, and do not stiffen your neck any longer.
 

@@ -17,17 +17,17 @@
 
 **17:6** And I will make you very fruitful indeed; I will make you into nations, and kings will come out from you.
 
-**17:7** And I will establish My covenant between Me and you, and your offspring after you through their generations, as a perpetual covenant, to be God for you and for your offspring after you.
+**17:7** And I will establish My covenant between Me and you, and your seed after you through their generations, as a perpetual covenant, to be God for you and for your seed after you.
 
-**17:8** And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, as a perpetual possession, and I will be God for them."
+**17:8** And I will give to you and to your seed after you the land of your sojournings, all the land of Canaan, as a perpetual possession, and I will be God for them."
 
-**17:9** Then God said to Abraham, "And as for you, you must keep My covenant—you and your offspring after you through their generations.
+**17:9** Then God said to Abraham, "And as for you, you must keep My covenant—you and your seed after you through their generations.
 
-**17:10** This is My covenant that you must keep between Me and you and your offspring after you: every male among you is to be circumcised.
+**17:10** This is My covenant that you must keep between Me and you and your seed after you: every male among you is to be circumcised.
 
 **17:11** And you shall circumcise the flesh of your foreskin, and it shall serve as a sign of the covenant between Me and you.
 
-**17:12** At eight days old, every male among you shall be circumcised through your generations—whether born in the house or purchased with silver from any foreigner who is not from your offspring.
+**17:12** At eight days old, every male among you shall be circumcised through your generations—whether born in the house or purchased with silver from any foreigner who is not from your seed.
 
 **17:13** Both the one born in your house and the one purchased with your silver must certainly be circumcised, and My covenant in your flesh shall be a perpetual covenant.
 
@@ -41,7 +41,7 @@
 
 **17:18** And Abraham said to God, "If only Ishmael might live in Your presence!"
 
-**17:19** But God said, "No; Sarah your wife is going to bear you a son, and you shall call his name Isaac. And I will establish My covenant with him as a perpetual covenant for his offspring after him.
+**17:19** But God said, "No; Sarah your wife is going to bear you a son, and you shall call his name Isaac. And I will establish My covenant with him as a perpetual covenant for his seed after him.
 
 **17:20** As for Ishmael, I have heard you: see, I have blessed him, and I will make him fruitful and multiply him very greatly. Twelve princes he will father, and I will make him into a great nation.
 

@@ -13,7 +13,7 @@
 
 **88:4** "I have cut a covenant with My chosen one; I have sworn an oath to My servant David,
 
-**88:5** 'Forever I will establish your offspring, and I will build up your throne to every generation.'" Selah.
+**88:5** 'Forever I will establish your seed, and I will build up your throne to every generation.'" Selah.
 
 **88:6** And the heavens will praise Your wonder, LORD, indeed Your faithfulness in the assembly of the holy ones.
 
@@ -63,7 +63,7 @@
 
 **88:29** Forever I will keep My loyal love for him, and My covenant will remain faithful to him.
 
-**88:30** And I will set his offspring for all time, and his throne like the days of the heavens.
+**88:30** And I will set his seed for all time, and his throne like the days of the heavens.
 
 **88:31** If his sons abandon My law and do not walk in My ordinances,
 
@@ -77,7 +77,7 @@
 
 **88:36** Once I swore by My holiness: I will surely not lie to David.
 
-**88:37** His offspring will continue forever, and his throne like the sun before Me.
+**88:37** His seed will continue forever, and his throne like the sun before Me.
 
 **88:38** Like the moon it will stand established forever, and the witness in the skies is faithful." Selah.
 

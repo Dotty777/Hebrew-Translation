@@ -47,7 +47,7 @@
 
 **24:21** And now, look, I know that you will surely reign, and the kingdom of Israel will stand firm in your hand.
 
-**24:22** And now, swear to me by the LORD that you will not cut off my offspring after me and that you will not wipe out my name from the house of my father."
+**24:22** And now, swear to me by the LORD that you will not cut off my seed after me and that you will not wipe out my name from the house of my father."
 
 **24:23** So David swore to Saul, and Saul went to his house, while David and his men went up to the stronghold.
 

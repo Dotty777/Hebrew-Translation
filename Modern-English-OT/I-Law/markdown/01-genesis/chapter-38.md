@@ -19,9 +19,9 @@
 
 **38:7** But Er, Judah's firstborn, was evil in the eyes of the LORD, so the LORD put him to death.
 
-**38:8** Then Judah said to Onan, "Go in to your brother's wife, fulfill the duty of a brother-in-law to her, and raise up offspring for your brother."
+**38:8** Then Judah said to Onan, "Go in to your brother's wife, fulfill the duty of a brother-in-law to her, and raise up seed for your brother."
 
-**38:9** But Onan knew that the offspring would not belong to him; so whenever he went in to his brother's wife, he would waste it on the ground, so as not to give offspring to his brother.
+**38:9** But Onan knew that the seed would not belong to him; so whenever he went in to his brother's wife, he would waste it on the ground, so as not to give seed to his brother.
 
 **38:10** What he did was evil in the eyes of the LORD, so He put him to death as well.
 

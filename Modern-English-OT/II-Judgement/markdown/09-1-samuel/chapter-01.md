@@ -25,7 +25,7 @@
 
 **1:10** She was bitter in soul, and she prayed to the LORD and wept profusely.
 
-**1:11** And she vowed a vow and said, "LORD of hosts, if You will truly look upon the affliction of Your maidservant and remember me, and not forget Your maidservant, but give to Your maidservant male offspring, then I will give him to the LORD all the days of his life, and no razor shall come upon his head."
+**1:11** And she vowed a vow and said, "LORD of hosts, if You will truly look upon the affliction of Your maidservant and remember me, and not forget Your maidservant, but give to Your maidservant male seed, then I will give him to the LORD all the days of his life, and no razor shall come upon his head."
 
 **1:12** And it happened that as she kept on praying before the LORD, Eli was watching her mouth.
 

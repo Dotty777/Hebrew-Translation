@@ -19,7 +19,7 @@
 
 **1:7** Turn and set out, and go to the hill country of the Amorites and to all their neighbors in the Arabah, in the hill country, in the lowland, in the Negev, and by the seacoast, the land of the Canaanites and Lebanon, as far as the great river, the Euphrates River.
 
-**1:8** Look, I have put the land before you. Go in and possess the land that the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to them and to their offspring after them."
+**1:8** Look, I have put the land before you. Go in and possess the land that the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to them and to their seed after them."
 
 **1:9** Then I spoke to you at that time, saying, "I am unable to bear you alone.
 

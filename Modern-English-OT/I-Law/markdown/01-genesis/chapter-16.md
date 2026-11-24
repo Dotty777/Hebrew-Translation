@@ -23,7 +23,7 @@
 
 **16:9** Then the angel of the LORD said to her, "Return to your mistress and submit yourself under her hands."
 
-**16:10** And the angel of the LORD said to her, "I will greatly multiply your offspring, so that they cannot be counted for their abundance."
+**16:10** And the angel of the LORD said to her, "I will greatly multiply your seed, so that it cannot be counted for its abundance."
 
 **16:11** And the angel of the LORD said to her, "Look, you are pregnant and about to bear a son; you will call his name Ishmael, for the LORD has heard your affliction.
 

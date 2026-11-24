@@ -59,7 +59,7 @@
 
 **5:27** When he has made her drink the water, then it shall happen that if she has become defiled and has committed a breach of faith against her husband, the water that inflicts a curse shall enter her, causing bitterness, and her belly shall swell and her thigh shall fall away, and the woman shall become a curse among her people.
 
-**5:28** But if the woman has not become defiled and she is clean, then she shall be acquitted and shall conceive offspring.
+**5:28** But if the woman has not become defiled and she is clean, then she shall be acquitted and shall conceive seed.
 
 **5:29** This is the law of jealousy, when a wife turns aside while under her husband's authority and becomes defiled,
 

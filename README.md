@@ -67,3 +67,5 @@ Verse numbers follow the Saints (Greek) column; where the Masoretic Text numbers
 [10 November 2026 Genesis reading pass](corrections/2026-11-10-genesis-reading-pass/README.md) reviews Genesis 1–5 against the Masoretic Text for accuracy and spoken flow.
 
 [13 November 2026 Genesis reading pass](corrections/2026-11-13-genesis-reading-pass/README.md) continues it through Genesis 6–50: 87 readings revised (3 major), with points left for a specialist.
+
+[24 November 2026 Modern English fidelity review](corrections/2026-11-24-modern-english-fidelity/README.md) records a verse-by-verse review of the whole Hebrew-based Saints Modern English edition against the Saints Hebrew Critical Text: verse structure re-paired so every Masoretic verse is translated once (complete verse map), 993 wording and note changes, edition-wide standardized renderings (hesed "loyal love", zera "seed", and others), and open editorial decisions.

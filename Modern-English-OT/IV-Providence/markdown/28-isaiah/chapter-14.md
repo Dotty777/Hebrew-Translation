@@ -43,7 +43,7 @@
 
 **14:19** But you have been thrown out away from your grave like a detested branch, clothed with those killed, pierced by the sword, who go down to the stones of the Pit, like a corpse trampled underfoot.
 
-**14:20** You will not be united with them in burial, for you have ruined your land, you have killed your people. The offspring of evildoers will never be named.
+**14:20** You will not be united with them in burial, for you have ruined your land, you have killed your people. The seed of evildoers will never be named.
 
 **14:21** Prepare a slaughter place for his sons because of the iniquity of their fathers, so that they will not rise up and possess the earth and fill the surface of the world with cities."
 

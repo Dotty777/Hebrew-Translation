@@ -49,7 +49,7 @@
 
 **33:21** *(after `40:13`)* then My covenant may also be annulled with My servant David, so that he will not have a son reigning on his throne, and with the Levitical priests, My ministers.
 
-**33:22** *(after `40:13`)* Just as the host of the heavens cannot be counted and the sand of the sea cannot be measured, so I will multiply the offspring of My servant David and the Levites who minister to Me.
+**33:22** *(after `40:13`)* Just as the host of the heavens cannot be counted and the sand of the sea cannot be measured, so I will multiply the seed of My servant David and the Levites who minister to Me.
 
 **33:23** *(after `40:13`)* Then the word of the LORD came to Jeremiah, saying:
 
@@ -57,7 +57,7 @@
 
 **33:25** *(after `40:13`)* This is what the LORD says: If My covenant with day and night does not stand, and if I have not appointed the ordinances of heaven and earth,
 
-**33:26** *(after `40:13`)* then I will also reject the offspring of Jacob and of My servant David, so as not to take rulers from his offspring over the offspring of Abraham, Isaac, and Jacob. For I will restore their fortunes and show compassion to them.
+**33:26** *(after `40:13`)* then I will also reject the seed of Jacob and of My servant David, so as not to take rulers from his seed over the seed of Abraham, Isaac, and Jacob. For I will restore their fortunes and show compassion to them.
 
 ## Translator Notes
 

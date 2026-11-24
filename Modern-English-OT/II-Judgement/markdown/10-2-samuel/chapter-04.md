@@ -19,7 +19,7 @@
 
 **4:7** Now they came into the house while he was lying on his bed in his bedroom, and they struck him and put him to death and removed his head; and they took his head and went along the way of the Arabah all night.
 
-**4:8** And they brought the head of Ish-bosheth to David in Hebron and said to the king, "Here is the head of Ish-bosheth, the son of Saul, your enemy, who sought your life! And the LORD has granted my lord the king vengeance this day on Saul and on his offspring."
+**4:8** And they brought the head of Ish-bosheth to David in Hebron and said to the king, "Here is the head of Ish-bosheth, the son of Saul, your enemy, who sought your life! And the LORD has granted my lord the king vengeance this day on Saul and on his seed."
 
 **4:9** Then David answered Rechab and his brother Baanah, sons of Rimmon the Beerothite, and said to them, "As the LORD lives, who has redeemed my life from every distress,
 

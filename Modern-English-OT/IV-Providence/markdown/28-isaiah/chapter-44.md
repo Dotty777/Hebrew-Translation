@@ -9,7 +9,7 @@
 
 **44:2** This is what the LORD says, who made you and formed you from the womb, who will help you: "Do not be afraid, My servant Jacob, and Jeshurun, whom I have chosen.
 
-**44:3** For I will pour out water upon thirsty ground and flowing streams upon the dry land; I will pour out My Spirit upon your offspring and My blessing upon your descendants.
+**44:3** For I will pour out water upon thirsty ground and flowing streams upon the dry land; I will pour out My Spirit upon your seed and My blessing upon your descendants.
 
 **44:4** They will sprout among the grass, like willows along channels of water.
 

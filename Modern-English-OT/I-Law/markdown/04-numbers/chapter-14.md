@@ -51,7 +51,7 @@
 
 **14:23** not one of them will see the land that I swore to their fathers, and none of those who scorn Me will see it.
 
-**14:24** But as for My servant Caleb, because a different spirit has been with him and he has followed Me wholeheartedly, I will bring him into the land where he went, and his offspring will take possession of it.
+**14:24** But as for My servant Caleb, because a different spirit has been with him and he has followed Me wholeheartedly, I will bring him into the land where he went, and his seed will take possession of it.
 
 **14:25** Now the Amalekites and the Canaanites are living in the valley. Tomorrow turn around and set out into the wilderness by the way to the Sea of Reeds."
 

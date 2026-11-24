@@ -45,7 +45,7 @@
 
 **31:20** For when I bring them into the land flowing with milk and honey that I swore to their fathers, and they eat and are filled and grow fat, they will turn to other gods and serve them, and they will treat Me with contempt and break My covenant.
 
-**31:21** And it will come about, when many calamities and distresses overtake them, that this song will testify before them as a witness—for it will not be forgotten from the mouths of their offspring—for I know their inclination, which they are forming today, before I bring them into the land of which I swore."
+**31:21** And it will come about, when many calamities and distresses overtake them, that this song will testify before them as a witness—for it will not be forgotten from the mouth of their seed—for I know their inclination, which they are forming today, before I bring them into the land of which I swore."
 
 **31:22** Then Moses wrote down this song on that day and taught it to the sons of Israel.
 

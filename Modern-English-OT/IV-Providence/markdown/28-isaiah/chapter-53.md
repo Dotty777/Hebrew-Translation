@@ -23,7 +23,7 @@
 
 **53:9** And they assigned his grave with the wicked, and with a rich man in his deaths, although he had done no violence, and there was no deceit in his mouth.
 
-**53:10** Yet the LORD was pleased to crush him; He made him sick. If his soul makes a guilt offering, he will see offspring, he will lengthen his days, and the pleasure of the LORD will succeed in his hand.
+**53:10** Yet the LORD was pleased to crush him; He made him sick. If his soul makes a guilt offering, he will see seed, he will lengthen his days, and the pleasure of the LORD will succeed in his hand.
 
 **53:11** Because of the anguish of his soul he will see, he will be satisfied; by his knowledge the righteous one, My servant, will make the many righteous, and he himself will carry their iniquities.
 

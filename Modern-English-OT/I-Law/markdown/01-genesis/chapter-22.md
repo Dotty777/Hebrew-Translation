@@ -37,9 +37,9 @@
 
 **22:16** He said, "By Myself I have sworn—declares the LORD—because you have done this thing and have not held back your son, your only one,
 
-**22:17** I will most certainly bless you, and I will abundantly multiply your offspring like the stars of the heavens and like the sand that is on the shore of the sea; and your offspring will take possession of the gate of his enemies.
+**22:17** I will most certainly bless you, and I will abundantly multiply your seed like the stars of the heavens and like the sand that is on the shore of the sea; and your seed will take possession of the gate of his enemies.
 
-**22:18** And all the nations of the earth will bless themselves by your offspring, because you have listened to My voice."
+**22:18** And all the nations of the earth will bless themselves by your seed, because you have listened to My voice."
 
 **22:19** Then Abraham returned to his young men; they got up and went together to Beersheba, and Abraham settled in Beersheba.
 

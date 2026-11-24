@@ -43,7 +43,7 @@
 
 **2:19** And his mother would make a small robe for him and bring it up to him from year to year, whenever she went up with her husband to offer the annual sacrifice.
 
-**2:20** And Eli would bless Elkanah and his wife and say, "May the LORD grant you offspring by this woman in place of the request that was asked for the LORD." Then they would go to his home.
+**2:20** And Eli would bless Elkanah and his wife and say, "May the LORD grant you seed by this woman in place of the request that was asked for the LORD." Then they would go to his home.
 
 **2:21** For the LORD visited Hannah, and she conceived and gave birth to three sons and two daughters. And the boy Samuel grew up with the LORD.
 

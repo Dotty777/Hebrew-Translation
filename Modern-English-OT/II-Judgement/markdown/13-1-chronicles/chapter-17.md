@@ -25,7 +25,7 @@
 
 **17:10** even from the days when I appointed judges over My people Israel. And I will subdue all your enemies. Moreover, I declare to you that the LORD will build a house for you.
 
-**17:11** And it will happen, when your days are fulfilled to go to be with your fathers, that I will raise up your offspring after you, who will be one of your sons, and I will establish his kingdom.
+**17:11** And it will happen, when your days are fulfilled to go to be with your fathers, that I will raise up your seed after you, who will be one of your sons, and I will establish his kingdom.
 
 **17:12** He is the one who will build a house for Me, and I will establish his throne forever.
 

@@ -11,7 +11,7 @@
 
 **1:3** An ox knows its owner, and a donkey its master's feeding trough; Israel does not know, My people do not discern."
 
-**1:4** Woe, sinful nation, a people heavy with iniquity, offspring of evildoers, sons who act corruptly! They have abandoned the LORD, they have spurned the Holy One of Israel, they have turned backward in estrangement.
+**1:4** Woe, sinful nation, a people heavy with iniquity, seed of evildoers, sons who act corruptly! They have abandoned the LORD, they have spurned the Holy One of Israel, they have turned backward in estrangement.
 
 **1:5** Why will you still be struck? You keep adding defection! The entire head is sick, and the entire heart is ailing.
 

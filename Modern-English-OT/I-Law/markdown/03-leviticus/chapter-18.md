@@ -45,7 +45,7 @@
 
 **18:20** And with your neighbor's wife you must not lie sexually, to become defiled by her.
 
-**18:21** And you must not give any of your offspring to make them pass over to Molech, and you must not profane the name of your God; I am the LORD.
+**18:21** And you must not give any of your seed to make them pass over to Molech, and you must not profane the name of your God; I am the LORD.
 
 **18:22** And with a male you must not lie as one lies with a woman; it is an abomination.
 
@@ -69,6 +69,6 @@
 
 - **18:6** — The Hebrew pairs the distributive singular phrase "any man ... his flesh" with the second-person plural verb lo' tiqrevu ("you shall not approach"); she'er besaro is literally "flesh of his flesh," an idiom for close blood kin.
 - **18:18** — The Qal infinitive construct litsror derives from tsarar ("to be a rival wife" or "to create rivalry," cognate with tsarah, "rival wife," in 1 Sam 1:6).
-- **18:20** — Literally, "you must not give your lying for seed" (lo'-titten shekhavtekha lezara'), an idiom for sexual intercourse; the noun zera' ("seed") also creates a verbal link to "your offspring" (mizzar'akha) in v. 21.
+- **18:20** — Literally, "you must not give your lying for seed" (lo'-titten shekhavtekha lezara'), an idiom for sexual intercourse; the noun zera' ("seed") also creates a verbal link to "your seed" (mizzar'akha) in v. 21.
 - **18:21** — The Hiphil infinitive construct leha'avir (literally "to cause to pass over") appears here without the phrase "through the fire" found in parallel texts (e.g., Deut 18:10; 2 Kgs 23:10), denoting dedication or child sacrifice to Molech.
 - **18:30** — Hebrew uses the same noun huqqot ("statutes") for the nations' "abominable statutes" (cf. v. 3) as for the LORD's "statutes" in vv. 4, 5, and 26, underscoring the deliberate contrast between them.

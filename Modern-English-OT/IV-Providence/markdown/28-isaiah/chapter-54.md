@@ -9,7 +9,7 @@
 
 **54:2** "Widen the space of your tent, and let them stretch out the curtains of your dwellings; do not hold back! Lengthen your cords, and strengthen your pegs.
 
-**54:3** For to the right and to the left you will spread out, and your offspring will possess nations and populate desolate cities.
+**54:3** For to the right and to the left you will spread out, and your seed will possess nations and populate desolate cities.
 
 **54:4** Do not be afraid, for you will not be ashamed; and do not be humiliated, for you will not be disgraced; for you will forget the shame of your youth, and you will no longer remember the reproach of your widowhood.
 

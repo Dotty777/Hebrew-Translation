@@ -9,9 +9,9 @@
 
 **26:2** The LORD appeared to him and said, "Do not go down to Egypt; dwell in the land of which I will tell you.
 
-**26:3** Sojourn in this land, and I will be with you and bless you; for to you and to your offspring I will give all these lands, and I will uphold the oath that I swore to Abraham your father.
+**26:3** Sojourn in this land, and I will be with you and bless you; for to you and to your seed I will give all these lands, and I will uphold the oath that I swore to Abraham your father.
 
-**26:4** I will multiply your offspring like the stars of the heavens, and I will give to your offspring all these lands; and by your offspring all the nations of the earth will bless themselves,
+**26:4** I will multiply your seed like the stars of the heavens, and I will give to your seed all these lands; and by your seed all the nations of the earth will bless themselves,
 
 **26:5** because Abraham listened to My voice and observed My charge, My commands, My statutes, and My instructions."
 
@@ -51,7 +51,7 @@
 
 **26:23** From there he went up to Beersheba.
 
-**26:24** The LORD appeared to him on that night and said, "I am the God of Abraham your father. Do not be afraid, for I am with you; I will bless you and multiply your offspring for the sake of My servant Abraham."
+**26:24** The LORD appeared to him on that night and said, "I am the God of Abraham your father. Do not be afraid, for I am with you; I will bless you and multiply your seed for the sake of My servant Abraham."
 
 **26:25** He built an altar there and called on the name of the LORD; he also pitched his tent there, and Isaac's servants dug a well there.
 
@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **26:4** — The verb "will bless themselves" is in the Hithpael stem (of barak), which is primarily reflexive—invoking your offspring's name in blessing—though it can also bear a passive sense ("will be blessed").
+- **26:4** — The verb "will bless themselves" is in the Hithpael stem (of barak), which is primarily reflexive—invoking the name of your seed in blessing—though it can also bear a passive sense ("will be blessed").
 - **26:8** — The participle "caressing" (Piel of tsahaq, "laugh, play intimately") plays on the name Isaac (Yitshaq, from the same root).
 - **26:12** — Hebrew me'ah she'arim literally means "a hundred measures" (or "portions"), an idiom for a hundredfold return on the seed sown.
 - **26:20** — The well names in vv. 20-22 reflect Isaac's experiences: Esek means "Contention" (playing on the Hithpael verb "contended"), Sitnah means "Opposition" or "Hostility," and Rehoboth means "Broad Places" (playing on the Hiphil verb "has made room").

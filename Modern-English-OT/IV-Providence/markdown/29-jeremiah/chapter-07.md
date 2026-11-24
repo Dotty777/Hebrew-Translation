@@ -31,7 +31,7 @@
 
 **7:14** I will do to the house over which My name is called, in which you are trusting, and to the place that I gave to you and to your fathers, just as I did to Shiloh.
 
-**7:15** And I will cast you away from My presence, just as I cast away all your brothers, all the offspring of Ephraim."
+**7:15** And I will cast you away from My presence, just as I cast away all your brothers, all the seed of Ephraim."
 
 **7:16** "As for you, do not pray for this people, and do not lift up a cry or a prayer on their behalf, and do not plead with Me, for I will not listen to you.
 

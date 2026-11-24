@@ -65,7 +65,7 @@
 
 **43:30** Therefore this is what the LORD says regarding Jehoiakim king of Judah: He shall have no one sitting on the throne of David, and his corpse shall be thrown out to the heat by day and to the frost by night.
 
-**43:31** And I will call him, his offspring, and his servants to account for their iniquity, and I will bring on them, on the inhabitants of Jerusalem, and on the men of Judah all the calamity that I spoke against them, yet they did not listen.'"
+**43:31** And I will call him, his seed, and his servants to account for their iniquity, and I will bring on them, on the inhabitants of Jerusalem, and on the men of Judah all the calamity that I spoke against them, yet they did not listen.'"
 
 **43:32** So Jeremiah took another scroll and gave it to Baruch, son of Neriah, the scribe, and he wrote on it from the mouth of Jeremiah all the words of the book that Jehoiakim king of Judah had burned in the fire; and even more—many words like them—were added to them.
 

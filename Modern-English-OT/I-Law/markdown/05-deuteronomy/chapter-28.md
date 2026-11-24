@@ -95,7 +95,7 @@
 
 **28:45** And all these curses will come on you and pursue you and catch up with you until you are destroyed, because you did not listen to the voice of the LORD your God, to keep His commands and His statutes that He commanded you.
 
-**28:46** And they will be upon you as a sign and a wonder, and upon your offspring forever.
+**28:46** And they will be upon you as a sign and a wonder, and upon your seed forever.
 
 **28:47** Because you did not serve the LORD your God with joy and gladness of heart for the abundance of everything,
 
@@ -121,7 +121,7 @@
 
 **28:58** If you do not take care to carry out all the words of this law written in this book, to fear this glorious and fearsome name, the LORD your God,
 
-**28:59** then the LORD will make your afflictions and the afflictions of your offspring extraordinary—great and enduring afflictions, and severe and enduring sicknesses.
+**28:59** then the LORD will make your afflictions and the afflictions of your seed extraordinary—great and enduring afflictions, and severe and enduring sicknesses.
 
 **28:60** And He will bring back upon you all the diseases of Egypt that you dreaded, and they will cling to you.
 

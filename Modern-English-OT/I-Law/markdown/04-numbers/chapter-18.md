@@ -41,7 +41,7 @@
 
 **18:18** And their flesh shall be yours; like the breast of the wave offering and like the right thigh, it shall be yours.
 
-**18:19** All the contributions of the holy things that the sons of Israel lift up to the LORD I have given to you and to your sons and to your daughters with you as a lasting statute. It is an everlasting covenant of salt before the LORD for you and for your offspring with you."
+**18:19** All the contributions of the holy things that the sons of Israel lift up to the LORD I have given to you and to your sons and to your daughters with you as a lasting statute. It is an everlasting covenant of salt before the LORD for you and for your seed with you."
 
 **18:20** Then the LORD said to Aaron, "In their land you shall not inherit, and there shall be no portion for you in their midst; I am your portion and your inheritance in the midst of the sons of Israel.
 

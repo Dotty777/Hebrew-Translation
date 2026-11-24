@@ -9,9 +9,9 @@
 
 **22:2** "Speak to Aaron and to his sons that they keep themselves separate from the holy things of the sons of Israel, which they dedicate to Me, so that they do not profane My holy name. I am the LORD.
 
-**22:3** Say to them, 'Throughout your generations, whichever man among all your offspring approaches the holy things that the sons of Israel dedicate to the LORD while his uncleanness is on him, that person shall be cut off from before Me. I am the LORD.
+**22:3** Say to them, 'Throughout your generations, whichever man among all your seed approaches the holy things that the sons of Israel dedicate to the LORD while his uncleanness is on him, that person shall be cut off from before Me. I am the LORD.
 
-**22:4** No man from the offspring of Aaron who is leprous or has a discharge shall eat of the holy things until he is clean. And whoever touches anything unclean from a dead person, or a man from whom an emission of semen goes out,
+**22:4** No man from the seed of Aaron who is leprous or has a discharge shall eat of the holy things until he is clean. And whoever touches anything unclean from a dead person, or a man from whom an emission of semen goes out,
 
 **22:5** or a man who touches any swarming creature by which he becomes unclean, or a human being by whom he becomes unclean through any uncleanness of his—
 
@@ -29,7 +29,7 @@
 
 **22:12** And if the daughter of a priest marries a man who is an outsider, she herself shall not eat of the contribution of the holy things.
 
-**22:13** But if the daughter of a priest becomes a widow or divorced, and has no offspring, and returns to the house of her father as in her youth, she may eat from the food of her father; yet no outsider shall eat of it.
+**22:13** But if the daughter of a priest becomes a widow or divorced, and has no seed, and returns to the house of her father as in her youth, she may eat from the food of her father; yet no outsider shall eat of it.
 
 **22:14** And if a man eats anything holy unintentionally, he shall add a fifth part to it and give the holy thing to the priest.
 

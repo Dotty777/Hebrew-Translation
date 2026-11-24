@@ -43,7 +43,7 @@
 
 **17:19** Judah also did not keep the commandments of the LORD their God, but walked in the statutes of Israel that they had made.
 
-**17:20** So the LORD rejected all the offspring of Israel, afflicted them, and gave them into the hand of plunderers, until He had cast them from His presence.
+**17:20** So the LORD rejected all the seed of Israel, afflicted them, and gave them into the hand of plunderers, until He had cast them from His presence.
 
 **17:21** When He had torn Israel from the house of David, and they had made Jeroboam son of Nebat king, Jeroboam drove Israel away from following the LORD and made them sin a great sin.
 

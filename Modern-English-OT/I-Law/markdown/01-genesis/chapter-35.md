@@ -27,7 +27,7 @@
 
 **35:11** Then God said to him, "I am God Almighty; be fruitful and multiply. A nation and an assembly of nations will arise from you, and kings will come out from your loins.
 
-**35:12** The land that I gave to Abraham and to Isaac, to you I will give it; and to your offspring after you I will give the land."
+**35:12** The land that I gave to Abraham and to Isaac, to you I will give it; and to your seed after you I will give the land."
 
 **35:13** And God ascended from him at the place where He had spoken with him.
 

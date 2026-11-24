@@ -125,7 +125,7 @@
 
 **7:60** All the temple servants and the sons of Solomon's servants: three hundred ninety-two.
 
-**7:61** And these are the ones who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, yet they were unable to declare their fathers' house or their lineage, whether they were from Israel:
+**7:61** And these are the ones who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, yet they were unable to declare their fathers' house or their seed, whether they were from Israel:
 
 **7:62** The sons of Delaiah, the sons of Tobiah, and the sons of Nekoda: six hundred forty-two.
 

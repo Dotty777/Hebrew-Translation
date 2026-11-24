@@ -69,7 +69,7 @@
 
 **2:32** And the LORD will bring back his blood upon his own head, because he struck two men more righteous and better than himself and killed them with the sword, while my father David did not know—Abner son of Ner, commander of the army of Israel, and Amasa son of Jether, commander of the army of Judah.
 
-**2:33** Thus their blood shall come back upon the head of Joab and upon the head of his offspring forever; but for David and for his offspring and for his house and for his throne, there shall be peace forever from the LORD."
+**2:33** Thus their blood shall come back upon the head of Joab and upon the head of his seed forever; but for David and for his seed and for his house and for his throne, there shall be peace forever from the LORD."
 
 **2:34** Then Benaiah son of Jehoiada went up, struck him, and put him to death; and he was buried in his house in the wilderness.
 

@@ -19,7 +19,7 @@
 
 **41:7** The artisan strengthens the metalworker, and the one who smooths with the hammer strengthens the one who strikes the anvil, saying about the soldering, "It is good"; and he secures it with nails so that it will not topple.
 
-**41:8** Yet you, Israel, My servant, Jacob whom I chose, offspring of Abraham, My friend,
+**41:8** Yet you, Israel, My servant, Jacob whom I chose, seed of Abraham, My friend,
 
 **41:9** you whom I took hold of from the ends of the earth and summoned from its remote corners, and I said to you, "You are My servant; I chose you and did not reject you."
 

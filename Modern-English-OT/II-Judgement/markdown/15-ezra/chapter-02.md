@@ -121,7 +121,7 @@
 
 **2:58** All the temple servants and the sons of the servants of Solomon: three hundred ninety-two.
 
-**2:59** And these are those who went up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, yet they could not declare their fathers' house and their lineage, whether they were from Israel:
+**2:59** And these are those who went up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, yet they could not declare their fathers' house and their seed, whether they were from Israel:
 
 **2:60** The sons of Delaiah, the sons of Tobiah, and the sons of Nekoda: six hundred fifty-two.
 

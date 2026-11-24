@@ -19,7 +19,7 @@
 
 **21:7** Why do the wicked go on living, grow old, and even become mighty in power?
 
-**21:8** Their offspring stand established in their presence along with them, and their descendants are before their eyes.
+**21:8** Their seed stands established in their presence along with them, and their descendants are before their eyes.
 
 **21:9** Their houses are at peace, free from dread, and God's rod is not upon them.
 

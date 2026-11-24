@@ -33,11 +33,11 @@
 
 **21:14** A widow, a divorced woman, a profaned woman, a prostitute—these he shall not take; rather, he shall take a virgin from his own people as a wife,
 
-**21:15** and he shall not profane his offspring among his people, for I am the LORD who sanctifies him.'"
+**21:15** and he shall not profane his seed among his people, for I am the LORD who sanctifies him.'"
 
 **21:16** Then the LORD spoke to Moses, saying,
 
-**21:17** "Speak to Aaron, saying, 'Any man from your offspring throughout their generations who has a defect in him shall not approach to present the food of his God.
+**21:17** "Speak to Aaron, saying, 'Any man from your seed throughout their generations who has a defect in him shall not approach to present the food of his God.
 
 **21:18** For no man who has a defect in him shall approach: a man who is blind, or lame, or disfigured, or with an elongated limb,
 
@@ -45,7 +45,7 @@
 
 **21:20** or one who is hunchbacked, or stunted, or has a clouding in his eye, or scabies, or scabs, or a crushed testicle.
 
-**21:21** No man from the offspring of Aaron the priest who has a defect in him shall come near to present the fire offerings of the LORD; a defect is in him; he shall not come near to present the food of his God.
+**21:21** No man from the seed of Aaron the priest who has a defect in him shall come near to present the fire offerings of the LORD; a defect is in him; he shall not come near to present the food of his God.
 
 **21:22** He may eat the food of his God, from the most holy things and from the holy things;
 

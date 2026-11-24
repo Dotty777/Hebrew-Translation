@@ -29,7 +29,7 @@
 
 **11:13** Yet I will not tear away the whole kingdom; I will give one tribe to your son for the sake of David My servant and for the sake of Jerusalem, which I have chosen."
 
-**11:14** Then the LORD raised up an adversary against Solomon, Hadad the Edomite; he was of the king's offspring in Edom. And God raised up an adversary against him, Rezon the son of Eliada, who had fled from his master Hadadezer, king of Zobah. He gathered men to himself and became commander of a raiding band when David killed them; and they went to Damascus and settled in it, and they reigned in Damascus.
+**11:14** Then the LORD raised up an adversary against Solomon, Hadad the Edomite; he was of the king's seed in Edom. And God raised up an adversary against him, Rezon the son of Eliada, who had fled from his master Hadadezer, king of Zobah. He gathered men to himself and became commander of a raiding band when David killed them; and they went to Damascus and settled in it, and they reigned in Damascus.
 
 **11:15** Now it happened when David was in Edom, as Joab the commander of the army went up to bury the fallen, that he struck down every male in Edom.
 
@@ -87,7 +87,7 @@
 
 **11:3** *(after `11:2`)* And he had seven hundred wives who were princesses and three hundred concubines, and his wives turned his heart away.
 
-**11:39** *(after `11:38`)* "And I will afflict the offspring of David on account of this, yet not for all time."
+**11:39** *(after `11:38`)* "And I will afflict the seed of David on account of this, yet not for all time."
 
 ## Translator Notes
 

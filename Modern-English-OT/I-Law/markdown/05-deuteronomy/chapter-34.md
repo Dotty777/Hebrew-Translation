@@ -11,7 +11,7 @@
 
 **34:3** and the Negev, and the Plain—the valley of Jericho, the city of palms—as far as Zoar.
 
-**34:4** And the LORD said to him, "This is the land about which I swore to Abraham, to Isaac, and to Jacob, saying, 'To your offspring I will give it.' I have caused you to see it with your own eyes, yet you shall not cross over there."
+**34:4** And the LORD said to him, "This is the land about which I swore to Abraham, to Isaac, and to Jacob, saying, 'To your seed I will give it.' I have caused you to see it with your own eyes, yet you shall not cross over there."
 
 **34:5** And there Moses, the servant of the LORD, died in the land of Moab, at the LORD's command.
 

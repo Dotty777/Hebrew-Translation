@@ -53,7 +53,7 @@
 
 **4:24** If Cain will be avenged sevenfold, then Lamech seventy-sevenfold!"
 
-**4:25** And Adam knew his wife again, and she gave birth to a son and called his name Seth, "For God has appointed another offspring for me in place of Abel, since Cain killed him."
+**4:25** And Adam knew his wife again, and she gave birth to a son and called his name Seth, "For God has appointed another seed for me in place of Abel, since Cain killed him."
 
 **4:26** And to Seth as well a son was born, and he called his name Enosh. Then people began to call on the name of the LORD.
 

@@ -7,7 +7,7 @@
 
 **111:1** Praise the LORD! Happy is the man who fears the LORD, who deeply delights in His commandments.
 
-**111:2** His descendants will be powerful in the land; a generation of upright ones will be blessed.
+**111:2** His seed will be powerful in the land; a generation of upright ones will be blessed.
 
 **111:3** Abundance and riches are in his house, and his righteousness stands forever.
 

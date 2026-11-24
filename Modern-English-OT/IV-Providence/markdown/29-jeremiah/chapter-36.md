@@ -57,7 +57,7 @@
 
 **36:31** "Send to all the exiles, saying, 'This is what the LORD says concerning Shemaiah the Nehelamite: Because Shemaiah has prophesied to you, though I did not send him, and has made you trust in falsehood,
 
-**36:32** therefore this is what the LORD says: Look, I am about to punish Shemaiah the Nehelamite and his offspring; he shall not have a man dwelling among this people, and he shall not see the good that I am about to do for My people, declares the LORD, because he has spoken rebellion against the LORD.'"
+**36:32** therefore this is what the LORD says: Look, I am about to punish Shemaiah the Nehelamite and his seed; he shall not have a man dwelling among this people, and he shall not see the good that I am about to do for My people, declares the LORD, because he has spoken rebellion against the LORD.'"
 
 ## Additional Verses (Not in Saints Numbering)
 

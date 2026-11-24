@@ -43,7 +43,7 @@
 
 **11:20** The twisted in heart are an abomination to the LORD, but those blameless in their way are His pleasure.
 
-**11:21** Rest assured, an evil person will not be held guiltless, but the descendants of the righteous will escape.
+**11:21** Rest assured, an evil person will not be held guiltless, but the seed of the righteous will escape.
 
 **11:22** Like a ring of gold in a pig's snout, so is a beautiful woman who turns aside from good sense.
 
