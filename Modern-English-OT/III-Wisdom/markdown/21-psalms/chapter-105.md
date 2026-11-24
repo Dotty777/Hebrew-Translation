@@ -104,7 +104,7 @@
 ## Translator Notes
 
 - **105:20** — The Masoretic Text reads "their glory," referring to God as Israel's glory. Ancient Jewish scribal tradition lists this among the Tiqqune Soferim, where an earlier reading "My glory" or "His glory" was discussed.
-- **105:26** — "Lifted His hand" is a Biblical Hebrew idiom for swearing a solemn oath (cf. Num 14:30; Ezek 20:23). In v. 27, the Masoretic Text repeats the Hiphil infinitive of npl ("to cause to fall") rather than the reading "to scatter" adopted by some versions.
+- **105:26** — "Lifted His hand" is a Biblical Hebrew idiom for swearing a solemn oath (cf. Num 14:30; Ezek 20:23). In v. 27, the Masoretic Text repeats the Hiphil infinitive of npl ("to cause to fall") rather than "to scatter" as in the parallel Ezekiel 20:23.
 - **105:30** — The verb translated "executed judgment" is the Piel of pll, meaning to intervene, arbitrate, or execute judgment (distinct from the Hithpael, "to pray"), fitting Phinehas's decisive action in Numbers 25:7-8.
 - **105:33** — The verb translated "rebelled against" is the Hiphil of mrh (as in vv. 7 and 43). Because Moses is named in v. 32 and is the subject of the next clause, "His Spirit" may alternatively be understood as "his spirit" (Moses's spirit), taking the verb in the sense of provoking or embittering him.
 - **105:45** — The Hebrew form for "His acts of loyal love" is written defectively without a yod (resembling the singular Ketiv) but vocalized as plural, matching the plural Qere tradition and v. 7. The verb "relented" is the Niphal of nhm, expressing God's turning from judgment in compassion.

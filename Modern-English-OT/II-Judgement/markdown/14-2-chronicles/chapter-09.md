@@ -73,4 +73,4 @@
 - **9:10** — Ketiv/Qere variant on the Tyrian king's name: the Qere reads Huram (Chronicles' usual spelling), while the Ketiv reads Hiram (as in Kings).
 - **9:12** — Literally "beyond what she had brought to the king," an elliptical Chronicles idiom meaning Solomon gave her all she requested in addition to reciprocating beyond the gifts she had brought him.
 - **9:15** — The weight unit "shekels" is implicit in the Hebrew idiom (literally "six hundred of hammered gold," and likewise "three hundred of gold" in 9:16); zahav shahut denotes beaten, hammered, or alloyed gold.
-- **9:29** — Ketiv/Qere variant on the seer's name: the Qere reads Ye'do (traditionally rendered "Iddo," compare Iddo in 2 Chronicles 12:15 and 13:22), while the Ketiv reads Ye'di.
+- **9:29** — Ketiv/Qere variant on the seer's name: the Qere reads Ye'do (rendered here as "Iddo," compare Iddo in 2 Chronicles 12:15 and 13:22), while the Ketiv reads Ye'di.

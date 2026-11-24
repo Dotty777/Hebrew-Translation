@@ -74,4 +74,4 @@
 - **5:7** — "third in the kingdom": Aramaic talti (and talta in 5:16, 29) means "third" or "third ruler."
 - **5:8** — "its interpretation": Following the Qere ufishreh ("and its interpretation") rather than the Ketiv wpsr' ("and the interpretation").
 - **5:24 *(additional)*** — Literally "the palm of the hand."
-- **5:25 *(additional)*** — The Aramaic words name weights—mina, shekel, and half-minas (plural parsin, preceded by u-, "and," traditionally rendered "Upharsin")—which Daniel explains in 5:26-28 by wordplay on cognate verbs ("numbered," "weighed," "divided," using singular Peres) and the name Paras ("Persia").
+- **5:25 *(additional)*** — The Aramaic words name weights—mina, shekel, and half-minas (plural parsin, preceded by u-, "and")—which Daniel explains in 5:26-28 by wordplay on cognate verbs ("numbered," "weighed," "divided," using singular Peres) and the name Paras ("Persia").

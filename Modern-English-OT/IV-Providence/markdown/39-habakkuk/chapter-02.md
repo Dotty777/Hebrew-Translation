@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **2:3** — It hurries renders yapheah (from puah, breathe out, pant, or hasten); the form can also be parsed as a verbal adjective meaning testifies or witnesses (cf. Prov 14:5), pairing closely with will not lie.
-- **2:4** — Puffed up renders the 3fs Pual perfect 'uppela, agreeing with feminine naphsho (his soul). By his faithfulness translates be'emunato, denoting steadfast fidelity and trust (quoted in the New Testament as by faith).
+- **2:4** — Puffed up renders the 3fs Pual perfect 'uppela, agreeing with feminine naphsho (his soul). By his faithfulness translates be'emunato, denoting steadfast fidelity and trust.
 - **2:5** — Wine follows the Masoretic Hebrew (hayyayin), whereas the Dead Sea Pesher (1QpHab) reads wealth (hon). Settle down renders the rare verb yinveh (related to naveh, home or abode).
 - **2:16** — Be exposed as uncircumcised follows the Masoretic Niphal imperative vehe'arel (root 'rl), whereas the Dead Sea Pesher and Septuagint read a metathesized form meaning and stagger. Foul disgrace renders the hapax qiqalon, an intensive form of qalon (disgrace) suggesting a wordplay on qi' (vomit).
 - **2:17** — That terrified them follows the Masoretic verb yehitan (Hiphil imperfect of hatat with a 3fp suffix referring to the feminine plural beasts), whereas the Septuagint and Syriac read a 2ms suffix (will terrify you).

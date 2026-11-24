@@ -73,6 +73,6 @@
 
 - **2:9** — The Masoretic Text reads "the Ashurites" (ha'ashuri), possibly referring to the territory of Asher or a northern district; the prepositions "to" (el) and "over" (al) alternate interchangeably in this list.
 - **2:14** — The Piel verb yesahaqu literally means "play" or "make sport," used here as a grim military euphemism for a representative contest of combat.
-- **2:16** — Helkath-hazzurim is traditionally understood as "Field of Sword-edges" (or "Field of Flint-knives" or "Field of Rocks"), from Hebrew helqah ("plot, field") and tsurim ("flints, sharp edges, rocks").
+- **2:16** — Helkath-hazzurim may mean "Field of Sword-edges" (or "Field of Flint-knives" or "Field of Rocks"), from Hebrew helqah ("plot, field") and tsurim ("flints, sharp edges, rocks").
 - **2:27** — Joab's oath is syntactically ambiguous: Hebrew mehabboqer (lit. "from the morning") may refer either to the morning just past (implying the people would have withdrawn immediately had Abner not issued his challenge in v. 14) or to the following morning (implying the pursuit would have continued until dawn had Abner not called for a halt in v. 26).
 - **2:29** — Hebrew habbitron ("the Bithron," from a root meaning "cut" or "divide") likely designates a ravine or district east of the Jordan, though some interpreters take it temporally as "the half-day" or "forenoon."

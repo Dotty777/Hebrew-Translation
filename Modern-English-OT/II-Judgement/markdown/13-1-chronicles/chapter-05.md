@@ -93,4 +93,4 @@
 - **5:6** — The Masoretic Text of Chronicles spells this Assyrian king's name Tilgath-pilneser (also in 5:26 and 2 Chronicles 28:20), corresponding to Tiglath-pileser in 2 Kings 15:29.
 - **5:20** — The form וְנַעְתּוֹר is a Niphal infinitive absolute of עתר functioning as a finite verb continuing the preceding clause, conveying that God let Himself be moved and responded favorably to their plea.
 - **5:26** — Pul was the Babylonian throne name of Tilgath-pilneser (Tiglath-pileser III), and the following singular Hiphil verb וַיַּגְלֵם ("and he carried them into exile") treats them as one ruler, using a proleptic object suffix specified by the Late Biblical Hebrew direct-object preposition לְ.
-- **5:27** — Verses 5:27–41 in the Masoretic Hebrew versification correspond to 1 Chronicles 6:1–15 in most English translations.
+- **5:27** — Verses 5:27–41 in the Masoretic Hebrew versification are numbered 6:1–15 in another verse division.

@@ -20,6 +20,6 @@
 ## Translator Notes
 
 - **150:1** — Hebrew beqodsho can mean spatially "in His holy place" (sanctuary), matching the spatial parallel "in the expanse of His strength" (the heavenly vault, raqia'), or abstractly "in His holiness."
-- **150:3** — Hebrew teqa' (occurring only here, from taqa', "blow") denotes a loud blast of the shofar (curved animal horn). The nevel was a larger plucked stringed instrument (often translated "harp" or "lute") paired here with the kinnor ("lyre").
+- **150:3** — Hebrew teqa' (occurring only here, from taqa', "blow") denotes a loud blast of the shofar (curved animal horn). The nevel was a larger plucked stringed instrument (rendered "lute" here) paired here with the kinnor ("lyre").
 - **150:5** — Literally "cymbals of sound" (shama') and "cymbals of shouting" (teru'ah), likely distinguishing clearer, resonant cymbals from louder, clashing cymbals.
 - **150:6** — Hebrew kol haneshamah is literally "all the breath," a collective idiom for every breathing creature, construed with the feminine singular Piel jussive tehallel ("may [it] praise").

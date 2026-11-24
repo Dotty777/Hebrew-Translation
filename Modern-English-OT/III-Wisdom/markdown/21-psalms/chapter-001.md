@@ -19,6 +19,6 @@
 
 ## Translator Notes
 
-- **1:2** — Hebrew torah literally means "instruction" or "teaching" (often rendered "law"). The Qal verb rendered "meditates" denotes murmuring or reciting softly in reflection, and the same root recurs in 2:1 for the peoples plotting emptiness.
+- **1:2** — Hebrew torah literally means "instruction" or "teaching." The Qal verb rendered "meditates" denotes murmuring or reciting softly in reflection, and the same root recurs in 2:1 for the peoples plotting emptiness.
 - **1:3** — The noun rendered "channels" (palge) refers specifically to divided watercourses or irrigation canals. The final verb is Hiphil imperfect, functioning either internally ("everything he does will succeed") or causatively ("he brings everything he does to success").
 - **1:5** — In this legal setting ("in the judgment"), the Qal verb "stand up" means to withstand scrutiny or remain acquitted rather than mere physical posture.

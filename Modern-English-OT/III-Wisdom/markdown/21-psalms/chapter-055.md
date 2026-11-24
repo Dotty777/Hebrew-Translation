@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **55:1** — The obscure musical heading yonat 'elem rechoqim literally reads 'dove of silence of distant places' in MT; some versions revocalize 'elem ('silence') to 'elim ('terebinths/oaks').
+- **55:1** — The obscure musical heading yonat 'elem rechoqim literally reads 'dove of silence of distant places' in MT; an alternative vocalization 'elim would mean 'terebinths/oaks.'
 - **55:3** — The noun marom ('height, loftiness') is taken here adverbially ('haughtily/proudly'), though some construe it as a vocative divine title ('Most High' or 'Exalted One').
 - **55:7** — The Qere reads Qal yitsponu ('they lie hidden/lurk'), whereas the Ketiv reads Hiphil yatspinu ('they conceal' or 'set an ambush').
 - **55:8** — MT literally reads 'because of iniquity, escape for them' (using the noun/infinitive pallet, 'escape,' as in Ps 32:7 MT), understood here as an unmarked rhetorical question.

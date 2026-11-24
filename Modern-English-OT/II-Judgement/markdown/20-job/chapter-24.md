@@ -59,6 +59,6 @@
 
 - **24:6** — Qere reads יִקְצוֹרוּ (Qal, "they reap"), whereas ketiv reads יקצירו (apparently Hiphil). MT בְּלִילוֹ ("his fodder") refers to the wicked landowner's crop, parallel to "the wicked" in the second clause.
 - **24:11** — שׁוּרֹתָם can mean "their walls" or "their rows" (of olive trees); יַצְהִירוּ is a denominative Hiphil of צהר (from יִצְהָר, "fresh oil") meaning "press out oil."
-- **24:12** — MT vocalizes מְתִים ("men") and תִּפְלָה ("wrong/folly"; cf. Job 1:22); some versions revocalize these to מֵתִים ("the dying") and תְּפִלָּה ("prayer").
+- **24:12** — MT vocalizes מְתִים ("men") and תִּפְלָה ("wrong/folly"; cf. Job 1:22); an alternative vocalization reads מֵתִים ("the dying") and תְּפִלָּה ("prayer").
 - **24:18** — MT has no quotation marker ("You say") introducing vv. 18-24 and shifts between singular ("he") and plural ("their") pronouns referring collectively to the wicked.
 - **24:22** — מָשַׁךְ (Qal of משׁך) here means "prolongs/sustains" (with God as implied subject, continuing into v. 23), though some render "drags off." בַּחַיִּין exhibits the Aramaizing plural ending -ִין.

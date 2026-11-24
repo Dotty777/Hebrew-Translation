@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **12:5** — Hebrew yane'ts is a Hiphil imperfect meaning 'blossoms' (spelled with an orthographic aleph), and ha-'aviyyonah (occurring only here) denotes the caperberry, an ancient stimulant often rendered 'desire' by connection with the root meaning 'to desire.'
+- **12:5** — Hebrew yane'ts is a Hiphil imperfect meaning 'blossoms' (spelled with an orthographic aleph), and ha-'aviyyonah (occurring only here) denotes the caperberry, an ancient stimulant, though some take it as 'desire' by connection with the root meaning 'to desire.'
 - **12:6** — The written ketiv reads yirchaq ('is removed' or 'grows distant'), while the read qere followed here reads yerateq (Niphal imperfect, 'is snapped' or 'severed').
 - **12:8** — Hebrew hevel literally means 'vapor' or 'breath,' used metaphorically for transience or futility; ha-Qoheleth ('the Convener') is a title derived from the root qhl ('to assemble').
 - **12:10** — The Masoretic Text vocalizes katuv as a Qal passive participle ('written'), rather than an active finite verb ('wrote').

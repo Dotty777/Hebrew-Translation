@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **2:1** — Chavatstselet (traditionally rendered "rose") refers to a coastal wildflower of the Sharon plain, likely a crocus, narcissus, or asphodel.
+- **2:1** — Chavatstselet refers to a coastal wildflower of the Sharon plain, likely a crocus, narcissus, or asphodel.
 - **2:7** — In Hebrew oath syntax, the conditional particle im ("if") expresses a strong prohibition ("do not..."). The 3fs verb techpats ("it desires") agrees with the feminine noun ha'ahavah ("love").
 - **2:12** — The noun hazamir can mean either "singing" (from zamar II, matching the turtledove's voice) or "pruning" (from zamar I, referring to spring vine pruning).
 - **2:13** — The Ketiv reads lky (an archaic or dialectal 2fs suffix form), whereas the translated Qere reads the standard form lakh ("for yourself"), idiomatic with the imperative "Rise up."

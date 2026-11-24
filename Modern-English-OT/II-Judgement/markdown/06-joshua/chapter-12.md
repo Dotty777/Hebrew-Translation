@@ -57,5 +57,5 @@
 
 - **12:1** — Hebrew mizrachah hashemesh attaches the directional ending -ah directly to the construct noun mizrach ('rising') before 'the sun,' an uncommon construction denoting eastward direction.
 - **12:4** — The Masoretic Text literally reads 'and the border/territory of Og' (ugevul Og), even though the following masculine singular participles ('who lived' and 'ruling' in 12:5) describe Og himself.
-- **12:18** — The Masoretic pointing lasharon consists of the preposition le-, the definite article, and Sharon ('belonging to the Sharon'), though it is traditionally rendered as the place name Lasharon since the list counts him among the thirty-one kings.
+- **12:18** — The Masoretic pointing lasharon consists of the preposition le-, the definite article, and Sharon ('belonging to the Sharon'), though it is taken here as the place name Lasharon since the list counts him among the thirty-one kings.
 - **12:23** — Hebrew goyim literally means 'nations' and is here treated as the proper name Goiim; the Masoretic Text reads 'in Gilgal' (legilgal), and 'in the upland of Dor' uses the singular construct naphath (compare plural naphoth in 11:2).

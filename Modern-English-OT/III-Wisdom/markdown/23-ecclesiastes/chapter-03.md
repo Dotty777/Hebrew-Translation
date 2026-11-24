@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **3:2** — Hebrew laledet is the Qal active infinitive construct of yalad, literally "to give birth," though often rendered passively as "to be born" (contrast the Niphal form for being born in 7:1).
+- **3:2** — Hebrew laledet is the Qal active infinitive construct of yalad, literally "to give birth" (contrast the Niphal form for being born in 7:1).
 - **3:11** — Hebrew yafeh means "beautiful" or "fitting"; ha'olam ("eternity" or "perpetuity") denotes a sense of timeless duration beyond human grasp (some also connect it with later senses of "the world" or "obscurity").
 - **3:15** — Hebrew nirdaf is a Niphal participle of radaf ("to pursue"), literally "what is pursued" or "what is driven away"; it is variously understood of past events that God brings back again or of the persecuted person whom God seeks out to vindicate (linking to 3:16-17).
 - **3:17** — The Masoretic text ends with sham ("there," echoing shammah in 3:16 and referring to the sphere of God's judgment); some scholars repoint the consonants as sam ("He has appointed").

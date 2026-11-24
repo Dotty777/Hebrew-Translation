@@ -81,6 +81,6 @@
 
 - **67:5** — The Qal imperative sollu literally means "cast up a highway," and aravot in the Masoretic text denotes "desert plains" (though some compare a cognate term for "clouds"); be-Yah shemo uses the shortened divine name Yah with the preposition be expressing identity ("His name is the LORD").
 - **67:9** — The archaic expression zeh Sinai (compare Judges 5:5) literally reads "this Sinai" and functions either as a determinative title ("the One of Sinai") in apposition to God or as an emphatic exclamation ("even Sinai").
-- **67:14** — This poetic verse is syntactically elliptical without a finite verb in the second clause; shefattayim is a dual noun traditionally rendered "sheepfolds" (or "hearthstones"), and yeraqraq charuts literally denotes "greenish-yellow gold," describing the sheen of fine gold.
+- **67:14** — This poetic verse is syntactically elliptical without a finite verb in the second clause; shefattayim is a dual noun understood as "sheepfolds" (or "hearthstones"), and yeraqraq charuts literally denotes "greenish-yellow gold," describing the sheen of fine gold.
 - **67:21** — The divine name followed by Adonai reverses the usual order (Adonai followed by the divine name); the divine name carries the vowels of Elohim so that Adonai is not read twice. It is rendered here as "GOD, the Lord."
 - **67:31** — The Hithpael participle mitrappes (from raphas) means "prostrating/humbling oneself" (compare Proverbs 6:3) or "trampling down," and the Masoretic text reads the Piel perfect bizzar ("He has scattered") rather than an imperative.

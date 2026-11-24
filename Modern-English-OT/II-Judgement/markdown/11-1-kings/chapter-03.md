@@ -63,6 +63,6 @@
 
 - **3:4** — The verb ya'aleh ("would offer up") is a Hiphil imperfect of alah, cognate with olot ("burnt offerings"), expressing either customary practice at Gibeon or prolonged action on that occasion.
 - **3:9** — Literally "a listening heart" (lev shomea, Qal active participle of shama), denoting a heart attentive to God and discerning in judicial hearings (compare "to hear justice" in 3:11). The adjective kaved ("weighty") conveys both the vastness of the nation and the heavy burden of judging it.
-- **3:10** — Here and in 3:15 the Masoretic Hebrew reads Adonai ("the Lord") rather than the Tetragrammaton ("the LORD").
+- **3:10** — Here and in 3:15 the Masoretic Hebrew reads Adonai ("the Lord") rather than the divine name ("the LORD").
 - **3:13** — The Hebrew uses the Qal perfect verb hayah ("was" or "has been") with the forward-looking phrase "all your days," conveying the assured outcome of God's promise ("will be").
 - **3:26** — The idiom nikhmeru rachameha (Niphal perfect of kamar with rachamim) literally means "her compassion grew warm," expressing intense maternal yearning. Here and in 3:27 the Hebrew shifts from yeled ("child" in 3:25) to the Qal passive participle yalud ("born one" or "newborn").

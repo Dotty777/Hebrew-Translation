@@ -117,7 +117,7 @@
 
 ## Translator Notes
 
-- **22:6** — The Hebrew text here reads Adonai ('the Lord') rather than the Tetragrammaton ('the LORD'), contrasting with verses 12 and 15. The Hebrew also omits an explicit direct object for 'give' here and in verses 12 and 15, leaving the oracle's wording open-ended.
+- **22:6** — The Hebrew text here reads Adonai ('the Lord') rather than the divine name ('the LORD'), contrasting with verses 12 and 15. The Hebrew also omits an explicit direct object for 'give' here and in verses 12 and 15, leaving the oracle's wording open-ended.
 - **22:13** — Ketiv/Qere variant: the written ketiv is plural ('your words'), while the read qere translated here is singular ('your word'), agreeing with the singular verb 'let ... be' and the following singular 'word of one of them'.
 - **22:21** — Hebrew uses the definite article ('the spirit'), likely pointing to a specific spirit in the heavenly vision or the spirit of prophecy rather than an indefinite 'a spirit'.
 - **22:30** — Hebrew uses two infinitives absolute (Hithpael 'disguising' and Qal 'entering') with first-person force ('I will disguise myself and enter'), immediately contrasted with the emphatic second-person imperative 'while you put on your robes'.

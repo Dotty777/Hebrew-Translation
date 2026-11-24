@@ -95,7 +95,7 @@
 
 ## Translator Notes
 
-- **16:3** — The exact meaning of the rare Hebrew noun eshpar (occurring only here and in 2 Samuel 6:19) is uncertain; it is traditionally rendered "a portion of meat," though some scholars propose "a date cake" in parallel with "raisin cake."
+- **16:3** — The exact meaning of the rare Hebrew noun eshpar (occurring only here and in 2 Samuel 6:19) is uncertain; it is rendered here "a portion of meat," though some scholars propose "a date cake" in parallel with "raisin cake."
 - **16:15** — The Masoretic text of 1 Chronicles 16:15 reads the Qal imperative zikru ("Remember!"), whereas the parallel in Psalm 105:8 reads the Qal perfect zakar ("He remembers").
 - **16:19** — The Masoretic text reads the second-person plural suffix bihyotekem ("When you were"), shifting to third-person plural in 16:20; the parallel in Psalm 105:12 reads third-person plural ("When they were").
 - **16:36** — Hebrew wehallel is the Piel infinitive absolute of halal continuing the preceding finite verb ("and praised the LORD"), a characteristic Late Biblical Hebrew construction.

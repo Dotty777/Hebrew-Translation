@@ -125,7 +125,7 @@
 
 ## Translator Notes
 
-- **13:2** — Hebrew tsara'at (traditionally rendered "leprosy") encompasses a range of ritual skin, garment, and house afflictions broader than modern Hansen's disease.
+- **13:2** — Hebrew tsara'at (here "leprosy") encompasses a range of ritual skin, garment, and house afflictions broader than modern Hansen's disease.
 - **13:4** — Hebrew literally reads "the affliction" (hannega), using abstract-for-concrete metonymy for the afflicted person; the same usage recurs in verses 12, 13, and 17.
 - **13:5** — Hebrew amad be'einav literally means "stood in his eyes," indicating that the affliction appeared unchanged under the priest's observation.
 - **13:10** — Hebrew michyat basar chai literally means "a reviving patch of living flesh," referring to exposed raw flesh; michyah (from chayah, "to live/revive") likewise denotes the raw regenerating area of a burn in verse 24.

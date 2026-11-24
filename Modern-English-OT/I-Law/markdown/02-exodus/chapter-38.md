@@ -83,7 +83,7 @@
 
 ## Translator Notes
 
-- **38:5** — Hebrew kapporet, traditionally rendered 'mercy seat,' derives from the root k-p-r ('to atone/cover') and denotes the golden lid over the ark associated with atonement.
+- **38:5** — Hebrew kapporet ('atonement cover') derives from the root k-p-r ('to atone/cover') and denotes the golden lid over the ark associated with atonement.
 - **38:7** — Ketiv writes qtswwtw, lacking the yod of the plural possessive suffix, while qere reads the standard plural form qetsotav ('its ends'); both carry the same sense, using a masculine suffix for the grammatically feminine kapporet ('atonement cover').
 - **38:26** — The Qal participle and perfect of tsava ('to serve/perform assigned duty') describe women performing organized service at the entrance of the tent of meeting; mar'ot denotes polished bronze mirrors.
 - **38:27** — The Qal weqatal ('would wash') followed by the Qal yiqtol ('would wash') expresses repeated, customary action whenever Moses, Aaron, and his sons entered the tent or approached the altar.

@@ -91,6 +91,6 @@
 
 - **25:5** — Hebrew techashim (plural of tachash) is of uncertain meaning; it is commonly linked either to Arabic cognates for marine mammals such as the dugong or dolphin, or to Egyptian and Akkadian terms for fine tanned or beaded leather.
 - **25:9** — Hebrew hammishkan ("the tabernacle") literally means "the dwelling place," directly echoing the verb veshakhanti ("and I will dwell," Qal weqatal of shakhan) in verse 8.
-- **25:17** — Hebrew kapporet (traditionally rendered "mercy seat") is derived from the root kaphar ("atone" or "cover") and denotes the solid gold lid of the ark that served as the focal place of atonement.
+- **25:17** — Hebrew kapporet ("atonement cover") is derived from the root kaphar ("atone" or "cover") and denotes the solid gold lid of the ark that served as the focal place of atonement.
 - **25:28** — Hebrew venissa-vam et-hashshulchan illustrates the classical Hebrew construction in which a passive Niphal verb (here Niphal weqatal of nasa, "be carried") retains the direct object marker et before its grammatical subject.
 - **25:33** — Hebrew meshuqqadim is a denominative Pual participle derived from shaqed ("almond"), describing cups fashioned in the shape of almonds or almond blossoms.

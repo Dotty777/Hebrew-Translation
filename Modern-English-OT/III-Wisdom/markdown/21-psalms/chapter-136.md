@@ -25,7 +25,7 @@
 
 ## Translator Notes
 
-- **136:2** — Hebrew 'aravim refers to Euphrates poplars (traditionally rendered "willows"), and kinnorot specifically denotes stringed lyres.
+- **136:2** — Hebrew 'aravim refers to Euphrates poplars, and kinnorot specifically denotes stringed lyres.
 - **136:3** — The noun tolalenu ("our tormentors") occurs only here in the Hebrew Bible; scholars debate whether it derives from yalal ("those who make us wail") or shalal ("our plunderers").
 - **136:5** — The Masoretic text reads tishkach (Qal imperfect or jussive of shachach, "forget") with no stated object, repeating the verb from the first clause and implying that the musician's right hand would forget its skill.
 - **136:8** — Hebrew hashshdudah (Qal passive participle of shadad, "devastate") literally means "the devastated one," used proleptically of Babylon's assured ruin.

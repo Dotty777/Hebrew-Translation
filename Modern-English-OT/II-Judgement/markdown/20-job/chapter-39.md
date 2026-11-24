@@ -70,5 +70,5 @@
 - **39:8** — MT vocalizes יְתוּר as a noun ("range" or "territory", from תּוּר "explore/roam"), translated literally here; some interpreters repoint it as a verb ("ranges").
 - **39:12** — Ketiv reads Qal ישוב ("will return", intransitive); Qere reads Hiphil יָשִׁיב ("will bring back", transitive with זַרְעֶךָ, "your grain"), followed in the translation.
 - **39:13** — The feminine adjective חֲסִידָה ("caring / kind", modifying absolute אֶבְרָה "pinion") is also the Hebrew name for the stork, creating wordplay contrasting the caring stork with the neglectful ostrich.
-- **39:19** — The hapax legomenon רַעְמָה derives from רָעַם ("quiver / thunder") and is generally understood as the horse's quivering mane, though ancient versions often rendered it literally as "thunder".
+- **39:19** — The hapax legomenon רַעְמָה derives from רָעַם ("quiver / thunder") and is generally understood as the horse's quivering mane.
 - **39:21** — MT reads the plural verb יַחְפְּרוּ ("they paw", referring generically to horses or to the hooves) before shifting immediately to singular verbs (וְיָשִׂישׂ, יֵצֵא); smoothed to singular "It paws" for English flow.

@@ -26,5 +26,5 @@
 ## Translator Notes
 
 - **13:5** — Hebrew hiqnani is a unique Hiphil perfect of qanah ("acquire, buy"), here understood causatively as "sold me" (transferred ownership of me), though some render it "acquired me" or "made me possess [land]."
-- **13:6** — Hebrew ben yadekha literally means "between your hands," an idiom likely referring to the chest or upper back; me'ahavay is a Piel participle of ahav ("those who love me," often rendered "my friends" or "my lovers").
+- **13:6** — Hebrew ben yadekha literally means "between your hands," an idiom likely referring to the chest or upper back; me'ahavay is a Piel participle of ahav ("those who love me").
 - **13:8** — Hebrew pi-shenayim literally means "a portion of two," here denoting two-thirds in contrast to hashelishit ("the third part").

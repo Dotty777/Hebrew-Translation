@@ -121,7 +121,7 @@
 
 ## Translator Notes
 
-- **14:3** — Hebrew tsara'at, traditionally rendered "leprosy," covers a range of ritually defiling skin disorders as well as discoloring or moldlike conditions on garments and plastered walls (vv. 34, 55), not solely modern Hansen's disease. "Healed in the leprous person" translates a pregnant Hebrew construction (literally "healed from the leprous person," i.e., healed away from him), using the Qal passive participle tsaru'a alongside the Pual participle metsora' in v. 2.
+- **14:3** — Hebrew tsara'at, rendered "leprosy" here, covers a range of ritually defiling skin disorders as well as discoloring or moldlike conditions on garments and plastered walls (vv. 34, 55), not solely modern Hansen's disease. "Healed in the leprous person" translates a pregnant Hebrew construction (literally "healed from the leprous person," i.e., healed away from him), using the Qal passive participle tsaru'a alongside the Pual participle metsora' in v. 2.
 - **14:10** — Hebrew issaron ("tenth-measure") is one-tenth of an ephah (a dry measure of roughly 2.2 liters), and a log is a small liquid measure equal to one-twelfth of a hin (roughly one-third of a liter).
 - **14:21** — "His means are insufficient" renders the Hebrew idiom 'en yado masseget (literally "his hand does not reach," Hiphil participle of nasag), which recurs in vv. 22, 30, 31, and 32 to express financial ability.
 - **14:37** — "Sunken patches" translates the hapax legomenon sheqa'arurot (apparently from shaqa', "to sink"), and "lower than the wall" renders shaphal min-haqqir, meaning recessed beneath the wall surface.

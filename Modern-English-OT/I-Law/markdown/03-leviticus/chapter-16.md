@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **16:2** — Hebrew hakkapporet ("atonement cover"), derived from the root kafar ("cover" or "atone"), is traditionally rendered "mercy seat."
+- **16:2** — Hebrew hakkapporet ("atonement cover") is derived from the root kafar ("cover" or "atone").
 - **16:8** — The meaning of Hebrew Azazel is uncertain; it has been understood variously as a wilderness figure or demon, a remote rugged place, or a term signifying complete removal ("the goat that departs").
 - **16:21** — Hebrew ish itti uses the hapax legomenon adjective itti (from et, "time"), meaning a man ready or designated for the occasion. In addition, yadav ("his hands") is written defectively without yod in the Masoretic Text.
 - **16:22** — Hebrew erets gezerah (from gazar, "cut off") literally means "a cut-off land," denoting an isolated, uninhabited region.

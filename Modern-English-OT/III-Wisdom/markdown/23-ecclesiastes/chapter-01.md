@@ -43,8 +43,8 @@
 
 ## Translator Notes
 
-- **1:1** — Hebrew Qoheleth is a feminine singular Qal participle of qahal ("to assemble, convene"), used as an official title for one who convenes or addresses an assembly (traditionally rendered "the Preacher" or "the Teacher").
-- **1:2** — Hebrew hevel literally means "vapor" or "breath," used throughout the book for what is fleeting, ungraspable, and empty (often rendered "vanity" or "futility"); "vapor of vapors" is a Hebrew superlative construction.
+- **1:1** — Hebrew Qoheleth is a feminine singular Qal participle of qahal ("to assemble, convene"), used as an official title for one who convenes or addresses an assembly.
+- **1:2** — Hebrew hevel literally means "vapor" or "breath," used throughout the book for what is fleeting, ungraspable, and empty; "vapor of vapors" is a Hebrew superlative construction.
 - **1:13** — Hebrew la'anot bo (Qal infinitive construct of 'anah, "to be occupied with," cognate with 'inyan, "task") may also play on the homonymous root 'anah ("to be afflicted, humbled"), conveying a burdensome occupation.
 - **1:14** — Hebrew re'ut ruach derives either from a late Hebrew/Aramaic root meaning "striving, pursuit" ("chasing wind") or from ra'ah ("to shepherd, herd," as in Hosea 12:1, MT 12:2), depicting a futile attempt to capture the wind.
 - **1:17** — Hebrew sikluth ("folly") is here spelled with sin rather than samekh (contrast 2:3, 12, 13), an orthographic variant that also creates a subtle visual echo of sekel ("insight, prudence").
