@@ -45,7 +45,7 @@
 
 **39:20** Then Joseph's master took him and placed him in the prison, the place where the prisoners of the king were confined; and he was there in the prison.
 
-**39:21** But the LORD was with Joseph and extended steadfast kindness to him, and granted him favor in the eyes of the chief of the prison.
+**39:21** But the LORD was with Joseph and extended loyal love to him, and granted him favor in the eyes of the chief of the prison.
 
 **39:22** And the chief of the prison placed into Joseph's hand all the prisoners who were in the prison, and everything that was being done there, he himself was the one doing it.
 

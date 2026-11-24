@@ -19,11 +19,11 @@
 
 **54:7** "For a short moment I abandoned you, yet with great compassion I will gather you.
 
-**54:8** In a surge of anger I hid My face from you for a moment, but with everlasting faithful love I will have compassion on you," says your Redeemer, the LORD.
+**54:8** In a surge of anger I hid My face from you for a moment, but with everlasting loyal love I will have compassion on you," says your Redeemer, the LORD.
 
 **54:9** "For this is to Me like the waters of Noah: just as I swore that the waters of Noah would not pass over the earth again, so I have sworn not to be angry with you and not to rebuke you.
 
-**54:10** For though the mountains move away and the hills totter, My faithful love will not move away from you, and the covenant of My peace will not totter," says the LORD, who shows you compassion.
+**54:10** For though the mountains move away and the hills totter, My loyal love will not move away from you, and the covenant of My peace will not totter," says the LORD, who shows you compassion.
 
 **54:11** "Afflicted one, tossed by storms, not comforted: look, I am setting your stones in antimony, and I will lay your foundation with sapphires.
 

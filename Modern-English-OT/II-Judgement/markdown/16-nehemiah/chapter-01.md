@@ -13,7 +13,7 @@
 
 **1:4** When I heard these words, I sat down and wept, and I mourned for days; and I continued fasting and praying before the God of heaven.
 
-**1:5** And I said, "Please, LORD, God of heaven, the great and awesome God, who keeps the covenant and faithful love for those who love Him and keep His commandments:
+**1:5** And I said, "Please, LORD, God of heaven, the great and awesome God, who keeps the covenant and loyal love for those who love Him and keep His commandments:
 
 **1:6** let Your ear please be attentive and Your eyes open to listen to the prayer of Your servant, which I am praying before You today, day and night, on behalf of the sons of Israel, Your servants, while confessing the sins of the sons of Israel that we have sinned against You. Both I and my father's house have sinned.
 

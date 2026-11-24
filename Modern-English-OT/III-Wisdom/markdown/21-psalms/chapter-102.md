@@ -11,7 +11,7 @@
 
 **102:3** He is the One who pardons all your iniquity, who heals all your illnesses,
 
-**102:4** who redeems your life out of the pit, who crowns you with faithful love and compassion,
+**102:4** who redeems your life out of the pit, who crowns you with loyal love and compassion,
 
 **102:5** who satisfies your lifetime with good, so that your youth renews itself like the eagle's.
 
@@ -19,13 +19,13 @@
 
 **102:7** He made His ways known to Moses; to the sons of Israel, His deeds.
 
-**102:8** Compassionate and gracious is the LORD, slow to anger and great in faithful love.
+**102:8** Compassionate and gracious is the LORD, slow to anger and great in loyal love.
 
 **102:9** He will not contend perpetually, nor will He retain anger forever.
 
 **102:10** Not according to our sins has He dealt with us, and not according to our iniquities has He repaid us.
 
-**102:11** For as high as heaven is above the earth, so mighty is His faithful love over those who fear Him.
+**102:11** For as high as heaven is above the earth, so mighty is His loyal love over those who fear Him.
 
 **102:12** As far as east is from west, He has put our transgressions far from us.
 
@@ -37,7 +37,7 @@
 
 **102:16** For a wind passes over it, and it is no more, and its place no longer recognizes it.
 
-**102:17** Yet the LORD's faithful love is from eternity to eternity upon those who fear Him, and His righteousness is for children's children,
+**102:17** Yet the LORD's loyal love is from eternity to eternity upon those who fear Him, and His righteousness is for children's children,
 
 **102:18** for those who keep His covenant and for those who remember His precepts to carry them out.
 

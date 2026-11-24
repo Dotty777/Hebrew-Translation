@@ -29,7 +29,7 @@
 
 **20:12** Furthermore, in truth she is my sister, my father's daughter, yet not my mother's daughter; and she became my wife.
 
-**20:13** And when God caused me to wander from my father's house, I said to her, 'This is your kindness that you shall show to me: in every place we come to, say concerning me, "He is my brother."'"
+**20:13** And when God caused me to wander from my father's house, I said to her, 'This is your loyal love that you shall show to me: in every place we come to, say concerning me, "He is my brother."'"
 
 **20:14** Then Abimelech took flocks and herds, and male servants and female servants, and gave them to Abraham, and he returned his wife Sarah to him.
 

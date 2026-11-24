@@ -17,7 +17,7 @@
 
 **16:6** I have called to You, for You will answer me, God; turn Your ear to me; hear my utterance.
 
-**16:7** Show marvelously Your acts of steadfast love, You who by Your right hand save those who take refuge from adversaries.
+**16:7** Show marvelously Your acts of loyal love, You who by Your right hand save those who take refuge from adversaries.
 
 **16:8** Guard me like the pupil of the eye; in the shadow of Your wings conceal me,
 

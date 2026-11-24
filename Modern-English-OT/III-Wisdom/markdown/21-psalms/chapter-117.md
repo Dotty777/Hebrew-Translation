@@ -5,13 +5,13 @@
 
 ## Text
 
-**117:1** Offer thanks to the LORD, because He is good; for His faithful love lasts forever.
+**117:1** Offer thanks to the LORD, because He is good; for His loyal love lasts forever.
 
-**117:2** Now let Israel say, "His faithful love lasts forever."
+**117:2** Now let Israel say, "His loyal love lasts forever."
 
-**117:3** Now let the house of Aaron say, "His faithful love lasts forever."
+**117:3** Now let the house of Aaron say, "His loyal love lasts forever."
 
-**117:4** Now let those who fear the LORD say, "His faithful love lasts forever."
+**117:4** Now let those who fear the LORD say, "His loyal love lasts forever."
 
 **117:5** From tight straits I called to the LORD; the LORD answered me, bringing me into an open expanse.
 
@@ -61,7 +61,7 @@
 
 **117:28** You are my God, and I will thank You; my God, I will exalt You.
 
-**117:29** Offer thanks to the LORD, because He is good; for His faithful love lasts forever.
+**117:29** Offer thanks to the LORD, because He is good; for His loyal love lasts forever.
 
 ## Translator Notes
 

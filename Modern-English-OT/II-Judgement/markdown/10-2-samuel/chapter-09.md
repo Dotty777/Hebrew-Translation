@@ -5,11 +5,11 @@
 
 ## Text
 
-**9:1** Then David said, "Is there still anyone left from the house of Saul, so that I may show loyal kindness to him for the sake of Jonathan?"
+**9:1** Then David said, "Is there still anyone left from the house of Saul, so that I may show loyal love to him for the sake of Jonathan?"
 
 **9:2** Now the house of Saul had a servant whose name was Ziba, and they summoned him to David. The king said to him, "Are you Ziba?" And he said, "Your servant."
 
-**9:3** The king said, "Is there not still someone of the house of Saul, so that I may show the loyal kindness of God to him?" And Ziba said to the king, "There is still a son of Jonathan, who is crippled in his feet."
+**9:3** The king said, "Is there not still someone of the house of Saul, so that I may show the loyal love of God to him?" And Ziba said to the king, "There is still a son of Jonathan, who is crippled in his feet."
 
 **9:4** So the king said to him, "Where is he?" And Ziba said to the king, "Look, he is in the house of Machir son of Ammiel, in Lo-debar."
 
@@ -17,7 +17,7 @@
 
 **9:6** When Mephibosheth son of Jonathan, son of Saul, came to David, he fell on his face and bowed down. And David said, "Mephibosheth!" And he said, "Here is your servant."
 
-**9:7** David said to him, "Do not be afraid, for I will surely show loyal kindness to you for the sake of Jonathan your father; I will restore to you all the land of Saul your father, and you yourself will eat bread at my table continually."
+**9:7** David said to him, "Do not be afraid, for I will surely show loyal love to you for the sake of Jonathan your father; I will restore to you all the land of Saul your father, and you yourself will eat bread at my table continually."
 
 **9:8** And he bowed down and said, "What is your servant, that you have turned toward a dead dog like me?"
 

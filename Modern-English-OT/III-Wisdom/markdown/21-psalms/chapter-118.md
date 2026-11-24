@@ -85,7 +85,7 @@
 
 **118:40** Look, I have longed for Your precepts; give me life in Your righteousness.
 
-**118:41** And may Your acts of steadfast love come to me, LORD, Your salvation according to Your spoken word.
+**118:41** And may Your acts of loyal love come to me, LORD, Your salvation according to Your spoken word.
 
 **118:42** Then I will answer with a word the one who reproaches me, for I have trusted in Your word.
 
@@ -131,7 +131,7 @@
 
 **118:63** I am a companion to all who fear You, and to those who keep Your precepts.
 
-**118:64** The earth is full of Your steadfast love, LORD; teach me Your statutes.
+**118:64** The earth is full of Your loyal love, LORD; teach me Your statutes.
 
 **118:65** You have done good to Your servant, LORD, according to Your word.
 
@@ -155,7 +155,7 @@
 
 **118:75** I know, LORD, that Your judgments are righteous, and You have afflicted me in faithfulness.
 
-**118:76** Please let Your steadfast love comfort me, according to Your spoken word to Your servant.
+**118:76** Please let Your loyal love comfort me, according to Your spoken word to Your servant.
 
 **118:77** May Your tender mercies come to me, so that I may live, because Your law is my delight.
 
@@ -179,7 +179,7 @@
 
 **118:87** They nearly put an end to me on the earth, yet I have not abandoned Your precepts.
 
-**118:88** According to Your steadfast love give me life, so that I may keep the testimony of Your mouth.
+**118:88** According to Your loyal love give me life, so that I may keep the testimony of Your mouth.
 
 **118:89** Forever, LORD, Your word stands firm in the heavens.
 
@@ -251,7 +251,7 @@
 
 **118:123** My eyes grow faint for Your salvation, and for the spoken word of Your righteousness.
 
-**118:124** Treat Your servant according to Your steadfast love, and teach me Your statutes.
+**118:124** Treat Your servant according to Your loyal love, and teach me Your statutes.
 
 **118:125** Your servant I am; give me understanding, so that I may know Your testimonies.
 
@@ -301,7 +301,7 @@
 
 **118:148** My eyes are awake ahead of the night watches, to meditate on Your spoken word.
 
-**118:149** Hear my voice according to Your steadfast love; LORD, give me life according to Your judgments.
+**118:149** Hear my voice according to Your loyal love; LORD, give me life according to Your judgments.
 
 **118:150** Those who pursue wicked schemes have drawn near; from Your law they are far.
 
@@ -321,7 +321,7 @@
 
 **118:158** I saw the treacherous and felt loathing, because they did not keep Your spoken word.
 
-**118:159** See that I love Your precepts; LORD, according to Your steadfast love give me life.
+**118:159** See that I love Your precepts; LORD, according to Your loyal love give me life.
 
 **118:160** The sum of Your word is truth, and every judgment of Your righteousness is forever.
 

@@ -34,5 +34,5 @@
 ## Translator Notes
 
 - **55:1** — Hebrew hoy here functions as an urgent call of summons rather than a lament of woe, and shivru (Qal imperative of shavar II) specifically means to purchase grain or provisions.
-- **55:3** — Hebrew chasdei Dawid hanne'emanim (literally 'the proven/sure acts of loyal love of David') uses the Niphal participle of aman in apposition to 'eternal covenant,' referring to the enduring mercies promised to David.
+- **55:3** — Hebrew chasdei Dawid hanne'emanim (literally 'the proven/sure acts of loyal love of David') uses the Niphal participle of aman in apposition to 'eternal covenant,' referring to the enduring acts of loyal love promised to David.
 - **55:13** — Translates the Qere 'and instead of' (wetachat); the Ketiv (tachat) lacks the conjunction. The noun sirpad occurs only here in the Hebrew Bible and denotes a prickly weed such as a brier or nettle.

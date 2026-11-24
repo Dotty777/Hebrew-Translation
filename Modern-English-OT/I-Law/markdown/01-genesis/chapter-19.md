@@ -41,7 +41,7 @@
 
 **19:18** But Lot said to them, "No, please, my lord!
 
-**19:19** Look now, your servant has found favor in your eyes, and you have magnified your kindness that you have shown to me in preserving my life; yet I cannot escape to the hill country, or else the disaster will overtake me and I will die.
+**19:19** Look now, your servant has found favor in your eyes, and you have magnified your loyal love that you have shown to me in preserving my life; yet I cannot escape to the hill country, or else the disaster will overtake me and I will die.
 
 **19:20** See now, this city is near enough to flee there, and it is a small one. Please let me escape there! Is it not a small one? Then my soul will live."
 

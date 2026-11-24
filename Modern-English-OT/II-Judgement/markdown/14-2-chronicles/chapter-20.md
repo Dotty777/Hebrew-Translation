@@ -45,7 +45,7 @@
 
 **20:20** They rose early in the morning and went out to the wilderness of Tekoa. As they were going out, Jehoshaphat stood and said, "Hear me, Judah and inhabitants of Jerusalem! Trust in the LORD your God, and you will be made secure; trust in His prophets, and you will succeed."
 
-**20:21** He took counsel with the people and appointed singers to the LORD and those offering praise in holy splendor, going out before the armed force and saying, "Give thanks to the LORD, for His faithful love is forever."
+**20:21** He took counsel with the people and appointed singers to the LORD and those offering praise in holy splendor, going out before the armed force and saying, "Give thanks to the LORD, for His loyal love is forever."
 
 **20:22** At the time they began with singing and praise, the LORD set ambushers against the sons of Ammon, Moab, and Mount Seir, who had come against Judah, and they were routed.
 

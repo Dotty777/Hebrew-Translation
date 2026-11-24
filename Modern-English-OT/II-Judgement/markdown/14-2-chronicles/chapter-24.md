@@ -47,7 +47,7 @@
 
 **24:21** So they conspired against him and stoned him with stones by the commandment of the king in the court of the house of the LORD.
 
-**24:22** King Joash did not remember the loyal kindness that Jehoiada his father had done for him, but he killed his son. And as he died, he said, "May the LORD see and require it!"
+**24:22** King Joash did not remember the loyal love that Jehoiada his father had done for him, but he killed his son. And as he died, he said, "May the LORD see and require it!"
 
 **24:23** At the turn of the year, the army of Aram marched up against him; they came to Judah and Jerusalem, destroyed all the officials of the people from among the people, and sent all their spoil to the king of Damascus.
 

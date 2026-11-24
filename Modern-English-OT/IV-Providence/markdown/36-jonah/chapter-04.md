@@ -7,7 +7,7 @@
 
 **4:1** But it was a great displeasure to Jonah, and he burned with anger.
 
-**4:2** He prayed to the LORD and said, "Please, LORD, was this not my word while I was still on my own soil? For this reason I acted beforehand to flee to Tarshish, for I knew that You are a God who is gracious and compassionate, slow to anger and great in faithful love, and relenting over the calamity.
+**4:2** He prayed to the LORD and said, "Please, LORD, was this not my word while I was still on my own soil? For this reason I acted beforehand to flee to Tarshish, for I knew that You are a God who is gracious and compassionate, slow to anger and great in loyal love, and relenting over the calamity.
 
 **4:3** So now, LORD, please take my life from me, for my death is better than my life."
 

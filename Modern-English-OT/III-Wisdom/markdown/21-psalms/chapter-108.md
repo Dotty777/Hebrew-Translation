@@ -27,7 +27,7 @@
 
 **108:11** May a creditor ensnare all that is his, and may strangers loot his labor.
 
-**108:12** May there be no one to continue faithful love to him, and no one to show favor to his fatherless children.
+**108:12** May there be no one to continue loyal love to him, and no one to show favor to his fatherless children.
 
 **108:13** May his descendants be cut off; in the next generation may their name be wiped out.
 
@@ -35,7 +35,7 @@
 
 **108:15** May they remain before the LORD continually, and may He cut off their memory from the earth,
 
-**108:16** because he did not remember to practice faithful love, but pursued an afflicted and needy man, one broken in heart, to put him to death.
+**108:16** because he did not remember to practice loyal love, but pursued an afflicted and needy man, one broken in heart, to put him to death.
 
 **108:17** He loved cursing, and it came upon him; he had no delight in blessing, and it stayed far from him.
 
@@ -45,7 +45,7 @@
 
 **108:20** May this be the wages for my accusers from the LORD, and for those who speak evil against my soul.
 
-**108:21** But You, GOD the Lord, act for me for the sake of Your name; because Your faithful love is good, rescue me.
+**108:21** But You, GOD the Lord, act for me for the sake of Your name; because Your loyal love is good, rescue me.
 
 **108:22** For I am afflicted and needy, and my heart is pierced within me.
 
@@ -55,7 +55,7 @@
 
 **108:25** And I have become an object of reproach to them; when they see me, they shake their heads.
 
-**108:26** Help me, LORD my God; save me according to Your faithful love.
+**108:26** Help me, LORD my God; save me according to Your loyal love.
 
 **108:27** And may they know that this is Your hand; You, LORD, have done it.
 

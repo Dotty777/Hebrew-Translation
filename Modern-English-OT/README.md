@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Hebrew & Biblical Aramaic)
 
 > **Status:** `draft: true` — **100.00% Complete & Post-Audit Polished**  
-> **Coverage:** **ALL 39/39 Hebrew & Aramaic Bible books** (929 chapters, **22,874** placed verses + **261** additional `no-site-verse` MT verses = **23,135 total verses**, **4,260** translator notes [4,210 verse + 50 additional]).  
+> **Coverage:** **ALL 39/39 Hebrew & Aramaic Bible books** (929 chapters, **22,874** placed verses + **293** additional `no-site-verse` MT verses = **23,167 total verses**, **4,270** translator notes [4,210 verse + 60 additional]).  
 > **Validation:** `validate_modern_english.py --corpus full --lang heb --include-missing` **929/929 PASS, 0 FAIL**; 0 hard/soft archaisms, 0 `"Thus says"`, 0 ketiv/qere leaks, 0 Arabic digits.
 
 ## Overview
@@ -16,31 +16,31 @@ This directory contains the complete **Saints Modern English** translation of th
 
 | Division | Status | Books | Chapters | Verses | Additional | Notes | Directory |
 |---|---|---:|---:|---:|---:|---:|---|
-| **I. Law (Pentateuch / Torah)** | **Complete** | 5 / 5 | 187 | 5,791 | 49 | 883 | [`I-Law/`](I-Law/README.md) |
-| **II. Judgement (Historical Books & Job)** | **Complete** | 13 / 13 | 291 | 7,940 | 98 | 1,323 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 5 / 5 | 206 | 3,903 | 24 | 870 | [`III-Wisdom/`](III-Wisdom/README.md) |
-| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,240 | 90 | 1,134 | [`IV-Providence/`](IV-Providence/README.md) |
+| **I. Law (Pentateuch / Torah)** | **Complete** | 5 / 5 | 187 | 5,791 | 58 | 878 | [`I-Law/`](I-Law/README.md) |
+| **II. Judgement (Historical Books & Job)** | **Complete** | 13 / 13 | 291 | 7,940 | 120 | 1,325 | [`II-Judgement/`](II-Judgement/README.md) |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 5 / 5 | 206 | 3,903 | 24 | 873 | [`III-Wisdom/`](III-Wisdom/README.md) |
+| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,240 | 91 | 1,134 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
 
 | # | Book | Chapters | Verses | Additional | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---:|---|---|
-| 1 | Genesis | 50 | 1,531 | — | 251 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
-| 2 | Exodus | 40 | 1,155 | 49 | 180 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
-| 3 | Leviticus | 27 | 859 | — | 123 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
-| 4 | Numbers | 36 | 1,287 | — | 174 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
+| 1 | Genesis | 50 | 1,531 | 2 | 250 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
+| 2 | Exodus | 40 | 1,155 | 55 | 177 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
+| 3 | Leviticus | 27 | 859 | — | 122 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
+| 4 | Numbers | 36 | 1,287 | 1 | 174 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 959 | — | 155 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
 ## Division II. Judgement (13 / 13 Complete)
 
 | # | Book | Chapters | Verses | Additional | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---:|---|---|
-| 6 | Joshua | 24 | 643 | 8 | 109 | [`II-Judgement/markdown/06-joshua/`](II-Judgement/markdown/06-joshua/README.md) | [`06-joshua.json`](II-Judgement/json/06-joshua.json) |
+| 6 | Joshua | 24 | 643 | 15 | 109 | [`II-Judgement/markdown/06-joshua/`](II-Judgement/markdown/06-joshua/README.md) | [`06-joshua.json`](II-Judgement/json/06-joshua.json) |
 | 7 | Judges | 21 | 618 | — | 96 | [`II-Judgement/markdown/07-judges/`](II-Judgement/markdown/07-judges/README.md) | [`07-judges.json`](II-Judgement/json/07-judges.json) |
 | 8 | Ruth | 4 | 85 | — | 18 | [`II-Judgement/markdown/08-ruth/`](II-Judgement/markdown/08-ruth/README.md) | [`08-ruth.json`](II-Judgement/json/08-ruth.json) |
 | 9 | 1 Samuel | 31 | 772 | 39 | 137 | [`II-Judgement/markdown/09-1-samuel/`](II-Judgement/markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](II-Judgement/json/09-1-samuel.json) |
 | 10 | 2 Samuel | 24 | 695 | — | 114 | [`II-Judgement/markdown/10-2-samuel/`](II-Judgement/markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](II-Judgement/json/10-2-samuel.json) |
-| 11 | 1 Kings | 22 | 754 | 18 | 103 | [`II-Judgement/markdown/11-1-kings/`](II-Judgement/markdown/11-1-kings/README.md) | [`11-1-kings.json`](II-Judgement/json/11-1-kings.json) |
+| 11 | 1 Kings | 22 | 754 | 33 | 105 | [`II-Judgement/markdown/11-1-kings/`](II-Judgement/markdown/11-1-kings/README.md) | [`11-1-kings.json`](II-Judgement/json/11-1-kings.json) |
 | 12 | 2 Kings | 25 | 718 | 1 | 120 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 930 | 13 | 139 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 821 | 1 | 149 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
@@ -54,7 +54,7 @@ This directory contains the complete **Saints Modern English** translation of th
 | # | Book | Chapters | Verses | Additional | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---:|---|---|
 | 21 | Psalms | 150 | 2,526 | 1 | 609 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
-| 22 | Proverbs | 31 | 888 | 19 | 146 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
+| 22 | Proverbs | 31 | 888 | 19 | 149 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
 | 23 | Ecclesiastes | 12 | 222 | — | 52 | [`III-Wisdom/markdown/23-ecclesiastes/`](III-Wisdom/markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](III-Wisdom/json/23-ecclesiastes.json) |
 | 24 | Song of Songs | 8 | 117 | — | 34 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |
 | 25 | Lamentations | 5 | 150 | 4 | 29 | [`III-Wisdom/markdown/25-lamentations/`](III-Wisdom/markdown/25-lamentations/README.md) | [`25-lamentations.json`](III-Wisdom/json/25-lamentations.json) |
@@ -66,7 +66,7 @@ This directory contains the complete **Saints Modern English** translation of th
 | 28 | Isaiah | 66 | 1,289 | 2 | 291 | [`IV-Providence/markdown/28-isaiah/`](IV-Providence/markdown/28-isaiah/README.md) | [`28-isaiah.json`](IV-Providence/json/28-isaiah.json) |
 | 29 | Jeremiah | 52 | 1,296 | 68 | 245 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
 | 30 | Ezekiel | 48 | 1,266 | 6 | 222 | [`IV-Providence/markdown/30-ezekiel/`](IV-Providence/markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](IV-Providence/json/30-ezekiel.json) |
-| 31 | Daniel | 12 | 339 | 14 | 80 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
+| 31 | Daniel | 12 | 339 | 15 | 79 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
 | 32 | Hosea | 14 | 197 | — | 59 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |
 | 33 | Joel | 4 | 73 | — | 17 | [`IV-Providence/markdown/33-joel/`](IV-Providence/markdown/33-joel/README.md) | [`33-joel.json`](IV-Providence/json/33-joel.json) |
 | 34 | Amos | 9 | 146 | — | 42 | [`IV-Providence/markdown/34-amos/`](IV-Providence/markdown/34-amos/README.md) | [`34-amos.json`](IV-Providence/json/34-amos.json) |
@@ -76,6 +76,6 @@ This directory contains the complete **Saints Modern English** translation of th
 | 38 | Nahum | 3 | 47 | — | 15 | [`IV-Providence/markdown/38-nahum/`](IV-Providence/markdown/38-nahum/README.md) | [`38-nahum.json`](IV-Providence/json/38-nahum.json) |
 | 39 | Habakkuk | 3 | 56 | — | 15 | [`IV-Providence/markdown/39-habakkuk/`](IV-Providence/markdown/39-habakkuk/README.md) | [`39-habakkuk.json`](IV-Providence/json/39-habakkuk.json) |
 | 40 | Zephaniah | 3 | 53 | — | 15 | [`IV-Providence/markdown/40-zephaniah/`](IV-Providence/markdown/40-zephaniah/README.md) | [`40-zephaniah.json`](IV-Providence/json/40-zephaniah.json) |
-| 41 | Haggai | 2 | 38 | — | 9 | [`IV-Providence/markdown/41-haggai/`](IV-Providence/markdown/41-haggai/README.md) | [`41-haggai.json`](IV-Providence/json/41-haggai.json) |
+| 41 | Haggai | 2 | 38 | — | 10 | [`IV-Providence/markdown/41-haggai/`](IV-Providence/markdown/41-haggai/README.md) | [`41-haggai.json`](IV-Providence/json/41-haggai.json) |
 | 42 | Zechariah | 14 | 211 | — | 57 | [`IV-Providence/markdown/42-zechariah/`](IV-Providence/markdown/42-zechariah/README.md) | [`42-zechariah.json`](IV-Providence/json/42-zechariah.json) |
 | 43 | Malachi | 3 | 55 | — | 14 | [`IV-Providence/markdown/43-malachi/`](IV-Providence/markdown/43-malachi/README.md) | [`43-malachi.json`](IV-Providence/json/43-malachi.json) |

@@ -69,7 +69,7 @@
 
 **16:33** Then the trees of the forest will shout for joy before the LORD, because He comes to judge the earth.
 
-**16:34** Give thanks to the LORD, for He is good; for His faithful love endures forever.
+**16:34** Give thanks to the LORD, for He is good; for His loyal love endures forever.
 
 **16:35** And say, "Save us, God of our salvation; gather us and rescue us from the nations, to give thanks to Your holy name and to glory in Your praise."
 
@@ -83,7 +83,7 @@
 
 **16:40** to offer up burnt offerings to the LORD on the altar of burnt offering continually, morning and evening, and according to everything written in the law of the LORD, which He commanded Israel.
 
-**16:41** With them were Heman and Jeduthun, and the rest of the selected ones who were designated by name to give thanks to the LORD, for His faithful love endures forever.
+**16:41** With them were Heman and Jeduthun, and the rest of the selected ones who were designated by name to give thanks to the LORD, for His loyal love endures forever.
 
 **16:42** With them—Heman and Jeduthun—were trumpets and cymbals for those sounding aloud, and instruments for the song of God; and the sons of Jeduthun were at the gate.
 

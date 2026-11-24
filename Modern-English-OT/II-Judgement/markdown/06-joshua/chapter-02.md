@@ -27,11 +27,11 @@
 
 **2:11** When we heard, our hearts melted, and no spirit endured any longer in any man because of you; for the LORD your God—He is God in the heavens above and on the earth below.
 
-**2:12** Now then, please swear to me by the LORD, since I have acted with kindness toward you, that you too will act with kindness toward my father's household, and give me a sign of faithfulness,
+**2:12** Now then, please swear to me by the LORD, since I have acted with loyal love toward you, that you too will act with loyal love toward my father's household, and give me a sign of faithfulness,
 
 **2:13** and that you will keep alive my father and my mother, my brothers and my sisters, and all that belongs to them, and rescue our lives from death."
 
-**2:14** The men said to her, "Our lives in place of yours, even to death, if you do not disclose this matter of ours! Then, when the LORD gives us the land, we will act with kindness and faithfulness toward you."
+**2:14** The men said to her, "Our lives in place of yours, even to death, if you do not disclose this matter of ours! Then, when the LORD gives us the land, we will act with loyal love and faithfulness toward you."
 
 **2:15** Then she lowered them with a rope through the window, for her house was in the side of the city wall, and it was in the wall that she lived.
 

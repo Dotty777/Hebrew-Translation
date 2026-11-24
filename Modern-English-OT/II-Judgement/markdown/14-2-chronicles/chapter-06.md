@@ -31,7 +31,7 @@
 
 **6:13** For Solomon had made a bronze platform and placed it in the middle of the court, five cubits long, five cubits wide, and three cubits high; and he stood on it, knelt on his knees facing the entire assembly of Israel, and spread out his palms toward heaven.
 
-**6:14** And he said, "LORD, God of Israel, there is no god like You in heaven and on earth, keeping the covenant and faithful love for Your servants who walk before You with all their heart,
+**6:14** And he said, "LORD, God of Israel, there is no god like You in heaven and on earth, keeping the covenant and loyal love for Your servants who walk before You with all their heart,
 
 **6:15** who have kept for Your servant David my father what You spoke to him; and You spoke with Your mouth and with Your hand have fulfilled it, as on this day.
 
@@ -87,11 +87,11 @@
 
 **6:41** And now arise, LORD God, to Your resting place, You and the ark of Your strength; may Your priests, LORD God, be clothed with salvation, and may Your faithful ones rejoice in what is good.
 
-**6:42** LORD God, do not turn away the face of Your anointed one; remember the acts of faithful love of David Your servant."
+**6:42** LORD God, do not turn away the face of Your anointed one; remember the acts of loyal love of David Your servant."
 
 ## Translator Notes
 
 - **6:13** — The Hebrew noun kiyyor normally denotes a bronze basin or laver, but here uniquely refers to a raised bronze platform or dais measuring five cubits square and three cubits high.
 - **6:22** — Hebrew nasa' is an alternate spelling of nasa ('impose, lift'), used here impersonally ('an oath is imposed'). The following clause uva' 'alah is grammatically difficult and can be understood either as 'he comes under oath' (or 'comes and swears') or as 'the oath comes' before the altar.
 - **6:26** — The pointed form ta'anem can be parsed either as Hiphil of the root meaning 'be afflicted' ('because You afflict them') or as Qal of 'answer' ('because You answer them'); the context of disciplinary drought favors 'afflict.'
-- **6:42** — The plural construct hasde Dawid can be read objectively as 'the acts of faithful love promised to David' (cf. Isa 55:3) or subjectively as 'the faithful deeds of David' (cf. 2 Chr 32:32; 35:26).
+- **6:42** — The plural construct hasde Dawid can be read objectively as 'the acts of loyal love promised to David' (cf. Isa 55:3) or subjectively as 'David's own acts of loyal love' (cf. 2 Chr 32:32; 35:26).

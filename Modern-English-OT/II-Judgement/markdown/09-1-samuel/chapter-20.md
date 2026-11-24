@@ -19,7 +19,7 @@
 
 **20:7** If he says this, 'Good,' then there is peace for your servant; but if he grows exceedingly angry, know that harm has been determined by him.
 
-**20:8** Therefore show faithful love to your servant, for you have brought your servant into a covenant of the LORD with yourself. Yet if there is iniquity in me, put me to death yourself; why should you bring me to your father?"
+**20:8** Therefore show loyal love to your servant, for you have brought your servant into a covenant of the LORD with yourself. Yet if there is iniquity in me, put me to death yourself; why should you bring me to your father?"
 
 **20:9** Jonathan said, "Far be it from you! For if I knew for certain that harm had been determined by my father to come upon you, would I not tell you of it?"
 
@@ -31,9 +31,9 @@
 
 **20:13** may the LORD do so to Jonathan, and may He add still more! And if it pleases my father to bring harm upon you, I will disclose it to you and send you away, so that you may go in peace. May the LORD be with you, just as He was with my father.
 
-**20:14** And if I am still alive, will you not show the faithful love of the LORD toward me, so that I do not die?
+**20:14** And if I am still alive, will you not show the loyal love of the LORD toward me, so that I do not die?
 
-**20:15** And do not cut off your faithful love from my house forever, not even when the LORD cuts off every one of David's enemies from the face of the earth."
+**20:15** And do not cut off your loyal love from my house forever, not even when the LORD cuts off every one of David's enemies from the face of the earth."
 
 **20:16** So Jonathan made a covenant with the house of David: "May the LORD require it from the hand of David's enemies."
 
@@ -93,6 +93,6 @@
 
 - **20:2** — The translation follows the Masoretic Qere lo-ya'aseh ("does not do," Qal imperfect); the written Ketiv reads lw 'sh ("did not do," spelling the negative lo as lw with the Qal perfect). The idiom "disclosing it to me" is literally "uncovering my ear" (also in vv. 12-13).
 - **20:12** — The verse opens with an elliptical oath invocation (lit. "The LORD, the God of Israel"), and its closing negative clause connects directly to the self-imprecation at the beginning of v. 13 ("may the LORD do so to Jonathan...").
-- **20:14** — The Masoretic Hebrew of this verse is highly compressed, using welo ("and not") three times: the opening rhetorical negative question is paused by the condition "if I am still alive," resumed before "show the faithful love of the LORD," and followed by the purpose/result clause "so that I do not die."
+- **20:14** — The Masoretic Hebrew of this verse is highly compressed, using welo ("and not") three times: the opening rhetorical negative question is paused by the condition "if I am still alive," resumed before "show the loyal love of the LORD," and followed by the purpose/result clause "so that I do not die."
 - **20:19** — The Piel verb shillashta (denominative from shalosh, "three") means "do on the third day," followed by tered me'od (lit. "go down greatly/quickly"). Both "the day of the deed" (yom hamma'aseh) and "the stone Ezel" (ha'even ha'azel) follow the Masoretic text directly.
 - **20:38** — The translation follows the Masoretic Qere plural hachitzim ("the arrows"); the written Ketiv has the singular hachetzi ("the arrow"), matching the singular in vv. 36-37. In 20:24, the Qere reads the preposition el ("to") where the Ketiv reads al.

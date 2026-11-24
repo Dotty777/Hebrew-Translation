@@ -39,9 +39,9 @@
 
 **14:17** And now, please, let the power of the Lord be great, just as You spoke, saying,
 
-**14:18** 'The LORD is slow to anger and abundant in faithful love, pardoning iniquity and transgression, yet He will certainly not acquit the guilty, bringing the iniquity of fathers to account upon children, upon the third and upon the fourth generations.'
+**14:18** 'The LORD is slow to anger and abundant in loyal love, pardoning iniquity and transgression, yet He will certainly not acquit the guilty, bringing the iniquity of fathers to account upon children, upon the third and upon the fourth generations.'
 
-**14:19** Please forgive the iniquity of this people according to the greatness of Your faithful love, and just as You have pardoned this people from Egypt until now."
+**14:19** Please forgive the iniquity of this people according to the greatness of Your loyal love, and just as You have pardoned this people from Egypt until now."
 
 **14:20** And the LORD said, "I have forgiven, in accordance with your word.
 

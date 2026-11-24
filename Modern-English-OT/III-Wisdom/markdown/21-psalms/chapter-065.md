@@ -43,7 +43,7 @@
 
 **65:19** Yet surely God has heard; He has paid attention to the voice of my prayer.
 
-**65:20** Blessed be God, who has not turned aside my prayer or His faithful love from me.
+**65:20** Blessed be God, who has not turned aside my prayer or His loyal love from me.
 
 ## Translator Notes
 

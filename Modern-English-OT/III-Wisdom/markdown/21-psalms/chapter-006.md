@@ -13,7 +13,7 @@
 
 **6:4** And my soul is deeply terrified; yet You, LORD, how long?
 
-**6:5** Turn back, LORD, rescue my soul; save me for the sake of Your faithful love.
+**6:5** Turn back, LORD, rescue my soul; save me for the sake of Your loyal love.
 
 **6:6** For there is no remembrance of You in death; in Sheol, who gives thanks to You?
 

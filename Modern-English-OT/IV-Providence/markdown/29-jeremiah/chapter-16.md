@@ -13,7 +13,7 @@
 
 **16:4** They will die of fatal diseases; they will not be lamented, nor will they be buried; they will become dung on the surface of the ground. By the sword and by famine they will come to an end, and their corpses will become food for the birds of the sky and for the beasts of the earth.
 
-**16:5** For this is what the LORD says: Do not enter a house of mourning, do not go to lament, and do not grieve for them; for I have withdrawn My peace from this people, declares the LORD—steadfast love and compassion.
+**16:5** For this is what the LORD says: Do not enter a house of mourning, do not go to lament, and do not grieve for them; for I have withdrawn My peace from this people, declares the LORD—loyal love and compassion.
 
 **16:6** Both great and small will die in this land; they will not be buried, nor will anyone lament for them, nor will anyone cut himself or shave his head bald for them.
 

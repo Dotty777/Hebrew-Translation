@@ -9,13 +9,13 @@
 
 **7:2** And the priests were unable to enter the house of the LORD, because the glory of the LORD had filled the house of the LORD.
 
-**7:3** And all the sons of Israel were watching as the fire descended and the glory of the LORD was upon the house; and they knelt with their faces to the ground on the pavement, worshiped, and gave thanks to the LORD, "For He is good, for His faithful love endures forever."
+**7:3** And all the sons of Israel were watching as the fire descended and the glory of the LORD was upon the house; and they knelt with their faces to the ground on the pavement, worshiped, and gave thanks to the LORD, "For He is good, for His loyal love endures forever."
 
 **7:4** And the king and all the people were offering sacrifice before the LORD.
 
 **7:5** King Solomon offered a sacrifice of twenty-two thousand cattle and one hundred and twenty thousand sheep and goats; and the king and all the people dedicated the house of God.
 
-**7:6** The priests stood at their posts, and the Levites as well, with the instruments of song of the LORD that King David had made to give thanks to the LORD—"For His faithful love endures forever"—whenever David offered praise through their hands; and the priests blew trumpets opposite them, while all Israel was standing.
+**7:6** The priests stood at their posts, and the Levites as well, with the instruments of song of the LORD that King David had made to give thanks to the LORD—"For His loyal love endures forever"—whenever David offered praise through their hands; and the priests blew trumpets opposite them, while all Israel was standing.
 
 **7:7** And Solomon consecrated the center of the courtyard in front of the house of the LORD, for he presented the burnt offerings and the fat portions of the peace offerings there, because the bronze altar that Solomon had made could not hold the burnt offering, the grain offering, and the fat portions.
 

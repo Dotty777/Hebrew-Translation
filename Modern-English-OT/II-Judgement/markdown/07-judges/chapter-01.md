@@ -51,7 +51,7 @@
 
 **1:23** The house of Joseph had Bethel scouted out; now the name of the city formerly was Luz.
 
-**1:24** The lookouts saw a man coming out of the city and said to him, "Please show us the entrance of the city, and we will show kindness to you."
+**1:24** The lookouts saw a man coming out of the city and said to him, "Please show us the entrance of the city, and we will show loyal love to you."
 
 **1:25** So he showed them the entrance of the city, and they struck the city with the edge of the sword, but they let the man and all his family go.
 

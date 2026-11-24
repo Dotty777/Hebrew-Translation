@@ -131,7 +131,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**3:22** *(after `3:21`)* It is by the steadfast kindnesses of the LORD that we have not perished, because His compassions are not exhausted.
+**3:22** *(after `3:21`)* It is by the LORD's acts of loyal love that we have not perished, because His compassions are not exhausted.
 
 **3:23** *(after `3:21`)* They are fresh each morning; abundant is Your faithfulness.
 

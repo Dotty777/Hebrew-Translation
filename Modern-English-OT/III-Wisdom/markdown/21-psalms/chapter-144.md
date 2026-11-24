@@ -19,7 +19,7 @@
 
 **144:7** They will pour out the remembrance of Your abundant goodness, and they will sing joyfully of Your righteousness.
 
-**144:8** Gracious and compassionate is the LORD, slow to anger and great in faithful love.
+**144:8** Gracious and compassionate is the LORD, slow to anger and great in loyal love.
 
 **144:9** Good is the LORD to all, and His compassion is over all His works.
 

@@ -15,7 +15,7 @@
 
 **40:5** The glory of the LORD will be unveiled, and all flesh together will see it, because the mouth of the LORD has spoken."
 
-**40:6** A voice says, "Call out!" And he said, "What shall I call out?" "All flesh is grass, and all its constancy is like a blossom of the field.
+**40:6** A voice says, "Call out!" And he said, "What shall I call out?" "All flesh is grass, and all its loyal love is like a blossom of the field.
 
 **40:7** The grass dries up, the blossom wilts, when the breath of the LORD blows across it; indeed, the people are grass.
 
@@ -70,7 +70,7 @@
 ## Translator Notes
 
 - **40:3** — Both the Masoretic accentuation (zaqeph qaton on qore) and the poetic parallelism ("in the wilderness" // "in the desert plain") link "in the wilderness" with "clear the way" rather than with "a voice calls out."
-- **40:6** — The Masoretic Text reads third-person va'amar ("and he said") rather than first-person ("and I said") found in some ancient witnesses; chasdo (from chesed, "loyalty/constancy") describes humanity's fleeting reliability or loveliness.
+- **40:6** — The Masoretic Text reads third-person va'amar ("and he said") rather than first-person ("and I said") found in some ancient witnesses; chasdo ("its loyal love," from chesed) describes how short-lived human constancy is (cf. Hos 6:4), though it may also suggest loveliness.
 - **40:9** — The construct phrase mebasseret tsiyyon (and parallel mebasseret yerushalayim) can be read either appositionally ("Zion, messenger of good news," matching the feminine singular imperatives addressed to the city) or objectively ("messenger of good news to Zion").
 - **40:20** — The Masoretic Text points hamesukkan as a Pual participle ("the one too poor for an offering," cf. misken in Eccl 4:13); some lexicographers connect the consonants to Akkadian musukkannu, a durable hardwood.
 - **40:21** — The Masoretic Text has no preposition "from" before mosdot ha'arets, allowing it to be read directly as the object of "understood" ("understood the foundations of the earth"), though some carry over "from" from the previous clause.

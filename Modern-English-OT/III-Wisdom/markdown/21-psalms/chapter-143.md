@@ -7,7 +7,7 @@
 
 **143:1** Of David. Blessed be the LORD, my rock, who trains my hands for combat, my fingers for war.
 
-**143:2** He is my faithful love and my fortress, my high refuge and my own rescuer, my shield, and in Him I take refuge, the One who subdues my people beneath me.
+**143:2** He is my loyal love and my fortress, my high refuge and my own rescuer, my shield, and in Him I take refuge, the One who subdues my people beneath me.
 
 **143:3** LORD, what is a human being, that You know him, a son of mortal man, that You consider him?
 
@@ -37,7 +37,7 @@
 
 ## Translator Notes
 
-- **143:2** — The MT reads עַמִּי ("my people"); several Hebrew manuscripts and ancient versions (LXX, Syriac, Targum) read עַמִּים ("peoples"). The noun חַסְדִּי ("my faithful love") is applied directly to God as a personal epithet.
+- **143:2** — The MT reads עַמִּי ("my people"); several Hebrew manuscripts and ancient versions (LXX, Syriac, Targum) read עַמִּים ("peoples"). The noun חַסְדִּי ("my loyal love") is applied directly to God as a personal epithet.
 - **143:6** — The Qal imperative בְּרוֹק ("flash") is the sole verbal occurrence of the root ברק in the Hebrew Bible, paired here with its cognate noun בָּרָק ("lightning").
 - **143:12** — The particle אֲשֶׁר functions here as a purpose or result conjunction ("so that"), linking the petition for deliverance in v. 11 to the blessings of vv. 12-14. Both מְגֻדָּלִים ("grown large") and מְחֻטָּבוֹת ("carved") are Pual participles.
 - **143:14** — The Pual participle מְסֻבָּלִים ("heavily laden," from סבל) with אַלּוּפֵינוּ ("our cattle") and the clauses "no breach and no going out" can refer either to city security (no breached wall or exile) or to livestock fertility (cattle heavy with young, suffering no miscarriage or loss).

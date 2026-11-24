@@ -35,7 +35,7 @@
 
 **11:16** A gracious woman keeps hold of honor, and ruthless men keep hold of wealth.
 
-**11:17** A man of kindness benefits his own soul, but a cruel man brings trouble on his own flesh.
+**11:17** A man of loyal love benefits his own soul, but a cruel man brings trouble on his own flesh.
 
 **11:18** A wicked person earns a false wage, while one who sows righteousness has a genuine reward.
 

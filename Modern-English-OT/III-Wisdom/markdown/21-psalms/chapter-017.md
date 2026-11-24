@@ -105,7 +105,7 @@
 
 **17:50** Therefore I will thank You among the nations, LORD, and to Your name I will sing praise.
 
-**17:51** He magnifies the victories of His king and shows steadfast love to His anointed, to David and to his offspring forever."
+**17:51** He magnifies the victories of His king and shows loyal love to His anointed, to David and to his offspring forever."
 
 ## Translator Notes
 

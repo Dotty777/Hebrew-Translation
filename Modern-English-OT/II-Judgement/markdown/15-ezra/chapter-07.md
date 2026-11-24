@@ -59,7 +59,7 @@
 
 **7:27** Blessed be the LORD, the God of our fathers, who placed something like this in the king's heart, to beautify the house of the LORD which is in Jerusalem,
 
-**7:28** and who extended steadfast love to me before the king and his counselors and before all the king's mighty officials. And I gained strength, since the hand of the LORD my God was upon me, and I gathered leaders from Israel to go up with me.
+**7:28** and who extended loyal love to me before the king and his counselors and before all the king's mighty officials. And I gained strength, since the hand of the LORD my God was upon me, and I gathered leaders from Israel to go up with me.
 
 ## Translator Notes
 

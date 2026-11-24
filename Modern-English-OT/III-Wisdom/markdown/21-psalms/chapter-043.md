@@ -57,7 +57,7 @@
 
 **43:26** For our soul has bowed low to the dust; our belly has clung to the earth.
 
-**43:27** Rise up as a help for us, and redeem us for the sake of Your faithful love.
+**43:27** Rise up as a help for us, and redeem us for the sake of Your loyal love.
 
 ## Translator Notes
 

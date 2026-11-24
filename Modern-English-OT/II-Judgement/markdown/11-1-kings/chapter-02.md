@@ -17,7 +17,7 @@
 
 **2:6** Act according to your wisdom, then, and do not bring down his gray hair in peace to Sheol.
 
-**2:7** But to the sons of Barzillai the Gileadite show loyal kindness, and let them be among those who eat at your table, for in this way they came near to me when I fled from before Absalom your brother.
+**2:7** But to the sons of Barzillai the Gileadite show loyal love, and let them be among those who eat at your table, for in this way they came near to me when I fled from before Absalom your brother.
 
 **2:8** And look, with you is Shimei son of Gera, the Benjaminite from Bahurim; he cursed me with a severe curse on the day I went to Mahanaim, yet he came down to meet me at the Jordan, and I swore to him by the LORD, saying, 'I will surely not put you to death by the sword.'
 

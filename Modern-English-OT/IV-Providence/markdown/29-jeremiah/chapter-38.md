@@ -9,7 +9,7 @@
 
 **38:2** This is what the LORD says: "The people, survivors of the sword, found favor in the wilderness, as Israel went to find his rest."
 
-**38:3** From afar the LORD appeared to me: "With an eternal love I have loved you; therefore I have drawn you with steadfast love.
+**38:3** From afar the LORD appeared to me: "With an eternal love I have loved you; therefore I have drawn you with loyal love.
 
 **38:4** Again I will build you, and you will be built, virgin Israel! Again you will adorn yourself with your tambourines and go out in the dance of those who celebrate.
 

@@ -43,7 +43,7 @@
 
 **2:19** Her mother-in-law asked her, "Where did you glean today, and where did you work? May the one who took notice of you be blessed." So she told her mother-in-law with whom she had worked, and she said, "The name of the man with whom I worked today is Boaz."
 
-**2:20** Naomi said to her daughter-in-law, "May he be blessed by the LORD, who has not forsaken His loyal kindness toward the living and toward the dead." Then Naomi said to her, "The man is a close relative of ours; he is one of our redeemers."
+**2:20** Naomi said to her daughter-in-law, "May he be blessed by the LORD, who has not forsaken His loyal love toward the living and toward the dead." Then Naomi said to her, "The man is a close relative of ours; he is one of our redeemers."
 
 **2:21** Then Ruth the Moabite said, "Furthermore, he even told me, 'Stay closely with my young men until they have finished all of my harvest.'"
 

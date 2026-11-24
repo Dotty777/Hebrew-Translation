@@ -37,7 +37,7 @@
 
 **16:16** Now when Hushai the Archite, David's friend, came to Absalom, Hushai said to Absalom, "Long live the king! Long live the king!"
 
-**16:17** Absalom said to Hushai, "Is this your loyalty to your friend? Why did you not go with your friend?"
+**16:17** Absalom said to Hushai, "Is this your loyal love to your friend? Why did you not go with your friend?"
 
 **16:18** Hushai answered Absalom, "No! Rather, the one whom the LORD and this people and all the men of Israel have chosen—his I will be, and with him I will stay.
 

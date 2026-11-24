@@ -67,7 +67,7 @@
 
 **32:31** Even so, in the matter of the envoys of the rulers of Babylon who sent to him to inquire about the sign that had occurred in the land, God left him to test him, to know all that was in his heart.
 
-**32:32** Now the rest of the acts of Hezekiah and his deeds of devotion, see, they are written in the vision of Isaiah son of Amoz, the prophet, in the Book of the Kings of Judah and Israel.
+**32:32** Now the rest of the acts of Hezekiah and his acts of loyal love, see, they are written in the vision of Isaiah son of Amoz, the prophet, in the Book of the Kings of Judah and Israel.
 
 **32:33** So Hezekiah lay down with his fathers, and they buried him on the ascent of the tombs of the sons of David; and all Judah and the inhabitants of Jerusalem paid him honor at his death. And Manasseh his son became king in his place.
 

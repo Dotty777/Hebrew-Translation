@@ -7,7 +7,7 @@
 
 **10:1** Afterward it came about that the king of the sons of Ammon died, and his son Hanun reigned in his place.
 
-**10:2** David said, "I will show loyal kindness to Hanun son of Nahash, just as his father showed loyal kindness to me." So David sent by the hand of his servants to comfort him regarding his father, and David's servants arrived in the land of the sons of Ammon.
+**10:2** David said, "I will show loyal love to Hanun son of Nahash, just as his father showed loyal love to me." So David sent by the hand of his servants to comfort him regarding his father, and David's servants arrived in the land of the sons of Ammon.
 
 **10:3** Then the officials of the sons of Ammon said to their lord Hanun, "Is David honoring your father in your eyes because he has sent comforters to you? Has David not sent his servants to you in order to examine the city, to spy it out, and to overthrow it?"
 

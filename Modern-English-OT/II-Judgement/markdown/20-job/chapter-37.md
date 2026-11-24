@@ -29,7 +29,7 @@
 
 **37:12** It turns about in circuits by His direction, so that they carry out everything He commands them across the face of the inhabited earth.
 
-**37:13** Whether for a rod, or for His land, or for steadfast love, He brings it about.
+**37:13** Whether for a rod, or for His land, or for loyal love, He brings it about.
 
 **37:14** Give ear to this, Job; stand still and ponder the marvels of God.
 

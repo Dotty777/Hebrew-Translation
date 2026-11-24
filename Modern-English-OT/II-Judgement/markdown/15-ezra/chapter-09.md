@@ -21,7 +21,7 @@
 
 **9:8** Yet now, for a short moment, favor has come from the LORD our God to leave us an escaped remnant and to give us a peg in His holy place, so that our God may give light to our eyes and give us a little reviving in our slavery.
 
-**9:9** For we are slaves, yet in our slavery our God has not forsaken us; instead, He has extended steadfast love to us in the presence of the kings of Persia, to give us reviving, to raise up the house of our God and restore its ruins, and to give us a wall in Judah and in Jerusalem.
+**9:9** For we are slaves, yet in our slavery our God has not forsaken us; instead, He has extended loyal love to us in the presence of the kings of Persia, to give us reviving, to raise up the house of our God and restore its ruins, and to give us a wall in Judah and in Jerusalem.
 
 **9:10** And now, what can we say, our God, after this? For we have forsaken Your commandments,
 

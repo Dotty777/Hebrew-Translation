@@ -19,7 +19,7 @@
 
 **6:7** Will the LORD take pleasure in thousands of rams, in tens of thousands of streams of oil? Shall I give my firstborn for my rebellion, the fruit of my body for my soul's sin?"
 
-**6:8** He has declared to you, mortal, what is good; and what is the LORD requiring from you except to practice justice, to love steadfast kindness, and to walk in humility with your God?
+**6:8** He has declared to you, mortal, what is good; and what is the LORD requiring from you except to practice justice, to love loyal love, and to walk in humility with your God?
 
 **6:9** The voice of the LORD calls out to the city, and sound wisdom perceives Your name: "Heed the rod and the One who has appointed it!
 

@@ -55,7 +55,7 @@
 
 **35:25** Jeremiah also uttered a lament for Josiah, and all the male and female singers have spoken about Josiah in their laments to this day. They made them an ordinance in Israel, and see, they are written in the Laments.
 
-**35:26** Now the rest of the acts of Josiah and his deeds of devotion, according to what is written in the law of the LORD,
+**35:26** Now the rest of the acts of Josiah and his acts of loyal love, according to what is written in the law of the LORD,
 
 **35:27** and his acts, from first to last, look, they are written in the Book of the Kings of Israel and Judah.
 

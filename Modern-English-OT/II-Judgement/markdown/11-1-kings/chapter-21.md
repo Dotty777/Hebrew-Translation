@@ -65,7 +65,7 @@
 
 **21:30** Those who remained fled to Aphek, into the city, and the wall fell on twenty-seven thousand of the remaining men. Ben-hadad also fled and went into the city, into a chamber within a chamber.
 
-**21:31** His servants said to him, "Look now, we have heard that the kings of the house of Israel are kings of mercy. Please let us put sackcloth around our waists and ropes on our heads, and go out to the king of Israel; perhaps he will preserve your life."
+**21:31** His servants said to him, "Look now, we have heard that the kings of the house of Israel are kings of loyal love. Please let us put sackcloth around our waists and ropes on our heads, and go out to the king of Israel; perhaps he will preserve your life."
 
 **21:32** So they bound sackcloth around their waists, with ropes on their heads, came to the king of Israel, and said, "Your servant Ben-hadad says, 'Please let me keep my life.'" And he said, "Is he still alive? He is my brother."
 

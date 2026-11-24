@@ -23,7 +23,7 @@
 
 **3:9** He asked, "Who are you?" She replied, "I am Ruth, your maidservant. Spread your wing over your maidservant, for you are a redeemer."
 
-**3:10** Then he said, "May you be blessed by the LORD, my daughter. You have made your later loyal kindness even better than the first, by not going after the young men, whether poor or rich.
+**3:10** Then he said, "May you be blessed by the LORD, my daughter. You have made your later loyal love even better than the first, by not going after the young men, whether poor or rich.
 
 **3:11** And now, my daughter, do not fear. Everything that you say I will do for you, for the entire gate of my people knows that you are a woman of worth.
 

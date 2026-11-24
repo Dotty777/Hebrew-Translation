@@ -13,9 +13,9 @@
 
 **2:4** Then the men of Judah came and anointed David there as king over the house of Judah. And they reported to David, saying, "The men of Jabesh-gilead are the ones who buried Saul."
 
-**2:5** So David sent messengers to the men of Jabesh-gilead and told them, "Blessed are you by the LORD, because you have shown this loyal kindness to your lord, to Saul, and buried him.
+**2:5** So David sent messengers to the men of Jabesh-gilead and told them, "Blessed are you by the LORD, because you have shown this loyal love to your lord, to Saul, and buried him.
 
-**2:6** And now, may the LORD show you loyal kindness and faithfulness, and I myself will also do this good for you, because you have done this thing.
+**2:6** And now, may the LORD show you loyal love and faithfulness, and I myself will also do this good for you, because you have done this thing.
 
 **2:7** So now let your hands grow strong, and be men of valor; for your lord Saul is dead, and the house of Judah has also anointed me as king over them."
 

@@ -33,7 +33,7 @@
 
 **7:14** I Myself will be a father to him, and he will be a son to Me. When he commits wrongdoing, I will reprove him with the rod of men and with the blows of the sons of mankind,
 
-**7:15** yet My loyal kindness will not depart from him, as I removed it from Saul, whom I removed from before you.
+**7:15** yet My loyal love will not depart from him, as I removed it from Saul, whom I removed from before you.
 
 **7:16** Your house and your kingdom will stand sure forever before you; your throne will remain established forever.'"
 

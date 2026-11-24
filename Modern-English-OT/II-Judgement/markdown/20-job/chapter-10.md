@@ -27,7 +27,7 @@
 
 **10:11** With skin and flesh You clothed me, and with bones and sinews You wove me together.
 
-**10:12** Life and steadfast kindness You have shown to me, and Your watchful care has guarded my spirit.
+**10:12** Life and loyal love You have shown to me, and Your watchful care has guarded my spirit.
 
 **10:13** Yet these things You hid away in Your heart; I know that this was with You:
 

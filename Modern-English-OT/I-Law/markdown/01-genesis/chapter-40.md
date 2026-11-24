@@ -31,7 +31,7 @@
 
 **40:13** Within three days Pharaoh will lift up your head and restore you to your post; and you will place Pharaoh's cup in his hand according to the former custom, when you were his cupbearer.
 
-**40:14** Only remember me when it goes well for you, and please show me kindness; make mention of me to Pharaoh, and bring me out of this house.
+**40:14** Only remember me when it goes well for you, and please show me loyal love; make mention of me to Pharaoh, and bring me out of this house.
 
 **40:15** For I was truly stolen from the land of the Hebrews, and even here I have not done anything for which they should place me in the pit."
 

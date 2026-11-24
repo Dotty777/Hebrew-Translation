@@ -49,7 +49,7 @@
 
 **21:22** Now at that time, Abimelech and Phicol, the commander of his army, spoke to Abraham and said, "God is with you in everything that you do.
 
-**21:23** So now, swear to me by God here that you will not break faith with me, nor with my offspring, nor with my posterity; according to the loyal kindness that I have shown to you, you will show to me and to the land in which you have lived as a foreigner."
+**21:23** So now, swear to me by God here that you will not break faith with me, nor with my offspring, nor with my posterity; according to the loyal love that I have shown to you, you will show to me and to the land in which you have lived as a foreigner."
 
 **21:24** Abraham said, "I myself will swear."
 

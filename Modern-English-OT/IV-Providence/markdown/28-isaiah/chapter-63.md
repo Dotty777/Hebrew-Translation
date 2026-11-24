@@ -17,7 +17,7 @@
 
 **63:6** And I trampled peoples in My anger, made them drunk in My fury, and brought their lifeblood down to the ground."
 
-**63:7** I will bring to remembrance the LORD's faithful kindnesses, the praises of the LORD, in keeping with everything the LORD has bestowed on us, and the abundant goodness toward the house of Israel that He bestowed on them in accordance with His compassions and in accordance with the multitude of His faithful kindnesses.
+**63:7** I will bring to remembrance the LORD's acts of loyal love, the praises of the LORD, in keeping with everything the LORD has bestowed on us, and the abundant goodness toward the house of Israel that He bestowed on them in accordance with His compassions and in accordance with the multitude of His acts of loyal love.
 
 **63:8** And He said, "Truly they are My people, children who will not prove false." So He became a Savior to them.
 

@@ -43,7 +43,7 @@
 
 **21:20** Desirable treasure and oil are in the dwelling of a wise person, yet a foolish person swallows it up.
 
-**21:21** One who pursues righteousness and steadfast love finds life, righteousness, and honor.
+**21:21** One who pursues righteousness and loyal love finds life, righteousness, and honor.
 
 **21:22** A wise man scales a city of warriors and pulls down the stronghold of its confidence.
 

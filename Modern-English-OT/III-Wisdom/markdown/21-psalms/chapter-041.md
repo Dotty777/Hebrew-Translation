@@ -21,7 +21,7 @@
 
 **41:8** Deep cries out to deep at the sound of Your cascades; all Your surges and Your waves have passed over me.
 
-**41:9** In the daytime the LORD will command His faithful love, and in the night His song is with me, a prayer to the God of my life.
+**41:9** In the daytime the LORD will command His loyal love, and in the night His song is with me, a prayer to the God of my life.
 
 **41:10** I will say to God, my rock, "Why have You forgotten me? Why must I go in gloom because of the oppression of an enemy?"
 

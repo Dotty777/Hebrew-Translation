@@ -19,7 +19,7 @@
 
 **5:7** You destroy speakers of falsehood; the LORD detests a man of bloodshed and treachery.
 
-**5:8** Yet as for me, by the abundance of Your faithful love I will come into Your house; I will bow low toward Your holy sanctuary in fear of You.
+**5:8** Yet as for me, by the abundance of Your loyal love I will come into Your house; I will bow low toward Your holy sanctuary in fear of You.
 
 **5:9** LORD, guide me in Your righteousness on account of my foes; make Your way level before me.
 

@@ -21,7 +21,7 @@
 
 **2:8** When my soul grew faint within me, it was the LORD I remembered, and my prayer came to You, to Your holy temple.
 
-**2:9** Those who pay heed to worthless vanities abandon their steadfast love.
+**2:9** Those who pay heed to worthless vanities abandon their loyal love.
 
 **2:10** But as for me, with a voice of thanksgiving I will sacrifice to You; what I have vowed I will fulfill. Salvation is the LORD's!"
 
@@ -32,4 +32,4 @@
 - **2:1** — In the Masoretic Hebrew versification followed here, 2:1-11 corresponds to 1:17-2:10 in an alternative versification.
 - **2:2** — Hebrew uses the feminine form ha-dagah here in place of the masculine ha-dag ("the fish") in 2:1 and 2:11, referring to the same great fish.
 - **2:5** — The Masoretic Text reads akh ("yet" or "surely") followed by the auxiliary idiom osif lehabbit (Hiphil of yasaf plus Hiphil infinitive of nabat, "I will look once more"), expressing renewed hope in contrast to Jonah's despair.
-- **2:9** — Hebrew meshamerim (the sole Piel occurrence of shamar in the Hebrew Bible) paired with havlei-shav (literally "vanities of emptiness," a poetic idiom for false gods) contrasts idol worship with "their steadfast love" (chasdam), which can mean either their own loyalty or the faithful love God extends to them.
+- **2:9** — Hebrew meshamerim (the sole Piel occurrence of shamar in the Hebrew Bible) paired with havlei-shav (literally "vanities of emptiness," a poetic idiom for false gods) contrasts idol worship with "their loyal love" (chasdam), which can mean either their own loyalty or the loyal love God extends to them.

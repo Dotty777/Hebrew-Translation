@@ -73,7 +73,7 @@
 
 **8:34** The sons of Israel did not remember the LORD their God, who had rescued them from the hand of all their enemies on every side;
 
-**8:35** nor did they show loyal kindness to the household of Jerubbaal, that is, Gideon, in accordance with all the good that he had done for Israel.
+**8:35** nor did they show loyal love to the household of Jerubbaal, that is, Gideon, in accordance with all the good that he had done for Israel.
 
 ## Translator Notes
 

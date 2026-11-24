@@ -31,7 +31,7 @@
 
 **13:13** And I appointed as treasurers over the storehouses Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, and as their aide, Hanan son of Zaccur, son of Mattaniah; for they were regarded as trustworthy, and the responsibility of distributing to their brothers rested upon them.
 
-**13:14** Remember me for this, my God, and do not erase my faithful deeds that I have done for the house of my God and for its services.
+**13:14** Remember me for this, my God, and do not erase my acts of loyal love that I have done for the house of my God and for its services.
 
 **13:15** In those days I saw in Judah some who were treading winepresses on the Sabbath, bringing in heaps of grain and loading them on donkeys, as well as wine, grapes, figs, and every kind of load, and bringing them into Jerusalem on the Sabbath day. So I solemnly warned them on the day they sold provisions.
 
@@ -47,7 +47,7 @@
 
 **13:21** Then I solemnly warned them and said to them, "Why are you spending the night in front of the wall? If you do this a second time, I will lay a hand on you." From that time forward they did not come on the Sabbath.
 
-**13:22** Then I instructed the Levites that they should purify themselves and come to guard the gates in order to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the abundance of Your faithful love.
+**13:22** Then I instructed the Levites that they should purify themselves and come to guard the gates in order to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the abundance of Your loyal love.
 
 **13:23** Also in those days I saw the Jews who had married Ashdodite, Ammonite, and Moabite women.
 

@@ -13,7 +13,7 @@
 
 **140:4** Do not turn my heart to an evil matter, to engage in deeds in wickedness with men who are workers of iniquity, and may I not dine on their delicacies.
 
-**140:5** May a righteous man strike me in kindness and rebuke me; it is oil for the head—may my head not refuse it. For even still, my prayer is against their evil deeds.
+**140:5** May a righteous man strike me in loyal love and rebuke me; it is oil for the head—may my head not refuse it. For even still, my prayer is against their evil deeds.
 
 **140:6** Their judges will be cast down along the sides of the crag, and they will hear my words, for they are sweet.
 

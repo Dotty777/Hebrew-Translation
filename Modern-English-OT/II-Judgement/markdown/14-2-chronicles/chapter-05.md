@@ -29,7 +29,7 @@
 
 **5:12** and all the Levites who were singers, Asaph, Heman, Jeduthun, and their sons and their brothers, clothed in fine linen, with cymbals, harps, and lyres, were standing east of the altar, and with them a hundred and twenty priests sounding trumpets—
 
-**5:13** and the trumpeters and the singers joined as one to make a single sound heard in praising and thanking the LORD, and as they lifted up the sound with trumpets, cymbals, and instruments of song, and praised the LORD, "For He is good, for His faithful love is forever," then the house was filled with a cloud, the house of the LORD.
+**5:13** and the trumpeters and the singers joined as one to make a single sound heard in praising and thanking the LORD, and as they lifted up the sound with trumpets, cymbals, and instruments of song, and praised the LORD, "For He is good, for His loyal love is forever," then the house was filled with a cloud, the house of the LORD.
 
 **5:14** And the priests were not able to stand to serve because of the cloud, for the glory of the LORD filled the house of God.
 

@@ -19,7 +19,7 @@
 
 **1:7** So she went out from the place where she had been, and her two daughters-in-law were with her, and they walked on the road to return to the land of Judah.
 
-**1:8** Then Naomi said to her two daughters-in-law, "Go, return, each woman to her mother's house. May the LORD deal in loyal kindness with you, just as you have dealt with the dead and with me.
+**1:8** Then Naomi said to her two daughters-in-law, "Go, return, each woman to her mother's house. May the LORD deal in loyal love with you, just as you have dealt with the dead and with me.
 
 **1:9** May the LORD grant you that you find a place of rest, each woman in the house of her husband." Then she kissed them, and they raised their voices and wept.
 

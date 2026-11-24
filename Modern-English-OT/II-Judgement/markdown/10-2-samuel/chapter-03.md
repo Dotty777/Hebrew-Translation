@@ -19,7 +19,7 @@
 
 **3:7** Now Saul had a concubine, and her name was Rizpah, the daughter of Aiah. And he said to Abner, "Why did you go in to my father's concubine?"
 
-**3:8** And Abner became exceedingly angry at the words of Ish-bosheth, and he said, "Am I a dog's head belonging to Judah? Today I keep showing loyal kindness to the house of Saul your father, to his brothers and to his companions, and I have not handed you over into the hand of David; yet you call me to account for guilt regarding the woman today!
+**3:8** And Abner became exceedingly angry at the words of Ish-bosheth, and he said, "Am I a dog's head belonging to Judah? Today I keep showing loyal love to the house of Saul your father, to his brothers and to his companions, and I have not handed you over into the hand of David; yet you call me to account for guilt regarding the woman today!
 
 **3:9** May God do so to Abner, and add even more to him: just as the LORD swore to David, surely so I will do for him,
 

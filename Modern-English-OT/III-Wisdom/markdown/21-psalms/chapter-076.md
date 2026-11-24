@@ -21,7 +21,7 @@
 
 **76:8** Will the Lord cast off forever, and never again show favor?
 
-**76:9** Has His faithful love come to an end forever? Has His promise ceased for all generations?
+**76:9** Has His loyal love come to an end forever? Has His promise ceased for all generations?
 
 **76:10** Has God forgotten to show grace? Or has He in anger closed off His compassion? Selah.
 

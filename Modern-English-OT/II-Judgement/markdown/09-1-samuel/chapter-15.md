@@ -15,7 +15,7 @@
 
 **15:5** Saul came as far as the city of Amalek and set an ambush in the valley.
 
-**15:6** Then Saul said to the Kenites, "Go, depart, go down from among the Amalekites, so that I do not sweep you away with them; for you showed loyal kindness to all the sons of Israel when they came up from Egypt." So the Kenites departed from among Amalek.
+**15:6** Then Saul said to the Kenites, "Go, depart, go down from among the Amalekites, so that I do not sweep you away with them; for you showed loyal love to all the sons of Israel when they came up from Egypt." So the Kenites departed from among Amalek.
 
 **15:7** Then Saul struck Amalek from Havilah as one goes toward Shur, which lies east of Egypt.
 

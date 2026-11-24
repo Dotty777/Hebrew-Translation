@@ -7,7 +7,7 @@
 
 **19:1** After this it happened that Nahash king of the sons of Ammon died, and his son reigned in his place.
 
-**19:2** Then David said, "I will show loyal kindness to Hanun son of Nahash, because his father showed loyal kindness to me." So David sent messengers to comfort him concerning his father. And David's servants came into the land of the sons of Ammon, to Hanun, to comfort him.
+**19:2** Then David said, "I will show loyal love to Hanun son of Nahash, because his father showed loyal love to me." So David sent messengers to comfort him concerning his father. And David's servants came into the land of the sons of Ammon, to Hanun, to comfort him.
 
 **19:3** But the officials of the sons of Ammon said to Hanun, "Is David honoring your father in your eyes, because he has sent comforters to you? Have his servants not come to you in order to explore, to overthrow, and to spy out the land?"
 

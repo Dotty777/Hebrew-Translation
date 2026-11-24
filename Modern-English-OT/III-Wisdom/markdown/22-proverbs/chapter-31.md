@@ -57,7 +57,7 @@
 
 **31:27** She keeps watch over the ways of her household, and the bread of idleness she does not eat.
 
-**31:28** With wisdom she opens her mouth, and instruction of kindness is on her tongue. Her children rise and pronounce her blessed; her husband as well, and he praises her:
+**31:28** With wisdom she opens her mouth, and instruction of loyal love is on her tongue. Her children rise and pronounce her blessed; her husband as well, and he praises her:
 
 **31:29** "Many daughters have acted valiantly, but you have risen above them all."
 
