@@ -35,7 +35,7 @@
 
 **15:15** The sons of the Levites carried the ark of God, just as Moses had commanded according to the word of the LORD, on their shoulders with the poles upon them.
 
-**15:16** David also told the leaders of the Levites to appoint their brothers the singers with musical instruments—harps, lyres, and cymbals—sounding aloud to lift up sounds of joy.
+**15:16** And David told the leaders of the Levites to appoint their brothers the singers with musical instruments—harps, lyres, and cymbals—sounding aloud to lift up sounds of joy.
 
 **15:17** So the Levites appointed Heman son of Joel; from his brothers, Asaph son of Berechiah; and from the sons of Merari their brothers, Ethan son of Kushaiah.
 

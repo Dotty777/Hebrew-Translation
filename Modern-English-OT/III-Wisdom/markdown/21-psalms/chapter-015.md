@@ -7,7 +7,7 @@
 
 **15:1** A miktam of David. Guard me, God, for I have taken refuge in You.
 
-**15:2** I have said to the LORD, "You are my Lord; I have no good beyond You."
+**15:2** You have said to the LORD, "You are my Lord; I have no good beyond You."
 
 **15:3** As for the holy ones who are in the land, and the noble ones, all my delight is in them.
 
@@ -29,7 +29,7 @@
 
 ## Translator Notes
 
-- **15:2** — The Masoretic Text vocalizes amart as a second-person feminine singular Qal perfect (traditionally explained as the psalmist addressing his soul), though the consonantal text is widely regarded as a defective spelling of first-person singular amarti ("I have said"). The terse clause tovati bal-alekha (literally "my good is not beyond You") expresses that the psalmist has no welfare apart from the LORD.
+- **15:2** — The Masoretic Text vocalizes amart as a second-person feminine singular Qal perfect ("you have said"), traditionally explained as the psalmist addressing his soul; the consonants can also be read as a defective spelling of first-person singular amarti ("I have said"), as the Septuagint renders it. The terse clause tovati bal-alekha (literally "my good is not beyond You") expresses that the psalmist has no welfare apart from the LORD.
 - **15:3** — The Hebrew syntax is compressed: the pronoun hemmah ("they") closes the relative clause "who are in the land," and the plural construct addirei ("the noble ones") is linked directly to the following clause "all my delight is in them."
 - **15:4** — The Qal perfect maharu comes from mahar ("acquire by marriage-price, espouse," cf. Exod 22:15), whereas the homonymous root meaning "hurry" appears elsewhere in Biblical Hebrew only in the Piel or Niphal; "god" is implied by Hebrew acher ("another").
 - **15:6** — Hebrew nachalat exhibits an archaic poetic feminine singular ending, and the Qal perfect shaferah ("is lovely," with alay "to me") is the sole verbal occurrence in Biblical Hebrew of shafar, cognate with Aramaic shefar ("be pleasing").

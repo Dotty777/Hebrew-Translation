@@ -47,7 +47,7 @@
 
 **14:21** His sons gain honor, and he does not know; they sink low, and he does not notice them.
 
-**14:22** Only his flesh aches upon him, and his soul mourns within him.
+**14:22** Only his flesh aches upon him, and his soul mourns within him."
 
 ## Translator Notes
 
@@ -55,4 +55,4 @@
 - **14:6** — The Qal verb ratzah here can mean 'complete / pay off' a term of service (as in Lev 26:34; Isa 40:2) or 'enjoy / take pleasure in' one's day.
 - **14:14** — Hard service (tzava) denotes compulsory or military duty, pairing with 'relief' (chalifah, also 'renewal' or 'replacement', cognate with the Hiphil verb 'sprout again' in v. 7).
 - **14:16** — Continuing the wish of vv. 13-15, ki-attah ('for then') and the negative clause depict God ceasing to track Job's sin; alternatively, taking ki-attah as 'for now' and the second clause as an unmarked rhetorical question ('do You not watch over my sin?'), vv. 16-17 describe God preserving Job's sins as evidence.
-- **14:19** — Hebrew seficheha ('its torrents', from a root denoting pouring out or scattering) is a rare poetic plural construed with a feminine singular verb, with its suffix referring back to the waters.
+- **14:19** — Hebrew seficheha ('its torrents', from a root denoting pouring out or scattering) is a rare poetic plural construed with a feminine singular verb; the antecedent of its feminine singular suffix is uncertain, perhaps the earth (erets).

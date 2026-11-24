@@ -62,5 +62,5 @@
 - **5:1** — Literally 'voice of an adjuration' (qol alah), referring to a solemn curse or oath pronounced publicly to compel anyone with knowledge of a matter to come forward and testify.
 - **5:6** — In 5:6-7 the noun asham ('guilt offering' or 'guilt penalty') designates the offering even though its sacrificial type is specified as chattat ('sin offering'), before asham denotes a distinct ram offering in 5:15-26.
 - **5:19** — Hebrew pairs the Qal infinitive absolute with the Qal perfect of asham (ashom asham) for emphatic certainty, 'he has surely become guilty.'
-- **5:21** — Verses 5:20-26 follow the Masoretic numbering (numbered 6:1-7 in many English Bibles). The rare phrase tesumet yad (literally 'a placing of the hand', occurring only here) denotes a security, pledge, or entrusted partnership.
+- **5:21** — Verses 5:20-26 follow the Masoretic numbering. The rare phrase tesumet yad (literally 'a placing of the hand', occurring only here) denotes a security, pledge, or entrusted partnership.
 - **5:24** — Hebrew berosho literally means 'in its head', an idiom for the full principal amount; in the next clause the Masoretic text uses the plural chamishitav ('its fifths') rather than the singular form seen in 5:16.

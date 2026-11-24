@@ -37,7 +37,7 @@
 
 **23:16** Then the three mighty men broke through the Philistine camp, drew water from the well of Bethlehem that was at the gate, and carried and brought it to David. Yet he was unwilling to drink it, and poured it out as a drink offering to the LORD.
 
-**23:17** And he said, "Far be it from me, LORD, to do this! Am I to drink the blood of the men who went at the cost of their lives?" So he was unwilling to drink it. These things the three mighty men did.
+**23:17** And he said, "Far be it from me, LORD, to do this! Is this the blood of the men who went at the cost of their lives?" So he was unwilling to drink it. These things the three mighty men did.
 
 **23:18** Now Abishai, the brother of Joab, son of Zeruiah, was chief of the three. He brandished his spear against three hundred and killed them, and he had a name among the three.
 

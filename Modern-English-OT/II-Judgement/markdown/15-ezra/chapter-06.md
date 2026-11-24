@@ -15,7 +15,7 @@
 
 **6:5** Also let the gold and silver vessels of the house of God, which Nebuchadnezzar brought out from the temple in Jerusalem and carried to Babylon, be restored, and let each go to the temple in Jerusalem, to its place, and you shall deposit them in the house of God."
 
-**6:6** "Now, Tattenai, governor of Beyond the River, Shethar-bozenai, and their colleagues, the investigators who are beyond the River, stay far away from there.
+**6:6** "Now, Tattenai, governor of Beyond the River, Shethar-bozenai, and their colleagues, the Apharsachites who are in Beyond the River, stay far away from there.
 
 **6:7** Leave the work of that house of God alone; let the governor of the Jews and the elders of the Jews build that house of God on its site.
 

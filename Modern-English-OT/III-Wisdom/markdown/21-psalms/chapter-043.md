@@ -13,7 +13,7 @@
 
 **43:4** For they did not possess the land by their sword, nor did their arm save them; rather, it was Your right hand and Your arm and the light of Your face, because You favored them.
 
-**43:5** You Yourself are my king, God; command deliverances for Jacob.
+**43:5** You Yourself are my King, God; command deliverances for Jacob.
 
 **43:6** By You we will thrust down our foes; in Your name we will trample those who rise against us.
 

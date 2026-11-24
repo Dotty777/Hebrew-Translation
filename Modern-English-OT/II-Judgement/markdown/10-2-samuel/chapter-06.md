@@ -57,4 +57,4 @@
 - **6:5** — The Masoretic Text literally reads "bekhol 'atse veroshim" ("with all cypress woods"), understood here as instruments made of cypress wood; the parallel in 1 Chr 13:8 reads "with all might and with songs."
 - **6:7** — The noun "hashshal" ("the irreverence") occurs only here in the Hebrew Bible and is generally connected to a root attested in Aramaic meaning error, carelessness, or irreverent fault.
 - **6:19** — The rare noun "'eshpar" (occurring only here and 1 Chr 16:3) is of uncertain meaning; modern scholarship divides between "date cake" (parallel to "'ashishah," "raisin cake") and "portion of meat."
-- **6:22** — The Masoretic Text reads "be'enay" ("in my own eyes"), underscoring David's willing self-humbling before God, whereas the Septuagint reads "in your eyes."
+- **6:22** — The Masoretic Text reads "be'enay" ("in my own eyes"), whereas the Septuagint reads "in your eyes."

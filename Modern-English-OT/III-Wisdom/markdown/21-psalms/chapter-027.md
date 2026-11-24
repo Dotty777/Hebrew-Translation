@@ -5,7 +5,7 @@
 
 ## Text
 
-**27:1** Of David. To You, LORD, I call; my Rock, do not remain deaf to me; otherwise, if You keep silent toward me, I will be likened to those going down into the pit.
+**27:1** Of David. To You, LORD, I call; my rock, do not remain deaf to me; otherwise, if You keep silent toward me, I will be likened to those going down into the pit.
 
 **27:2** Hear the sound of my pleas for mercy as I cry out to You for help, as I raise my hands toward Your holy inner sanctuary.
 

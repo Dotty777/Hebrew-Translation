@@ -5,7 +5,7 @@
 
 ## Text
 
-**57:1** For the music director: "Do Not Destroy." A miktam of David.
+**57:1** For the music director: "Do Not Destroy." A Miktam of David.
 
 **57:2** Do you truly speak righteousness in silence? Do you judge with uprightness, sons of men?
 
@@ -31,8 +31,8 @@
 
 ## Translator Notes
 
-- **57:2** — The Masoretic vocalization reads the noun elem ("silence"), functioning adverbially ("in silence") as an ironic rebuke of unjust judges; many modern translations revocalize the consonants as elim ("gods" or "mighty ones").
+- **57:2** — The Masoretic vocalization reads the noun elem ("silence"), functioning adverbially ("in silence") as an ironic rebuke of unjust judges; the consonants can also be revocalized as elim ("gods" or "mighty ones").
 - **57:8** — The Niphal yimma'asu derives from a by-form of masas ("melt away"). In the difficult second clause, chitsav is a defectively spelled plural ("his arrows") and yitmolalu is a Hithpolel ("be cut off" or "wither," suggesting blunted or broken arrows); the subject of "aims" is taken as the individual wicked enemy, though some read God as subject.
 - **57:9** — Both shablul ("snail" or "slug") and temes ("dissolution" or "melting") occur only here in the Hebrew Bible. The plural verb chazu ("have seen") agrees either collectively with the singular nefel ("miscarriage") or directly with the plural wicked of the preceding verse.
 - **57:10** — This compressed image compares sudden judgment to a whirlwind sweeping away thorn-fuel before cooking pots can feel its heat (literally "perceive the bramble"). The correlative kemo-chai kemo-charon ("whether green or ablaze") may alternatively mean "while alive, in fierce wrath," with the masculine singular suffix on yis'arennu ("sweep it away") referring either to the bramble or collectively to the wicked.
-- **57:12** — The Qal participle shoftim ("judges") is grammatically plural in agreement with the plural form of Elohim ("God"), though clearly referring to the one true God.
+- **57:12** — The Qal participle shoftim ("judges") is grammatically plural in agreement with the plural form of Elohim ("God"), though referring here to God.

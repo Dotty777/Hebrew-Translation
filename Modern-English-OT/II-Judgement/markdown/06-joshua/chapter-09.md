@@ -7,7 +7,7 @@
 
 **9:1** Now it happened when all the kings who were beyond the Jordan—in the hill country, in the lowland, and along all the coast of the Great Sea facing Lebanon, the Hittites and the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites—heard,
 
-**9:2** then Joshua built an altar to the LORD, the God of Israel, on Mount Ebal, just as Moses the servant of the LORD had commanded the sons of Israel, as is written in the book of the law of Moses—an altar of whole stones over which no one had wielded iron. And they offered up burnt offerings to the LORD on it and sacrificed peace offerings. And there he wrote on the stones a copy of the law of Moses, which he wrote in the presence of the sons of Israel. And all Israel, with their elders and officers and their judges, were standing on this side and on that side of the ark before the Levitical priests who carried the ark of the covenant of the LORD, the resident alien as well as the native-born—half of them facing Mount Gerizim and the other half facing Mount Ebal, just as Moses the servant of the LORD had commanded, to bless the people of Israel first. And afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law. There was not a word of all that Moses had commanded that Joshua did not read before the entire assembly of Israel, along with the women and the little ones and the resident alien who walked among them. And they assembled together to fight against Joshua and against Israel with one voice.
+**9:2** they assembled together to fight against Joshua and against Israel with one voice.
 
 **9:3** Now the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,
 
@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **9:2** — In this Hebrew text, the Mount Ebal altar and law-reading account (Joshua 8:30-35 in the standard Masoretic Text) stands at the beginning of 9:2 before the closing clause ("And they assembled together..."), which resumes the coalition of kings introduced in 9:1; "with one voice" literally renders "one mouth" (peh echad).
+- **9:2** — "With one voice" literally renders "one mouth" (peh echad).
 - **9:4** — The verb rendered "posed as envoys" is the Hithpael wayyiqtol of tsyr (wayyitstayyaru), related to tsir ("envoy, messenger"), contrasting with the similar-looking Hithpael of tsyd ("packed as provisions") in 9:12.
 - **9:7** — The written ketiv reads plural "they said" (wy'mrw), whereas the read qere followed here has singular "said" (wayyomer) agreeing grammatically with the collective singular "man of Israel" (ish-yisrael); the verse also has a minor orthographic ketiv/qere on "make" ('krwt / ekhrat-), and the direct speech uses collective first-person singular pronouns in Hebrew.
 - **9:20** — The clause "we will let them live" translates a Hiphil infinitive absolute of chayah (hachayeh) continuing the finite verb "we will do," a classical Hebrew construction for coordinated future or modal action.

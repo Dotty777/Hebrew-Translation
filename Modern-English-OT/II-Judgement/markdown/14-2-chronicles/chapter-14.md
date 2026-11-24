@@ -17,7 +17,7 @@
 
 **14:6** He said to Judah, "Let us build these cities and enclose them with a wall and towers, gates and bars. The land is still before us, for we sought the LORD our God; we sought Him, and He gave us rest on every side." So they built and succeeded.
 
-**14:7** Asa had an army of three hundred thousand from Judah carrying large shields and spears, and two hundred eighty thousand from Benjamin carrying shields and drawing bows; all of these were warriors of valor.
+**14:7** Asa had an army of three hundred thousand from Judah carrying large shields and spears, and two hundred eighty thousand from Benjamin carrying shields and drawing bows; all of these were mighty men of valor.
 
 **14:8** Then Zerah the Cushite marched out against them with an army of one million and three hundred chariots, and he came as far as Mareshah.
 

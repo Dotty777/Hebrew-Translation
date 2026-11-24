@@ -21,7 +21,7 @@
 
 **10:8** Then the LORD spoke to Aaron, saying,
 
-**10:9** "Drink neither wine nor fermented drink, you or your sons with you, when you enter the tent of meeting, so that you do not die; this is a lasting statute across your generations,
+**10:9** "Drink neither wine nor fermented drink, you or your sons with you, when you enter the tent of meeting, so that you do not die; this is a permanent statute throughout your generations,
 
 **10:10** so that you may distinguish between what is holy and what is common, and between what is unclean and what is clean,
 

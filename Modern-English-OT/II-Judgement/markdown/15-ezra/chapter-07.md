@@ -45,7 +45,7 @@
 
 **7:20** And the rest of what is needed for the house of your God, which it falls to you to provide, you may provide from the king's treasure house.
 
-**7:21** And by me, even I, King Artaxerxes, a decree is issued to all the treasurers who are beyond the River, that whatever Ezra the priest, the scribe of the law of the God of heaven, asks of you shall be done with full diligence,
+**7:21** And by me, even I, King Artaxerxes, a decree is issued to all the treasurers who are in Beyond the River, that whatever Ezra the priest, the scribe of the law of the God of heaven, asks of you shall be done with full diligence,
 
 **7:22** up to one hundred talents of silver, up to one hundred kors of wheat, up to one hundred baths of wine, up to one hundred baths of oil, and salt without a prescribed limit.
 
@@ -53,7 +53,7 @@
 
 **7:24** We also make known to you that it is not permitted to impose tribute, tax, or toll upon any of the priests, the Levites, the singers, the gatekeepers, the temple servants, or the attendants of this house of God.
 
-**7:25** And you, Ezra, according to the wisdom of your God which is in your hand, appoint magistrates and judges who shall judge all the people who are beyond the River—all who know the laws of your God—and you shall instruct anyone who does not know them.
+**7:25** And you, Ezra, according to the wisdom of your God which is in your hand, appoint magistrates and judges who shall judge all the people who are in Beyond the River—all who know the laws of your God—and you shall instruct anyone who does not know them.
 
 **7:26** And anyone who will not observe the law of your God and the law of the king, let judgment be strictly executed upon him, whether for death, or for banishment, or for confiscation of property, or for imprisonment."
 

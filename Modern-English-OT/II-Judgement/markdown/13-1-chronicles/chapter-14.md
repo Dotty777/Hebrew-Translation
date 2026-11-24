@@ -43,4 +43,4 @@
 
 - **14:1** — Ketiv/Qere: the qere reads Churam ("Huram"), whereas the ketiv writes Chiram ("Hiram," as in 2 Sam 5:11).
 - **14:2** — The Niphal feminine singular participle nisse't (from nasa, "lift up") functions predicatively with the feminine subject malkhuto ("his kingdom") to express its exalted state.
-- **14:14** — Hebrew ha-bekha'im refers to a tree whose exact botanical identity is uncertain, commonly rendered "balsam trees" (traditionally "mulberry trees").
+- **14:14** — Hebrew ha-bekha'im refers to a kind of tree whose exact botanical identity is uncertain; "balsam trees" is a probable identification.

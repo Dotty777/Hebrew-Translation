@@ -15,7 +15,7 @@
 
 **17:5** So the LORD established the kingdom in his hand, and all Judah gave tribute to Jehoshaphat; and he had wealth and honor in abundance.
 
-**17:6** His heart grew bold in the ways of the LORD, and furthermore he removed the high places and the Asherah poles from Judah.
+**17:6** His heart grew bold in the ways of the LORD, and furthermore he removed the high places and the Asherim from Judah.
 
 **17:7** In the third year of his reign he dispatched his officials—Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah—to teach in the cities of Judah.
 

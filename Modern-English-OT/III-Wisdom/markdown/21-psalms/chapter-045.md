@@ -35,4 +35,4 @@
 - **45:2** — Literally a help in distresses He is exceedingly found; the masculine Niphal form nimtsa agrees with God rather than the feminine noun help, stressing that God proves abundantly present in trouble.
 - **45:3** — The Hiphil infinitive construct hamir, from the root mwr meaning to change or exchange, is used intransitively here for the earth undergoing upheaval or giving way.
 - **45:10** — Hebrew agalot literally denotes wagons or war-carts, distinct from the usual word for chariots; the Septuagint translates the term as shields.
-- **45:11** — Desist translates the Hiphil imperative harpu, literally let drop or slacken one's hands, traditionally rendered Be still. The repeated verb arum is Qal, expressing God's own rising high in exaltation.
+- **45:11** — Desist translates the Hiphil imperative harpu, literally let drop or slacken one's hands. The repeated verb arum is Qal, expressing God's own rising high in exaltation.

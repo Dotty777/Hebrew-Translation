@@ -29,7 +29,7 @@
 
 **50:12** Create a pure heart for me, God, and renew a firm spirit within me.
 
-**50:13** Do not throw me out from Your presence, and do not take away Your Holy Spirit from me.
+**50:13** Do not throw me out from Your presence, and do not take away Your holy Spirit from me.
 
 **50:14** Bring back to me the gladness of Your salvation, and may a willing spirit uphold me.
 

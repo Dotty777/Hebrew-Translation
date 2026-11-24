@@ -17,7 +17,7 @@
 
 **40:6** Then the LORD answered Job from a storm and said,
 
-**40:7** "Now gird your waist like a man; I will question you, and you inform Me.
+**40:7** "Now gird your loins like a strong man; I will question you, and you inform Me.
 
 **40:8** Will you indeed invalidate My justice? Will you declare Me guilty so that you may be in the right?
 

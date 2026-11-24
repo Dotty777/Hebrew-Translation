@@ -31,7 +31,7 @@
 
 **15:13** They spoke to him, saying, "No, rather we will surely bind you and give you into their hand, yet we will certainly not put you to death." So they bound him with two new ropes and brought him up from the rock.
 
-**15:14** When he came to Lehi, the Philistines shouted to meet him. Then the Spirit of the LORD rushed upon him, and the ropes that were on his arms became like flax that has burned in fire, and his bonds melted off his hands.
+**15:14** When he came to Lehi, the Philistines shouted to meet him. Then the Spirit of the LORD surged upon him, and the ropes that were on his arms became like flax that has burned in fire, and his bonds melted off his hands.
 
 **15:15** He found a fresh jawbone of a donkey, reached out his hand and took it, and struck down a thousand men with it.
 

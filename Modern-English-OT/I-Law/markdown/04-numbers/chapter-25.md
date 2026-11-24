@@ -1,6 +1,6 @@
 # Numbers 25 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,9 +41,14 @@
 
 **25:18** for they are treating you as enemies with their schemes by which they schemed against you in the matter of Peor, and in the matter of Cozbi, daughter of a leader of Midian, their sister, who was struck down on the day of the plague over the matter of Peor."
 
+## Additional Verses (Not in Saints Numbering)
+
+**25:19** *(after `25:18`)* And it happened after the plague,
+
 ## Translator Notes
 
 - **25:4** — The rare Hiphil imperative hoqa' (from yaqa', "be dislocated/wrenched") denotes a public ritual execution, understood as impaling, hanging, or publicly exposing the offenders before the LORD.
 - **25:8** — The verse plays on two rare, similar-sounding Hebrew nouns: haqqubbah ("the tent chamber" or vaulted alcove, a hapax legomenon) and qobatah ("her belly/abdomen").
 - **25:11** — Hebrew qinna' (Piel) and its cognate noun qin'ah convey ardent covenantal zeal as well as fierce jealousy, repeated across vv. 11 and 13.
 - **25:12** — Hebrew beriti shalom places the noun "peace" in apposition to "My covenant" ("My covenant, peace"), the standard Hebrew idiom for expressing "My covenant of peace" when the governing noun already carries a pronominal suffix.
+- **25:19 *(additional)*** — In the Hebrew text this clause forms its own verse, 25:19, which leads into the census of chapter 26.

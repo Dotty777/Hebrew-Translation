@@ -67,7 +67,7 @@
 
 **2:31** Look, days are coming when I will cut off your arm and the arm of your father's house, so that there will be no old man in your house.
 
-**2:32** And you will look upon distress in My dwelling, amid all the good that will be done for Israel; and there will never be an old man in your house for all time.
+**2:32** And you will look upon distress in My dwelling, amid all the good that will be done for Israel; and there will not be an old man in your house for all time.
 
 **2:33** Yet one man of yours I will not cut off from My altar, to wear out your eyes and to make your soul languish; and all the increase of your house will die in manhood.
 

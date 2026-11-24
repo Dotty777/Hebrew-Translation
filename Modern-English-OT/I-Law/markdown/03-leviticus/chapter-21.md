@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **21:4** — Hebrew ba'al be'ammav is syntactically difficult and may mean 'as a leader among his people' or 'as a husband among his people' (referring to a wife or relatives by marriage). The form lehehallo is a Niphal infinitive construct of halal ('profane') with a 3ms suffix, 'so as to profane himself.'
-- **21:5** — Ketiv writes yqrhh with an initial yod; Qere reads the cognate noun qorhah ('a bald spot' or 'baldness').
+- **21:5** — The ketiv is written yqrhh; the qere yiqrechu ('they shall make bald'), translated here, is plural like the following verbs and is followed by the cognate noun qorhah ('a bald spot').
 - **21:9** — The verb tehel is Niphal imperfect 3fs of halal I ('profane herself'), echoing the Piel participle mehallelet ('she profanes') in the following clause.
 - **21:10** — Literally 'and one has filled his hand' (Piel perfect of male' with an impersonal subject), the standard priestly idiom for ordination.
 - **21:20** — Several rare defect terms in vv. 18-20 have uncertain exact meanings: harum (v. 18) likely denotes a cleft or flattened nose or face, saru'a (v. 18) an abnormally long limb, daq (v. 20) someone stunted or a dwarf, and teballul (v. 20) a blurring or spot in the eye.

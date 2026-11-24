@@ -43,7 +43,7 @@
 
 **20:19** Then Hezekiah said to Isaiah, "Good is the word of the LORD that you have spoken." And he said, "Is it not so, if there will be peace and truth in my days?"
 
-**20:20** As for the rest of the deeds of Hezekiah, all his might, and how he made the pool and the conduit and brought the water into the city, are they not written in the Book of the Annals of the Kings of Judah?
+**20:20** As for the rest of the deeds of Hezekiah, all his might, and how he made the pool and the conduit and brought the water into the city, are they not written in the book of the chronicles of the kings of Judah?
 
 **20:21** Then Hezekiah lay down with his fathers, and Manasseh his son became king in his place.
 

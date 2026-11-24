@@ -70,5 +70,5 @@
 - **6:2** — The qere reads wehawwati ("and my calamity," from hawwah), whereas the ketiv reads wehayyati, a morphological by-form from hayyah with the same meaning.
 - **6:6** — The Hebrew hapax legomenon challamut (lit. "slime of challamut") is uncertain; modern lexicons generally identify it as a bland mucilaginous plant such as purslane or mallow, while the Targum and rabbinic tradition render it "the white of an egg."
 - **6:14** — Following the Masoretic Text lammas ("to the despairing/melting one," from mss), with the second clause taken concessively ("even if he forsakes"); the Vulgate and Peshitta read a form of m's ("one who withholds kindness from his friend forsakes the fear of the Almighty").
-- **6:21** — Following the provided Masoretic Text reading lo ("nothing," a substantivized negative); a qere tradition in some manuscripts reads lo ("to it" or "like it," referring to the dry wadi).
+- **6:21** — The critical text reads lo' ("not," here "nothing," a substantivized negative); a qere tradition found in some manuscripts reads lo ("to it" or "like it," referring to the dry wadi).
 - **6:29** — The qere reads weshuvu ("and turn back," Qal masculine plural imperative of shuv), whereas the ketiv reads weshuvi (either "and my turning/reply" or a feminine singular imperative).

@@ -49,7 +49,7 @@
 
 **5:22** For many fell struck down, because the war was from God, and they lived in place of them until the exile.
 
-**5:23** And the sons of the half-tribe of Manasseh lived in the land; from Bashan as far as Baal-hermon, Senir, and Mount Hermon, they grew numerous.
+**5:23** And the sons of the half-tribe of Manasseh lived in the land from Bashan as far as Baal-hermon, Senir, and Mount Hermon; they were numerous.
 
 **5:24** And these were the heads of their fathers' houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—mighty men of valor, men of renown, heads of their fathers' houses.
 

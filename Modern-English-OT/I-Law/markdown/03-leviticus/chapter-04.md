@@ -19,13 +19,13 @@
 
 **4:7** The priest shall put some of the blood on the horns of the altar of fragrant incense before the LORD, which is in the tent of meeting, and he shall pour out all the blood of the bull at the base of the altar of burnt offering that is at the entrance of the tent of meeting.
 
-**4:8** All the fat of the bull of the sin offering he shall lift off from it: the fat covering the entrails and all the fat that is on the entrails,
+**4:8** All the fat of the bull of the sin offering he shall lift off from it: the fat that covers the inner parts and all the fat that is on the inner parts,
 
 **4:9** and the two kidneys and the fat that is on them, which is at the loins, and the lobe on the liver, which he shall remove along with the kidneys,
 
 **4:10** just as it is lifted off from the ox of the sacrifice of peace offerings. Then the priest shall turn them into smoke on the altar of burnt offering.
 
-**4:11** But the hide of the bull and all its flesh, along with its head and its legs, its entrails and its dung,
+**4:11** But the hide of the bull and all its flesh, along with its head and its legs, its inner parts and its dung,
 
 **4:12** the entire bull he shall carry outside the camp to a clean place, to where the fatty ashes are poured out, and burn it on wood in the fire; on the place where the fatty ashes are poured out it shall be burned.
 
@@ -65,7 +65,7 @@
 
 **4:30** Then the priest shall take some of its blood with his finger and put it on the horns of the altar of burnt offering, and he shall pour out all its blood at the base of the altar.
 
-**4:31** All its fat he shall remove, just as the fat is removed from the sacrifice of peace offerings, and the priest shall turn it into smoke on the altar as a pleasing aroma to the LORD. Thus the priest shall make atonement for him, and he will be forgiven.
+**4:31** All its fat he shall remove, just as the fat is removed from the sacrifice of peace offerings, and the priest shall turn it into smoke on the altar for a soothing fragrance to the LORD. Thus the priest shall make atonement for him, and he will be forgiven.
 
 **4:32** And if he brings a lamb as his offering for a sin offering, he shall bring an unblemished female.
 

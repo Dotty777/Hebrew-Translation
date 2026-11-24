@@ -21,7 +21,7 @@
 
 **18:8** They came to their brothers at Zorah and Eshtaol, and their brothers said to them, "What do you have to say?"
 
-**18:9** They said, "Arise, and let us go up against them; for we have seen the land, and look, it is very good! And are you sitting still? Do not be sluggish to go, to enter to take possession of the land.
+**18:9** They said, "Arise, and let us go up against them; for we have seen the land, and look, it is very good! And you are sitting still! Do not be sluggish to go, to enter to take possession of the land.
 
 **18:10** When you enter, you will come to an unsuspecting people, and the land is spacious; for God has given it into your hand, a place where there is no lack of anything that is on the earth."
 

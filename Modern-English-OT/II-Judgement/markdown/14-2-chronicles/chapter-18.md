@@ -17,7 +17,7 @@
 
 **18:6** But Jehoshaphat asked, "Is there not another prophet of the LORD here so that we may inquire of him?"
 
-**18:7** The king of Israel said to Jehoshaphat, "There is still one man through whom to inquire of the LORD, yet I hate him, because he does not prophesy good about me, but all his days only disaster—he is Micaiah the son of Imla." Jehoshaphat said, "May the king not say that."
+**18:7** The king of Israel said to Jehoshaphat, "There is still one man through whom to inquire of the LORD, yet I hate him, because he does not prophesy good about me, but disaster all his days—he is Micaiah the son of Imla." Jehoshaphat said, "May the king not say that."
 
 **18:8** Then the king of Israel summoned a court official and said, "Quickly bring Micaiah the son of Imla."
 
@@ -43,7 +43,7 @@
 
 **18:19** And the LORD asked, 'Who will lure Ahab king of Israel so that he will go up and fall at Ramoth-gilead?' One was saying one thing, and another was saying something else.
 
-**18:20** Then a spirit stepped forward, stood before the LORD, and said, 'I will lure him.' The LORD asked him, 'In what way?'
+**18:20** Then the spirit stepped forward, stood before the LORD, and said, 'I will lure him.' The LORD asked him, 'In what way?'
 
 **18:21** He answered, 'I will go out and become a spirit of falsehood in the mouth of all his prophets.' Then He said, 'You will lure him and prevail as well; go out and do it.'
 
@@ -69,7 +69,7 @@
 
 **18:32** When the chariot commanders saw that he was not the king of Israel, they turned back from going after him.
 
-**18:33** Then a man drew a bow at random and struck the king of Israel between the joints and the armor. So he said to the chariot driver, "Turn your hand around and take me out of the battle, for I have been wounded."
+**18:33** Then a man drew a bow at random and struck the king of Israel between the joints and the armor. So he said to the chariot driver, "Turn your hand around and take me out of the army, for I have been wounded."
 
 **18:34** The battle grew fierce on that day, and the king of Israel held himself upright in the chariot facing the Arameans until the evening; and he died at the time the sun went down.
 

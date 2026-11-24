@@ -35,6 +35,6 @@
 
 ## Translator Notes
 
-- **10:3** — Hebrew wayyachel is a Qal wayyiqtol of chul/chil ('writhe in pain' or 'tremble in anguish'); many versions understand it from context as 'was wounded.'
+- **10:3** — Hebrew wayyachel is a Qal wayyiqtol of chul/chil ('writhe in pain' or 'tremble in anguish'); in context the anguish may imply that he was wounded.
 - **10:12** — Hebrew elah denotes a terebinth tree rather than the tamarisk in the parallel account of 1 Samuel 31:13, and gufah ('body' or 'corpse') appears in Biblical Hebrew only in this verse.
 - **10:13** — The infinitive lishol ('to consult' or 'ask') plays on the name Saul (Shaul) from the same root, while lidrosh ('to make inquiry') contrasts directly with v. 14 ('did not inquire of the LORD').

@@ -39,7 +39,7 @@
 
 **25:18** Then the chief of the bodyguard took Seraiah, the chief priest, and Zephaniah, the priest of second rank, and the three threshold keepers.
 
-**25:19** And from the city he took one official who was an overseer over the men of war; five men from those who saw the king's face, who were found in the city; the scribe of the army commander, who mustered the people of the land; and sixty men from the people of the land who were found in the city.
+**25:19** And from the city he took one official who was an overseer over the men of war; five men from those who saw the king's face, who were found in the city; the scribe, the commander of the army, who mustered the people of the land; and sixty men from the people of the land who were found in the city.
 
 **25:20** Nebuzaradan, chief of the bodyguard, took them and led them to the king of Babylon, to Riblah.
 

@@ -17,7 +17,7 @@
 
 **3:6** So King Jehoram went out from Samaria on that day and mustered all Israel.
 
-**3:7** He also went and sent word to Jehoshaphat, king of Judah, saying, "The king of Moab has rebelled against me. Will you go with me against Moab for battle?" He replied, "I will go up. As I am, so are you; my people are as your people, and my horses are as your horses."
+**3:7** He went and sent word to Jehoshaphat, king of Judah, saying, "The king of Moab has rebelled against me. Will you go with me against Moab for battle?" He replied, "I will go up. As I am, so are you; my people are as your people, and my horses are as your horses."
 
 **3:8** Then he asked, "By which way should we go up?" And he answered, "By the way of the wilderness of Edom."
 

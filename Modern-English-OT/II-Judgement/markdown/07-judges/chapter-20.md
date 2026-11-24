@@ -27,7 +27,7 @@
 
 **20:11** So all the men of Israel gathered against the city as one man, united together.
 
-**20:12** Then the tribes of Israel sent men throughout all the tribal divisions of Benjamin, saying, "What is this evil that has happened among you?
+**20:12** Then the tribes of Israel sent men throughout all the tribes of Benjamin, saying, "What is this evil that has happened among you?
 
 **20:13** Now then, hand over the men, the worthless fellows who are in Gibeah, so that we may put them to death and purge evil from Israel." But the sons of Benjamin were not willing to listen to the voice of their brothers, the sons of Israel.
 

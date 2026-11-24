@@ -43,5 +43,5 @@
 
 - **3:1** — MT reads אֲשֶׁר הֵכִין בִּמְקוֹם דָּוִיד ("which he prepared at the place of David," with מְקוֹם in the construct state), whereas LXX and Vulgate transpose the wording to "at the place that David had prepared." The unexpressed subject of the Niphal נִרְאָה ("He had appeared") is the LORD.
 - **3:10** — צַעֲצֻעִים ("sculpted work") is a biblical hapax legomenon whose exact sense is uncertain, commonly understood as carved, sculpted, or molded metalwork.
-- **3:16** — MT reads בַּדְּבִיר ("in the inner sanctuary"); some modern translations emend the text to כָּרָבִיד ("like a necklace").
+- **3:16** — MT reads בַּדְּבִיר ("in the inner sanctuary"); a commonly proposed emendation is כָּרָבִיד ("like a necklace").
 - **3:17** — Ketiv הימיני vs. Qere הַיְמָנִי is an orthographic variant; both mean "the one on the right."

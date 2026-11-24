@@ -19,7 +19,7 @@
 
 **2:7** She said, 'Please let me glean and gather among the sheaves behind the reapers.' So she came and has remained standing from the morning until now; this sitting of hers in the shelter has been only brief."
 
-**2:8** Then Boaz said to Ruth, "Listen now, my daughter: do not go to glean in another field, and do not leave from here either, but stay closely here with my young women.
+**2:8** Then Boaz said to Ruth, "Have you not heard, my daughter? Do not go to glean in another field, and do not leave from here either, but stay closely here with my young women.
 
 **2:9** Keep your eyes on the field that they are reaping, and walk behind them. Have I not commanded the young men not to touch you? And whenever you are thirsty, go to the vessels and drink from what the young men draw."
 

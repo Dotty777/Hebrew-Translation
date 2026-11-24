@@ -39,7 +39,7 @@
 
 **30:17** For there were many in the assembly who had not consecrated themselves; therefore the Levites were in charge of slaughtering the Passover offerings for everyone who was not clean, in order to consecrate them to the LORD.
 
-**30:18** For a majority of the people, many from Ephraim and Manasseh, Issachar and Zebulun, had not purified themselves; instead, they ate the Passover contrary to what is written. Yet Hezekiah prayed on their behalf, saying, "May the good LORD make atonement for
+**30:18** For a majority of the people, many from Ephraim and Manasseh, Issachar and Zebulun, had not purified themselves, for they ate the Passover contrary to what is written. Yet Hezekiah prayed on their behalf, saying, "May the good LORD make atonement for
 
 **30:19** everyone who sets his heart to seek God, the LORD, the God of his fathers, even if not according to the purification of the sanctuary."
 

@@ -19,7 +19,7 @@
 
 **6:7** And it was on the heart of David my father to build a house for the name of the LORD, God of Israel.
 
-**6:8** Yet the LORD said to David my father, 'Since it was on your heart to build a house for My name, you have done well that it was on your heart.
+**6:8** And the LORD said to David my father, 'Since it was on your heart to build a house for My name, you have done well that it was on your heart.
 
 **6:9** However, you shall not build the house; instead, your son who comes from your loins, he will build the house for My name.'
 
@@ -35,7 +35,7 @@
 
 **6:15** who have kept for Your servant David my father what You spoke to him; and You spoke with Your mouth and with Your hand have fulfilled it, as on this day.
 
-**6:16** And now, LORD, God of Israel, keep for Your servant David my father what You spoke to him, saying, 'You shall not have a man cut off from before Me to sit on the throne of Israel, if only your sons keep their way to walk in My law just as you have walked before Me.'
+**6:16** And now, LORD, God of Israel, keep for Your servant David my father what You spoke to him, saying, 'You shall not have a man cut off from before Me to sit on the throne of Israel, only if your sons keep their way to walk in My law just as you have walked before Me.'
 
 **6:17** And now, LORD, God of Israel, may Your word that You spoke to Your servant David be proved true.
 
@@ -87,7 +87,7 @@
 
 **6:41** And now arise, LORD God, to Your resting place, You and the ark of Your strength; may Your priests, LORD God, be clothed with salvation, and may Your faithful ones rejoice in what is good.
 
-**6:42** LORD God, do not turn away the face of Your anointed one; remember the acts of faithful love for David Your servant."
+**6:42** LORD God, do not turn away the face of Your anointed one; remember the acts of faithful love of David Your servant."
 
 ## Translator Notes
 

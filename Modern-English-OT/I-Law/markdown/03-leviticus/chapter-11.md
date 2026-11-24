@@ -1,6 +1,6 @@
 # Leviticus 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (47 verses, 4 translator notes)  
+> **Status:** `draft: true` (47 verses, 3 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,9 +13,9 @@
 
 **11:4** However, these you must not eat from among those that bring up the cud or those that divide the hoof: the camel, because it brings up the cud yet does not divide the hoof—it is unclean for you;
 
-**11:5** and the hare, because it brings up the cud yet does not divide the hoof—it is unclean for you;
+**11:5** and the rock hyrax, because it brings up the cud yet does not divide the hoof—it is unclean for you;
 
-**11:6** and the rock hyrax, because it brings up the cud yet does not divide the hoof—it is unclean for you;
+**11:6** and the hare, because it brings up the cud yet does not divide the hoof—it is unclean for you;
 
 **11:7** and the pig, because it divides the hoof and cleaves a split completely through the hoof, yet it does not chew the cud—it is unclean for you.
 
@@ -55,7 +55,7 @@
 
 **11:25** and anyone carrying any part of their carcass must wash his garments and remain unclean until evening.
 
-**11:26** Regarding every beast that divides the hoof yet does not cleave a split through it, or does not bring up the cud—they are unclean for you; anyone touching them will become unclean.
+**11:26** Regarding every beast that divides the hoof yet does not cleave a split through it, and does not bring up the cud—they are unclean for you; anyone touching them will become unclean.
 
 **11:27** And everything walking on its paws among all the living creatures that walk on all fours—they are unclean for you; anyone touching their carcass will be unclean until evening,
 
@@ -101,7 +101,6 @@
 
 ## Translator Notes
 
-- **11:5** — The Hebrew source text places the hare in verse 5 and the rock hyrax in verse 6, reversing the order found in some Masoretic manuscripts.
 - **11:13** — In verses 13-19, the Hebrew noun oph covers all winged creatures, including the bat, and exact species identifications for several of the rarer birds remain uncertain.
 - **11:21** — The written ketiv reads lo meaning not, whereas the read qere translated here reads lo meaning to it, yielding that have jointed legs.
 - **11:43** — The verb wenitmetem is a Niphal weqatal of the root for uncleanness written defectively without the final aleph, highlighting the resulting state of defilement.

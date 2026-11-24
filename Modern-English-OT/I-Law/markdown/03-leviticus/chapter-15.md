@@ -29,7 +29,7 @@
 
 **15:12** And an earthenware vessel that the man with the discharge touches shall be broken, while every wooden article shall be rinsed in water.
 
-**15:13** When the man with the discharge becomes clean from his discharge, he shall count for himself seven days for his cleansing, and wash his garments and bathe his flesh in flowing water; then he shall be clean.
+**15:13** When the man with the discharge becomes clean from his discharge, he shall count for himself seven days for his cleansing, and wash his garments and bathe his flesh in living water; then he shall be clean.
 
 **15:14** On the eighth day he shall take for himself two turtledoves or two young pigeons, and he shall come before the LORD to the entrance of the tent of meeting and give them to the priest.
 
@@ -75,6 +75,6 @@
 
 - **15:2** — Hebrew basar ("flesh") is used here and in vv. 3 and 19 as a euphemism for the genital organ.
 - **15:3** — Hebrew rar (Qal perfect of the hapax legomenon verb rir, "ooze" or "run") and hechtim (Hiphil perfect of chatam, "seal up" or "obstruct") cover both a continuous discharge and a blocked one.
-- **15:13** — Literally "living water" (mayim chayyim), the standard Hebrew idiom for fresh, flowing water from a spring or stream.
+- **15:13** — Hebrew mayim chayyim ("living water") is the standard idiom for fresh, flowing water from a spring or stream.
 - **15:23** — The masculine pronoun hu ("it") has no explicit antecedent and is widely understood to refer to any object lying on the bed or article on which the menstruating woman sits.
 - **15:31** — The verb vehizzartem is the Hiphil of nazar ("set apart" or "keep separate"); some ancient versions reflect a form of zahar ("warn").

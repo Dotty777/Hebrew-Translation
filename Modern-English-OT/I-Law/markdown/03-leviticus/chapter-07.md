@@ -9,7 +9,7 @@
 
 **7:2** At the place where they slaughter the burnt offering, they shall slaughter the guilt offering, and he shall dash its blood against the altar all around.
 
-**7:3** And he shall present all its fat from it: the fat tail and the fat that covers the entrails,
+**7:3** And he shall present all its fat from it: the fat tail and the fat that covers the inner parts,
 
 **7:4** and the two kidneys and the fat that is on them, which is at the loins; and he shall remove the lobe on the liver along with the kidneys.
 

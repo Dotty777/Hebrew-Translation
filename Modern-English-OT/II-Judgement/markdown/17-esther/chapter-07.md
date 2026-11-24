@@ -7,9 +7,9 @@
 
 **7:1** Then the king and Haman came to drink with Queen Esther.
 
-**7:2** On the second day also, at the wine banquet, the king said to Esther, "What is your request, Queen Esther? It will be given to you. And what is your petition? Up to half the kingdom, it will be done."
+**7:2** On the second day also, at the wine banquet, the king said to Esther, "What is your petition, Queen Esther? It will be given to you. And what is your request? Up to half the kingdom, it will be done."
 
-**7:3** Then Queen Esther answered and said, "If I have found favor in your eyes, King, and if it seems good to the king, let my life be given to me as my request, and my people as my petition.
+**7:3** Then Queen Esther answered and said, "If I have found favor in your eyes, King, and if it seems good to the king, let my life be given to me as my petition, and my people as my request.
 
 **7:4** For we have been sold, I and my people, to be exterminated, to be killed, and to be destroyed. Now if we had been sold as male and female slaves, I would have kept silent, for the distress would not be worth the harm to the king."
 

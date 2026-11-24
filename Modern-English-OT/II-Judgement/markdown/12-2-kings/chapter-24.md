@@ -13,7 +13,7 @@
 
 **24:4** and also because of the blood of the innocent that he had shed, for he filled Jerusalem with innocent blood; and the LORD was not willing to forgive.
 
-**24:5** As for the rest of the acts of Jehoiakim and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+**24:5** As for the rest of the acts of Jehoiakim and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 **24:6** So Jehoiakim lay down with his fathers, and Jehoiachin his son became king in his place.
 

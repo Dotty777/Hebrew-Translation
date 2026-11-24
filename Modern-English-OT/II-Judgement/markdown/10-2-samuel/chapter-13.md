@@ -35,7 +35,7 @@
 
 **13:15** Then Amnon hated her with an exceedingly great hatred, for greater was the hatred with which he hated her than the love with which he had loved her. And Amnon said to her, "Rise up, go!"
 
-**13:16** And she said to him, "No, because to send me away is a greater evil than the other that you did to me!" But he was unwilling to listen to her.
+**13:16** And she said to him, "No, because this great evil of sending me away is greater than the other that you did to me!" But he was unwilling to listen to her.
 
 **13:17** Then he summoned his young man, his attendant, and said, "Send this one away from my presence outside, and bolt the door behind her."
 

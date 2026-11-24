@@ -1,6 +1,6 @@
 # Exodus 35 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes, 2 additional)  
+> **Status:** `draft: true` (31 verses, 3 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,7 +25,7 @@
 
 **35:11** the tabernacle, its tent and its covering, its clasps and its frames, its crossbars, its pillars, and its bases;
 
-**35:12** the ark and its poles, the atonement cover, and the curtain of the screen; and the altar of incense and its poles, the anointing oil, the fragrant incense, and the screen of the entrance for the entrance of the tabernacle; the hangings of the courtyard, its pillars and its bases, and the screen of the gate of the courtyard;
+**35:12** the ark and its poles, the atonement cover, and the curtain of the screen;
 
 **35:13** the table and its poles and all its utensils, and the bread of the Presence;
 
@@ -71,11 +71,15 @@
 
 **35:8** *(after `35:7`)* and oil for illumination, and spices for the anointing oil and for the fragrant incense,
 
-**35:18** *(after `35:12`)* the pegs of the tabernacle and the pegs of the courtyard, along with their cords;
+**35:15** *(after `35:14`)* the altar of incense and its poles, the anointing oil, the fragrant incense, and the screen of the entrance for the entrance of the tabernacle;
+
+**35:17** *(after `35:16`)* the hangings of the courtyard, its pillars and its bases, and the screen of the gate of the courtyard;
+
+**35:18** *(after `35:16`)* the pegs of the tabernacle and the pegs of the courtyard, along with their cords;
 
 ## Translator Notes
 
 - **35:7** — The exact meaning of tehashim (also in 35:23) is uncertain; it is variously understood as finely tanned or beaded leather (comparing Egyptian and Akkadian cognates) or as the hides of a Red Sea marine mammal such as the dugong or dolphin.
-- **35:12** — In this Hebrew text, 35:12 combines the furnishings corresponding to traditional MT 35:12, 15, and 17 immediately after the ark and curtain (with no separate verses corresponding to MT 35:8 or 35:18). The noun hatser ("courtyard") takes both a masculine suffix ("its pillars") and a feminine suffix ("its bases") within the same clause.
 - **35:19** — The rare term serad ("finely woven") occurs only in Exodus 31:10; 35:19; 39:1, 41; it likely refers to braided or plaited textile work, though ancient versions often understood it as garments for sanctuary service.
 - **35:22** — The precise jewelry item denoted by kumaz ("pendants," also in Numbers 31:50) is uncertain, likely gold beads, necklaces, or armbands. "Lifted up a wave offering" renders the Hiphil perfect of nuf with its cognate noun tenufah, denoting a ritual presentation or dedication offering.
+- **35:17 *(additional)*** — The noun hatser ("courtyard") takes both a masculine suffix ("its pillars") and a feminine suffix ("its bases") within the same verse.

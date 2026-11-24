@@ -9,7 +9,7 @@
 
 **23:2** "Speak to the sons of Israel and say to them, 'The appointed times of the LORD, which you shall proclaim as holy assemblies, these are My appointed times.
 
-**23:3** For six days work may be done, but on the seventh day is a Sabbath of full rest, a holy assembly; you shall not do any work. It is a Sabbath to the LORD in all your dwelling places.
+**23:3** For six days work may be done, but on the seventh day is a Sabbath of complete rest, a holy assembly; you shall not do any work. It is a Sabbath to the LORD in all your dwelling places.
 
 **23:4** These are the appointed times of the LORD, holy assemblies which you shall proclaim at their appointed time.
 
@@ -51,13 +51,13 @@
 
 **23:23** And the LORD spoke to Moses, saying,
 
-**23:24** "Speak to the sons of Israel, saying, 'In the seventh month, on the first of the month, you shall have a full rest, a memorial with loud blasts, a holy assembly.
+**23:24** "Speak to the sons of Israel, saying, 'In the seventh month, on the first of the month, you shall have a complete rest, a memorial with loud blasts, a holy assembly.
 
 **23:25** You shall not do any occupational work, and you shall present a fire offering to the LORD.'"
 
 **23:26** And the LORD spoke to Moses, saying,
 
-**23:27** "Indeed, on the tenth of this seventh month is the Day of Atonement; you shall have a holy assembly, and you shall humble yourselves and present a fire offering to the LORD.
+**23:27** "Indeed, on the tenth of this seventh month is the Day of Atonement; you shall have a holy assembly, and you shall humble your souls and present a fire offering to the LORD.
 
 **23:28** And you shall not do any work on this very day, for it is a day of atonement, to make atonement for you before the LORD your God.
 
@@ -67,7 +67,7 @@
 
 **23:31** You shall not do any work. It is a permanent statute throughout your generations in all your dwelling places.
 
-**23:32** It is a Sabbath of full rest for you, and you shall humble yourselves. On the ninth of the month at evening, from evening to evening, you shall observe your Sabbath."
+**23:32** It is a Sabbath of complete rest for you, and you shall humble your souls. On the ninth of the month at evening, from evening to evening, you shall observe your Sabbath."
 
 **23:33** And the LORD spoke to Moses, saying,
 
@@ -81,7 +81,7 @@
 
 **23:38** besides the Sabbaths of the LORD, and besides your gifts, and besides all your vows, and besides all your freewill offerings, which you give to the LORD.
 
-**23:39** Indeed, on the fifteenth day of the seventh month, when you gather in the produce of the land, you shall celebrate the festival of the LORD for seven days; on the first day shall be a full rest, and on the eighth day shall be a full rest.
+**23:39** Indeed, on the fifteenth day of the seventh month, when you gather in the produce of the land, you shall celebrate the festival of the LORD for seven days; on the first day shall be a complete rest, and on the eighth day shall be a complete rest.
 
 **23:40** And you shall take for yourselves on the first day the fruit of splendid trees, fronds of palm trees, boughs of leafy trees, and willows of the stream, and you shall rejoice before the LORD your God for seven days.
 

@@ -37,4 +37,4 @@
 
 - **5:1** — Literally 'put on royalty' (wattilbash Ester malkhut), an elliptical expression for royal robes or attire.
 - **5:7** — Hebrew opens with an abrupt suspended subject ('My petition and my request') that builds suspense before Esther completes her thought with the conditional clauses in verse 8.
-- **5:14** — Hebrew ets literally means 'wood' or 'tree,' here referring to a tall wooden stake or pole (fifty cubits, about 75 feet) for public hanging or impalement, traditionally rendered 'gallows.'
+- **5:14** — Hebrew ets literally means 'wood' or 'tree,' here referring to a tall wooden stake or pole (fifty cubits, about 75 feet) for public hanging or impalement.

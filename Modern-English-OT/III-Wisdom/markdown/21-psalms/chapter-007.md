@@ -23,7 +23,7 @@
 
 **7:9** The LORD passes judgment on the peoples; judge me, LORD, according to my righteousness and according to my integrity within me.
 
-**7:10** May the evil of the wicked come to an end, and may You establish the righteous, for the righteous God tests hearts and kidneys.
+**7:10** May the evil of the wicked come to an end, and may You establish the righteous, and the righteous God tests hearts and kidneys.
 
 **7:11** My shield rests upon God, who saves the upright of heart.
 

@@ -41,7 +41,7 @@
 
 **16:18** And the covered structure of the Sabbath that they had built in the house, and the king's outer entrance, he shifted at the house of the LORD because of the king of Assyria.
 
-**16:19** As for the rest of the deeds of Ahaz that he did, are they not written in the scroll of the chronicles of the kings of Judah?
+**16:19** As for the rest of the deeds of Ahaz that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 **16:20** Then Ahaz lay down with his fathers and was buried with his fathers in the city of David; and his son Hezekiah became king in his place.
 

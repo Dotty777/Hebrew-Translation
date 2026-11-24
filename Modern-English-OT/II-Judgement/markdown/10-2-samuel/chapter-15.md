@@ -43,7 +43,7 @@
 
 **15:19** Then the king said to Ittai the Gittite, "Why should you also go with us? Return and stay with the king, for you are a foreigner and also an exile from your own place.
 
-**15:20** Yesterday was your arrival, and today should I make you wander about with us while I am going wherever I am going? Return and take your brothers back; may loyal love and faithfulness be with you."
+**15:20** Yesterday was your arrival, and today should I make you wander about with us while I am going wherever I am going? Return and take your brothers back with you; may loyal love and faithfulness be yours."
 
 **15:21** Ittai answered the king and said, "As the LORD lives, and as my lord the king lives, indeed in the place where my lord the king is, whether for death or for life, surely there your servant will be."
 

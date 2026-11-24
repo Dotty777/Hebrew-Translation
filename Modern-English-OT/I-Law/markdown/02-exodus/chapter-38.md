@@ -1,6 +1,6 @@
 # Exodus 38 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes, 12 additional)  
+> **Status:** `draft: true` (23 verses, 4 translator notes, 14 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,7 +25,7 @@
 
 **38:10** He cast for it four gold rings and placed the rings on the four corners that belonged to its four legs. Alongside the rim were the rings, as holders for the poles to carry the table.
 
-**38:11** He made poles of acacia wood and overlaid them with gold. And he made the poles of acacia wood and overlaid them with gold to carry the table.
+**38:11** And he made the poles of acacia wood and overlaid them with gold to carry the table.
 
 **38:12** He made the utensils that were on the table of pure gold: its platters, its ladles, its bowls, and the pitchers with which drink offerings were to be poured.
 
@@ -33,7 +33,7 @@
 
 **38:15** And six branches extended from its sides: three lampstand branches from its one side and three lampstand branches from its other side.
 
-**38:16** There were three cups shaped like almond blossoms on the one branch, with a bulb and a flower, and three cups shaped like almond blossoms on the other branch, with a bulb and a flower; so it was for the six branches extending from the lampstand. Their bulbs and their branches were one piece with it; all of it was a single hammered piece of pure gold.
+**38:16** There were three cups shaped like almond blossoms on the one branch, with a bulb and a flower, and three cups shaped like almond blossoms on the other branch, with a bulb and a flower; so it was for the six branches extending from the lampstand.
 
 **38:17** He made its seven lamps, and its tongs and its firepans, of pure gold.
 
@@ -53,6 +53,8 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
+**37:4** *(after `38:3`)* He made poles of acacia wood and overlaid them with gold.
+
 **37:11** *(after `38:9`)* And he overlaid it with pure gold, and he made for it a molding of gold all around.
 
 **37:12** *(after `38:9`)* And he made for it a frame a handbreadth wide all around, and he made a molding of gold for its frame all around.
@@ -60,6 +62,8 @@
 **37:20** *(after `38:16`)* And on the lampstand itself were four cups shaped like almond blossoms, with its bulbs and its flowers.
 
 **37:21** *(after `38:16`)* And there was a bulb of one piece with it beneath two of the branches, and a bulb of one piece with it beneath two of the branches, and a bulb of one piece with it beneath two of the branches—for the six branches going out from it.
+
+**37:22** *(after `38:16`)* Their bulbs and their branches were one piece with it; all of it was a single hammered piece of pure gold.
 
 **37:24** *(after `38:17`)* Out of a talent of pure gold he made it and all its articles.
 
@@ -81,7 +85,6 @@
 
 - **38:5** — Hebrew kapporet, traditionally rendered 'mercy seat,' derives from the root k-p-r ('to atone/cover') and denotes the golden lid over the ark associated with atonement.
 - **38:7** — Ketiv writes qtswwtw, lacking the yod of the plural possessive suffix, while qere reads the standard plural form qetsotav ('its ends'); both carry the same sense, using a masculine suffix for the grammatically feminine kapporet ('atonement cover').
-- **38:11** — The Hebrew source text contains two consecutive pole-making statements—first indefinite ('poles of acacia wood') and then definite ('the poles of acacia wood ... to carry the table')—both rendered directly from the text.
 - **38:26** — The Qal participle and perfect of tsava ('to serve/perform assigned duty') describe women performing organized service at the entrance of the tent of meeting; mar'ot denotes polished bronze mirrors.
 - **38:27** — The Qal weqatal ('would wash') followed by the Qal yiqtol ('would wash') expresses repeated, customary action whenever Moses, Aaron, and his sons entered the tent or approached the altar.
 - **37:12 *(additional)*** — A handbreadth was roughly three inches, or about seven and a half centimeters.

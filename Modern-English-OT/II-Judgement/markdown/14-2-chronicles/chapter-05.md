@@ -7,7 +7,7 @@
 
 **5:1** So all the work that Solomon did for the house of the LORD was completed. And Solomon brought in the consecrated things of his father David; and the silver, the gold, and all the utensils he placed in the treasuries of the house of God.
 
-**5:2** Then Solomon assembled the elders of Israel and all the heads of the tribes, the chiefs of the ancestral houses of the sons of Israel, to Jerusalem, to bring up the ark of the covenant of the LORD from the city of David, which is Zion.
+**5:2** Then Solomon assembled the elders of Israel and all the heads of the tribes, the chiefs of the fathers' houses of the sons of Israel, to Jerusalem, to bring up the ark of the covenant of the LORD from the city of David, which is Zion.
 
 **5:3** And all the men of Israel assembled to the king at the feast, which was in the seventh month.
 

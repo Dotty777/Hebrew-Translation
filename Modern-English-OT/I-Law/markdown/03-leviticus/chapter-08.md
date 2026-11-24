@@ -31,29 +31,29 @@
 
 **8:13** Then Moses brought Aaron's sons forward, clothed them with tunics, wrapped sashes around them, and bound caps on them, just as the LORD had commanded Moses.
 
-**8:14** Then he led forward the bull for the sin offering, and Aaron and his sons rested their hands on the head of the bull for the sin offering.
+**8:14** Then he led forward the bull for the sin offering, and Aaron and his sons pressed their hands on the head of the bull for the sin offering.
 
 **8:15** He slaughtered it, and Moses took the blood and put it with his finger on the horns of the altar all around, and purified the altar; then he poured out the blood at the base of the altar and consecrated it to make atonement for it.
 
-**8:16** He took all the fat that was on the entrails, the lobe of the liver, and the two kidneys and their fat, and Moses turned them into smoke on the altar.
+**8:16** He took all the fat that was on the inner parts, the lobe of the liver, and the two kidneys and their fat, and Moses turned them into smoke on the altar.
 
 **8:17** But the bull, along with its hide, its flesh, and its dung, he burned with fire outside the camp, just as the LORD had commanded Moses.
 
-**8:18** Then he presented the ram for the burnt offering, and Aaron and his sons rested their hands on the head of the ram.
+**8:18** Then he presented the ram for the burnt offering, and Aaron and his sons pressed their hands on the head of the ram.
 
 **8:19** He slaughtered it, and Moses dashed the blood against the altar all around.
 
 **8:20** He cut the ram into its pieces, and Moses turned the head, the pieces, and the suet into smoke.
 
-**8:21** He washed the entrails and the lower legs with water, and Moses turned the entire ram into smoke on the altar. It was a burnt offering for a soothing fragrance; it was a fire offering to the LORD, just as the LORD had commanded Moses.
+**8:21** He washed the inner parts and the legs with water, and Moses turned the entire ram into smoke on the altar. It was a burnt offering for a soothing fragrance; it was a fire offering to the LORD, just as the LORD had commanded Moses.
 
-**8:22** Then he presented the second ram, the ram of ordination, and Aaron and his sons rested their hands on the head of the ram.
+**8:22** Then he presented the second ram, the ram of ordination, and Aaron and his sons pressed their hands on the head of the ram.
 
 **8:23** He slaughtered it, and Moses took some of its blood and placed it on the lobe of Aaron's right ear, on the thumb of his right hand, and on the big toe of his right foot.
 
 **8:24** Next he brought Aaron's sons forward, and Moses placed some of the blood on the lobes of their right ears, on the thumbs of their right hands, and on the big toes of their right feet; then Moses dashed the blood against the altar all around.
 
-**8:25** He took the fat, the fat tail, all the fat that was on the entrails, the lobe of the liver, the two kidneys along with their fat, and the right thigh.
+**8:25** He took the fat, the fat tail, all the fat that was on the inner parts, the lobe of the liver, the two kidneys along with their fat, and the right thigh.
 
 **8:26** And from the basket of unleavened bread that was before the LORD, he took one unleavened cake, one cake of oiled bread, and one wafer, and set them upon the fat portions and upon the right thigh.
 
@@ -61,7 +61,7 @@
 
 **8:28** Then Moses took them off their palms and turned them into smoke on the altar, on top of the burnt offering. They were an ordination offering for a soothing fragrance; it was a fire offering to the LORD.
 
-**8:29** Moses took the breast as well and waved it as a wave offering before the LORD; from the ram of ordination it became Moses' portion, just as the LORD had commanded Moses.
+**8:29** Moses took the breast and waved it as a wave offering before the LORD; from the ram of ordination it became Moses' portion, just as the LORD had commanded Moses.
 
 **8:30** Then Moses took some of the anointing oil and some of the blood that was on the altar, and sprinkled it upon Aaron, upon his garments, upon his sons, and upon the garments of his sons with him; thus he consecrated Aaron, his garments, his sons, and the garments of his sons with him.
 

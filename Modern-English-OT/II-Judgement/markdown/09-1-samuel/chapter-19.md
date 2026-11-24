@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **19:9** — The construct phrase ruach YHWH ra'ah (lit. "an evil spirit of the LORD") places the feminine adjective ra'ah ("evil") after the construct chain to modify ruach ("spirit"), indicating an evil spirit sent from the LORD. The Piel participle menaggen beyad literally means "playing music with the hand."
+- **19:9** — The construct phrase ruach [divine name] ra'ah (lit. "a spirit of the LORD, evil") places the feminine adjective ra'ah ("evil") after the construct chain to modify ruach ("spirit"), indicating an evil spirit sent from the LORD. The Piel participle menaggen beyad literally means "playing music with the hand."
 - **19:13** — The noun teraphim is plural in form, denoting here a human-sized household idol or image. The rare phrase kevir ha'izzim (occurring only here and in v. 16) refers to a woven covering, quilt, or cushion of goats' hair.
 - **19:18** — Here and in 19:19, 22, 23 (and 20:1), the translation follows the Masoretic Qere reading Nayot ("Naioth"); the written Ketiv preserves a different consonantal spelling (nwyt in ch. 19; mnwwt in 20:1).
 - **19:20** — The Qal verb wayyar ("and he saw") is masculine singular, used collectively or distributively of Saul's messengers. The noun lahaqat ("company" or "band") is a hapax legomenon, occurring only here in the Hebrew Bible.

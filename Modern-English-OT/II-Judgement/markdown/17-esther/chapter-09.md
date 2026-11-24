@@ -25,7 +25,7 @@
 
 **9:11** On that day the number of those killed in the citadel of Susa came before the king.
 
-**9:12** And the king said to Queen Esther, "In the citadel of Susa the Jews have killed and destroyed five hundred men and the ten sons of Haman. What have they done in the rest of the king's provinces? Now what is your request? It will be given to you. And what is your further petition? It will be done."
+**9:12** And the king said to Queen Esther, "In the citadel of Susa the Jews have killed and destroyed five hundred men and the ten sons of Haman. What have they done in the rest of the king's provinces? Now what is your petition? It will be given to you. And what is your further request? It will be done."
 
 **9:13** Then Esther said, "If it seems good to the king, let it be granted to the Jews who are in Susa tomorrow also to act according to today's edict, and let them hang the ten sons of Haman on the wooden pole."
 

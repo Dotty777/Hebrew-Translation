@@ -75,14 +75,14 @@
 
 **34:35** 'Job does not speak with knowledge, and his words have no insight.'
 
-**34:36** If only Job were tested to the very end, because of his answers like those of men of iniquity;
+**34:36** If only Job were tested to the end, because of his answers like those of men of iniquity;
 
 **34:37** for he adds transgression to his sin; among us he claps his hands, and he multiplies his sayings against God."
 
 ## Translator Notes
 
 - **34:6** — The Piel imperfect 'akhazzev ("I lie") is rendered as an unmarked rhetorical question ("Am I to lie?"); some interpret it passively as "am I treated as a liar?" Also, chitsi literally means "my arrow," a metonymy for an arrow-inflicted wound (cf. 6:4).
-- **34:18** — The Masoretic Text points ha'emor as the interrogative particle plus Qal infinitive construct ("should one say?"), treated here as a parenthetical question. Ancient versions and many translations revocalize it as a participle (ha'omer, "who says") referring to God.
+- **34:18** — The Masoretic Text points ha'emor as the interrogative particle plus Qal infinitive construct ("should one say?"), treated here as a parenthetical question. Ancient versions such as the Septuagint read it as a participle (ha'omer, "who says") referring to God.
 - **34:23** — The Qal imperfect yasim ("sets") is used elliptically for "sets the heart/attention" (cf. 23:6; 34:14), and the Masoretic Text reads 'od ("further"), indicating God requires no further investigation. Some emend 'od to mo'ed ("appointed time").
 - **34:29** — Verses 29-30 have abrupt, elliptical syntax in Hebrew, literally "and over a nation and over a person alike, from the reigning of a godless person, from snares of the people." The Hiphil yashqit ("remains silent") can also be taken transitively as "gives quietness."
 - **34:36** — The opening word 'avi is an obscure optative particle probably derived from the root 'avah ("desire, wish"), hence "If only" or "My wish is."

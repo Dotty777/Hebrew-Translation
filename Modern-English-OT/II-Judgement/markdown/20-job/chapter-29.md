@@ -5,7 +5,7 @@
 
 ## Text
 
-**29:1** Then Job lifted up his discourse once more and said,
+**29:1** Then Job continued to take up his discourse and said,
 
 **29:2** "If only I were as in former months, as in the days when God guarded me,
 

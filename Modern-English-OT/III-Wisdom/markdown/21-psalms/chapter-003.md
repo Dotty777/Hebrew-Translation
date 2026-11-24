@@ -25,6 +25,6 @@
 
 ## Translator Notes
 
-- **3:1** — Following the Masoretic Hebrew versification, the psalm superscription is numbered as verse 1, so verses 2-9 correspond to verses 1-8 in many English editions.
+- **3:1** — Following the Masoretic Hebrew versification, the psalm superscription is numbered as verse 1, so the body of the psalm begins at verse 2.
 - **3:3** — Hebrew yeshu'atah is a poetic lengthened form of "deliverance" (yeshu'ah), the same noun that recurs in 3:9. "Selah" (here and in 3:5, 3:9) is a transliterated liturgical or musical term of uncertain meaning.
 - **3:8** — The Hiphil perfect "have struck" and Piel perfect "have shattered" follow the opening imperatives to ground the appeal either in God's past acts of rescue or in confident assurance of deliverance.

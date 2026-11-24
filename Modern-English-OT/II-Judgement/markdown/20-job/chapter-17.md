@@ -23,7 +23,7 @@
 
 **17:9** Yet the righteous holds fast to his way, and the one with clean hands increases in strength.
 
-**17:10** However, turn back and come again, all of you, please; I will not find a wise man among you.
+**17:10** However, turn back and come, all of you, please; I will not find a wise man among you.
 
 **17:11** My days have gone by; my plans are torn apart, the desires of my heart.
 

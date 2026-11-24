@@ -31,7 +31,7 @@
 
 **13:13** And Joash lay down with his fathers, and Jeroboam sat upon his throne; and Joash was buried in Samaria with the kings of Israel.
 
-**13:14** Now Elisha had fallen ill with his illness from which he would die; and Joash king of Israel went down to him, wept over his face, and said, "My father, my father! The chariotry of Israel and its horsemen!"
+**13:14** Now Elisha had fallen ill with his illness from which he would die; and Joash king of Israel went down to him, wept over his face, and said, "My father, my father! The chariot of Israel and its horsemen!"
 
 **13:15** And Elisha said to him, "Take a bow and arrows." So he took for himself a bow and arrows.
 

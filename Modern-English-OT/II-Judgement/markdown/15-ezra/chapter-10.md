@@ -97,6 +97,6 @@
 
 - **10:2** — The verb translated "married" here and in 10:10, 14, 17, and 18 is the Hiphil of yashav (literally "cause to dwell" or "bring home"), a Late Biblical Hebrew idiom for taking wives. For "Elam," the qere reads Elam while the ketiv spells it Olam.
 - **10:3** — The Masoretic vocalization reads Adonai ("the Lord"), whereas some Hebrew manuscripts and ancient versions point the word Adoni ("my lord"), referring to Ezra.
-- **10:16** — The Masoretic Text reads a Niphal plural verb ("were set apart") with Ezra and the ancestral heads as compound subject, whereas some modern translations emend to a Hiphil singular ("he selected"). The form ledaryosh ("to investigate") is an unusual spelling of the Qal infinitive construct of darash.
+- **10:16** — The Masoretic Text reads a Niphal plural verb ("were set apart") with Ezra and the ancestral heads as compound subject, whereas a proposed emendation reads a Hiphil singular ("he selected"). The form ledaryosh ("to investigate") is an unusual spelling of the Qal infinitive construct of darash.
 - **10:19** — Literally "and being guilty, a ram of the flock for their guilt," with the verb ("brought" or "offered") implied after the plural adjective ashemim ("guilty").
 - **10:44** — For "had taken," the qere reads the Qal perfect plural nas'u in place of the ketiv form. The second clause (literally "and there were among them wives, and they produced children") is difficult in the Masoretic Text and is translated as written rather than emended from 1 Esdras 9:36.

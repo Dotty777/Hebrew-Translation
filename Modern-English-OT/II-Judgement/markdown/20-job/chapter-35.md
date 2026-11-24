@@ -41,4 +41,4 @@
 
 - **35:2** — The preposition in me'el ("than that of God") is comparative, echoing Elihu's earlier charge that Job justified himself rather than God (32:2). Some read me'el as "before God" or "from God."
 - **35:3** — The Hebrew shifts from second-person singular lach ("to you") to first-person singular 'o'il ("I gain") and mechattati ("from my sin"), moving abruptly from indirect or generic speech into Job's direct voice; some take lach as addressed to God ("to You"). The phrase mechattati is a concise comparison meaning "more than if I had sinned."
-- **35:15** — Hebrew pash ("insolence") is a hapax legomenon of uncertain meaning, often linked to a root meaning "arrogance" or "excess"; many translations conjecturally emend it to pesha' ("transgression"). Also, 'ayin ("not") rarely negates a finite verb here (paqad 'appo, "His anger has punished").
+- **35:15** — Hebrew pash ("insolence") is a hapax legomenon of uncertain meaning, often linked to a root meaning "arrogance" or "excess"; some interpreters conjecturally emend it to pesha' ("transgression"). Also, 'ayin ("not") here unusually negates a finite verb (paqad 'appo, "His anger has punished").

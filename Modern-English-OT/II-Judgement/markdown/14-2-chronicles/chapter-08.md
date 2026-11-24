@@ -45,5 +45,5 @@
 
 - **8:10** — Ketiv/Qere variant: the Qere reads han-nitsavim (Niphal masculine plural participle of natsav, "the appointed/stationed officers"), while the Ketiv reads han-netsivim (plural noun, "the deputies/prefects"). Both denote administrative overseers.
 - **8:11** — The masculine plural pronoun hemmah ("they") refers contextually to the places or precincts of David's house, and aron ("ark") is here construed as feminine with the 3fs Qal perfect ba'ah ("has come").
-- **8:16** — Literally "up to the day of the founding of the house of the LORD and until its completion," using ad ... ve-ad to span both the preparatory work leading up to foundation day and construction through completion; some versions render the first ad as "from."
+- **8:16** — Literally "up to the day of the founding of the house of the LORD and until its completion," using ad ... ve-ad to span both the preparatory work leading up to foundation day and construction through completion.
 - **8:18** — Orthographic Ketiv/Qere variant: the Qere reads the standard spelling oniyyot ("ships"), while the Ketiv has a plene spelling with an extra vav; the meaning is identical.

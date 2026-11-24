@@ -59,7 +59,7 @@
 
 **23:27** And the LORD said, "I will remove Judah also from My presence, just as I removed Israel, and I will reject this city that I have chosen, Jerusalem, and the house of which I said, 'My name will be there.'"
 
-**23:28** As for the rest of the acts of Josiah and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+**23:28** As for the rest of the acts of Josiah and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 **23:29** In his days, Pharaoh Neco king of Egypt went up to the king of Assyria by the Euphrates River. King Josiah went to meet him, and he put him to death at Megiddo when he saw him.
 

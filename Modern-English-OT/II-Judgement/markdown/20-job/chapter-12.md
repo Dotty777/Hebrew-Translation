@@ -58,5 +58,5 @@
 ## Translator Notes
 
 - **12:4** — The Hebrew shifts from first-person singular ehyeh (I have become) to third-person appositional forms (lere'ehu, to his friend; wayya'anehu, and He answered him), casting Job's plight in proverbial third-person terms.
-- **12:5** — Reading the Masoretic consonants lpyd as le-fid (for misfortune or calamity, cf. Job 30:24; 31:29), with contempt as the masculine subject of stands ready; the Masoretic vocalization lappid reads a despised torch in the thought of one at ease.
+- **12:5** — The Masoretic form lappid is read here as la- with the article plus pid (for misfortune or calamity, cf. Job 30:24; 31:29), with contempt as the masculine subject of stands ready; the same pointed form can also be read as the noun lappid, torch (a despised torch in the thought of one at ease).
 - **12:6** — The final clause la'asher hevi eloah beyado is syntactically difficult; parallel to the preceding le- phrases, it literally reads to the one who brings a god in his hand (making his own might his god), though some take God as subject (to whom God brings provision by His hand).

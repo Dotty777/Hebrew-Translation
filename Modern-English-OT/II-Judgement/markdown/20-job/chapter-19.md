@@ -55,7 +55,7 @@
 
 **19:25** Yet I myself know that my Redeemer is alive, and at the last He will rise upon the dust.
 
-**19:26** And after this skin of mine has been stripped away, still from my flesh I will gaze upon God,
+**19:26** And after this skin of mine has been stripped away, from my flesh I will gaze upon God,
 
 **19:27** whom I myself will gaze upon for myself, and my eyes will see, and not a stranger. My inmost being fails within my chest!
 

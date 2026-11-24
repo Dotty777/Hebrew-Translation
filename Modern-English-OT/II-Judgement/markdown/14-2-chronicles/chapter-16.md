@@ -9,7 +9,7 @@
 
 **16:2** Asa then brought silver and gold out of the treasuries of the house of the LORD and the house of the king, and he sent them to Ben-hadad king of Aram, who resided in Damascus, saying,
 
-**16:3** "Let there be a covenant between me and you, as between my father and your father. Look, I have sent you silver and gold; go, break your covenant with Baasha king of Israel, that he may withdraw from me."
+**16:3** "There is a covenant between me and you, and between my father and your father. Look, I have sent you silver and gold; go, break your covenant with Baasha king of Israel, that he may withdraw from me."
 
 **16:4** Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel; they struck Ijon, Dan, Abel-maim, and all the storehouses of the cities of Naphtali.
 
@@ -19,7 +19,7 @@
 
 **16:7** At that time Hanani the seer came to Asa king of Judah and told him, "Because you leaned on the king of Aram and did not lean on the LORD your God, therefore the army of the king of Aram has escaped from your hand.
 
-**16:8** Were not the Cushites and the Lubim a vast army with exceedingly great numbers of chariots and horsemen? Yet because you leaned on the LORD, He gave them into your hand.
+**16:8** Were not the Cushites and the Libyans a vast army with exceedingly great numbers of chariots and horsemen? Yet because you leaned on the LORD, He gave them into your hand.
 
 **16:9** For the eyes of the LORD roam across all the earth to show Himself strong on behalf of those whose heart is undivided toward Him. You have behaved foolishly concerning this, for from now on there will be wars against you."
 

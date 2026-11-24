@@ -7,9 +7,9 @@
 
 **18:1** After this it happened that David defeated the Philistines and subdued them, and he took Gath and its villages from the hand of the Philistines.
 
-**18:2** He defeated Moab as well, and Moab became servants to David, bearing tribute.
+**18:2** And he defeated Moab, and Moab became servants to David, bearing tribute.
 
-**18:3** David also defeated Hadadezer king of Zobah toward Hamath, as he went to establish his dominion by the Euphrates River.
+**18:3** And David defeated Hadadezer king of Zobah toward Hamath, as he went to establish his dominion by the Euphrates River.
 
 **18:4** David captured from him one thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers; and David hamstrung all the chariot horses, though he spared enough of them for one hundred chariots.
 

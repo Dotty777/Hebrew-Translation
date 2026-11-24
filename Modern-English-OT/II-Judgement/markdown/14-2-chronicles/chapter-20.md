@@ -63,7 +63,7 @@
 
 **20:29** And the dread of God came upon all the kingdoms of the lands when they heard that the LORD had fought against the enemies of Israel.
 
-**20:30** So the kingdom of Jehoshaphat was quiet, and his God gave him rest all around.
+**20:30** So the kingdom of Jehoshaphat was quiet, and his God gave him rest on every side.
 
 **20:31** Thus Jehoshaphat reigned over Judah. He was thirty-five years old when he became king, and he reigned twenty-five years in Jerusalem. His mother's name was Azubah daughter of Shilhi.
 
@@ -73,7 +73,7 @@
 
 **20:34** Now the rest of the acts of Jehoshaphat, the first and the last, see, they are written in the record of Jehu son of Hanani, which was entered in the book of the kings of Israel.
 
-**20:35** After this, Jehoshaphat king of Judah allied himself with Ahaziah king of Israel, who acted wickedly.
+**20:35** After this, Jehoshaphat king of Judah allied himself with Ahaziah king of Israel; he acted wickedly in doing so.
 
 **20:36** He joined in partnership with him to build ships to go to Tarshish, and they built ships in Ezion-geber.
 

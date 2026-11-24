@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **27:2** — Hebrew 'al mahalugto (lit. "upon his division") is a Late Biblical Hebrew idiom meaning "in" or "assigned to his division," recurring across the monthly roster in vv. 2-15.
+- **27:2** — Hebrew 'al machaluqto (lit. "upon his division") is a Late Biblical Hebrew idiom meaning "in" or "assigned to his division," recurring across the monthly roster in vv. 2-15.
 - **27:5** — In Hebrew hakkohen rosh, rosh ("chief/head") lacks the definite article and is separated from hakkohen ("the priest") by a disjunctive accent, allowing either "the son of Jehoiada the priest, as chief" (describing Benaiah) or "the son of Jehoiada the chief priest."
 - **27:12** — The Ketiv writes one word ("of the Benjaminite"), whereas the Qere divides it into two words (labben yemini, the older two-word gentilic form); both denote the tribe of Benjamin.
 - **27:24** — The Qal verb 'alah ("went up") is used in the archival sense "was entered/recorded," and the Masoretic Text reads bemispar ("in the account/enumeration") rather than besefer ("in the book").

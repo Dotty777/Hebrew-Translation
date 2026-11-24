@@ -1,6 +1,6 @@
 # Joshua 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 4 translator notes, 8 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,7 +27,7 @@
 
 **8:11** All the fighting men who were with him went up, drew near, and arrived opposite the city; and they encamped north of Ai, with the ravine between him and Ai.
 
-**8:12** He took about five thousand men and set them in ambush between Bethel and Ai, west of the city. So the people stationed the entire camp that was north of the city and its rear guard west of the city, and Joshua went that night into the middle of the valley.
+**8:12** He took about five thousand men and set them in ambush between Bethel and Ai, west of the city.
 
 **8:14** When the king of Ai saw it, the men of the city hurried, rose early, and went out to meet Israel for battle, he and all his people, to the appointed place facing the Arabah; for he did not know that there was an ambush against him behind the city.
 
@@ -61,13 +61,28 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
+**8:13** *(after `8:12`)* So the people stationed the entire camp that was north of the city and its rear guard west of the city, and Joshua went that night into the middle of the valley.
+
 **8:26** *(after `8:25`)* And Joshua did not pull back his hand, with which he had extended the javelin, until he had devoted all the residents of Ai to destruction.
+
+**8:30** *(after `8:29`)* Then Joshua built an altar to the LORD, the God of Israel, on Mount Ebal,
+
+**8:31** *(after `8:29`)* just as Moses the servant of the LORD had commanded the sons of Israel, as is written in the book of the law of Moses—an altar of whole stones over which no one had wielded iron. And they offered up burnt offerings to the LORD on it and sacrificed peace offerings.
+
+**8:32** *(after `8:29`)* And there he wrote on the stones a copy of the law of Moses, which he wrote in the presence of the sons of Israel.
+
+**8:33** *(after `8:29`)* And all Israel, with their elders and officers and their judges, were standing on this side and on that side of the ark before the Levitical priests who carried the ark of the covenant of the LORD, the resident alien as well as the native-born—half of them facing Mount Gerizim and the other half facing Mount Ebal, just as Moses the servant of the LORD had commanded, to bless the people of Israel first.
+
+**8:34** *(after `8:29`)* And afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law.
+
+**8:35** *(after `8:29`)* There was not a word of all that Moses had commanded that Joshua did not read before the entire assembly of Israel, along with the women and the little ones and the resident alien who walked among them.
 
 ## Translator Notes
 
-- **8:12** — Hebrew aqevo literally means its heel, used militarily for the rear guard or ambush force positioned west of the city. The text reads Qal vayyelek, went, rather than spent the night.
 - **8:14** — Hebrew la-mo'ed can mean either at the appointed place or at the appointed time; followed by facing the Arabah, it likely designates a prearranged battle position.
 - **8:15** — The verb vayyinnage'u is the sole Niphal occurrence of naga in the Hebrew Bible, used here in a tolerative sense meaning allowed themselves to be struck or beaten.
 - **8:16** — Ketiv reads ba-ir, in the city, while Qere reads ba-Ai, in Ai; this translation follows the Qere.
 - **8:20** — Hebrew lo hayah bahem yadayim literally reads there were no hands in them, an idiom for having no power or room to escape.
+- **8:13 *(additional)*** — Hebrew aqevo literally means its heel, used militarily for the rear guard or ambush force positioned west of the city. The text reads Qal vayyelek, went, rather than spent the night.
 - **8:26 *(additional)*** — The Hebrew term rendered "javelin" may also refer to a curved sword or scimitar.
+- **8:30 *(additional)*** — The Septuagint places the account of the altar on Mount Ebal and the reading of the law (8:30-35) after 9:2.

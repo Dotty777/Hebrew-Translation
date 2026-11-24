@@ -21,13 +21,13 @@
 
 **28:8** So now, before the eyes of all Israel, the assembly of the LORD, and in the hearing of our God, keep and seek all the commandments of the LORD your God, in order that you may possess the good land and pass it on as an inheritance to your sons after you forever.
 
-**28:9** And you, my son Solomon, know the God of your father and serve Him with an undivided heart and a willing soul, because the LORD searches all hearts and discerns every inclination of the thoughts. If you seek Him, He will let Himself be found by you; yet if you abandon Him, He will cast you off forever.
+**28:9** And you, my son Solomon, know the God of your father and serve Him with a whole heart and a willing soul, because the LORD searches all hearts and discerns every inclination of the thoughts. If you seek Him, He will let Himself be found by you; yet if you abandon Him, He will cast you off forever.
 
 **28:10** See now that the LORD has chosen you to build a house for the sanctuary; be strong and act."
 
-**28:11** Then David gave his son Solomon the pattern of the vestibule and its buildings, its storerooms, its upper rooms, its inner chambers, and the room of the mercy seat,
+**28:11** Then David gave his son Solomon the pattern of the vestibule and its buildings, its storerooms, its upper rooms, its inner chambers, and the room of the atonement cover,
 
-**28:12** and the pattern of all that he had by the Spirit: for the courts of the house of the LORD, and for all the surrounding chambers, for the treasuries of the house of God and for the treasuries of the consecrated things;
+**28:12** and the pattern of all that he had in the spirit: for the courts of the house of the LORD, and for all the surrounding chambers, for the treasuries of the house of God and for the treasuries of the consecrated things;
 
 **28:13** also for the divisions of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the articles of the service of the house of the LORD;
 
@@ -50,6 +50,6 @@
 ## Translator Notes
 
 - **28:9** — Hebrew yimmatse lakh is the Niphal tolerative of matsa ("He will let Himself be found by you"), and the verb root darash ("searches" / "seek") directly echoes "seek" in v. 8.
-- **28:12** — Hebrew baruah carries the definite article and can be understood either as "by the Spirit" (compare v. 19) or "in mind/spirit."
+- **28:12** — Hebrew baruach ("in the spirit") carries the definite article and can be understood either of the divine Spirit (compare v. 19) or of David's own spirit, i.e., "in mind."
 - **28:18** — Hebrew hammerkabah ("the chariot") stands in apposition to "the golden cherubim," and "their wings" is implied with the Qal participle leforesim ("spreading out," cf. Exod 25:20).
 - **28:19** — The Masoretic Text shifts abruptly to first-person speech ('alay, "upon me") without an introductory speech formula; hiskil is the Hiphil of sakal ("made clear" or "gave understanding of").

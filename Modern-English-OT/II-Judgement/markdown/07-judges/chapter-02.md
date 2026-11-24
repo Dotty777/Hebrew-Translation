@@ -9,7 +9,7 @@
 
 **2:2** and as for you, you must not make a covenant with the inhabitants of this land; you must tear down their altars.' Yet you have not obeyed My voice. What is this that you have done?
 
-**2:3** Therefore I also say, 'I will not drive them out from before you; they will become thorns in your sides, and their gods will become a snare to you.'"
+**2:3** So I also said, 'I will not drive them out from before you; they will become thorns in your sides, and their gods will become a snare to you.'"
 
 **2:4** Now when the angel of the LORD spoke these words to all the sons of Israel, the people raised their voices and wept.
 

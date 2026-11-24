@@ -9,7 +9,7 @@
 
 **33:2** He did what was evil in the eyes of the LORD, according to the abominations of the nations whom the LORD had dispossessed before the sons of Israel.
 
-**33:3** For he rebuilt the high places that his father Hezekiah had demolished, erected altars for the Baals, made Asherahs, and bowed down to all the host of heaven and served them.
+**33:3** He rebuilt the high places that his father Hezekiah had demolished, erected altars for the Baals, made Asherahs, and bowed down to all the host of heaven and served them.
 
 **33:4** He also built altars in the house of the LORD, of which the LORD had said, "In Jerusalem My name shall be forever."
 

@@ -61,6 +61,6 @@
 
 - **3:3** — The passive Pual perfect horah ("has been conceived") is the sole Pual form of harah in Biblical Hebrew, paired with gever ("male" / "man," here a male child).
 - **3:5** — Qal yig'aluhu comes from ga'al ("reclaim" as kinsman-redeemer, or possibly a homonym meaning "defile"). Masoretic tsalmavet vocalizes "shadow of death" (often analyzed etymologically as "deep gloom"), and kimrire yom ("blacknesses of day") is a hapax legomenon usually linked to a root meaning "grow dark."
-- **3:6** — Following the Masoretic pointing, Qal jussive yichad derives from chadah ("rejoice," as in Exod 18:9); some ancient versions and modern translations revocalize to yechad from yachad ("be joined").
+- **3:6** — Following the Masoretic pointing, Qal jussive yichad derives from chadah ("rejoice," as in Exod 18:9); some ancient versions and some scholars read it instead as yechad from yachad ("be joined").
 - **3:10** — Hebrew literally reads "the doors of my womb" (bitni), referring idiomatically to the womb that conceived and bore him (parallel to "his day" in 3:1).
 - **3:20** — Active Qal yitten ("does He give") has no explicit subject here, anticipating "God" (Eloah) in 3:23; some render it impersonally ("is light given"). In 3:23, "hedged around" (wayyasekh ... ba'ado) ironically echoes Satan's words in 1:10.

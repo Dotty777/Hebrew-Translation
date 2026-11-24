@@ -37,7 +37,7 @@
 
 **21:16** In addition, Manasseh shed innocent blood in great abundance, until he had filled Jerusalem from end to end, apart from his sin by which he caused Judah to sin, doing what was evil in the eyes of the LORD.
 
-**21:17** As for the rest of the deeds of Manasseh, and everything he did, and his sin that he sinned, are they not written in the scroll of the annals of the kings of Judah?
+**21:17** As for the rest of the deeds of Manasseh, and everything he did, and his sin that he sinned, are they not written in the book of the chronicles of the kings of Judah?
 
 **21:18** Then Manasseh lay down with his fathers and was buried in the garden of his house, in the garden of Uzza; and his son Amon reigned in his place.
 
@@ -53,7 +53,7 @@
 
 **21:24** Then the people of the land struck down all the conspirators against King Amon, and the people of the land made his son Josiah king in his place.
 
-**21:25** As for the rest of the deeds of Amon that he did, are they not written in the scroll of the annals of the kings of Judah?
+**21:25** As for the rest of the deeds of Amon that he did, are they not written in the book of the chronicles of the kings of Judah?
 
 **21:26** They buried him in his tomb in the garden of Uzza, and his son Josiah reigned in his place.
 

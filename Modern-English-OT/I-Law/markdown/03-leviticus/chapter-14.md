@@ -77,7 +77,7 @@
 
 **14:36** Then the priest shall command that they empty the house before the priest goes in to inspect the affliction, so that everything in the house will not become unclean; and after that the priest shall go in to inspect the house.
 
-**14:37** And he shall inspect the affliction, and look, the affliction is in the walls of the house—sunken patches, greenish or reddish—and their appearance is deeper than the wall.
+**14:37** And he shall inspect the affliction, and look, the affliction is in the walls of the house—sunken patches, greenish or reddish—and their appearance is lower than the wall.
 
 **14:38** Then the priest shall go out of the house to the entrance of the house and shut up the house for seven days.
 
@@ -91,7 +91,7 @@
 
 **14:43** But if the affliction returns and breaks out in the house after the stones have been pulled out, and after the house has been scraped, and after it has been plastered,
 
-**14:44** then the priest shall go in and inspect it, and look, the affliction has spread in the house; it is a malignant leprosy in the house—it is unclean.
+**14:44** then the priest shall go in and inspect it, and look, the affliction has spread in the house; it is a destructive leprosy in the house—it is unclean.
 
 **14:45** And he shall tear down the house—its stones, its timbers, and all the plaster of the house—and carry them outside the city to an unclean place.
 
@@ -111,7 +111,7 @@
 
 **14:53** And he shall release the live bird outside the city into the open field; so he shall make atonement for the house, and it shall be clean.
 
-**14:54** This is the law for every affliction of leprosy and for a scaly patch,
+**14:54** This is the law for every affliction of leprosy and for a scall,
 
 **14:55** and for leprosy of a garment and of a house,
 
@@ -124,5 +124,5 @@
 - **14:3** — Hebrew tsara'at, traditionally rendered "leprosy," covers a range of ritually defiling skin disorders as well as discoloring or moldlike conditions on garments and plastered walls (vv. 34, 55), not solely modern Hansen's disease. "Healed in the leprous person" translates a pregnant Hebrew construction (literally "healed from the leprous person," i.e., healed away from him), using the Qal passive participle tsaru'a alongside the Pual participle metsora' in v. 2.
 - **14:10** — Hebrew issaron ("tenth-measure") is one-tenth of an ephah (a dry measure of roughly 2.2 liters), and a log is a small liquid measure equal to one-twelfth of a hin (roughly one-third of a liter).
 - **14:21** — "His means are insufficient" renders the Hebrew idiom 'en yado masseget (literally "his hand does not reach," Hiphil participle of nasag), which recurs in vv. 22, 30, 31, and 32 to express financial ability.
-- **14:37** — "Sunken patches" translates the hapax legomenon sheqa'arurot (apparently from shaqa', "to sink"), and "deeper than the wall" renders shaphal min-haqqir (literally "lower than the wall," meaning recessed beneath the wall surface).
+- **14:37** — "Sunken patches" translates the hapax legomenon sheqa'arurot (apparently from shaqa', "to sink"), and "lower than the wall" renders shaphal min-haqqir, meaning recessed beneath the wall surface.
 - **14:49** — "To purify" renders the privative Piel infinitive lechatte' (from chata', "to sin," here meaning "to purge from defilement," also in v. 52), distinct from the Piel of taher ("to cleanse" or "declare clean," vv. 7, 11, 48).

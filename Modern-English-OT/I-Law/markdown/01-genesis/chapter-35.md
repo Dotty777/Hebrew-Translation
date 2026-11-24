@@ -1,6 +1,6 @@
 # Genesis 35 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,7 +35,7 @@
 
 **35:15** And Jacob called the place where God had spoken with him by the name Bethel.
 
-**35:16** Then they set out from Bethel; while there was still some distance to reach Ephrath, Rachel went into labor, and she had severe difficulty in giving birth. And Israel set out and pitched his tent beyond Migdal-eder.
+**35:16** Then they set out from Bethel; while there was still some distance to reach Ephrath, Rachel went into labor, and she had severe difficulty in giving birth.
 
 **35:17** As she was having severe difficulty in giving birth, the midwife said to her, "Do not be afraid, for this one also is a son for you."
 
@@ -61,10 +61,15 @@
 
 **35:29** Then Isaac breathed his last, died, and was gathered to his people, old and full of days; and Esau and Jacob, his sons, buried him.
 
+## Additional Verses (Not in Saints Numbering)
+
+**35:21** *(after `35:20`)* Then Israel set out and pitched his tent beyond Migdal-eder.
+
 ## Translator Notes
 
 - **35:7** — The verb 'revealed Himself' (niglu, Niphal perfect of galah) is grammatically plural in agreement with the plural form ha-Elohim ('God'), a rare Hebrew construction used for the one true God (cf. Gen 20:13).
 - **35:8** — 'Allon-bacuth' means 'Oak of Weeping.' Here the tree is an oak (allon), distinct from the terebinth (elah) mentioned in 35:4.
-- **35:16** — The phrase rendered 'some distance' (kivrat ha-aretz, literally 'a stretch of land') refers to an uncertain ancient measure of distance. In this Hebrew text, the final sentence ('And Israel set out... beyond Migdal-eder,' literally 'Tower of the Flock') is placed at the end of 35:16 rather than as a separate verse 21.
+- **35:16** — The phrase rendered 'some distance' (kivrat ha-aretz, literally 'a stretch of land') refers to an uncertain ancient measure of distance.
 - **35:18** — 'Ben-oni' means 'Son of my sorrow' (or 'Son of my misfortune'), whereas 'Benjamin' (Binyamin) means 'Son of the right hand.'
 - **35:22** — The Masoretic text carries double cantillation and a traditional mid-verse pause immediately after 'and Israel heard of it,' breaking off abruptly before introducing the list of Jacob's twelve sons.
+- **35:21 *(additional)*** — Migdal-eder means 'Tower of the Flock.'

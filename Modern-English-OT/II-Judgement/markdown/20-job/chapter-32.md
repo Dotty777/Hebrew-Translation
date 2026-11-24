@@ -47,7 +47,7 @@
 
 **32:21** Let me show no partiality to any man, nor will I flatter any human.
 
-**32:22** For I do not know how to flatter; my Maker would very soon carry me away."
+**32:22** For I do not know how to flatter; my Maker would soon carry me away."
 
 ## Translator Notes
 

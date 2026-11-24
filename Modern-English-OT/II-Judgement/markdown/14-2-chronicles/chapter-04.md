@@ -54,5 +54,5 @@
 - **4:3** — The Masoretic Text reads 'oxen' (beqarim), differing from 'gourds' (peqa'im) in 1 Kings 7:24. The closing phrase literally reads 'cast in its casting' (Qal passive participle of yatsaq), meaning cast together in one piece with the sea.
 - **4:5** — The Masoretic Text uses a double-verb capacity idiom combining the Hiphil participle of chazaq ('holding') with the Hiphil imperfect of kul ('could contain') and records three thousand baths, compared with two thousand baths in 1 Kings 7:26.
 - **4:11** — Ketiv reads 'Hiram' (chiram), while the Qere followed here reads 'Huram' (churam), matching the Chronicler's usual spelling earlier in this verse and in 4:16.
-- **4:16** — Hebrew literally reads 'Huram his father' (churam 'aviv; compare 'Huram my father' in 2 Chronicles 2:13), using 'father' as an honorific title for a master craftsman or chief adviser.
+- **4:16** — Hebrew literally reads 'Huram his father' (churam 'aviv; compare 'Huram my father' in 2 Chronicles 2:12), using 'father' as an honorific title for a master craftsman or chief adviser.
 - **4:21** — The phrase 'the finest gold' renders the unique expression mikhlot zahav, literally 'perfections of gold' (from kalah, 'to be complete'), denoting gold of the highest purity.

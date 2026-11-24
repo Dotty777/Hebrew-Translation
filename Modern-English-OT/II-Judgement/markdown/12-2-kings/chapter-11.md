@@ -50,5 +50,5 @@
 - **11:2** — The Qere reads the Hophal participle ("who were being put to death") for the irregular Ketiv form; the Hebrew also places "him and his nurse, into the bedroom" directly after "stole him away" without an additional verb and shifts to the plural Hiphil verb "they hid him."
 - **11:4** — The Qere reads "hundreds" ("me'ot") for the unusual Ketiv spelling ("me'iyot"), an orthographic Ketiv/Qere variant that recurs in 11:9, 10, and 15.
 - **11:6** — "As a barrier" renders the Hebrew hapax legomenon "massah" (from a root meaning "to pull or ward off"), denoting defense against intrusion; "coming in on the Sabbath" (11:5) and "going out on the Sabbath" (11:7) are idioms for guard shifts rotating on and off duty.
-- **11:15** — The Hebrew phrase "el-mibbayit la-sederot" literally means "inside/between the ranks," depicting Athaliah being escorted out between the armed guard lines rather than harmonized to "outside" in 2 Chronicles 23:14.
+- **11:15** — The Hebrew phrase "el-mibbayit la-sederot" literally means "inside/between the ranks," depicting Athaliah being escorted out between the lines of armed guards.
 - **11:16** — The Hebrew idiom literally reads "they placed hands for her," understood either as seizing her ("they laid hands on her") or as parting to make way for her to exit the temple precinct.

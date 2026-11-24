@@ -53,7 +53,7 @@
 
 **8:24** Then Gideon said to them, "Let me ask a request of you: let each man give me an earring from his plunder." For they had gold earrings, because they were Ishmaelites.
 
-**8:25** They replied, "We will gladly give them." So they spread out a cloak, and each man threw an earring from his plunder onto it.
+**8:25** They replied, "We will surely give them." So they spread out a cloak, and each man threw an earring from his plunder onto it.
 
 **8:26** The weight of the gold earrings that he had requested was one thousand seven hundred shekels of gold, apart from the crescent ornaments, the pendants, and the purple garments that were on the kings of Midian, and apart from the necklaces that were on the necks of their camels.
 

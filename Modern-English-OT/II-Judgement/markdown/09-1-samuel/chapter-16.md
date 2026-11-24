@@ -39,7 +39,7 @@
 
 **16:17** So Saul said to his servants, "Please look for a man for me who plays well, and bring him to me."
 
-**16:18** One of the young men answered and said, "Look, I have seen a son of Jesse the Bethlehemite who knows how to play, a mighty man of strength, a man of war, discerning in speech, and a man of fine appearance; and the LORD is with him."
+**16:18** One of the young men answered and said, "Look, I have seen a son of Jesse the Bethlehemite who knows how to play, a mighty man of valor, a man of war, discerning in speech, and a man of fine appearance; and the LORD is with him."
 
 **16:19** So Saul sent messengers to Jesse and said, "Send me David your son, who is with the sheep."
 

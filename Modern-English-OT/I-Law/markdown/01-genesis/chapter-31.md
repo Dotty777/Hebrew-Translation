@@ -1,6 +1,6 @@
 # Genesis 31 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (53 verses, 5 translator notes)  
+> **Status:** `draft: true` (53 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -99,11 +99,11 @@
 
 **31:47** And Laban named it Jegar-sahadutha, while Jacob named it Galeed.
 
-**31:48** Then Laban said, "This heap is a witness between me and you today." Therefore its name was called Galeed. And Laban said to Jacob, "Look at this heap, and look at the pillar that I have set up between me and you."
+**31:48** Then Laban said, "This heap is a witness between me and you today." Therefore its name was called Galeed.
 
 **31:49** And Mizpah, for he said, "May the LORD keep watch between me and you when we are hidden from one another.
 
-**31:50** If you afflict my daughters, or if you take wives besides my daughters—no man is with us—see, God is a witness between me and you.
+**31:50** If you afflict my daughters, or if you take wives besides my daughters—no man is with us—see, God is a witness between me and you."
 
 **31:52** This heap is a witness, and the pillar is a witness, that I will not pass beyond this heap to you, and that you will not pass beyond this heap and this pillar to me, for harm.
 
@@ -111,10 +111,14 @@
 
 **31:54** Then Jacob offered a sacrifice in the hill country and invited his kinsmen to eat bread; so they ate bread and lodged in the hill country.
 
+## Additional Verses (Not in Saints Numbering)
+
+**31:51** *(after `31:50`)* And Laban said to Jacob, "Look at this heap, and look at the pillar that I have set up between me and you.
+
 ## Translator Notes
 
 - **31:13** — Hebrew ha-el Bet-el is an unusual construct construction in which the first noun retains the definite article before a proper name, conveying "the God of Bethel."
 - **31:20** — Literally "stole the heart (mind) of Laban," a Hebrew idiom for deceiving someone without their knowledge, playing on the verb "steal" (ganav) used in v. 19 and repeated in vv. 26, 27, 30, 32, and 39.
 - **31:39** — The Piel verb achattennah (from chata, normally "sin") carries the restitutive sense "bear the loss of it." The two forms genuvti ("stolen") preserve the archaic construct ending -i (hireq compaginis) before "day" and "night."
 - **31:47** — Laban gives the stone heap an Aramaic name (Jegar-sahadutha) and Jacob gives it the equivalent Hebrew name (Galeed); both mean "heap of witness."
-- **31:48** — In the Saints Hebrew Critical Text, the clause numbered 31:51 in standard Masoretic editions ("And Laban said to Jacob...") is placed at the end of 31:48 (with no separate verse 51); the first-person verb yariti ("I have set up") is translated verbatim as Laban claims credit for establishing the boundary marker.
+- **31:51 *(additional)*** — The first-person verb yariti ("I have set up") is translated as written: Laban claims credit for establishing the boundary marker, although Jacob set up the pillar (31:45).

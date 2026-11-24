@@ -51,4 +51,4 @@
 - **22:5** — Two ketiv/qere variants occur here: first, the qere reads weyittenuhu ('and let them give it,' third-person plural), while the ketiv writes w-y-t-n-h (singular or defective); second, the qere omits the preposition before 'the house of the LORD' (matching v. 9), whereas the ketiv reads 'in the house of the LORD.'
 - **22:9** — The verb 'poured out' is the Hiphil perfect of natak ('pour out' or 'melt down'), referring to emptying the accumulated silver from the temple chest (or melting it for weighing) to pay the workers.
 - **22:14** — 'The Second Quarter' translates ha-mishneh (literally 'the Second'), designating the newer expanded district of Jerusalem (cf. Zephaniah 1:10).
-- **22:15** — Syntactically, 'to Me' stands inside the LORD's speech introduced by 'Thus says the LORD,' paralleling 'to inquire of the LORD' in v. 18, though some interpreters take it as Huldah speaking in her own voice ('to me').
+- **22:15** — Syntactically, 'to Me' stands inside the LORD's speech introduced by 'This is what the LORD says,' paralleling 'to inquire of the LORD' in v. 18, though some interpreters take it as Huldah speaking in her own voice ('to me').

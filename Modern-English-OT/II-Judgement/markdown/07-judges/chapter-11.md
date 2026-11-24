@@ -21,7 +21,7 @@
 
 **11:8** The elders of Gilead said to Jephthah, "For that very reason we have turned back to you now: come with us and fight against the Ammonites, and you will become head for us, over all the residents of Gilead."
 
-**11:9** Jephthah said to the elders of Gilead, "If you are bringing me back to fight against the Ammonites and the LORD gives them over before me, will I myself become your head?"
+**11:9** Jephthah said to the elders of Gilead, "If you are bringing me back to fight against the Ammonites and the LORD gives them over before me, I myself will become your head."
 
 **11:10** The elders of Gilead said to Jephthah, "The LORD will be listening between us: we will surely act just according to your word."
 
@@ -57,7 +57,7 @@
 
 **11:26** While Israel inhabited Heshbon and its villages, Aroer and its villages, and all the towns along the sides of the Arnon for three hundred years, why did you not reclaim them during that time?
 
-**11:27** I myself have not sinned against you, yet you are doing me wrong by fighting against me. May the LORD, the Judge, judge today between the Israelites and the Ammonites."
+**11:27** I myself have not sinned against you, yet you are doing me wrong by fighting against me. May the LORD, the Judge, judge today between the sons of Israel and the Ammonites."
 
 **11:28** Yet the king of the Ammonites did not listen to the words of Jephthah that he had sent to him.
 
@@ -69,7 +69,7 @@
 
 **11:32** So Jephthah crossed over to the Ammonites to fight against them, and the LORD gave them into his hand.
 
-**11:33** He struck them down from Aroer until you reach Minnith—twenty towns—and as far as Abel-keramim, with a very severe blow. Thus the Ammonites were subdued before the Israelites.
+**11:33** He struck them down from Aroer until you reach Minnith—twenty towns—and as far as Abel-keramim, with a very severe blow. Thus the Ammonites were subdued before the sons of Israel.
 
 **11:34** When Jephthah arrived at Mizpah, at his house, look—his daughter was coming out to meet him with tambourines and with dancing! Now she alone was his only child; he had no other son or daughter of his own.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**58:1** For the music director: "Do Not Destroy." A miktam of David, when Saul sent men, and they kept watch over the house to put him to death.
+**58:1** For the music director: "Do Not Destroy." A Miktam of David, when Saul sent men, and they kept watch over the house to put him to death.
 
 **58:2** Rescue me from my enemies, my God; set me high above those who rise up against me.
 

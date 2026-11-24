@@ -116,4 +116,4 @@
 - **14:27** — Ketiv reads wtrʾnh ("and saw," from rʾh), while the translated Qere reads wattāʾōrnāh ("and brightened," Qal wayyiqtol from ʾwr), matching ʾōrû ("have brightened") in 14:29.
 - **14:32** — Two Ketiv/Qere variants occur here: Ketiv wyʿś ("and did") against the translated Qere wayyaʿaṭ ("and pounced," Qal wayyiqtol from ʿyṭ), and Ketiv šll ("plunder") without the definite article against the translated Qere haššālāl ("the plunder").
 - **14:41** — The Masoretic Text reads simply hāḇāh tāmîm, literally "give what is complete/true" (a true lot decision), without the longer Septuagint expansion mentioning Urim and Thummim.
-- **14:47** — Hebrew yaršîaʿ (Hiphil imperfect of ršʿ, "condemn / declare guilty") is used here in the military sense of inflicting punishment or putting foes to the worse, whereas the Septuagint reads "was victorious."
+- **14:47** — Hebrew yaršîaʿ (Hiphil imperfect of ršʿ, "condemn / declare guilty") is used here in the military sense of inflicting punishment or putting foes to the worse, whereas the Septuagint reads "he was saved."

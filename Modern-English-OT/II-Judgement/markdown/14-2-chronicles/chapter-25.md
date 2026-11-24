@@ -13,7 +13,7 @@
 
 **25:4** Yet he did not put their children to death, but acted according to what is written in the law, in the book of Moses, where the LORD commanded, saying, "Fathers shall not die for children, and children shall not die for fathers; instead, each one shall die for his own sin."
 
-**25:5** Amaziah gathered Judah together and stationed them according to fathers' houses, under commanders of thousands and commanders of hundreds, for all Judah and Benjamin. He mustered them from twenty years old and upward and found them to be three hundred thousand picked men able to go out to war, handling spear and large shield.
+**25:5** Amaziah gathered Judah together and stationed them according to fathers' houses, under commanders of thousands and commanders of hundreds, for all Judah and Benjamin. He mustered them from twenty years old and upward and found them to be three hundred thousand chosen men able to go out to war, handling spear and large shield.
 
 **25:6** He also hired from Israel one hundred thousand mighty warriors for one hundred talents of silver.
 

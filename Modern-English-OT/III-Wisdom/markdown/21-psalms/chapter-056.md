@@ -5,7 +5,7 @@
 
 ## Text
 
-**56:1** For the music director: "Do Not Destroy." A miktam of David, when he fled from before Saul in the cave.
+**56:1** For the music director: "Do Not Destroy." A Miktam of David, when he fled from before Saul in the cave.
 
 **56:2** Show me grace, God, show me grace, for in You my soul has taken refuge; and in the shadow of Your wings I will take refuge until calamities pass by.
 

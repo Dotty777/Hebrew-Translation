@@ -55,7 +55,7 @@
 
 **7:25** And now, LORD God, uphold forever the word that You spoke about Your servant and about his house, and do just as You have spoken;
 
-**7:26** and Your name will grow great forever, as it is said, 'The LORD of hosts is God over Israel,' and the house of Your servant David will remain established before You.
+**7:26** and may Your name grow great forever, as it is said, 'The LORD of hosts is God over Israel,' and the house of Your servant David will remain established before You.
 
 **7:27** For You, LORD of hosts, God of Israel, have uncovered the ear of Your servant, saying, 'I will build a house for you'; therefore Your servant has found his heart to pray this prayer to You.
 

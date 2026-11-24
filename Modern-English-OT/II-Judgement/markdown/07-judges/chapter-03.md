@@ -29,7 +29,7 @@
 
 **3:12** Then the sons of Israel again did what was evil in the eyes of the LORD, so the LORD strengthened Eglon king of Moab against Israel because they had done what was evil in the eyes of the LORD.
 
-**3:13** He gathered the sons of Ammon and Amalek to himself, went and struck Israel, and they took possession of the city of palms.
+**3:13** He gathered the sons of Ammon and Amalek to himself, went and struck Israel, and they took possession of the City of Palms.
 
 **3:14** So the sons of Israel served Eglon king of Moab for eighteen years.
 
@@ -59,7 +59,7 @@
 
 **3:27** When he arrived, he blew the ram's horn in the hill country of Ephraim; and the sons of Israel went down with him from the hill country, and he was in front of them.
 
-**3:28** He said to them, "Follow after me, for the LORD has given your enemies, Moab, into your hand." So they went down after him and captured the fords of the Jordan toward Moab, and they did not allow anyone to cross over.
+**3:28** He said to them, "Pursue after me, for the LORD has given your enemies, Moab, into your hand." So they went down after him and captured the fords of the Jordan toward Moab, and they did not allow anyone to cross over.
 
 **3:29** They struck down Moab at that time, about ten thousand men, every one stout and every one a man of valor, and not a man escaped.
 

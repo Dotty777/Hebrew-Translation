@@ -49,7 +49,7 @@
 
 **34:22** So Hilkiah and those whom the king had sent went to Huldah the prophetess, the wife of Shallum the son of Tokhath, the son of Hasrah, keeper of the garments—now she lived in Jerusalem in the Second Quarter—and they spoke to her to this effect.
 
-**34:23** She said to them, "This is what the LORD, the God of Israel, says: Tell the man who sent you to Me,
+**34:23** She said to them, "This is what the LORD, the God of Israel, says: Tell the man who sent you to me,
 
 **34:24** 'This is what the LORD says: Look, I am bringing disaster upon this place and upon its inhabitants, all the curses written in the book that they read before the king of Judah.
 

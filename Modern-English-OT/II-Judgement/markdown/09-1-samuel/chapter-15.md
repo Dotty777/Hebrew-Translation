@@ -78,7 +78,7 @@
 ## Translator Notes
 
 - **15:5** — The verb translated "set an ambush" (wayyareb) is a defective Hiphil form of the root 'rb ("lie in ambush"), though identical in spelling to the Qal of ryb ("contend"); the noun nachal denotes a seasonal streambed or wadi.
-- **15:9** — The plural noun translated "second-born" (hammishnim, literally "the second ones") is uncertain in meaning, likely referring to prime animals of the second birth or second year (often rendered "fatlings"). The word translated "despised" (nemibzah) is an unusual conflated passive participle of the root bzh, paired with the masculine Niphal participle names ("wasted, worthless," from mss).
+- **15:9** — The plural noun translated "second-born" (hammishnim, literally "the second ones") is uncertain in meaning, likely referring to prime animals of the second birth or second year. The word translated "despised" (nemibzah) is an unusual passive participle form of the root bzh, paired with nāmēs (נָמֵס), a Niphal participle of the root mss ("melt, waste away"), translated "worthless."
 - **15:16** — Ketiv reads "and they said" (wayyo'meru), whereas the Qere followed here reads the singular "and he said" (wayyo'mer), referring to Saul.
 - **15:29** — The unique divine title translated "the Splendor of Israel" (netsach yisra'el) derives from a noun denoting eminence, splendor, enduringness, or everlastingness.
 - **15:32** — The adverbial noun translated "confidently" (ma'adannot) is a lexical crux: derived from the root 'dn ("delight, ease"), it suggests walking cheerfully or at ease, though some link it by metathesis to 'nd ("in chains") or follow the Septuagint ("trembling").

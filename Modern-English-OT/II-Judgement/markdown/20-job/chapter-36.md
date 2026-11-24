@@ -27,7 +27,7 @@
 
 **36:11** If they listen and serve Him, they will finish their days in well-being and their years in delights.
 
-**36:12** But if they do not listen, they will pass away by the sword and expire without knowledge.
+**36:12** But if they do not listen, they will pass away by the weapon and expire without knowledge.
 
 **36:13** Yet the godless in heart harbor anger; they do not cry out for help when He binds them.
 

@@ -31,11 +31,11 @@
 
 **9:13** They also delivered the burnt offering to him in its pieces, along with the head, and he turned them into smoke on the altar.
 
-**9:14** He washed the entrails and the lower legs and turned them into smoke on top of the burnt offering on the altar.
+**9:14** He washed the inner parts and the legs and turned them into smoke on top of the burnt offering on the altar.
 
 **9:15** Next he presented the people's offering; he took the male goat for the sin offering that was for the people, slaughtered it, and offered it as a sin offering, just like the first.
 
-**9:16** Then he presented the burnt offering and offered it according to the regulation.
+**9:16** Then he presented the burnt offering and offered it according to the ordinance.
 
 **9:17** He presented the grain offering, filled his palm with some of it, and turned it into smoke on the altar, in addition to the morning burnt offering.
 

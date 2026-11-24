@@ -1,6 +1,6 @@
 # Exodus 28 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes, 4 additional)  
+> **Status:** `draft: true` (37 verses, 4 translator notes, 6 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,7 +49,7 @@
 
 **28:22** And you shall make on the breastpiece twisted chains of braided work, of pure gold.
 
-**28:29** And you shall attach the two braided cords of gold to the two rings at the edges of the breastpiece. And the two ends of the two braided cords you shall attach to the two filigree settings, and place them on the shoulder pieces of the ephod at its front. And Aaron shall bear the names of the sons of Israel in the breastpiece of judgment on his heart when he enters the holy place, as a reminder before the LORD continually.
+**28:29** And Aaron shall bear the names of the sons of Israel in the breastpiece of judgment on his heart when he enters the holy place, as a reminder before the LORD continually.
 
 **28:30** And you shall place into the breastpiece of judgment the Urim and the Thummim, and they shall be on the heart of Aaron when he comes before the LORD; thus Aaron shall bear the judgment of the sons of Israel on his heart before the LORD continually.
 
@@ -83,16 +83,19 @@
 
 **28:23** *(after `28:22`)* And you shall make two gold rings on the breastpiece, and place the two rings at the two edges of the breastpiece.
 
-**28:26** *(after `28:29`)* And you shall make two gold rings and set them on the two ends of the breastpiece, along its border facing inward toward the ephod.
+**28:24** *(after `28:22`)* And you shall attach the two braided cords of gold to the two rings at the edges of the breastpiece.
 
-**28:27** *(after `28:29`)* And you shall make two gold rings and place them low on the two shoulder pieces of the ephod, toward its front, right beside its seam above the woven waistband of the ephod.
+**28:25** *(after `28:22`)* And the two ends of the two braided cords you shall attach to the two filigree settings, and place them on the shoulder pieces of the ephod at its front.
 
-**28:28** *(after `28:29`)* And they shall tie the breastpiece by its rings to the rings of the ephod with a blue cord, so that it rests upon the woven waistband of the ephod and the breastpiece will not slip loose from the ephod.
+**28:26** *(after `28:22`)* And you shall make two gold rings and set them on the two ends of the breastpiece, along its border facing inward toward the ephod.
+
+**28:27** *(after `28:22`)* And you shall make two gold rings and place them low on the two shoulder pieces of the ephod, toward its front, right beside its seam above the woven waistband of the ephod.
+
+**28:28** *(after `28:22`)* And they shall tie the breastpiece by its rings to the rings of the ephod with a blue cord, so that it rests upon the woven waistband of the ephod and the breastpiece will not slip loose from the ephod.
 
 ## Translator Notes
 
 - **28:1** — The Piel infinitive construct with a masculine singular suffix (לְכַהֲנוֹ־לִי, literally "for his serving as priest to Me") focuses on Aaron as head of the priesthood even when his sons are named alongside him (compare 28:4, contrasting with the plural Piel verb וְכִהֲנוּ in 28:41).
 - **28:14** — The rare term מִגְבָּלֹת (cognate with גַּבְלֻת in 28:22) is paired with מַעֲשֵׂה עֲבֹת ("braided work") and denotes twisted, cord-like craftsmanship, though some interpreters connect it with גְּבוּל ("border/end").
 - **28:17** — The precise mineralogical identification of several of the twelve Hebrew gemstone names in 28:17-20 (including פִּטְדָה, יָהֲלֹם, לֶשֶׁם, and תַּרְשִׁישׁ) remains uncertain in modern scholarship; established ancient Near Eastern and standard equivalents are used here.
-- **28:29** — In this critical text, 28:29 joins the clauses corresponding to Masoretic 28:24-25 and 28:29 while omitting the material corresponding to Masoretic 28:23 and 28:26-28.
 - **28:41** — "Ordain them" renders the Piel idiom וּמִלֵּאתָ אֶת־יָדָם (literally "and you shall fill their hand"), the standard priestly expression for installing and authorizing priests in office.

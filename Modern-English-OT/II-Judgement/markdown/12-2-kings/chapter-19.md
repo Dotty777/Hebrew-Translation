@@ -71,7 +71,7 @@
 
 **19:33** By the road on which he came, he will return; and this city he will not enter, declares the LORD.
 
-**19:34** For I will shield this city to save it, for My own sake and for the sake of My servant David.'"
+**19:34** And I will shield this city to save it, for My own sake and for the sake of My servant David.'"
 
 **19:35** That night the angel of the LORD went out and struck down one hundred eighty-five thousand in the camp of Assyria. When people rose early in the morning, look, all of them were dead bodies.
 

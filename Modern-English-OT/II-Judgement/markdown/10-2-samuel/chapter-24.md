@@ -53,7 +53,7 @@
 
 **24:24** Yet the king replied to Araunah, "No, for I will certainly purchase it from you for a price, and I will not offer up to the LORD my God burnt offerings at no cost." So David purchased the threshing floor and the oxen for fifty shekels of silver.
 
-**24:25** There David built an altar to the LORD and offered up burnt offerings and peace offerings. Then the LORD answered the plea for the land, and the plague was restrained from Israel.
+**24:25** There David built an altar to the LORD and offered up burnt offerings and peace offerings. Then the LORD heeded the plea for the land, and the plague was restrained from Israel.
 
 ## Translator Notes
 

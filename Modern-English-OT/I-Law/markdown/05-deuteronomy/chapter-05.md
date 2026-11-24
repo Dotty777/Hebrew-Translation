@@ -75,6 +75,6 @@
 
 - **5:5** — This verse forms a parenthetical aside in Hebrew interrupting 'spoke' in 5:4 and 'saying' at the end of 5:5, which introduces the LORD's words in 5:6-21.
 - **5:10** — Qere reads 'My commandments,' matching first-person 'those who love Me'; ketiv writes 'His commandments' (or 'His commandment').
-- **5:17** — In this Hebrew text, the prohibition against adultery stands at 5:17 and murder at 5:18, an ancient sequence also attested in Papyrus Nash and early Greek witnesses.
+- **5:17** — The Masoretic Text has murder (v. 17) before adultery (v. 18). This edition's verse order places the prohibition of adultery first, a sequence also attested in Papyrus Nash and early Greek witnesses.
 - **5:27** — The second Hebrew pronoun 'you' (ve'att) is spelled and pointed in the shortened form normally used for the feminine singular, a rare Masoretic masculine usage also found in Numbers 11:15 and Ezekiel 28:14.
 - **5:29** — 'If only' renders the Hebrew optative idiom mi-yitten (literally 'Who will give'), expressing an earnest wish.

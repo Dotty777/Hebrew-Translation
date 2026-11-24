@@ -9,7 +9,7 @@
 
 **22:2** He said, "The LORD is my crag and my stronghold and my own deliverer;
 
-**22:3** God, my rock, in whom I take refuge, my shield and the horn of my salvation, my secure height and my place of escape, my savior—You save me from violence.
+**22:3** The God of my rock, in whom I take refuge, my shield and the horn of my salvation, my secure height and my place of escape, my savior—You save me from violence.
 
 **22:4** I call to the LORD, the One to be praised, and from my enemies I am saved.
 
@@ -97,7 +97,7 @@
 
 **22:46** Foreigners wither away and come limping out of their fortresses.
 
-**22:47** The LORD lives, and may my rock be blessed; may God, the rock of my salvation, be exalted—
+**22:47** The LORD lives, and may my rock be blessed; may the God of the rock of my salvation be exalted—
 
 **22:48** the God who grants vengeance to me and brings peoples down beneath me,
 

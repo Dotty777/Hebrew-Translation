@@ -65,5 +65,5 @@
 
 - **1:5** — Hebrew מָנָה אַחַת אַפָּיִם (lit. 'one portion of two faces/nostrils') is a difficult dual expression traditionally understood as a double or special portion.
 - **1:18** — Hebrew וּפָנֶיהָ לֹא־הָיוּ־לָהּ עוֹד (lit. 'and her face was no longer to her') is an idiom meaning her distressed countenance was gone.
-- **1:24** — The Masoretic text explicitly reads בְּפָרִים שְׁלֹשָׁה ('with three bulls'), contrasting with the singular הַפָּר ('the bull') in v. 25, where the Septuagint and 4QSam-a reflect 'a three-year-old bull'.
+- **1:24** — The Masoretic Text reads בְּפָרִים שְׁלֹשָׁה ('with three bulls'), while v. 25 has the singular הַפָּר ('the bull'); in this verse the Septuagint and 4QSam-a reflect 'a three-year-old bull'.
 - **1:28** — The Hiphil הִשְׁאִלְתִּהוּ ('I have lent him') and Qal passive participle שָׁאוּל ('lent') play on the root שׁאל ('ask') in vv. 20 and 27; the Masoretic text ends with singular וַיִּשְׁתַּחוּ ('and he worshiped').

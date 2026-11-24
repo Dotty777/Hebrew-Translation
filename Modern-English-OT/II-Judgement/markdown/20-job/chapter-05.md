@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **5:3** — The Masoretic Text reads the first-person Qal verb wa'eqqov ("and I cursed," from naqav), expressing Eliphaz's immediate pronouncement of doom upon the fool's dwelling.
-- **5:5** — The Masoretic vocalization tsammim is a masculine singular noun meaning "snare" (as in Job 18:9), governing the singular verb sha'af ("pants after"); some translations emend it to tseme'im ("the thirsty").
+- **5:5** — The Masoretic vocalization tsammim is a masculine singular noun meaning "snare" (as in Job 18:9), governing the singular verb sha'af ("pants after"); a proposed emendation reads tseme'im ("the thirsty").
 - **5:6** — Hebrew 'awen ("iniquity") repeats the term from 4:8 alongside 'amal ("trouble") and carries a dual nuance encompassing both wrongdoing and the affliction that accompanies it.
 - **5:7** — Hebrew beney-reshef ("sparks") is literally "sons of flame," an idiomatic expression for rising sparks, linked to the first clause by a comparative conjunction ("just as").
 - **5:24** — Hebrew lo' tekheta' uses the Qal imperfect of khata' (ordinarily "sin") in its concrete primary sense of "miss the mark" or "find something missing" when inspecting one's property.

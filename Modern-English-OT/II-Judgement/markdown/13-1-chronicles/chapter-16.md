@@ -25,7 +25,7 @@
 
 **16:10** Boast in His holy name; let the heart of those seeking the LORD rejoice.
 
-**16:11** Seek the LORD and His strength; earnestly seek His face continually.
+**16:11** Seek the LORD and His strength; seek His face continually.
 
 **16:12** Remember His wondrous deeds that He has done, His marvels, and the judgments of His mouth,
 

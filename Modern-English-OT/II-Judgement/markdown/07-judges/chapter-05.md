@@ -11,7 +11,7 @@
 
 **5:3** Listen, kings; give ear, rulers! I, yes I, will sing to the LORD; I will make music to the LORD, the God of Israel.
 
-**5:4** LORD, when You came out from Seir, when You strode from the country of Edom, the earth shook, the skies too dripped, and the clouds dripped water.
+**5:4** LORD, when You came out from Seir, when You strode from the country of Edom, the earth shook, the skies too dripped, the clouds too dripped water.
 
 **5:5** The mountains streamed before the LORD, the One of Sinai, before the LORD, the God of Israel.
 

@@ -7,7 +7,7 @@
 
 **55:1** For the music leader, according to The Dove of Distant Silence. A Miktam of David, when the Philistines captured him in Gath.
 
-**55:2** Be gracious to me, God, for mortal man has trampled me; fighting all day long, he presses hard against me.
+**55:2** Show me grace, God, for mortal man has trampled me; fighting all day long, he presses hard against me.
 
 **55:3** My lurking foes have trampled on me all day long, for many are fighting haughtily against me.
 
@@ -38,5 +38,5 @@
 - **55:1** — The obscure musical heading yonat 'elem rechoqim literally reads 'dove of silence of distant places' in MT; some versions revocalize 'elem ('silence') to 'elim ('terebinths/oaks').
 - **55:3** — The noun marom ('height, loftiness') is taken here adverbially ('haughtily/proudly'), though some construe it as a vocative divine title ('Most High' or 'Exalted One').
 - **55:7** — The Qere reads Qal yitsponu ('they lie hidden/lurk'), whereas the Ketiv reads Hiphil yatspinu ('they conceal' or 'set an ambush').
-- **55:8** — MT literally reads 'because of iniquity, escape for them' (using the noun/infinitive pallet, 'escape,' as in Ps 32:7), understood here as an unmarked rhetorical question.
+- **55:8** — MT literally reads 'because of iniquity, escape for them' (using the noun/infinitive pallet, 'escape,' as in Ps 32:7 MT), understood here as an unmarked rhetorical question.
 - **55:9** — The Hebrew employs a double wordplay linking nodi ('my wandering') with no'dekha ('Your wineskin') and safartah ('You have counted') with sifratekha ('Your register/record').

@@ -105,7 +105,7 @@
 
 **17:28** *(after `17:11`)* When his oldest brother Eliab heard him talking to the men, Eliab's anger flared up against David, and he said, "Why is it that you have come down here? And in whose care have you left those few sheep in the wilderness? I myself know your arrogance and the malice of your heart, for you have come down to watch the battle."
 
-**17:29** *(after `17:11`)* David replied, "What have I done now? Was it not just a word?"
+**17:29** *(after `17:11`)* David replied, "What have I done now? Was it not a word?"
 
 **17:30** *(after `17:11`)* Then he turned away from him to face another man and said the same words, and the people gave him the same answer as the first time.
 
@@ -115,7 +115,7 @@
 
 **17:50** *(after `17:49`)* So David overpowered the Philistine with a sling and a stone; he struck the Philistine down and killed him, though there was no sword in David's hand.
 
-**17:55** *(after `17:54`)* When Saul saw David going out to face the Philistine, he said to Abner, the commander of the army, "Whose son is this young man, Abner?" And Abner answered, "As surely as your soul lives, Your Majesty, I do not know."
+**17:55** *(after `17:54`)* When Saul saw David going out to face the Philistine, he said to Abner, the commander of the army, "Whose son is this young man, Abner?" And Abner answered, "As surely as your soul lives, O king, I do not know."
 
 **17:56** *(after `17:54`)* And the king said, "You yourself inquire whose son this youth is."
 

@@ -17,7 +17,7 @@
 
 **8:6** if you are pure and upright, surely now He will awaken on your behalf and restore your righteous dwelling.
 
-**8:7** And though your beginning was small, your end will flourish greatly.
+**8:7** And your beginning will be small, but your end will flourish greatly.
 
 **8:8** For ask now of the former generation, and set your mind on what their fathers searched out.
 

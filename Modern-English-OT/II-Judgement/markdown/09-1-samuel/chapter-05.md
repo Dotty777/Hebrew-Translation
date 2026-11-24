@@ -34,4 +34,4 @@
 - **5:4** — The Masoretic Text reads literally "only Dagon was left on him," referring to the remaining torso of the statue after its head and hands were severed; the Septuagint reads "the back/trunk of Dagon."
 - **5:6** — Here and in 5:9, 12, the Ketiv reads opalim ("swellings/tumors") while the euphemistic Qere reads tehorim ("tumors/hemorrhoids"); the Qere is translated throughout.
 - **5:9** — The verb "broke out" translates a Niphal hapax legomenon of the root satar (distinct from the homograph meaning "hide"), denoting an eruption of swellings.
-- **5:10** — Here and in 5:11, the Masoretic Text uses collective first-person singular pronouns ("to me," "me and my people") for the speakers of Ekron as a community, whereas the Septuagint harmonizes to the plural ("us," "our").
+- **5:10** — Here and in 5:11, the Masoretic Text uses collective first-person singular pronouns ("to me," "me and my people") for the speakers of Ekron as a community, whereas the Septuagint has the plural ("us," "our").

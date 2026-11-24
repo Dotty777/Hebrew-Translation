@@ -23,7 +23,7 @@
 
 **23:9** Raise your heads, gates, and raise them up, ancient doorways, so that the King of glory may enter.
 
-**23:10** Who is He, this King of glory? The LORD of armies—He is the King of glory. Selah.
+**23:10** Who is He, this King of glory? The LORD of hosts—He is the King of glory. Selah.
 
 ## Translator Notes
 

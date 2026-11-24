@@ -55,5 +55,5 @@
 
 - **24:6** — Hebrew ma-arakot (derived from arak, "arrange") denotes ordered rows or stacks of loaves arranged upon the pure table.
 - **24:11** — Hebrew vayyiqqov (Qal wayyiqtol of naqav) with et-ha-shem ("the Name," referring to the LORD's name, cf. v. 16) means "blasphemed/reviled" here, though naqav can also mean "designate" or "pronounce distinctly."
-- **24:12** — Hebrew lifrosh (Qal infinitive construct of parash, "make clear/distinct") is used impersonally with al-pi YHWH (lit. "by the mouth of the LORD") to indicate waiting for a clear divine verdict.
+- **24:12** — Hebrew lifrosh (Qal infinitive construct of parash, "make clear/distinct") is used impersonally with al-pi ("by the mouth of") and the divine name to indicate waiting for a clear divine verdict.
 - **24:19** — Hebrew mum ("injury") is the same term used for a physical defect or blemish in Leviticus 21-22; the active Qal yitten ("inflicts") in vv. 19-20 is mirrored by the passive Niphal yinnaten ("shall be inflicted") of the same verb natan at the end of v. 20.

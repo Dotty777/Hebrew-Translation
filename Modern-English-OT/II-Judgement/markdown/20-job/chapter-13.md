@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** Look, all of it my eye has seen; my ear has heard and understood it.
+**13:1** "Look, all of it my eye has seen; my ear has heard and understood it.
 
 **13:2** Just as you know, I also know; I do not fall short of you.
 

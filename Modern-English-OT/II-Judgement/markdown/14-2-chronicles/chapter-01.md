@@ -7,7 +7,7 @@
 
 **1:1** Solomon son of David established himself strongly over his kingdom, and the LORD his God was with him and magnified him exceedingly.
 
-**1:2** Solomon spoke to all Israel, to the commanders of the thousands and the hundreds, to the judges, and to every leader of all Israel, the heads of the fathers' families.
+**1:2** Solomon spoke to all Israel, to the commanders of the thousands and the hundreds, to the judges, and to every leader of all Israel, the heads of the fathers' houses.
 
 **1:3** So Solomon and the whole assembly with him went to the high place in Gibeon, because there was the tent of meeting of God, which Moses, the LORD's servant, had made in the wilderness.
 

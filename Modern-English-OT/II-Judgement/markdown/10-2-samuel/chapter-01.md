@@ -21,7 +21,7 @@
 
 **1:8** He asked me, 'Who are you?' and I told him, 'I am an Amalekite.'
 
-**1:9** Then he said to me, 'Please stand over me and put me to death, for agony has gripped me, while my life is still wholly in me.'
+**1:9** Then he said to me, 'Please stand over me and put me to death, for agony has gripped me, because my life is still wholly in me.'
 
 **1:10** So I stood over him and put him to death, because I knew that he would not live after his fall. Then I took the crown that was on his head and the armlet that was on his arm, and brought them here to my lord."
 

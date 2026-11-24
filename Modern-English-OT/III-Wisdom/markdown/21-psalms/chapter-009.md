@@ -37,7 +37,7 @@
 
 **9:16** Nations have sunk into the pit they made; in the net they hid, their foot has been trapped.
 
-**9:17** The LORD has made Himself known; He has carried out judgment; the wicked one is snared by the work of his hands. Higgaion. Selah.
+**9:17** The LORD has made Himself known; He has carried out judgment; by the work of his hands He snares the wicked one. Higgaion. Selah.
 
 **9:18** The wicked will return to Sheol—all nations forgetful of God.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**26:1** And it happened after the plague that the LORD said to Moses and to Eleazar son of Aaron the priest:
+**26:1** that the LORD said to Moses and to Eleazar son of Aaron the priest:
 
 **26:2** "Take a head count of the entire congregation of the sons of Israel, from twenty years old and above, according to their fathers' houses, everyone who goes out to military service in Israel."
 
