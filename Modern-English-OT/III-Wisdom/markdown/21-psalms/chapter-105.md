@@ -55,7 +55,7 @@
 
 **105:25** And they grumbled in their tents; they did not heed the voice of the LORD.
 
-**105:26** So He lifted His hand against them to cause them to fall in the wilderness,
+**105:26** So He lifted His hand to them to cause them to fall in the wilderness,
 
 **105:27** and to cause their offspring to fall among the nations, and to scatter them across the lands.
 

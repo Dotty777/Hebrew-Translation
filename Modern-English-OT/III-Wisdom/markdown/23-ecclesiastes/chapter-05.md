@@ -15,13 +15,13 @@
 
 **5:5** Do not allow your mouth to cause your flesh to sin, and do not say before the messenger, "It was an error." Why should God grow angry at your voice and ruin the work of your hands?
 
-**5:6** For in an abundance of dreams there are also futilities, and words in abundance; rather, fear God.
+**5:6** For in an abundance of dreams there are also vapors, and words in abundance; rather, fear God.
 
 **5:7** If you see oppression of the poor and the plundering of justice and righteousness in the province, do not be astonished at the matter; for one high official watches above another high official, and high ones are over them.
 
 **5:8** Yet the profit of a land in every respect is this: a king for a tilled field.
 
-**5:9** One who loves silver will not be satisfied with silver, nor whoever loves abundance with revenue. This too is futility.
+**5:9** One who loves silver will not be satisfied with silver, nor whoever loves abundance with revenue. This too is vapor.
 
 **5:10** When goods multiply, those who consume them multiply; and what benefit is there for their owner except looking on with his eyes?
 
@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **5:6** — The Masoretic Hebrew is notably terse ("For in an abundance of dreams and futilities and words in abundance"), with the conjunction on "futilities" introducing the predicate; the second ki is adversative ("rather").
+- **5:6** — The Masoretic Hebrew is notably terse ("For in an abundance of dreams and vapors and words in abundance"), with the conjunction on "vapors" introducing the predicate; the second ki is adversative ("rather").
 - **5:8** — The Qere reads masculine hu' (agreeing with masculine yitron, "profit"), while the Ketiv reads feminine hi' (agreeing with feminine 'erets, "land"). The concise closing phrase melekh lesadeh ne'evad is difficult: the Niphal participle ne'evad may modify "field" ("a king for a tilled field") or "king" ("a king is served by a field").
 - **5:10** — The Qere reads re'ut ("looking, seeing"), a late Hebrew feminine noun form, while the Ketiv spells the rarer synonymous form re'it.
 - **5:16** — The Masoretic text vocalizes vekha'as as a Qal perfect verb ("and he is vexed") modified by the adverb "greatly," followed by the abrupt nominal phrase "and his sickness and anger."

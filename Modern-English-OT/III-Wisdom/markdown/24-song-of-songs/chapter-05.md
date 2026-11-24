@@ -19,7 +19,7 @@
 
 **5:7** The guards who go around in the city found me; they struck me, they wounded me; they took my wrap off me, the guards of the walls.
 
-**5:8** I make you swear, daughters of Jerusalem: if you find my beloved, what will you tell him? That I am sick with love.
+**5:8** I put you under oath, daughters of Jerusalem: if you find my beloved, what will you tell him? That I am sick with love.
 
 **5:9** What is your beloved above any other beloved, most beautiful among women? What is your beloved above any other beloved, that you have made us swear like this?
 

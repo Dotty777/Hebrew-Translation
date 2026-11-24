@@ -123,7 +123,7 @@
 
 **24:59** So they sent off their sister Rebekah and her nurse, along with Abraham's servant and his men.
 
-**24:60** They blessed Rebekah and said to her, "Our sister, become thousands of ten thousands, and may your offspring take possession of the gate of those who hate them!"
+**24:60** They blessed Rebekah and said to her, "Our sister, become thousands of ten thousands, and may your offspring take possession of the gate of those who hate him!"
 
 **24:61** Then Rebekah rose, along with her female attendants, and they rode on the camels and went after the man. So the servant took Rebekah and set out.
 

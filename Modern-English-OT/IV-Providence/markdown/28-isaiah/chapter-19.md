@@ -5,7 +5,7 @@
 
 ## Text
 
-**19:1** An oracle about Egypt. Look, the LORD is riding on a swift cloud and coming into Egypt; the idols of Egypt will shake before Him, and the heart of Egypt will melt within it.
+**19:1** A pronouncement concerning Egypt. Look, the LORD is riding on a swift cloud and coming into Egypt; the idols of Egypt will shake before Him, and the heart of Egypt will melt within it.
 
 **19:2** "And I will incite Egypt against Egypt, and they will fight, each against his brother and each against his neighbor, city against city, kingdom against kingdom.
 

@@ -23,7 +23,7 @@
 
 **8:9** All this I have seen, and I set my heart on every deed that is done under the sun—a time when man has ruled over man to his harm.
 
-**8:10** And so I saw wicked people buried—those who used to enter and walk away from the holy place—and they were forgotten in the city where they had done so. This too is futility.
+**8:10** And so I saw wicked people buried—those who used to enter and walk away from the holy place—and they were forgotten in the city where they had done so. This too is vapor.
 
 **8:11** Because a verdict against an evil deed is not carried out swiftly, the heart of the sons of man is filled within them to do evil.
 
@@ -31,7 +31,7 @@
 
 **8:13** Yet it will not go well for the wicked person, and he will not prolong his days, like a shadow, because he does not fear before God.
 
-**8:14** There is a futility that is done on the earth: there are righteous people to whom things come according to the deeds of the wicked, and there are wicked people to whom things come according to the deeds of the righteous. I said that this too is futility.
+**8:14** There is a vapor that is done on the earth: there are righteous people to whom things come according to the deeds of the wicked, and there are wicked people to whom things come according to the deeds of the righteous. I said that this too is vapor.
 
 **8:15** So I praised gladness, since there is nothing good for a person under the sun except to eat and to drink and to be glad, and this will accompany him in his toil during the days of his life that God has given him under the sun.
 

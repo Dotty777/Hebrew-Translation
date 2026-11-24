@@ -49,6 +49,6 @@
 
 - **9:2** — Ketiv reads לא ("not"), while Qere, translated here, reads לוֹ ("for it"), referring to the nation.
 - **9:4** — סְאוֹן סֹאֵן ("boot of one tramping") is a cognate noun and Qal participle occurring only here in the Hebrew Bible, understood via Akkadian and Aramaic cognates as a marching boot or sandal.
-- **9:5** — וַיִּקְרָא שְׁמוֹ uses a Qal active verb ("and one will call his name" or "and He will call his name"), often rendered passively; the titles פֶּלֶא יוֹעֵץ (lit. "Wonder of a Counselor") and אֲבִי־עַד (lit. "Father of Eternity") pair nouns in apposition or construct.
+- **9:5** — וַיִּקְרָא שְׁמוֹ uses a Qal active verb with unspecified subject ("and one will call his name" or "and He will call his name"), here rendered with an English passive; the titles פֶּלֶא יוֹעֵץ (lit. "Wonder of a Counselor") and אֲבִי־עַד (lit. "Father of Eternity") pair nouns in apposition or construct.
 - **9:6** — Ketiv preserves an anomalous final closed mem (ם) in the middle of the word, read by Qere as לְמַרְבֵּה ("of the increase"), derived from the root רבה.
 - **9:18** — נֶעְתַּם ("has been scorched") is a Niphal perfect of עתם occurring only here in the Hebrew Bible; depending on Semitic cognates it is interpreted either as "scorched" or "darkened."

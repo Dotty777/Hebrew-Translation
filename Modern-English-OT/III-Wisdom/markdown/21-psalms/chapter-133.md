@@ -5,7 +5,7 @@
 
 ## Text
 
-**133:1** A Song of the Ascents. Now, bless the LORD, all servants of the LORD, who stand in the house of the LORD during the nights.
+**133:1** A song of the ascents. Now, bless the LORD, all servants of the LORD, who stand in the house of the LORD during the nights.
 
 **133:2** Raise your hands toward the holy place, and bless the LORD.
 

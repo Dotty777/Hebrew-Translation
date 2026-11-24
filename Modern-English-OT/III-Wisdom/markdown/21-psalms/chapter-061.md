@@ -11,7 +11,7 @@
 
 **61:3** Only He is my rock and my salvation, my high fortress; I will not be severely shaken.
 
-**61:4** How long will you assail a man? You will be shattered, all of you, like a leaning wall, a toppling fence.
+**61:4** How long will you assail a man? Will you batter him, all of you, like a leaning wall, a toppling fence?
 
 **61:5** Only from his eminence do they plot to cast him down; they delight in falsehood. With their mouth they bless, yet in their inward parts they curse. Selah.
 
@@ -34,6 +34,6 @@
 ## Translator Notes
 
 - **61:2** — The noun dumiyyah ('stillness, silence') stands in deliberate contrast with the Qal feminine singular imperative dommi ('be still!') in 61:6. The particle akh ('only') recurs six times in this psalm (verses 2, 3, 5, 6, 7, 10) as a unifying refrain.
-- **61:4** — The Poel verb tehotetu ('assail') is a biblical hapax legomenon. The translation follows the Ben Asher Masoretic vocalization of terotsechu as a Pual passive ('you will be shattered'); an alternate vocalization tradition reads a Piel active ('you batter/murder').
+- **61:4** — The Poel verb tehotetu ('assail') is a biblical hapax legomenon. The translation follows the vocalization of the critical text, teratsechu, a Piel active ('you batter/murder'); an alternate vocalization tradition (Ben Naphtali) reads a Pual passive ('you will be slain'). The simile of the leaning wall describes the man under attack.
 - **61:5** — Hebrew befiv literally reads 'with his mouth' (a distributive singular suffix paired with the plural verb 'they bless'), meaning each adversary blesses with his own mouth.
 - **61:10** — The parallel idioms 'sons of mankind' (bene-adam) and 'sons of man' (bene-ish) encompass all humanity, from the lowly to the prominent. The final clause uses comparative min elliptically with hevel ('less than a breath,' i.e., lighter than a puff of air).

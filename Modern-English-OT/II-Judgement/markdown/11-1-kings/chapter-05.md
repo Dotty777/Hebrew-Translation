@@ -1,6 +1,6 @@
 # 1 Kings 5 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 3 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,8 +59,14 @@
 
 **5:32** So Solomon's builders, Hiram's builders, and the Gebalites shaped and prepared the timber and the stones to build the house.
 
+## Additional Verses (Not in Saints Numbering)
+
+**5:31** *(after `5:30`)* And the king gave the command, and they quarried large stones, costly stones, to lay the foundation of the house with hewn stones.
+
 ## Translator Notes
 
+- **5:1** — This verse translates Masoretic 5:7-8 (traditional English 4:27-28), following the Saints (Greek) verse arrangement; Masoretic 5:1 and 5:5 are carried in 2:46, and 5:6 in 10:26.
+- **5:14** — The first sentence is Masoretic 3:1 and the last sentence is Masoretic 9:16 (Pharaoh's capture of Gezer), carried in this verse following the Saints (Greek) verse arrangement.
 - **5:17** — The qere reads raglay ('my feet'), whereas the ketiv reads rglo ('his foot' or 'his feet', referring to David). Although 'warfare' (hammilchamah) is singular, the following verb ('surrounded him') and object pronoun ('them') are plural ad sensum, referring to the hostile forces.
 - **5:23** — The noun doberot ('rafts') is a hapax legomenon in the Hebrew Bible; the Piel verb nippastim ('break them apart') describes dismantling the lashed timber rafts upon arrival.
 - **5:24** — Here and in 5:32 the Hebrew text spells the Tyrian king's name Hirom, an alternate vocalization of Hiram.

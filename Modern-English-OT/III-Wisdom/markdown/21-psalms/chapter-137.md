@@ -19,7 +19,7 @@
 
 **137:7** Though I walk in the midst of distress, You will keep me alive; against the anger of my enemies You will stretch out Your hand, and Your right hand will save me.
 
-**137:8** The LORD will bring all to completion on my behalf; LORD, Your loyal love endures forever; do not abandon the works of Your hands.
+**137:8** The LORD will bring it to completion on my behalf; LORD, Your loyal love endures forever; do not abandon the works of Your hands.
 
 ## Translator Notes
 

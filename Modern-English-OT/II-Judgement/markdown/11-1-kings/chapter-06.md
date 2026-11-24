@@ -1,11 +1,11 @@
 # 1 Kings 6 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 5 additional)  
+> **Status:** `draft: true` (31 verses, 6 translator notes, 5 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**6:1** And the king gave the command, and they quarried large stones, costly stones, to lay the foundation of the house with hewn stones. Now it happened in the four hundred and eightieth year after the sons of Israel went out from the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv—that is, the second month—that he began building the house for the LORD. In the fourth year the foundation of the house of the LORD was laid, in the month of Ziv. And in the eleventh year, in the month of Bul—that is, the eighth month—the house was finished in all its details and in all its specifications; thus he built it over seven years.
+**6:1** Now it happened in the four hundred and eightieth year after the sons of Israel went out from the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv—that is, the second month—that he began building the house for the LORD. In the fourth year the foundation of the house of the LORD was laid, in the month of Ziv. And in the eleventh year, in the month of Bul—that is, the eighth month—the house was finished in all its details and in all its specifications; thus he built it over seven years.
 
 **6:2** Now the house that King Solomon built for the LORD was sixty cubits in length, twenty in width, and thirty cubits in height.
 
@@ -81,6 +81,7 @@
 
 ## Translator Notes
 
+- **6:1** — The last two sentences ("In the fourth year the foundation... over seven years") are Masoretic 6:37-38, carried in this verse following the Saints (Greek) verse arrangement.
 - **6:4** — The architectural phrase challone shequfim atumim ('framed, recessed windows') uses two rare terms of uncertain design, likely denoting fixed windows set within beveled or recessed frames.
 - **6:5** — Here and in 6:6 and 6:10, the qere reads yatsia ('side structure' or 'story'), distinguishing the architectural term from the ketiv yatsua (elsewhere 'bed' or 'couch').
 - **6:8** — The Hebrew text explicitly reads hattikhonah ('the middle') for the entrance chamber, even though stairs ascend from it to 'the middle' story; lulim ('winding stairs') is a hapax legomenon whose exact construction is uncertain.

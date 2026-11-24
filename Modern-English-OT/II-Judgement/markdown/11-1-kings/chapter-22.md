@@ -1,6 +1,6 @@
 # 1 Kings 22 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (50 verses, 5 translator notes)  
+> **Status:** `draft: true` (50 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -105,6 +105,16 @@
 
 **22:54** He served Baal and bowed down to him, and he provoked the LORD, the God of Israel, to anger, in accordance with everything that his father had done.
 
+## Additional Verses (Not in Saints Numbering)
+
+**22:47** *(after `22:46`)* And the remnant of the male cult prostitutes who remained in the days of his father Asa, he swept away from the land.
+
+**22:48** *(after `22:46`)* Now there was no king in Edom; a deputy was king.
+
+**22:49** *(after `22:46`)* Jehoshaphat made ships of Tarshish to go to Ophir for gold, but he did not go, because the ships were wrecked at Ezion-geber.
+
+**22:50** *(after `22:46`)* Then Ahaziah son of Ahab said to Jehoshaphat, "Let my servants go with your servants in the ships." But Jehoshaphat was not willing.
+
 ## Translator Notes
 
 - **22:6** — The Hebrew text here reads Adonai ('the Lord') rather than the Tetragrammaton ('the LORD'), contrasting with verses 12 and 15. The Hebrew also omits an explicit direct object for 'give' here and in verses 12 and 15, leaving the oracle's wording open-ended.
@@ -112,3 +122,4 @@
 - **22:21** — Hebrew uses the definite article ('the spirit'), likely pointing to a specific spirit in the heavenly vision or the spirit of prophecy rather than an indefinite 'a spirit'.
 - **22:30** — Hebrew uses two infinitives absolute (Hithpael 'disguising' and Qal 'entering') with first-person force ('I will disguise myself and enter'), immediately contrasted with the emphatic second-person imperative 'while you put on your robes'.
 - **22:38** — Hebrew literally has a concise circumstantial clause 'while the prostitutes bathed' (waw + subject + Qal perfect) without stating a location or object, following the rinsing of the chariot at the pool of Samaria.
+- **22:49 *(additional)*** — Following the qere: "made" (the ketiv reads the consonants for "ten") and the plural "were wrecked" (the ketiv reads a feminine singular, agreeing collectively with "ships").

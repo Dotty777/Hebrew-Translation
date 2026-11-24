@@ -15,7 +15,7 @@
 
 **7:5** Listening to the rebuke of a wise person is better than being someone who listens to the song of fools.
 
-**7:6** For like the sound of thorns under the pot, so is the laughter of the fool; and this too is futility.
+**7:6** For like the sound of thorns under the pot, so is the laughter of the fool; and this too is vapor.
 
 **7:7** For extortion makes a fool of a wise person, and a bribe ruins the heart.
 
@@ -33,7 +33,7 @@
 
 **7:14** On a day of prosperity be glad, and on a day of adversity reflect: God has made the one alongside the other, so that man cannot find out anything after him.
 
-**7:15** I have seen all things in the days of my futility: there is a righteous person who perishes in his righteousness, and there is a wicked person who prolongs his days in his evil.
+**7:15** I have seen all things in my days of vapor: there is a righteous person who perishes in his righteousness, and there is a wicked person who prolongs his days in his evil.
 
 **7:16** Do not be righteous to excess, and do not make yourself overly wise; why should you bring ruin on yourself?
 
@@ -57,7 +57,7 @@
 
 **7:26** And I find more bitter than death the woman whose heart is traps and nets, whose hands are fetters; one who is good before God will escape from her, but a sinner will be caught by her.
 
-**7:27** "See, this is what I have found," said the Preacher, "putting one thing with another to find a reckoning,
+**7:27** "See, this is what I have found," said the Convener, "putting one thing with another to find a reckoning,
 
 **7:28** which my soul has still sought, yet I have not found: one man out of a thousand I have found, yet a woman among all these I have not found.
 
@@ -68,4 +68,4 @@
 - **7:12** — The Hebrew wording is compressed, literally "for in the shadow/shelter of wisdom, in the shadow/shelter of silver," using repeated prepositions to draw a parallel between the protection offered by wisdom and money.
 - **7:18** — The idiom "will come through all of them" literally reads "will go out with/from all of them" (Qal imperfect of yatsa with the direct object marker), meaning either to emerge safely from both extremes or to fulfill both obligations.
 - **7:22** — The Ketiv (written text) has the defective form of the second-person pronoun while the Qere (read text) supplies the standard masculine singular form "you"; both convey the same meaning.
-- **7:27** — The Masoretic Hebrew reads the feminine singular perfect verb "said" to agree with the grammatical feminine form of the title Qohelet (literally "Assembler" or "Speaker," traditionally rendered "the Preacher").
+- **7:27** — The Masoretic Hebrew reads the feminine singular perfect verb "said" to agree with the grammatical feminine form of the title Qohelet ("the Convener"; see 1:1).

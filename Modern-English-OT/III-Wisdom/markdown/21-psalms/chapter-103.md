@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **103:4** — The double accusative after the Qal participle of asah ('make') can be construed either as 'making winds His messengers, blazing fire His attendants' (fitting the meteorological imagery of v. 3) or following the Hebrew word order as 'making His messengers winds [or spirits], His attendants a blazing fire' (as cited in Heb 1:7 via the Septuagint).
+- **103:4** — The double accusative after the Qal participle of asah ('make') can be construed either as 'making winds His messengers, blazing fire His attendants' (fitting the meteorological imagery of v. 3) or following the Hebrew word order as 'making His messengers winds [or spirits], His attendants a blazing fire' (the construal reflected in the Septuagint).
 - **103:8** — The masculine plural Qal imperfects 'went up' and 'descended' continue the grammatical subject 'waters' from vv. 6-7 and match the masculine plural references in vv. 8b-9; alternatively, 'mountains' and 'valleys' may be construed as their subjects ('the mountains rose, the valleys sank down').
 - **103:13** — The Masoretic Hebrew shifts abruptly within this verse from third person ('His upper chambers') to second person ('Your works'), a frequent feature of hymnic praise in this psalm.
 - **103:26** — The Hebrew prepositional phrase 'bo' after the Piel infinitive of sachaq ('play, sport') can refer either to the sea ('to play in it') or to Leviathan with God as subject ('for You to play with it'; cf. Job 41:5).

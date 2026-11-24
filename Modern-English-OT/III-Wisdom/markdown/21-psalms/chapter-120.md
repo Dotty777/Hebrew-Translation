@@ -7,7 +7,7 @@
 
 **120:1** A song for the ascents. I raise my eyes to the mountains. Where will my help come from?
 
-**120:2** My help is from the LORD, the maker of heaven and earth.
+**120:2** My help is from the LORD, the Maker of heaven and earth.
 
 **120:3** May He not let your foot slip; may the One who guards you not slumber.
 

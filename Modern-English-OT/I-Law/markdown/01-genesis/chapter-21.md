@@ -55,7 +55,7 @@
 
 **21:25** Now Abraham reproved Abimelech on account of the well of water that Abimelech's servants had seized by force.
 
-**21:26** And Abimelech said, "I do not know who did this thing; you yourself did not inform me, and I myself have not heard of it until today."
+**21:26** And Abimelech said, "I do not know who did this thing; neither did you inform me, nor have I heard of it until today."
 
 **21:27** Then Abraham took flocks and herds and gave them to Abimelech, and both of them made a covenant.
 

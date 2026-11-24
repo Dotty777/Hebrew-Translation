@@ -23,5 +23,5 @@
 
 ## Translator Notes
 
-- **66:2** — Unlike Numbers 6:25, which uses the preposition el ("upon"), the Hebrew here uses ittanu ("with us"), highlighting God's shining presence remaining with His people.
+- **66:2** — Unlike Numbers 6:25, which uses the preposition el ("upon"), the Hebrew here uses ittanu ("with us").
 - **66:5** — The verb tanchem is a Hiphil imperfect of nachah ("to lead" or "guide") with a resumptive plural object suffix referring back to the fronted "nations."

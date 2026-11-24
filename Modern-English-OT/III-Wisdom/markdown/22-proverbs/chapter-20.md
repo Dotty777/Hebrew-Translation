@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **20:4** — Ketiv reads the asyndetic Qal imperfect "yish'al" ("he begs/seeks"); the translated qere reads the waw-consecutive Qal perfect "wesha'al" ("so he begs/seeks").
-- **20:9** — In the Saints Hebrew Critical Text, this verse combines material matching MT 20:9 and 20:20-22 and contains two ketiv/qere variants: ketiv "be'ishon" ("in the pupil/middle of darkness") vs. translated qere "be'eshun" ("in deep darkness"), and ketiv "mevuchelet" ("gained greedily" or "loathed") vs. translated qere Pual participle "mevohelet" ("gained hastily").
+- **20:9** — The sentences after the first are Masoretic 20:20-22, carried in this verse following the Saints (Greek) verse order. Translated qere readings: be'eshun ("in deep darkness"; ketiv be'ishon, "in the pupil/middle of darkness") and the Pual participle mevohelet ("gained hastily"; ketiv mevuchelet, "gained greedily" or "loathed").
 - **20:25** — The rare verb "yala'" denotes speaking rashly or blurting out a dedicatory declaration ("It is sacred"); an older interpretation connected it to a root meaning "to swallow/devour" something holy.
 - **20:30** — Ketiv reads "tamriq" (a Hiphil verbal form "scours away" or a variant noun); the translated qere reads the noun "tamruq" ("a scouring / cleansing").
 - **20:16 *(additional)*** — Following the traditional reading 'a foreign woman'; the written consonantal text reads 'foreigners.'

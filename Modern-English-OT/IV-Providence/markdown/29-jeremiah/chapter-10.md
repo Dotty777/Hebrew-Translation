@@ -9,7 +9,7 @@
 
 **10:2** This is what the LORD says: "Do not learn the way of the nations, and do not be terrified by the signs of the heavens, even though the nations are terrified by them.
 
-**10:3** For the customs of the peoples are futility: someone cuts down a tree from the forest, the work of the hands of a craftsman with an axe.
+**10:3** For the customs of the peoples are futility; for someone cuts down a tree from the forest, the work of the hands of a craftsman with an axe.
 
 **10:4** With silver and gold one adorns it; with nails and hammers they fasten them so that it does not totter.
 

@@ -1,6 +1,6 @@
 # 1 Kings 10 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,5 +68,6 @@
 - **10:5** — The Masoretic vocalization olato ("his burnt offering") with the verb yaaleh ("offered up") is followed here; the parallel in 2 Chronicles 9:4 reads "his ascent" (stairway), which some interpreters read here as well.
 - **10:12** — The Hebrew noun translated "supports" (misad) occurs only here in the Hebrew Bible; derived from the verb meaning "to support," it may denote structural supports, railings, or pillars (compare "steps" in 2 Chronicles 9:11).
 - **10:15** — The Masoretic Hebrew vocalizes ha-erev ("the mixed peoples"; compare Jeremiah 25:24), whereas the parallel in 2 Chronicles 9:14 reads ha-arav ("Arabia").
-- **10:22** — For the desert city, the qere reads "Tadmor" (compare 2 Chronicles 8:4) while the ketiv reads "Tamar" (compare Ezekiel 47:19). The final exotic import translated "peacocks" (tukkiyyim) is traditionally so rendered, though some scholars understand it as "baboons" or a species of monkey.
+- **10:22** — The verse up to "his chariots and his horsemen" is Masoretic 9:15 and 9:17-22 (Solomon's forced labor and building works), carried here following the Saints (Greek) verse arrangement; the final sentence is Masoretic 10:22. For the desert city, the qere reads "Tadmor" (compare 2 Chronicles 8:4) while the ketiv reads "Tamar" (compare Ezekiel 47:19). The final exotic import translated "peacocks" (tukkiyyim) is traditionally so rendered, though some scholars understand it as "baboons" or a species of monkey.
+- **10:26** — The first sentence is Masoretic 5:6 (traditional English 4:26), carried here following the Saints (Greek) verse arrangement.
 - **10:28** — The Hebrew miqweh is read here as the preposition "from" prefixed to the region Kue (ancient Cilicia, renowned for horse breeding), though older traditions took it as a common noun meaning "a drove" or "linen yarn."

@@ -1,11 +1,11 @@
 # 1 Kings 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (39 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (39 verses, 4 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**11:1** Now King Solomon loved many foreign women, as well as the daughter of Pharaoh: Moabite, Ammonite, Edomite, Sidonian, and Hittite women. And he had seven hundred wives who were princesses and three hundred concubines, and his wives turned his heart away.
+**11:1** Now King Solomon loved many foreign women, as well as the daughter of Pharaoh: Moabite, Ammonite, Edomite, Sidonian, and Hittite women.
 
 **11:2** From the nations concerning which the LORD had said to the sons of Israel, "You shall not go among them, and they shall not come among you; surely they will turn your heart after their gods"—to these Solomon clung in love.
 
@@ -81,15 +81,17 @@
 
 **11:42** And the days that Solomon reigned in Jerusalem over all Israel were forty years.
 
-**11:43** And Solomon slept with his fathers and was buried in the city of David his father, and his son Rehoboam reigned in his place. Now it happened when Jeroboam the son of Nebat heard of it—he was still in Egypt, where he had fled from the presence of King Solomon—that Jeroboam stayed in Egypt.
+**11:43** And Solomon slept with his fathers and was buried in the city of David his father, and his son Rehoboam reigned in his place.
 
 ## Additional Verses (Not in Saints Numbering)
+
+**11:3** *(after `11:2`)* And he had seven hundred wives who were princesses and three hundred concubines, and his wives turned his heart away.
 
 **11:39** *(after `11:38`)* "And I will afflict the offspring of David on account of this, yet not for all time."
 
 ## Translator Notes
 
 - **11:11** — The Hebrew idiom literally reads "this has been with you," expressing a settled course of conduct or mindset harbored by Solomon.
+- **11:14** — The sentences about Rezon son of Eliada are Masoretic 11:23-24, carried in this verse following the Saints (Greek) verse arrangement.
 - **11:25** — The clause "along with the harm that Hadad did" translates an elliptical Hebrew construction (lit. "and with the evil which Hadad") where the verb is left implied.
 - **11:33** — The Hebrew text uses third-person plural verbs ("they have forsaken Me ... bowed down ... have not walked") before concluding with the singular phrase "David his father," broadening Solomon's apostasy to implicate the nation as a whole.
-- **11:43** — In the closing clause, the Hebrew verb is the Qal wayyiqtol of yashav ("stayed" or "dwelt") rather than shuv ("returned"), depicting Jeroboam as remaining in Egypt until summoned.

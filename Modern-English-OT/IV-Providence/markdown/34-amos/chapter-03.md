@@ -31,7 +31,7 @@
 
 **3:13** "Hear and bear witness against the house of Jacob," declares the Lord GOD, the God of hosts.
 
-**3:14** "For on the day I bring punishment upon Israel for its transgressions, I will also bring punishment upon the altars of Bethel; and the horns of the altar will be hacked off and fall to the ground.
+**3:14** "For on the day I bring punishment upon Israel for its transgressions, I will bring punishment upon the altars of Bethel; and the horns of the altar will be hacked off and fall to the ground.
 
 **3:15** And I will strike down the winter house together with the summer house; the ivory houses will perish, and many houses will vanish," declares the LORD.
 

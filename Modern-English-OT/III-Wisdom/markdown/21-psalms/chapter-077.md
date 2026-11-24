@@ -5,7 +5,7 @@
 
 ## Text
 
-**77:1** A Maskil of Asaph. Listen closely, my people, to my instruction; incline your ear to the sayings of my mouth.
+**77:1** A maskil of Asaph. Listen closely, my people, to my instruction; incline your ear to the sayings of my mouth.
 
 **77:2** With a parable I will open my mouth; I will pour forth riddles from ancient times,
 
@@ -111,7 +111,7 @@
 
 **77:53** He guided them in safety, and they did not fear, while the sea covered their enemies.
 
-**77:54** And He brought them to His holy territory, the mountain that His right hand acquired.
+**77:54** And He brought them to His holy territory, this mountain that His right hand acquired.
 
 **77:55** He drove out nations from before them, allotted them by a measuring line as an inheritance, and caused the tribes of Israel to dwell in their tents.
 

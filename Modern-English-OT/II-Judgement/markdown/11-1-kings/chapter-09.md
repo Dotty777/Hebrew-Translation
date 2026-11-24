@@ -42,5 +42,5 @@
 ## Translator Notes
 
 - **9:8** — The Masoretic Hebrew reads "will be exalted" (yihyeh elyon), understood concessively here ("exalted though it may be"; compare 2 Chronicles 7:21). Some ancient versions read "a heap of ruins."
-- **9:9** — The qere reads the plural "and bowed down," while the ketiv has a singular or defective spelling.
+- **9:9** — The final sentence ("Once Pharaoh's daughter... the Millo") is Masoretic 9:24, carried here following the Saints (Greek) verse arrangement. The qere reads the plural "and bowed down," while the ketiv has a singular or defective spelling.
 - **9:11** — The Piel verb nissa here means "supplied" or "assisted" with gifts (rather than "lifted up"). After the adverb az ("then"), the imperfect verb yitten has past narrative force ("then ... gave").

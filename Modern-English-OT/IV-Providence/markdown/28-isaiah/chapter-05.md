@@ -19,7 +19,7 @@
 
 **5:7** For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah are the planting of His delight. He hoped for justice, yet look, bloodshed; for righteousness, yet look, an outcry!
 
-**5:8** Woe to those who connect house to house, bringing field next to field, until no space remains and you are made to live all alone in the middle of the land.
+**5:8** Woe to those who connect house to house, bringing field next to field, until no space remains and you are made to live alone in the middle of the land.
 
 **5:9** In my ears the LORD of hosts has spoken: "Surely many houses will turn to desolation, large and fine ones, with no one dwelling in them.
 

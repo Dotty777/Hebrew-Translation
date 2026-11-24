@@ -45,7 +45,7 @@
 
 **18:20** Should evil be repaid for good? Yet they have dug a pit for my life. Remember how I stood before You to speak good on their behalf, to turn Your wrath away from them.
 
-**18:21** Therefore give their children over to famine, and deliver them over to the power of the sword; let their wives become childless and widowed. Let their men be killed by death, and their young men struck down by the sword in battle.
+**18:21** Therefore give their children over to famine, and pour them out to the power of the sword; let their wives become childless and widowed. Let their men be killed by death, and their young men struck down by the sword in battle.
 
 **18:22** Let an outcry be heard from their houses when You bring a raiding band upon them suddenly! For they have dug a pit to capture me and have hidden snares for my feet.
 

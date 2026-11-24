@@ -13,9 +13,9 @@
 
 **30:4** For his officials are at Zoan, and his messengers reach Hanes.
 
-**30:5** Everyone comes to shame because of a people who cannot profit them, bringing neither help nor profit, but only shame and also reproach."
+**30:5** Everyone comes to shame because of a people who cannot profit them, bringing neither help nor profit, but shame and also reproach."
 
-**30:6** An oracle concerning the beasts of the Negev: Through a land of distress and anguish, from which come the lioness and the lion, the viper and the flying fiery serpent, they carry their wealth on the shoulders of young donkeys and their treasures on the humps of camels to a people who cannot profit them.
+**30:6** A pronouncement concerning the beasts of the Negev: Through a land of distress and anguish, from which come the lioness and the lion, the viper and the flying fiery serpent, they carry their wealth on the shoulders of young donkeys and their treasures on the humps of camels to a people who cannot profit them.
 
 **30:7** Indeed, Egypt helps in futility and emptiness; therefore I have called this one, "Rahab: they sit idle."
 

@@ -57,7 +57,7 @@
 
 **31:26** Then Laban said to Jacob, "What have you done, that you deceived me and drove off my daughters like captives of the sword?
 
-**31:27** Why did you flee in secret and deceive me, and did not tell me, so that I could have sent you off with gladness and with songs, with tambourine and with lyre?
+**31:27** Why did you flee in secret and deceive me, and not tell me, so that I could have sent you off with gladness and with songs, with tambourine and with lyre?
 
 **31:28** And you did not permit me to kiss my sons and my daughters. Now you have acted foolishly in doing so.
 

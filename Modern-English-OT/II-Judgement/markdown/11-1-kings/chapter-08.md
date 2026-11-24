@@ -1,6 +1,6 @@
 # 1 Kings 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (64 verses, 8 translator notes)  
+> **Status:** `draft: true` (64 verses, 7 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -103,9 +103,9 @@
 
 **8:51** For they are Your people and Your inheritance, whom You brought out from Egypt, from the midst of the iron furnace.
 
-**8:52** May Your eyes be open toward the supplication of Your servant and toward the supplication of Your people Israel, to listen to them in all their calling to You."
+**8:52** May Your eyes be open toward the supplication of Your servant and toward the supplication of Your people Israel, to listen to them in all their calling to You.
 
-**8:53** Then Solomon said, "The LORD said that He would dwell in the thick darkness. I have indeed built an exalted house for You, an established place for Your dwelling forever. For You set them apart for Yourself as an inheritance from among all the peoples of the earth, just as You spoke by the hand of Moses Your servant when You brought out our fathers from Egypt, Lord GOD."
+**8:53** For You set them apart for Yourself as an inheritance from among all the peoples of the earth, just as You spoke by the hand of Moses Your servant when You brought out our fathers from Egypt, Lord GOD."
 
 **8:54** And it happened, when Solomon had finished praying all this prayer and supplication to the LORD, that he rose from before the altar of the LORD, from kneeling upon his knees with his palms spread out toward heaven.
 
@@ -133,6 +133,12 @@
 
 **8:66** On the eighth day he dismissed the people, and they blessed the king and went to their tents, rejoicing and glad of heart over all the goodness that the LORD had done for David His servant and for Israel His people.
 
+## Additional Verses (Not in Saints Numbering)
+
+**8:12** *(after `8:11`)* Then Solomon said, "The LORD has said that He would dwell in the thick darkness.
+
+**8:13** *(after `8:11`)* I have indeed built an exalted house for You, an established place for Your dwelling forever."
+
 ## Translator Notes
 
 - **8:9** — Elliptical Hebrew: MT literally reads "where the LORD cut with the sons of Israel," omitting the usual object berit ("covenant") after the Qal verb karat ("cut, make [a covenant]").
@@ -141,5 +147,4 @@
 - **8:31** — MT opens the conditional clause with 'et 'asher ("if/when") and spells the Qal verb "laid" with shin (nasha') rather than sin (nasa'). The phrase uba' 'alah is terse, literally either "and he comes [and] swears [an oath]" or "and an oath comes."
 - **8:35** — The verb ta'anem ("You humble them") is parsed as Hiphil of 'anah II ("afflict, humble"), fitting the drought context; the form is homographic with the Qal of 'anah I ("answer").
 - **8:48** — Ketiv/Qere: the written ketiv omits the final yod (bnyt), while the pointed qere translated here is first-person singular baniti ("I have built"), matching 8:43 and 8:44.
-- **8:53** — Textual placement: in this critical text, Solomon's poetic couplet ("The LORD said... forever," located at MT 8:12-13) appears at the opening of 8:53, aligning with its placement in 3 Kingdoms (LXX 8:53a) while preserving the Masoretic Hebrew text.
 - **8:59** — The Hebrew idiom debar-yom beyomo (literally "the matter of a day in its day") denotes each day's ongoing need or requirement.

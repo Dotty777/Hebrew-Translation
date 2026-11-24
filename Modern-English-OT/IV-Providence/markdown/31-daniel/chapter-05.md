@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes, 8 additional)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 9 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,7 +33,7 @@
 
 **5:16** And I have heard about you that you are able to give interpretations and untie knots. Now if you are able to read the writing and make its interpretation known to me, you will wear purple and have a chain of gold around your neck, and you will rule as third in the kingdom."
 
-**5:17** Then Daniel responded and said before the king, "May your gifts remain yours, and give your rewards to someone else; however, I will read the writing to the king and make the interpretation known to him. Now this is the writing that has been inscribed: 'Mene, Mene, Tekel, and Parsin.'
+**5:17** Then Daniel responded and said before the king, "May your gifts remain yours, and give your rewards to someone else; however, I will read the writing to the king and make the interpretation known to him.
 
 **5:23** And you have exalted yourself against the Lord of heaven, and they brought the vessels of His house before you, and you and your nobles, your wives and your concubines, were drinking wine out of them; and you gave praise to the gods of silver and gold, bronze, iron, wood, and stone, which do not see, do not hear, and do not know, yet the God in whose hand is your breath, and to whom all your ways belong, you have not glorified.
 
@@ -65,11 +65,13 @@
 
 **5:24** *(after `5:23`)* Then the hand was sent from before Him, and this writing was inscribed.
 
+**5:25** *(after `5:23`)* And this is the writing that was inscribed: 'Mene, Mene, Tekel, and Parsin.'
+
 ## Translator Notes
 
 - **5:5** — "fingers ... came out": Following the Qere nepaqah (Peal perfect 3fp), which agrees with the feminine plural subject "fingers," whereas the Ketiv reads masculine plural npqw. "palm of the hand": Aramaic pas yeda refers to the flat portion of the hand from wrist to fingers.
 - **5:6** — "the joints of his hips were loosened": Aramaic qitrei chartseh mishtarayin (literally "the knots of his loins were untied," Hithpeel participle of shera) sets up an ironic wordplay with Daniel's reputation for "untying knots" (qitrin, shera) in 5:12 and 5:16.
 - **5:7** — "third in the kingdom": Aramaic talti (and talta in 5:16, 29) means "third" or "third ruler," fitting Belshazzar's historical position as co-regent under his father Nabonidus.
 - **5:8** — "its interpretation": Following the Qere ufishreh ("and its interpretation") rather than the Ketiv wpsr' ("and the interpretation").
-- **5:17** — In this critical text, the reading of the wall inscription (traditional 5:25) stands at the end of 5:17. The Aramaic words name weights—mina, shekel, and half-minas (plural parsin, preceded by u-, "and," traditionally rendered "Upharsin")—which Daniel explains in 5:26-28 by wordplay on cognate verbs ("numbered," "weighed," "divided," using singular Peres) and the name Paras ("Persia").
 - **5:24 *(additional)*** — Literally "the palm of the hand."
+- **5:25 *(additional)*** — The Aramaic words name weights—mina, shekel, and half-minas (plural parsin, preceded by u-, "and," traditionally rendered "Upharsin")—which Daniel explains in 5:26-28 by wordplay on cognate verbs ("numbered," "weighed," "divided," using singular Peres) and the name Paras ("Persia").

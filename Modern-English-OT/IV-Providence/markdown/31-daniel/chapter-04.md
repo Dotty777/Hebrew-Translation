@@ -81,6 +81,6 @@
 - **4:19** — "those who hate you ... your foes": The Ketiv writes the plural 2ms suffix -ayk (lsn'yk, l'ryk), while the Qere reads -ak (lesane'ak, le'arak), a Tiberian Aramaic suffix variant that coincides with the singular form (similarly on plural nouns in 4:27 and 5:23). "a short while": Aramaic sha'ah denotes a brief moment or interval rather than a sixty-minute hour (cf. 4:33; 5:5).
 - **4:26** — "Heaven is sovereign": Aramaic shemayya ("the heavens," grammatically plural with the plural adjective shallitin) serves here as a reverent metonymy for God.
 - **4:27** — "my counsel ... break off": Aramaic milki ("my counsel") plays on malka ("King"), and the Peal imperative peruq ("break off" or "redeem") conveys either casting away sins or redeeming them through righteous conduct.
-- **4:37** — In this critical text, Nebuchadnezzar's royal greeting and opening doxology (traditional 4:1-3) stand at the conclusion of the chapter immediately before his final declaration of praise.
+- **4:37** — Following the Saints verse arrangement, this verse carries Nebuchadnezzar's greeting and opening doxology (Masoretic 3:31-33; traditional English 4:1-3) before his closing praise (Masoretic 4:34; traditional English 4:37).
 - **4:6 *(additional)*** — Alternatively, "as for the visions of my dream that I saw, tell me its interpretation."
 - **4:32 *(additional)*** — Literally "strike against His hand," an Aramaic idiom for restraining or halting someone's action.

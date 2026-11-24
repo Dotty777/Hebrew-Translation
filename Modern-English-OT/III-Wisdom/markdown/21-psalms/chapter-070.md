@@ -43,7 +43,7 @@
 
 **70:19** And Your righteousness, God, extends to the heights; You who have done great things, God, who is like You?
 
-**70:20** You who have shown me many and bitter distresses will again restore me to life, and from the depths of the earth You will again bring me up.
+**70:20** You who have shown me many distresses and calamities will again restore me to life, and from the depths of the earth You will again bring me up.
 
 **70:21** You will multiply my greatness, and turn and comfort me.
 

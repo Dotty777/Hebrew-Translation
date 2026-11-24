@@ -87,7 +87,7 @@
 
 **118:41** And may Your acts of steadfast love come to me, LORD, Your salvation according to Your spoken word.
 
-**118:42** Then I will answer the one who reproaches me with a word, for I have trusted in Your word.
+**118:42** Then I will answer with a word the one who reproaches me, for I have trusted in Your word.
 
 **118:43** And do not snatch the word of truth completely from my mouth, for I have waited for Your judgments.
 

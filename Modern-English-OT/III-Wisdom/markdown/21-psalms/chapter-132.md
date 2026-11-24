@@ -5,7 +5,7 @@
 
 ## Text
 
-**132:1** A Song of the Ascents, of David. Look, how good and how pleasant it is for brothers to dwell together as one!
+**132:1** A song of the ascents, of David. Look, how good and how pleasant it is for brothers to dwell together as one!
 
 **132:2** It is like the good oil on the head, descending onto the beard, the beard of Aaron, that descends onto the collar of his garments;
 

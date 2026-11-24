@@ -17,5 +17,5 @@
 
 ## Translator Notes
 
-- **3:1** — Hebrew Masoretic numbering begins chapter 3 here (corresponding to 2:28-32 in most English Bibles); unlike the quotation in Acts 2:17, the Hebrew text reads simply achare-khen ("afterward") and et-ruchi ("My Spirit").
+- **3:1** — Hebrew Masoretic numbering begins chapter 3 here (corresponding to 2:28-32 in an alternative chapter division); unlike the quotation in Acts 2:17, the Hebrew text reads simply achare-khen ("afterward") and et-ruchi ("My Spirit").
 - **3:5** — The noun peletah ("deliverance," or concretely "those who escape") echoes 2:3 ("no escape"), and the final prepositional phrase u-vas-seridim ("and among the survivors") parallels "on Mount Zion and in Jerusalem" as the sphere where deliverance is found.

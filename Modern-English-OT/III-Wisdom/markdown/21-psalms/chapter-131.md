@@ -5,7 +5,7 @@
 
 ## Text
 
-**131:1** A Song of the Ascents. Remember, LORD, for David all his affliction,
+**131:1** A song of the ascents. Remember, LORD, for David all his affliction,
 
 **131:2** how he swore to the LORD, made a vow to the Mighty One of Jacob:
 

@@ -9,9 +9,9 @@
 
 **8:2** I would lead you, I would bring you into the house of my mother, she who used to teach me. I would give you spiced wine to drink, from the fresh juice of my pomegranate.
 
-**8:3** May his left hand be beneath my head, and may his right hand embrace me.
+**8:3** His left arm is beneath my head, and his right arm embraces me.
 
-**8:4** I make you swear, daughters of Jerusalem: do not rouse and do not awaken love until it desires.
+**8:4** I put you under oath, daughters of Jerusalem: do not rouse and do not awaken love until it desires.
 
 **8:5** Who is this coming up out of the wilderness, leaning against her beloved? Beneath the apple tree I awakened you; there your mother was in labor with you, there she who gave birth to you was in labor.
 
@@ -31,7 +31,7 @@
 
 **8:13** You who dwell in the gardens, companions are listening attentively to your voice; let me hear it!
 
-**8:14** Flee, my beloved, and be like a gazelle or a fawn of the deer upon mountains of spices.
+**8:14** Flee, my beloved, and be like a gazelle or a young stag upon mountains of spices.
 
 ## Translator Notes
 

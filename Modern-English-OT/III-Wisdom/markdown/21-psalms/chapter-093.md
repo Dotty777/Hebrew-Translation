@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **93:4** — "Boast" renders the rare Hithpael of amar ("speak"), used reflexively here in the sense of vaunting or talking arrogantly of oneself.
-- **93:7** — Here (and in v. 12) the Hebrew uses Yah, the poetic shortened form of the divine name YHWH, rendered "the LORD."
+- **93:7** — Here (and in v. 12) the Hebrew uses Yah, the poetic shortened form of the divine name, rendered "the LORD."
 - **93:10** — The final participial clause ("the One who teaches mankind knowledge") has no explicit interrogative predicate in the Hebrew, functioning either in apposition to the opening subject or as an elliptical question answered immediately in v. 11.
 - **93:17** — "Silence" (dumah) is a poetic Hebrew designation for the grave or the realm of the dead.
 - **93:20** — "Be joined with You" renders an unusually vocalized form of chabar ("be allied, joined"), and the phrase aley-choq ("by statute") can mean either "under the cover of a legal decree" or "contrary to statute."

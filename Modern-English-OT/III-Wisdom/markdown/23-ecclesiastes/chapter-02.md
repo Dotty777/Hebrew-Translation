@@ -17,7 +17,7 @@
 
 **2:6** I made pools of water for myself, to irrigate from them a forest sprouting trees.
 
-**2:7** I bought male and female servants, and I had servants born in my house; I also had livestock of cattle and flocks in abundance, more than all who were before me in Jerusalem.
+**2:7** I bought male and female slaves, and I had slaves born in my house; I also had livestock of cattle and flocks in abundance, more than all who were before me in Jerusalem.
 
 **2:8** I also collected for myself silver and gold, and the treasure of kings and of the provinces. I obtained for myself male and female singers, and the delights of the sons of man, concubine after concubine.
 
@@ -27,7 +27,7 @@
 
 **2:11** Then I turned toward all my works that my hands had done and toward the toil that I had toiled to do, and look, everything was vapor and chasing wind, and there was no advantage under the sun.
 
-**2:12** And I turned to see wisdom, madness, and folly. For what can the man do who comes after the king? Only that which they have already done.
+**2:12** And I turned to see wisdom, madness, and folly. For what can the man do who comes after the king? That which they have already done.
 
 **2:13** And I saw that there is an advantage to wisdom over folly, like the advantage of light over darkness.
 

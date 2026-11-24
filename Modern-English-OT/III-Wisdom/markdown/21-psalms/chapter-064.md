@@ -23,7 +23,7 @@
 
 **64:9** And the inhabitants of the farthest bounds stand in awe of Your signs; You make the places where morning and evening go forth shout for joy.
 
-**64:10** You have visited the earth and watered it abundantly; greatly You enrich it. The watercourse of God is full of water; You make ready their grain, for in this way You make it ready.
+**64:10** You have visited the earth and watered it; greatly You enrich it. The watercourse of God is full of water; You make ready their grain, for in this way You make it ready.
 
 **64:11** You saturate its furrows; You level its ridges; with showers You soften it; You bless its sprouting.
 
@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **64:2** — The Masoretic Text vocalizes dumiyyah as the noun "silence" or "stillness" (literally "to You silence is praise," or "praise waits in silence for You"); some ancient versions and modern translations repoint the consonants to mean "is due."
+- **64:2** — The Masoretic Text vocalizes dumiyyah as the noun "silence" or "stillness" (literally "to You silence is praise," or "praise waits in silence for You"); some ancient versions reflect a different vocalization of the same consonants meaning "is fitting."
 - **64:6** — The masculine plural adjective rechoqim ("distant ones") follows singular yam ("sea"), either modifying the preceding plural construct phrase ("the distant ends of earth and sea") or denoting "the sea of distant shores."
 - **64:11** — The forms ravveh ("saturate") and nachet ("level") are Piel infinitives absolute continuing the second-person finite verbs of the preceding verse, though both forms are morphologically identical to Piel imperatives.
-- **64:12** — Hebrew shenat tovatekha is literally a construct chain, "the year of Your goodness," which many translations render adverbially as "the year with Your goodness" or "bounty."
+- **64:12** — Hebrew shenat tovatekha is literally a construct chain, "the year of Your goodness," that is, the year marked by Your goodness or bounty.

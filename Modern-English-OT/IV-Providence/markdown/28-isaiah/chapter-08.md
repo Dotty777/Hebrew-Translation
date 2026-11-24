@@ -31,7 +31,7 @@
 
 **8:13** The LORD of hosts—Him you must regard as holy; He is to be your fear, and He is to be your dread.
 
-**8:14** And He will become a sanctuary, yet a stone of striking and a rock of stumbling to the two houses of Israel, a trap and a snare to the inhabitants of Jerusalem.
+**8:14** And He will become a sanctuary, and a stone of striking and a rock of stumbling to the two houses of Israel, a trap and a snare to the inhabitants of Jerusalem.
 
 **8:15** And many will stumble over them; they will fall and be broken, and be snared and captured."
 

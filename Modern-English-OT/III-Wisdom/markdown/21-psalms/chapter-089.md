@@ -9,7 +9,7 @@
 
 **89:2** Before the mountains were born and You brought the earth and the world to birth, from eternity to eternity You are God.
 
-**89:3** You turn humanity back to dust, and You say, "Turn back, children of Adam."
+**89:3** You turn humanity back to dust, and You say, "Turn back, sons of man."
 
 **89:4** For a thousand years in Your eyes are like yesterday once it has passed, and like a watch in the night.
 

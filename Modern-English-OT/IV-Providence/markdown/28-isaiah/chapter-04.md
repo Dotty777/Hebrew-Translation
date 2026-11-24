@@ -19,5 +19,5 @@
 
 ## Translator Notes
 
-- **4:2** — The noun צֶמַח literally means "sprout", "shoot", or "growth" (used elsewhere as a messianic title, "Branch"), standing here in parallelism with פְרִי הָאָרֶץ ("the fruit of the land").
+- **4:2** — The noun צֶמַח literally means "sprout", "shoot", or "growth" (the same noun used of a Davidic figure in Jer 23:5; 33:15; Zech 3:8; 6:12), standing here in parallelism with פְרִי הָאָרֶץ ("the fruit of the land").
 - **4:4** — The conjunction אִם ("if") with a perfect (רָחַץ) and imperfect (יָדִיחַ) functions temporally ("once/when"); the Piel infinitive בָּעֵר carries the dual sense of "burning" and "purging away".

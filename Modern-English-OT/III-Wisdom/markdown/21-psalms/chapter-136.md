@@ -19,9 +19,9 @@
 
 **136:7** Remember, LORD, against the sons of Edom the day of Jerusalem, those who said, "Strip her bare, strip her bare, down to her foundation!"
 
-**136:8** Daughter of Babylon, the devastated one, blessed is the one who pays you back the treatment you dealt to us.
+**136:8** Daughter of Babylon, the devastated one, happy is the one who pays you back the treatment you dealt to us.
 
-**136:9** Blessed is the one who seizes and smashes your infants against the rock.
+**136:9** Happy is the one who seizes and smashes your infants against the rock.
 
 ## Translator Notes
 

@@ -41,7 +41,7 @@
 
 - **6:9** — The MT vocalizes the verb in the middle clause as Qal imperfect of ra'ah ("perceives" or "sees"), though many interpreters understand it as a variant form of the root meaning "to fear" ("it is sound wisdom to fear Your name"). The Hebrew noun translated "rod" can also mean "tribe."
 - **6:10** — The interrogative form translated "Are there" uses a rare Hebrew variant (ish) of the standard particle of existence (yesh), as in 2 Samuel 14:19. An "ephah" was a dry grain measure.
-- **6:11** — The MT vocalizes the verb as Qal imperfect ("Can I be pure?"), expressing either a rhetorical question from the merchant's standpoint or the LORD's refusal to remain blameless while tolerating fraud; many translators repoint it as Piel ("Can I acquit?").
+- **6:11** — The MT vocalizes the verb as Qal imperfect ("Can I be pure?"), expressing either a rhetorical question from the merchant's standpoint or the LORD's refusal to remain blameless while tolerating fraud; it can also be repointed as Piel ("Can I acquit?").
 - **6:13** — The MT vocalizes the verb as Hiphil perfect of chalah ("make sick" or "inflict a grievous blow"), whereas several ancient versions read a similar root meaning "begin."
 - **6:14** — The noun translated "emptiness" is a Hebrew hapax legomenon widely understood as gnawing hunger or emptiness. The following Hiphil verb literally means "move away" or "remove."
 - **6:16** — The MT opens with a passive Hithpael verb ("are kept"), shifts to a third person feminine singular suffix ("her residents," referring back to the city of 6:9 and 6:12), and reads "My people" rather than the Septuagint's "the peoples."

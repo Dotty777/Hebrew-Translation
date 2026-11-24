@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **72:2** — Two Ketiv/Qere variants occur here: Qere natayu (Qal perfect plural of natah, "had turned aside") vs. Ketiv ntwy (singular passive participle), and Qere shuppeku (Pual perfect plural of shafak, literally "were poured out," i.e., "slipped") vs. Ketiv shfkh (feminine singular Pual shuppekah agreeing collectively with "my steps").
-- **72:4** — The Masoretic Text reads lemotam ("at their death"), alongside two rare nouns: hartsubbot ("pangs" or "bonds") and 'ulam ("their body" or "strength"). Some modern versions redivide the consonants as lamo tam ("for them; sound [is their body]"), which departs from the Masoretic division.
+- **72:4** — The Masoretic Text reads lemotam ("at their death"), alongside two rare nouns: hartsubbot ("pangs" or "bonds") and 'ulam ("their body" or "strength"). The consonants can also be divided as lamo tam ("for them; sound [is their body]"), which departs from the Masoretic division.
 - **72:10** — Qere yashuv (Qal imperfect of shuv, "return") is translated here; Ketiv yshyb represents the Hiphil yashiv ("he brings back"). The second clause literally reads "and waters of fullness are drained by them," an idiom whose sense is debated (either drinking deeply of prosperity or draining a full cup of bitterness).
 - **72:16** — Qere hu' (masculine singular pronoun agreeing with masculine 'amal, "trouble") vs. Ketiv hy' (feminine singular hi', agreeing with feminine zo't, "this").
 - **72:20** — Hebrew ba'ir is generally understood as a contracted Hiphil infinitive construct of 'ur (for beha'ir, "when You stir/arouse Yourself," parallel to "upon waking"), though the same consonantal and vocalized form can literally mean "in the city."

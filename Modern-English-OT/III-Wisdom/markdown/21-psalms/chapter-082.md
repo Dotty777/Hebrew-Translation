@@ -48,4 +48,4 @@
 - **82:4** — Hebrew tsefunekha ("Your sheltered ones") is the Qal passive participle of tsafan ("hide, treasure, shelter"), referring to God's protected people.
 - **82:9** — Hebrew "an arm" (zeroa') is a metaphor for military strength and active support.
 - **82:14** — Hebrew galgal literally means "wheel" or "whirling thing," here referring to windblown tumbleweed or swirling dry plant debris.
-- **82:19** — Hebrew places shimkha YHWH ("Your name is the LORD") in emphatic apposition between 'attah ("You") and levaddekha ("alone").
+- **82:19** — Hebrew places shimkha followed by the divine name ("Your name is the LORD") in emphatic apposition between 'attah ("You") and levaddekha ("alone").

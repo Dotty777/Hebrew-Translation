@@ -67,7 +67,7 @@
 
 ## Translator Notes
 
-- **35:7** — The verb 'revealed Himself' (niglu, Niphal perfect of galah) is grammatically plural in agreement with the plural form ha-Elohim ('God'), a rare Hebrew construction used for the one true God (cf. Gen 20:13).
+- **35:7** — The verb 'revealed Himself' (niglu, Niphal perfect of galah) is grammatically plural in agreement with the plural form ha-Elohim ('God'), a rare Hebrew construction when the reference is to God (cf. Gen 20:13).
 - **35:8** — 'Allon-bacuth' means 'Oak of Weeping.' Here the tree is an oak (allon), distinct from the terebinth (elah) mentioned in 35:4.
 - **35:16** — The phrase rendered 'some distance' (kivrat ha-aretz, literally 'a stretch of land') refers to an uncertain ancient measure of distance.
 - **35:18** — 'Ben-oni' means 'Son of my sorrow' (or 'Son of my misfortune'), whereas 'Benjamin' (Binyamin) means 'Son of the right hand.'

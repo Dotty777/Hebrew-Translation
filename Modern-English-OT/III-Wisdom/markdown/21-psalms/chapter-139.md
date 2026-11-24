@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **139:8** — The Masoretic text reverses the usual 'Lord GOD' sequence to 'YHWH Adonai,' pointing the Tetragrammaton with the vowels of 'Elohim' ('GOD, the Lord').
+- **139:8** — The Masoretic text reverses the usual 'Lord GOD' sequence, placing the divine name before Adonai and pointing the divine name with the vowels of 'Elohim' ('GOD, the Lord').
 - **139:10** — Translates the Qere 'yekhasemo' (3ms Piel imperfect of k-s-h, agreeing with singular 'amal,' 'trouble/mischief'); the Ketiv reads a 3mp verb 'ykswmw' ('may they cover them').
 - **139:11** — Translates the Qere 'yimmotu' (Niphal imperfect of m-w-t, 'fall'); the Ketiv reads Hiphil 'ymytw' ('let them cause to fall'). The following Hiphil 'yappilem' ('may He cast them') is active 3ms, and 'mahamorot' ('deep pits') is a hapax legomenon.
 - **139:12** — The major poetic accent (oleh we-yored) divides the verse at 'in the land,' placing 'man of violence' and 'evil' in the second half; 'le-madhefot' (from d-h-f, 'thrust/drive headlong') is a hapax legomenon denoting repeated blows or headlong ruin.

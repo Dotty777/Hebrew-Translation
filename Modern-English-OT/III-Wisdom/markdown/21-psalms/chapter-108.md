@@ -71,5 +71,5 @@
 
 - **108:4** — The verbless clause translated "while I am at prayer" is literally "and I am prayer," expressing complete absorption in prayer. The verb "accuse" shares the root satan with "accuser" in v. 6 and "accusers" in vv. 20 and 29.
 - **108:10** — The verb pair noa yanuu combines a Qal infinitive absolute with the imperfect for emphasis ("constantly wander about"), followed by the Piel of shaal ("beg"). The final clause follows the Masoretic reading darshu ("search") rather than the Septuagint's "be driven out."
-- **108:21** — The reversed divine title YHWH Adonai ("GOD the Lord") points the Tetragrammaton with the vowels of Elohim to avoid reading Adonai twice. The imperative phrase aseh itti (literally "do with me") is an elliptical idiom meaning "act favorably on my behalf."
+- **108:21** — The reversed divine title, the divine name followed by Adonai ("GOD the Lord"), points the divine name with the vowels of Elohim to avoid reading Adonai twice. The imperative phrase aseh itti (literally "do with me") is an elliptical idiom meaning "act favorably on my behalf."
 - **108:23** — The verb nehelakhti is the sole Niphal occurrence of halakh ("go") in the Hebrew Bible, conveying being swept or carried away like a lengthening evening shadow.

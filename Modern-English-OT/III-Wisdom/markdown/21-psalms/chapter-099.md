@@ -5,7 +5,7 @@
 
 ## Text
 
-**99:1** A psalm for thanksgiving. Shout aloud to the LORD, all the earth.
+**99:1** A psalm for thanksgiving. Shout in triumph to the LORD, all the earth.
 
 **99:2** Serve the LORD with joy; come before Him with jubilant song.
 

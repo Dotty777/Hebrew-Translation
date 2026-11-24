@@ -1,6 +1,6 @@
 # Proverbs 15 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes, 2 additional)  
+> **Status:** `draft: true` (32 verses, 7 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -80,4 +80,7 @@
 - **15:11** — Abaddon (Hebrew avaddon, 'destruction') is a poetic synonym for Sheol, the realm of the dead.
 - **15:14** — Translated from the Qere ufi ('and the mouth of'); the Ketiv reads ufenei ('and the face of').
 - **15:22** — The Hiphil infinitive absolute hafer ('frustrating') functions impersonally ('plans are thwarted'), and the feminine singular verb taqum ('it stands') refers collectively to 'plans' (mahashavot).
+- **15:27** — The second sentence is Masoretic 16:6, carried in this verse following the Saints (Greek) verse order.
+- **15:28** — The second sentence is Masoretic 16:7, carried in this verse following the Saints (Greek) verse order.
+- **15:29** — The second and third sentences are Masoretic 16:8 and 16:9, carried in this verse following the Saints (Greek) verse order.
 - **15:30** — The Piel verb tedashen literally means 'makes fat' (fills with marrow and vitality), an idiom for nourishing or restoring health.

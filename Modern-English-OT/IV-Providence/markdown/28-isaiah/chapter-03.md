@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** For look, the Master, the LORD of hosts, is removing from Jerusalem and from Judah support and mainstay, every support of bread and every support of water;
+**3:1** For look, the Lord, the LORD of hosts, is removing from Jerusalem and from Judah support and mainstay, every support of bread and every support of water;
 
 **3:2** hero and man of war, judge and prophet, diviner and elder,
 

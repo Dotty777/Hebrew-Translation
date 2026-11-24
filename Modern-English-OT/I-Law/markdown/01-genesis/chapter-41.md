@@ -23,11 +23,11 @@
 
 **41:9** Then the chief cupbearer spoke to Pharaoh, saying, "I mention my offenses today.
 
-**41:10** Pharaoh grew angry with his servants and placed me in custody in the house of the chief of the guard, me and the chief baker.
+**41:10** Pharaoh grew angry with his servants and placed me in custody in the house of the commander of the guard, me and the chief baker.
 
 **41:11** We dreamed a dream on one night, both he and I; each man dreamed according to the interpretation of his dream.
 
-**41:12** Now a Hebrew youth was there with us, a servant of the chief of the guard. We told him, and he interpreted our dreams for us; to each man he interpreted according to his dream.
+**41:12** Now a Hebrew youth was there with us, a servant of the commander of the guard. We told him, and he interpreted our dreams for us; to each man he interpreted according to his dream.
 
 **41:13** And just as he interpreted for us, so it came about: me he restored to my post, and him he hanged."
 
@@ -79,7 +79,7 @@
 
 **41:37** And the matter was good in the eyes of Pharaoh and in the eyes of all his servants.
 
-**41:38** Then Pharaoh said to his servants, "Can we find anyone like this, a man who has the Spirit of God in him?"
+**41:38** Then Pharaoh said to his servants, "Can we find anyone like this, a man who has the spirit of God in him?"
 
 **41:39** Then Pharaoh said to Joseph, "Since God has made all this known to you, there is no one discerning and wise like you.
 

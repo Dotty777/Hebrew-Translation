@@ -25,7 +25,7 @@
 
 **43:10** For had we not lingered, surely by now we would have returned two times."
 
-**43:11** Then Israel their father said to them, "If so, then do this: take some of the prized produce of the land in your containers, and bring down a gift to the man, a little balm and a little honey, gum and myrrh, pistachio nuts and almonds.
+**43:11** Then Israel their father said to them, "If so, then do this: take some of the prized produce of the land in your containers, and bring down a gift to the man, a little balm and a little honey, gum and ladanum, pistachio nuts and almonds.
 
 **43:12** Take twice the silver in your hand, and return in your hand the silver that was returned in the mouth of your bags; perhaps it was an oversight.
 
@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **43:11** — 'Prized produce' translates a rare Hebrew noun (zimrah, found only here in this sense) denoting the choice or celebrated yield of the land; 'gum and myrrh' refer to aromatic botanical resins (likely tragacanth gum and labdanum).
+- **43:11** — 'Prized produce' translates a rare Hebrew noun (zimrah, found only here in this sense) denoting the choice or celebrated yield of the land; 'gum and ladanum' (nekhot and lot) refer to aromatic botanical resins (likely tragacanth gum and labdanum).
 - **43:18** — 'Rush upon us' translates the rare Hithpoel infinitive of the root meaning 'roll' (literally 'roll oneself upon'), idiomatically expressing an overwhelming assault or pretext for accusation.
 - **43:28** — Ketiv/Qere: the written text (ketiv) lacks the second final waw and appears as a singular verb, while the read tradition (qere) reads the plural 'prostrated themselves,' agreeing with the preceding plural verb.
 - **43:34** — 'Five times greater' is literally 'five hands'; 'drank freely' translates the Qal of skr, which ranges from drinking to full satisfaction to becoming intoxicated.

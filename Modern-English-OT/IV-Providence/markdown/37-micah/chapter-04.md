@@ -11,7 +11,7 @@
 
 **4:3** And He will judge between many peoples and arbitrate for strong nations far away; and they will hammer their swords into plow blades and their spears into pruning knives. Nation will not raise a sword against nation, and they will no longer learn war.
 
-**4:4** And they will sit, each person beneath his vine and beneath his fig tree, and there will be no one to frighten them; for the mouth of the LORD of armies has spoken.
+**4:4** And they will sit, each person beneath his vine and beneath his fig tree, and there will be no one to frighten them; for the mouth of the LORD of hosts has spoken.
 
 **4:5** For all the peoples walk, each person in the name of his god, yet we ourselves will walk in the name of the LORD our God forever and ever.
 

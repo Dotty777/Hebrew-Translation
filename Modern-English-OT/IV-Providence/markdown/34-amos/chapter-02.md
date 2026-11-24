@@ -17,7 +17,7 @@
 
 **2:6** This is what the LORD says, "On account of three transgressions of Israel, and on account of four, I will not turn it back, because they sell a righteous person for silver and a needy one for a pair of sandals,
 
-**2:7** those who trample the head of the weak into the dust of the earth and turn aside the way of the afflicted; and a man and his father go to the same young woman, so as to profane My holy name.
+**2:7** those who trample the head of the weak into the dust of the earth and turn aside the way of the afflicted; and a man and his father go to the young woman, so as to profane My holy name.
 
 **2:8** And on garments taken in pledge they stretch themselves out beside every altar, and the wine of those who were fined they drink in the house of their God.
 

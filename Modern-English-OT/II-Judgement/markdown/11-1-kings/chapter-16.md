@@ -1,6 +1,6 @@
 # 1 Kings 16 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 4 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,7 +59,7 @@
 
 **16:27** And the rest of the deeds of Omri that he did, and his might that he showed, are they not written in the scroll of the chronicles of the kings of Israel?
 
-**16:28** And Omri lay down with his fathers and was buried in Samaria, and his son Ahab began to reign in his place. And the remnant of the male cult prostitutes who remained in the days of his father Asa, he swept away from the land. Now there was no king in Edom; a deputy was king. Jehoshaphat made ships of Tarshish to go to Ophir for gold, but he did not go, because the ships were wrecked at Ezion-geber. Then Ahaziah son of Ahab said to Jehoshaphat, "Let my servants go with your servants in the ships." But Jehoshaphat was not willing.
+**16:28** And Omri lay down with his fathers and was buried in Samaria, and his son Ahab began to reign in his place.
 
 **16:29** And Ahab son of Omri began to reign over Israel in the thirty-eighth year of Asa king of Judah, and Ahab son of Omri reigned over Israel in Samaria twenty-two years.
 
@@ -78,5 +78,4 @@
 - **16:3** — The Hiphil participle mabir followed by achare ('sweeping away after') is an idiom for total eradication; the oracle also shifts abruptly from third person ('Baasha and his house') to second person ('your house').
 - **16:11** — Literally 'one who urinates against a wall', an earthy Hebrew idiom for every male; 'close kinsmen' translates go'alav, referring to near relatives with the duty of blood vengeance.
 - **16:26** — Following the Qere singular ('in his sin'); the Ketiv reads plural ('in his sins'). The noun rendered 'empty idols' literally means 'vapors' or 'emptinesses', a derisive term for false gods.
-- **16:28** — This verse includes the notices on Jehoshaphat (found at 1 Kgs 22:46-49 in traditional English numbering). Following the Qere verbs 'made' (Ketiv reads the consonants for 'ten') and plural 'were wrecked' (Ketiv reads feminine singular, agreeing collectively with 'ships').
 - **16:34** — Following the Qere spelling 'Segub' (Ketiv 'Segib'). The preposition be- before both sons' names expresses price ('at the cost of'), fulfilling Joshua's curse on Jericho (Josh 6:26).

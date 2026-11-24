@@ -35,7 +35,7 @@
 
 **26:15** You have increased the nation, LORD, You have increased the nation; You have shown Yourself glorious; You have pushed far out all the boundaries of the land.
 
-**26:16** LORD, in distress they sought You out; they poured out a whisper of prayer when Your chastening was on them.
+**26:16** LORD, in distress they sought You out; they poured out a whisper when Your chastening was on them.
 
 **26:17** As a pregnant woman nears the time to give birth, writhing and crying out in her labor pangs, so have we been in Your presence, LORD.
 
@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **26:4** — Hebrew beyah YHWH pairs the shortened poetic divine name Yah with the Tetragrammaton and uses a beth essentiae ("the LORD, the LORD, is an eternal Rock").
+- **26:4** — The Hebrew pairs the shortened poetic form of the divine name with the full divine name and uses a beth essentiae ("the LORD, the LORD, is an eternal Rock").
 - **26:16** — Hebrew tsaqun is a rare Qal perfect third-person plural of tsuq ("pour out") with a paragogic nun.
 - **26:18** — Hebrew yipplu (Qal imperfect of naphal) literally means "fall"; some understand it in the sense of "be born," continuing the childbirth imagery of vv. 17-18 and anticipating the Hiphil tappil ("bring forth") in v. 19.
 - **26:19** — Masoretic nevelati literally reads "my corpse," used collectively with the plural verb yequmun ("will rise") to express the speaker's solidarity with God's dead; Hebrew orot ("lights") is also taken by some as "herbs."

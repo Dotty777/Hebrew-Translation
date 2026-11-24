@@ -27,13 +27,13 @@
 
 **16:11** then you shall say to them, 'Because your fathers abandoned Me, declares the LORD, and went after other gods and served them and bowed down to them, while Me they abandoned and My law they did not keep.
 
-**16:12** And you have done more evil than your fathers; for look, each of you walks after the stubbornness of his evil heart, so as not to listen to Me.
+**16:12** And you have done more evil than your fathers; and look, each of you walks after the stubbornness of his evil heart, so as not to listen to Me.
 
 **16:13** Therefore I will hurl you from this land into a land that neither you nor your fathers have known, and there you shall serve other gods day and night, for I will grant you no favor.'
 
 **16:14** Therefore, look, days are coming, declares the LORD, when it will no longer be said, 'As the LORD lives, who brought up the sons of Israel from the land of Egypt,'
 
-**16:15** but rather, 'As the LORD lives, who brought up the sons of Israel from the land of the north and from all the lands to which He had banished them.' For I will bring them back to their own soil that I gave to their fathers.
+**16:15** but rather, 'As the LORD lives, who brought up the sons of Israel from the land of the north and from all the lands to which He had banished them.' And I will bring them back to their own soil that I gave to their fathers.
 
 **16:16** Look, I am sending for many fishermen, declares the LORD, and they will fish them out; and afterward I will send for many hunters, and they will hunt them from every mountain and from every hill and out of the clefts of the rocks.
 

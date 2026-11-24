@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **101:7** — The Hebrew bird names קָאַת (traditionally rendered pelican, probably a desert owl) and כּוֹס (little owl) designate unclean birds associated with desolate places, and their exact ornithological identification remains uncertain.
+- **101:7** — The Hebrew bird names קָאַת (possibly a pelican or a desert owl) and כּוֹס (little owl) designate unclean birds associated with desolate places, and their exact ornithological identification remains uncertain.
 - **101:9** — The participle מְהוֹלָלַי (Poal of הלל) literally refers to those maddened or raging against the speaker, while בִּי נִשְׁבָּעוּ (literally, swear by me) is an idiom for using someone's misery as a curse formula.
 - **101:21** — Literally, sons of death (בְּנֵי תְמוּתָה), a Hebrew idiom denoting people sentenced or doomed to die.
 - **101:24** — Ketiv reads כחו (his strength), whereas Qere reads כֹּחִי (my strength); the translation follows Qere, matching the first-person my days in the parallel clause.

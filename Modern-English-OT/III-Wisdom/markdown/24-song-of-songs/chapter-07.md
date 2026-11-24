@@ -29,7 +29,7 @@
 
 **7:12** Come, my beloved, let us go out to the field; let us stay the night in the villages.
 
-**7:13** Let us rise early to go to the vineyards; let us see if the vine has budded, if the blossom has opened, if the pomegranates have bloomed. There I will give my love to you.
+**7:13** Let us rise early to go to the vineyards; let us see if the vine has budded, if the blossom has opened, if the pomegranates have bloomed. There I will give my caresses to you.
 
 **7:14** The mandrakes give off fragrance, and at our doorways are all kinds of choice fruits, new as well as old; my beloved, I have stored them up for you.
 

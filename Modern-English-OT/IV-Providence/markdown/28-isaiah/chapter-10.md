@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** Woe to those who enact statutes of iniquity, and to scribes who continually write out oppression,
+**10:1** Woe to those who enact statutes of iniquity, and to scribes who write out oppression,
 
 **10:2** to turn the poor away from justice and to rob the afflicted of My people of their legal right, so that widows become their plunder and they may loot the orphans.
 
@@ -47,7 +47,7 @@
 
 **10:21** A remnant will return—the remnant of Jacob—to Mighty God.
 
-**10:22** For even though your people Israel should be like the sand of the sea, only a remnant among them will return; annihilation is decreed, flooding with righteousness.
+**10:22** For even though your people Israel should be like the sand of the sea, a remnant among them will return; annihilation is decreed, flooding with righteousness.
 
 **10:23** For the Lord GOD of hosts is carrying out a complete and decreed destruction in the midst of the entire earth.
 

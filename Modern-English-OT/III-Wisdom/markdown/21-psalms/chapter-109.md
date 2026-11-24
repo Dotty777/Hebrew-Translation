@@ -21,7 +21,7 @@
 
 ## Translator Notes
 
-- **109:1** — The construct noun neum ("declaration" or "oracle") introduces a formal prophetic utterance. The Masoretic pointing laadoni ("to my lord") designates a royal figure distinct from the LORD, in contrast to the divine title Adonai ("the Lord") in v. 5.
+- **109:1** — The construct noun neum ("declaration" or "oracle") introduces a formal prophetic utterance. The Masoretic pointing laadoni ("to my lord") is the form normally used in addressing a human superior, in contrast to the divine title Adonai ("the Lord") in v. 5.
 - **109:3** — This verse translates the dense Masoretic Hebrew directly: nedavot ("freewill offerings") depicts eager voluntary service, behadrei-qodesh means "in splendors of holiness," and "the dew of your youth" evokes fresh royal vigor or youthful warriors.
 - **109:4** — The phrase al-divrati preserves an archaic connective -i ending on divrah ("manner" or "order"), literally "according to the manner of Melchizedek."
 - **109:7** — Grammatically, the third-person subject continues from "the Lord" in v. 5, though many interpreters understand v. 7 as shifting back to the victorious king refreshing himself along the campaign route.

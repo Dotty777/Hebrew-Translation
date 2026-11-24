@@ -17,7 +17,7 @@
 
 **117:6** The LORD is for me; I will not be afraid. What can a human do to me?
 
-**117:7** The LORD is for me among my helpers, and I will gaze triumphantly at those who hate me.
+**117:7** The LORD is for me among my helpers, and I will look on those who hate me.
 
 **117:8** It is better to seek refuge in the LORD than to rely on human beings.
 

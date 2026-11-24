@@ -99,5 +99,5 @@
 
 - **104:18** — The Masoretic read form (qere) is singular ("his foot"), whereas the written form (ketiv) is plural ("his feet"). In the second clause, the feminine Qal perfect verb ("came") takes the feminine noun "his soul" (meaning his person or neck) as its subject, with "iron" as the adverbial accusative of goal.
 - **104:22** — The Masoretic Hebrew reads the Qal infinitive "to bind" (rather than "to instruct"), reflecting Joseph's authority over Pharaoh's officials; "at his will" translates the idiom "by his soul/desire."
-- **104:28** — The vocalized Hebrew reading is singular ("His word"), while the parenthetical variant is plural ("His words"). The Masoretic text explicitly includes the negative particle ("and they did not rebel"), referring either to Moses and Aaron carrying out God's commands or to the plagues obeying His word.
+- **104:28** — The qere (read form) is singular ("His word"), while the ketiv (written form) is plural ("His words"). The Masoretic text explicitly includes the negative particle ("and they did not rebel"), referring either to Moses and Aaron carrying out God's commands or to the plagues obeying His word.
 - **104:40** — The Hebrew Qal perfect verb "asked" is grammatically singular, functioning collectively for the people of Israel (rendered "They asked" to agree with the plural pronoun "them" in the second clause).

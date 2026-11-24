@@ -40,5 +40,5 @@
 ## Translator Notes
 
 - **91:4** — The noun higgayon ("resonant melody") comes from the root hagah ("murmur, resound, meditate") and here denotes solemn or resonant instrumental sound on the lyre.
-- **91:11** — MT vocalizes balloti as Qal perfect 1cs of balal ("mix, pour over, moisten"), yielding an intransitive or passive sense ("I have been drenched"); some modern versions emend to 2ms ("You have poured over me").
+- **91:11** — MT vocalizes balloti as Qal perfect 1cs of balal ("mix, pour over, moisten"), yielding an intransitive or passive sense ("I have been drenched"); an emendation to 2ms would yield "You have poured over me."
 - **91:16** — The qere reads awlatah (plene spelling with medial vav, a poetic feminine form of awlah, "injustice/unrighteousness"), whereas the ketiv writes the same word defectively without the vav.

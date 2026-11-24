@@ -15,7 +15,7 @@
 
 **1:5** Why will you still be struck? You keep adding defection! The entire head is sick, and the entire heart is ailing.
 
-**1:6** From the sole of the foot to the head there is no soundness in it: only gashes, bruises, and fresh wounds; they have not been pressed out, nor bound up, nor softened with oil.
+**1:6** From the sole of the foot to the head there is no soundness in it: gashes, bruises, and fresh wounds; they have not been pressed out, nor bound up, nor softened with oil.
 
 **1:7** Your land is a desolation; your cities are burned with fire; your soil—in your presence foreigners are devouring it, and it is a desolation like an overthrow by foreigners.
 

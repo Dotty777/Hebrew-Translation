@@ -23,7 +23,7 @@
 
 **14:9** Why should You be like a stunned man, like a mighty warrior who cannot save? Yet You are in our midst, LORD, and Your name is called over us; do not leave us!
 
-**14:10** This is what the LORD says concerning this people: "This is how they have loved to wander; they have not held back their feet. Therefore the LORD does not accept them; now He will remember their iniquity and call their sins to account."
+**14:10** This is what the LORD says concerning this people: "This is how they have loved to wander; they have not held back their feet. And the LORD does not accept them; now He will remember their iniquity and call their sins to account."
 
 **14:11** Then the LORD said to me, "Do not pray on behalf of this people for their good.
 

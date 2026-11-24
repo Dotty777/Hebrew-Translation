@@ -21,7 +21,7 @@
 
 **9:8** At all times let your clothes be white, and never let oil be missing from your head.
 
-**9:9** Enjoy life with the wife you love throughout all the days of your futile life that He has given you under the sun—all your futile days—for that is your portion in life and in your toil as you toil under the sun.
+**9:9** Enjoy life with the wife you love throughout all the days of your life of vapor that He has given you under the sun—all your days of vapor—for that is your portion in life and in your toil as you toil under the sun.
 
 **9:10** Everything your hand finds to do, do with your strength, because there is no work or reckoning or knowledge or wisdom in Sheol, where you are going.
 
@@ -45,5 +45,5 @@
 
 - **9:2** — The Masoretic Text lists only three terms in the middle series ("for the good, and for the clean and the unclean") without adding "and for the evil/bad," which some ancient versions supply for symmetry.
 - **9:4** — The Qere (read text) has the Pual imperfect of chavar ("is joined"), translated here, while the Ketiv (written text) reads the root bachar ("chooses" or "is chosen").
-- **9:9** — The Masoretic Text repeats the phrase "all your futile days" for emphasis, whereas some ancient versions omit the repetition.
+- **9:9** — The Masoretic Text repeats the phrase "all your days of vapor" for emphasis, whereas some ancient versions omit the repetition.
 - **9:15** — The opening verb is an impersonal Qal active third-person singular ("one found," idiomatically "was found"), and the Piel perfect "he rescued" can also be taken modally as "he could have rescued."

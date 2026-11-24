@@ -1,6 +1,6 @@
 # 1 Kings 12 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 9 additional)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 16 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,7 +47,7 @@
 
 **12:23** "Say to Rehoboam the son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and to the rest of the people, saying,
 
-**12:24** 'This is what the LORD says: You shall not go up, nor shall you fight against your brothers, the sons of Israel. Return, every man to his house, for this matter has come about from Me.'" So they listened to the word of the LORD and turned back to depart according to the word of the LORD. At that time Abijah the son of Jeroboam fell ill. And Jeroboam said to his wife, "Arise now and disguise yourself so that they will not know that you are the wife of Jeroboam, and go to Shiloh. Look, Ahijah the prophet is there, the one who spoke about me to be king over this people. Take in your hand ten loaves of bread, cakes, and a jar of honey, and go to him. He will tell you what will happen to the boy." And the wife of Jeroboam did so; she arose and went to Shiloh, and came to the house of Ahijah. Now Ahijah could not see, because his eyes had grown dim from his old age. Now the LORD had said to Ahijah, "Look, the wife of Jeroboam is coming to inquire a word from you concerning her son, for he is ill. Thus and thus you shall speak to her; and it will be, as she enters, that she will pretend to be a stranger." And it happened when Ahijah heard the sound of her feet coming in at the doorway, that he said, "Come in, wife of Jeroboam! Why is it that you are pretending to be a stranger? For I have been sent to you with harsh news. Therefore, look, I am bringing disaster upon the house of Jeroboam, and I will cut off from Jeroboam every male, both bound and free in Israel, and I will sweep clean after the house of Jeroboam, just as one sweeps away dung until it is completely gone. Anyone belonging to Jeroboam who dies in the city the dogs will eat, and the one who dies in the field the birds of the heavens will eat, for the LORD has spoken. Now you, arise, go to your house; when your feet enter the city, the child will die. And all Israel will mourn for him and bury him, for this one alone belonging to Jeroboam will come to a grave, because something good toward the LORD, the God of Israel, has been found in him in the house of Jeroboam." Then the wife of Jeroboam arose, departed, and came to Tirzah. As she came onto the threshold of the house, the boy died. And they buried him, and all Israel mourned for him, according to the word of the LORD that He spoke by the hand of His servant Ahijah the prophet.
+**12:24** 'This is what the LORD says: You shall not go up, nor shall you fight against your brothers, the sons of Israel. Return, every man to his house, for this matter has come about from Me.'" So they listened to the word of the LORD and turned back to depart according to the word of the LORD. At that time Abijah the son of Jeroboam fell ill. And Jeroboam said to his wife, "Arise now and disguise yourself so that they will not know that you are the wife of Jeroboam, and go to Shiloh. Look, Ahijah the prophet is there, the one who spoke about me to be king over this people. Take in your hand ten loaves of bread, cakes, and a jar of honey, and go to him. He will tell you what will happen to the boy." And the wife of Jeroboam did so; she arose and went to Shiloh, and came to the house of Ahijah. Now Ahijah could not see, because his eyes had grown dim from his old age. Now the LORD had said to Ahijah, "Look, the wife of Jeroboam is coming to inquire a word from you concerning her son, for he is ill. Thus and thus you shall speak to her; and it will be, as she enters, that she will pretend to be a stranger." And it happened when Ahijah heard the sound of her feet coming in at the doorway, that he said, "Come in, wife of Jeroboam! Why is it that you are pretending to be a stranger? For I have been sent to you with harsh news."
 
 **12:25** Then Jeroboam built Shechem in the hill country of Ephraim and settled in it; then he went out from there and built Penuel.
 
@@ -69,6 +69,8 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
+**12:2** *(after `12:1`)* Now it happened when Jeroboam the son of Nebat heard of it—he was still in Egypt, where he had fled from the presence of King Solomon—that Jeroboam stayed in Egypt.
+
 **12:17** *(after `12:16`)* Yet as for the sons of Israel who were living in the cities of Judah, Rehoboam reigned over them.
 
 **14:7** *(after `12:24`)* "Go, say to Jeroboam, 'This is what the LORD, the God of Israel, says: Because I lifted you up from the midst of the people and made you ruler over My people Israel.'"
@@ -77,11 +79,23 @@
 
 **14:9** *(after `12:24`)* "But you have done greater evil than all who came before you, and you have gone and made for yourself other gods and cast metal images to provoke Me to anger, and you have flung Me behind your back."
 
+**14:10** *(after `12:24`)* "Therefore, look, I am bringing disaster upon the house of Jeroboam, and I will cut off from Jeroboam every male, both bound and free in Israel, and I will sweep clean after the house of Jeroboam, just as one sweeps away dung until it is completely gone."
+
+**14:11** *(after `12:24`)* "Anyone belonging to Jeroboam who dies in the city the dogs will eat, and the one who dies in the field the birds of the heavens will eat, for the LORD has spoken."
+
+**14:12** *(after `12:24`)* "Now you, arise, go to your house; when your feet enter the city, the child will die."
+
+**14:13** *(after `12:24`)* "And all Israel will mourn for him and bury him, for this one alone belonging to Jeroboam will come to a grave, because something good toward the LORD, the God of Israel, has been found in him in the house of Jeroboam."
+
 **14:14** *(after `12:24`)* "And the LORD will raise up for Himself a king over Israel who will cut off the house of Jeroboam this very day—and what? Even now!"
 
 **14:15** *(after `12:24`)* "And the LORD will strike Israel just as a reed sways in the water, and He will uproot Israel from this good land that He gave to their fathers and scatter them beyond the River, because they made their Asherah poles, provoking the LORD."
 
 **14:16** *(after `12:24`)* "And He will hand Israel over because of the sins of Jeroboam, which he committed and by which he caused Israel to sin."
+
+**14:17** *(after `12:24`)* Then the wife of Jeroboam arose, departed, and came to Tirzah. As she came onto the threshold of the house, the boy died.
+
+**14:18** *(after `12:24`)* And they buried him, and all Israel mourned for him, according to the word of the LORD that He spoke by the hand of His servant Ahijah the prophet.
 
 **14:19** *(after `12:24`)* And the rest of the deeds of Jeroboam, how he waged war and how he reigned—indeed, they are written in the scroll of the chronicles of the kings of Israel.
 
@@ -92,7 +106,9 @@
 - **12:3** — Ketiv reads plural "they came" while the translated Qere reads singular "he came," agreeing grammatically with the first element of the compound subject; the same Ketiv/Qere occurs in 12:21.
 - **12:7** — Ketiv reads singular "and he spoke," while the translated Qere reads plural "and they spoke," agreeing with the elders who advise Rehoboam.
 - **12:15** — The noun sibbah ("turn of events"), derived from the root savav ("turn around"), occurs only here in the Hebrew Bible and denotes a divinely directed turning of affairs.
-- **12:24** — In Jeroboam's instructions to his wife, Ketiv preserves the archaic feminine pronoun atti while Qere reads standard att ("you"). In Ahijah's oracle, "every male" renders the blunt Hebrew idiom "one who urinates against a wall," and "both bound and free" translates a merism of Qal passive participles meaning everyone without exception.
+- **12:24** — The narrative from "At that time Abijah the son of Jeroboam fell ill" to the end of the verse is Masoretic 14:1-6, carried here following the Saints (Greek) verse arrangement; Masoretic 14:7-20 follow as additional verses. In Jeroboam's instructions to his wife, Ketiv preserves the archaic feminine pronoun atti while Qere reads standard att ("you").
 - **12:33** — Ketiv reads mlbd ("apart/alone"), likely a scribal interchange of dalet and vav, while the translated Qere reads millibbo ("out of his own heart," i.e. of his own devising).
+- **12:2 *(additional)*** — In the closing clause, the Hebrew verb is the Qal wayyiqtol of yashav ("stayed" or "dwelt") rather than shuv ("returned"), depicting Jeroboam as remaining in Egypt until summoned.
+- **14:10 *(additional)*** — "Every male" renders the blunt Hebrew idiom "one who urinates against a wall," and "both bound and free" translates a merism of Qal passive participles meaning everyone without exception.
 - **14:14 *(additional)*** — The closing Hebrew clause is abruptly elliptical—literally "this day, and what? even now"—stressing that the judgment is already imminent.
 - **14:15 *(additional)*** — Here "the River" refers to the Euphrates.

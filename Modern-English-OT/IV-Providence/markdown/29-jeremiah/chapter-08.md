@@ -23,7 +23,7 @@
 
 **8:9** The wise are put to shame; they are dismayed and trapped. Look, they have rejected the word of the LORD, so what kind of wisdom do they have?
 
-**8:10** Therefore I will give their wives to others, their fields to new possessors; for from the least to the greatest, every one of them is grasping for dishonest gain; from prophet to priest, every one of them practices falsehood."
+**8:10** Therefore I will give their wives to others, their fields to those who take possession; for from the least to the greatest, every one of them is grasping for dishonest gain; from prophet to priest, every one of them practices falsehood."
 
 **8:13** "I will surely sweep them away," declares the LORD. "There are no grapes on the vine, and there are no figs on the fig tree, and the leaf has withered; and what I gave them will pass away from them."
 

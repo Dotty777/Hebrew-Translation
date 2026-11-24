@@ -33,6 +33,6 @@
 
 - **96:1** — The Hebrew noun iyyim ("coastlands") denotes not only islands but also distant coastal lands and maritime regions.
 - **96:7** — The Hishtaphel form hishtachavu ("bow down") is identical for both the second-person plural imperative ("bow down to Him, all you gods") and the third-person plural perfect ("all gods have bowed down to Him"); context and early witnesses favor the imperative.
-- **96:8** — "The daughters of Judah" is a Hebrew idiom referring to the surrounding towns and villages dependent on Judah's central cities.
+- **96:8** — "The daughters of Judah" may denote the towns and villages of Judah (a Hebrew idiom for dependent settlements) or the women of Judah.
 - **96:11** — The Masoretic Text reads the Qal passive participle zarua ("has been sown"), portraying light as seed planted for the righteous, whereas some ancient versions read the similar verb zarach ("dawns" or "shines").
 - **96:12** — Literally "to the remembrance of His holiness," where zeker ("remembrance" or "memorial") denotes the name and renown by which the LORD is remembered and invoked.
