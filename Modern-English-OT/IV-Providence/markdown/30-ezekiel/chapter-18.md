@@ -29,7 +29,7 @@
 
 **18:12** has oppressed the poor and needy, has committed robberies, does not return a pledge, has lifted up his eyes to the idols, has committed abomination,
 
-**18:13** has lent at interest and taken increase -- will he then live? He will not live! He has committed all these abominations; he will surely be put to death. His blood will be upon him.
+**18:13** has lent at interest and taken increase—will he then live? He will not live! He has committed all these abominations; he will surely be put to death. His blood will be upon him.
 
 **18:14** Now look, if he fathers a son who sees all the sins that his father committed, and he considers them and does not act like them:
 
@@ -37,7 +37,7 @@
 
 **18:16** does not oppress anyone, exacts no pledge, commits no robbery, gives his bread to the hungry, and covers the naked with a garment;
 
-**18:17** holds back his hand from the poor, takes neither interest nor increase, carries out My ordinances, and walks in My statutes -- he will not die for the iniquity of his father; he will surely live.
+**18:17** holds back his hand from the poor, takes neither interest nor increase, carries out My ordinances, and walks in My statutes—he will not die for the iniquity of his father; he will surely live.
 
 **18:18** As for his father, because he practiced extortion, committed robbery against a brother, and did what is not good among his people, look, he will die for his own iniquity.
 
@@ -51,7 +51,7 @@
 
 **18:23** Do I delight at all in the death of a wicked one, declares the Lord GOD, and not rather that he turn back from his ways and live?
 
-**18:24** But when a righteous one turns away from his righteousness and commits injustice, doing according to all the abominations that the wicked one has committed -- will he then live? None of the righteous deeds that he has done will be remembered; for his treachery that he has committed and for his sin that he has sinned, in them he will die.
+**18:24** But when a righteous one turns away from his righteousness and commits injustice, doing according to all the abominations that the wicked one has committed—will he then live? None of the righteous deeds that he has done will be remembered; for his treachery that he has committed and for his sin that he has sinned, in them he will die.
 
 **18:25** Yet you say, 'The way of the Lord is not fair.' Hear now, house of Israel: is My way not fair? Is it not your ways that are not fair?
 

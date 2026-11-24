@@ -9,9 +9,9 @@
 
 **9:2** that the LORD appeared to Solomon a second time, just as He had appeared to him at Gibeon.
 
-**9:3** The LORD said to him, "I have heard your prayer and your plea for favor that you pleaded before Me. I have consecrated this house that you built, to set My name there forever, and My eyes and My heart will be there all the days.
+**9:3** The LORD said to him, "I have heard your prayer and your supplication that you made before Me. I have consecrated this house that you built, to set My name there forever, and My eyes and My heart will be there all the days.
 
-**9:4** Now as for you, if you walk before Me as David your father walked, in wholeness of heart and in uprightness, to do according to everything that I have commanded you, and you keep My statutes and My ordinances,
+**9:4** Now as for you, if you walk before Me as David your father walked, in wholeness of heart and in uprightness, to do according to everything that I have commanded you, and you keep My statutes and My judgments,
 
 **9:5** then I will establish the throne of your kingdom over Israel forever, just as I spoke to David your father, saying, 'You will not have a man cut off from the throne of Israel.'
 

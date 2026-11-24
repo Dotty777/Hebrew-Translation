@@ -27,7 +27,7 @@
 
 **14:11** The house of the wicked will be wiped out, but the tent of the upright will blossom.
 
-**14:12** There is a way that looks straight in a man's sight, yet its outcome is the ways of death.
+**14:12** There is a way that is right before a man, yet its outcome is the ways of death.
 
 **14:13** Even amid laughter a heart can ache, and the outcome of joy is grief.
 
@@ -80,5 +80,5 @@
 - **14:9** — Because the Hiphil verb 'mocks' is singular while 'fools' is plural, singular 'guilt' (which can also mean 'guilt offering') is taken here as the subject; alternatively, taking 'fools' distributively, 'Fools mock at guilt (or the guilt offering).'
 - **14:14** — Hebrew literally reads 'and from upon him' (i.e., from himself or from his own ways), with the verb 'will be filled' implied from the first clause.
 - **14:21** — Ketiv/Qere: the Qere reads 'the humble' (or 'the afflicted'), whereas the Ketiv reads 'the poor' (or 'the needy').
-- **14:32** — The Masoretic text reads 'in his death,' affirming the righteous person's enduring trust even in death; 'by his evil' in the first clause can also mean 'in his calamity.'
+- **14:32** — The Masoretic text reads bemoto ('in his death'); the Septuagint reads 'in his own piety.' 'By his evil' in the first clause can also mean 'in his calamity.'
 - **14:34** — Hebrew chesed here is a rare homonym meaning 'disgrace' or 'reproach' (cf. Lev 20:17), distinct from chesed ('loyal love') in v. 22.

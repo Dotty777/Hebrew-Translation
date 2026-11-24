@@ -15,7 +15,7 @@
 
 **17:5** in order that the sons of Israel may bring their sacrifices that they are sacrificing in the open field, and bring them to the LORD, to the entrance of the tent of meeting, to the priest, and sacrifice them as sacrifices of peace offerings to the LORD.
 
-**17:6** And the priest shall splash the blood on the altar of the LORD at the entrance of the tent of meeting, and offer up the fat in smoke for a soothing aroma to the LORD.
+**17:6** And the priest shall splash the blood on the altar of the LORD at the entrance of the tent of meeting, and offer up the fat in smoke for a soothing fragrance to the LORD.
 
 **17:7** And they shall no longer sacrifice their sacrifices to the goat-demons after whom they are prostituting themselves. This shall be a perpetual statute for them throughout their generations."'
 

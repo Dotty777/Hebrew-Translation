@@ -41,7 +41,7 @@
 
 **16:24** Pleasant sayings are a honeycomb, sweet to the soul and healing for the bones.
 
-**16:25** There is a way that is right before a man, yet its end is the ways of death.
+**16:25** There is a way that is right before a man, yet its outcome is the ways of death.
 
 **16:26** A laborer's appetite labors for him, for his mouth presses upon him.
 

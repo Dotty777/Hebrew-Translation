@@ -13,7 +13,7 @@
 
 **43:4** And the glory of the LORD came into the house by way of the gate whose front is toward the east.
 
-**43:5** Then the Spirit lifted me up and brought me into the inner courtyard; and look, the glory of the LORD filled the house.
+**43:5** Then a spirit lifted me up and brought me into the inner courtyard; and look, the glory of the LORD filled the house.
 
 **43:6** And I heard someone speaking to me from out of the house, while a man was standing next to me.
 
@@ -29,7 +29,7 @@
 
 **43:12** This is the law of the house: on the top of the mountain, its entire territory all around shall be most holy. Look, this is the law of the house."
 
-**43:13** And these are the measurements of the altar in cubits—a cubit is a cubit and a handbreadth: the base is one cubit high and one cubit wide, and its border along its edge all around is one span; and this is the pedestal of the altar.
+**43:13** And these are the measurements of the altar in cubits—a cubit is a cubit and a handbreadth: the base is one cubit, and it is one cubit wide, and its border along its edge all around is one span; and this is the pedestal of the altar.
 
 **43:14** And from the base on the ground to the lower ledge is two cubits, with a width of one cubit; and from the smaller ledge to the larger ledge is four cubits, with a width of one cubit.
 

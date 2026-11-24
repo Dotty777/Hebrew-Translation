@@ -5,7 +5,7 @@
 
 ## Text
 
-**11:1** Then the Spirit lifted me up and brought me to the east gate of the house of the LORD, which faces eastward. And look, at the entrance of the gate were twenty-five men, and among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, officials of the people.
+**11:1** Then a spirit lifted me up and brought me to the east gate of the house of the LORD, which faces eastward. And look, at the entrance of the gate were twenty-five men, and among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, officials of the people.
 
 **11:2** And He said to me, "Son of man, these are the men who devise iniquity and give wicked counsel in this city,
 
@@ -51,7 +51,7 @@
 
 **11:23** And the glory of the LORD went up from over the midst of the city and stood upon the mountain that is east of the city.
 
-**11:24** And the Spirit lifted me up and brought me to Chaldea, to the exiles, in the vision by the Spirit of God. Then the vision that I had seen went up from me.
+**11:24** And a spirit lifted me up and brought me to Chaldea, to the exiles, in the vision by the Spirit of God. Then the vision that I had seen went up from me.
 
 **11:25** Then I spoke to the exiles all the words of the LORD that He had shown me.
 

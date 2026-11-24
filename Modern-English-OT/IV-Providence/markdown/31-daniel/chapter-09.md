@@ -9,7 +9,7 @@
 
 **9:2** in the first year of his reign, I, Daniel, perceived in the books the number of the years concerning which the word of the LORD had come to Jeremiah the prophet, that seventy years must be fulfilled for the ruins of Jerusalem.
 
-**9:3** So I set my face toward the Lord God to seek Him in prayer and supplications, with fasting, sackcloth, and ashes.
+**9:3** So I set my face toward the Lord God to seek by prayer and supplications, with fasting, sackcloth, and ashes.
 
 **9:4** I prayed to the LORD my God and made confession, saying, "Please, Lord, the great and awesome God, who keeps the covenant and loyal love for those who love Him and keep His commandments,
 
@@ -55,9 +55,9 @@
 
 **9:25** So know and gain insight: from the going forth of a word to restore and to build Jerusalem until an anointed one, a prince, there will be seven weeks; and for sixty-two weeks it will be built again, with plaza and moat, though in distress of the times.
 
-**9:26** After the sixty-two weeks, an anointed one will be cut off, and there will be nothing for him; and the people of the coming prince will destroy the city and the sanctuary. Its end will be with a flood, and until the end there will be war; desolations are decreed.
+**9:26** After the sixty-two weeks, an anointed one will be cut off, and there will be nothing for him; and the people of the coming prince will destroy the city and the sanctuary. Its end will be with a flood, and until the end of the war desolations are decreed.
 
-**9:27** And he will confirm a strong covenant with the many for one week, and for half of the week he will cause sacrifice and grain offering to cease; and upon the wing of abominations will be a desolator, until the decreed complete destruction is poured out upon the desolator."
+**9:27** And he will make a covenant strong with the many for one week, and for half of the week he will cause sacrifice and grain offering to cease; and upon the wing of abominations will be a desolator, until the decreed complete destruction is poured out upon the desolator."
 
 ## Translator Notes
 

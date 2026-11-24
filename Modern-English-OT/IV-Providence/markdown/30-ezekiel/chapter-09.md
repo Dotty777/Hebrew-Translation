@@ -23,7 +23,7 @@
 
 **9:9** Then He said to me, "The iniquity of the house of Israel and Judah is great in the extreme; the land has been filled with bloodshed, and the city is full of injustice; for they have said, 'The LORD has forsaken the land, and the LORD does not see.'
 
-**9:10** And as for Me, My eye will not spare, nor will I have compassion; I have laid their way upon their heads."
+**9:10** And as for Me too, My eye will not spare, nor will I have compassion; I have laid their way upon their heads."
 
 **9:11** And look, the man clothed in linen, who had the writing kit at his waist, brought back word, saying, "I have done according to all that You commanded me."
 

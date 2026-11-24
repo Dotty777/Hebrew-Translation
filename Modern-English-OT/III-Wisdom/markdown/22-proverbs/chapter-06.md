@@ -67,7 +67,7 @@
 
 **6:31** yet if he is caught, he must repay sevenfold; all the wealth of his house he must give.
 
-**6:32** One who commits adultery with a woman is lacking in sense; whoever does it destroys his own life.
+**6:32** One who commits adultery with a woman is lacking in sense; one who destroys his own life does it.
 
 **6:33** Blows and dishonor he will find, and his shame will not be erased.
 

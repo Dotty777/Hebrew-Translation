@@ -63,9 +63,9 @@
 
 **12:31** And he made a house of high places, and he made priests from every part of the people who were not of the sons of Levi.
 
-**12:32** And Jeroboam instituted a feast in the eighth month, on the fifteenth day of the month, like the feast that is in Judah, and he went up to the altar; so he did in Bethel, sacrificing to the calves that he had made. And he stationed in Bethel the priests of the high places that he had made.
+**12:32** And Jeroboam instituted a festival in the eighth month, on the fifteenth day of the month, like the festival that is in Judah, and he went up to the altar; so he did in Bethel, sacrificing to the calves that he had made. And he stationed in Bethel the priests of the high places that he had made.
 
-**12:33** And he went up to the altar that he had made in Bethel on the fifteenth day in the eighth month, in the month that he had devised out of his own heart; and he instituted a feast for the sons of Israel and went up to the altar to burn incense.
+**12:33** And he went up to the altar that he had made in Bethel on the fifteenth day in the eighth month, in the month that he had devised out of his own heart; and he instituted a festival for the sons of Israel and went up to the altar to burn incense.
 
 ## Additional Verses (Not in Saints Numbering)
 

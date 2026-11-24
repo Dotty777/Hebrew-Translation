@@ -25,7 +25,7 @@
 
 **48:10** And to these shall belong the holy contribution, to the priests: on the north twenty-five thousand, and on the west ten thousand in width, and on the east ten thousand in width, and on the south twenty-five thousand in length; and the sanctuary of the LORD shall be in the middle of it.
 
-**48:11** This shall belong to the consecrated priests from the sons of Zadok, who guarded My charge, who did not stray when the sons of Israel strayed, just as the Levites strayed.
+**48:11** This shall belong to the consecrated priests from the sons of Zadok, who kept My charge, who did not stray when the sons of Israel strayed, just as the Levites strayed.
 
 **48:12** And it shall belong to them as a dedicated contribution from the contribution of the land, most holy, next to the boundary of the Levites.
 

@@ -9,7 +9,7 @@
 
 **1:2** So his servants said to him, "Let them search for a young virgin woman for my lord the king, and let her stand before the king and be a caretaker for him; let her lie in your embrace, so that my lord the king may grow warm."
 
-**1:3** They searched for a beautiful young woman across all the borders of Israel, found Abishag the Shunammite, and brought her to the king.
+**1:3** They searched for a beautiful young woman throughout all the territory of Israel, found Abishag the Shunammite, and brought her to the king.
 
 **1:4** Now the young woman was exceedingly beautiful; she became a caretaker for the king and waited on him, but the king did not know her.
 

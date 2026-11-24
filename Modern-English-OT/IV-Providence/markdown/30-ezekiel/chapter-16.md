@@ -41,7 +41,7 @@
 
 **16:18** You took your embroidered garments and covered them, and you placed My oil and My incense before them.
 
-**16:19** And My bread that I gave you, choice flour, oil, and honey that I fed you, you set before them as a soothing aroma; and so it was, declares the Lord GOD.
+**16:19** And My bread that I gave you, choice flour, oil, and honey that I fed you, you set before them as a soothing fragrance; and so it was, declares the Lord GOD.
 
 **16:20** You took your sons and your daughters whom you had borne to Me, and you sacrificed them to them to be devoured. Were your acts of prostitution too small a matter,
 
@@ -107,7 +107,7 @@
 
 **16:51** And Samaria did not sin half of your sins; you multiplied your abominations more than they and made your sisters seem righteous through all your abominations that you have done.
 
-**16:52** You too, bear your disgrace, you who have judged in favor of your sisters; because of your sins in which you acted more abominably than they, they are more righteous than you. So you too, be ashamed and bear your disgrace, in making your sisters seem righteous.
+**16:52** You too, bear your disgrace, you who have judged in favor of your sister; because of your sins in which you acted more abominably than they, they are more righteous than you. So you too, be ashamed and bear your disgrace, in making your sisters seem righteous.
 
 **16:53** Yet I will restore their fortunes, the fortunes of Sodom and her daughters and the fortunes of Samaria and her daughters, and the restoration of your own fortunes in their midst,
 
@@ -121,7 +121,7 @@
 
 **16:58** Your lewdness and your abominations, you yourself bear them, declares the LORD.
 
-**16:59** For this is what the Lord GOD says: I will indeed deal with you just as you have done, because you despised the oath by violating the covenant.
+**16:59** For this is what the Lord GOD says: I will deal with you just as you have done, because you despised the oath by violating the covenant.
 
 **16:60** Yet I Myself will remember My covenant with you in the days of your youth, and I will establish an eternal covenant for you.
 
@@ -142,4 +142,4 @@
 - **16:43** — Following the qere on both verbs (standard 2fs forms where the ketiv writes the archaic -ti ending, as also in vv. 47 and 51). The final negative clause (velo asit) is rendered as an unmarked rhetorical question matching the Qal perfect verb.
 - **16:51** — Following the qere plural ("your sisters") where the ketiv consonantal spelling could be read singular; the verse also has the archaic -ti ketiv ending on the final verb.
 - **16:53** — The idiom "restore the fortunes" pairs the verb shuv with shevit/shevut, where the qere reads shevut three times against the ketiv shevit. The closing phrase combines both nouns (shevut shevitayikh) emphatically.
-- **16:59** — Following the qere 1cs verb ("I will indeed deal"); the ketiv omits the final yod. In v. 57, the Hebrew text reads "Aram" (Syria), translated literally rather than emended to "Edom."
+- **16:59** — Following the qere 1cs verb ("I will deal"); the ketiv omits the final yod. In v. 57, the Hebrew text reads "Aram" (Syria), translated literally rather than emended to "Edom."

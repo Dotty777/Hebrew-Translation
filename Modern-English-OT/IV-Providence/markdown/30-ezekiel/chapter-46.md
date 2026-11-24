@@ -37,7 +37,7 @@
 
 **46:16** This is what the Lord GOD says: "If the prince gives a gift to any of his sons, it is his inheritance; it shall belong to his sons; it is their possession by inheritance.
 
-**46:17** But if he gives a gift from his inheritance to one of his servants, it shall be his until the year of liberty, and then it shall return to the prince; only his inheritance belongs to his sons; it shall be theirs.
+**46:17** But if he gives a gift from his inheritance to one of his servants, it shall be his until the year of liberty, and then it shall return to the prince; but as for his inheritance, it shall belong to his sons; it shall be theirs.
 
 **46:18** The prince shall not take any of the people's inheritance, oppressing them out of their possession; from his own possession he shall give an inheritance to his sons, so that My people will not be scattered, each man from his possession."
 

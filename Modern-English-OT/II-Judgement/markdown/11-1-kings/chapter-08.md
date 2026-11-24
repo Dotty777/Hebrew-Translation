@@ -49,7 +49,7 @@
 
 **8:24** You who have kept for Your servant David my father what You spoke to him; and You spoke with Your mouth, and with Your hand You have fulfilled it, as on this day.
 
-**8:25** And now, LORD, God of Israel, keep for Your servant David my father what You spoke to him, saying, 'There shall not be cut off for you a man from before Me sitting on the throne of Israel, if only your sons keep their way, to walk before Me just as you have walked before Me.'
+**8:25** And now, LORD, God of Israel, keep for Your servant David my father what You spoke to him, saying, 'There shall not be cut off for you a man from before Me sitting on the throne of Israel, only if your sons keep their way, to walk before Me just as you have walked before Me.'
 
 **8:26** And now, God of Israel, please let Your word that You spoke to Your servant David my father prove true.
 
@@ -121,7 +121,7 @@
 
 **8:60** so that all the peoples of the earth may know that the LORD, He is God; there is no other.
 
-**8:61** And let your heart be entirely devoted to the LORD our God, to walk in His statutes and to keep His commandments, as on this day."
+**8:61** And let your heart be whole with the LORD our God, to walk in His statutes and to keep His commandments, as on this day."
 
 **8:62** And the king and all Israel with him were offering sacrifice before the LORD.
 

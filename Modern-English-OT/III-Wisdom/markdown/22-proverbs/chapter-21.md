@@ -13,7 +13,7 @@
 
 **21:4** Lofty eyes and an arrogant heart—the lamp of the wicked—are sin.
 
-**21:6** Gaining treasures by a lying tongue is a driven vapor for those who seek death.
+**21:6** Gaining treasures by a lying tongue is a driven vapor—seekers of death.
 
 **21:7** The violence of the wicked will drag them off, because they refuse to do justice.
 
@@ -33,7 +33,7 @@
 
 **21:15** To do justice is a joy to the righteous, yet terror to workers of iniquity.
 
-**21:16** A person who strays from the way of insight will rest in the gathering of the dead.
+**21:16** A person who strays from the way of insight will rest in the gathering of the departed.
 
 **21:17** One who loves pleasure will be a man of want; one who loves wine and oil will not grow rich.
 
@@ -71,7 +71,7 @@
 
 ## Translator Notes
 
-- **21:4** — Hebrew nir (defective spelling of nir) can mean either lamp (a variant of ner, as in 1 Kgs 11:36 and 2 Sam 22:29, matching Prov 13:9 and 24:20) or freshly plowed ground (as in Prov 13:23). Both senses fit the Masoretic vocalization, though lamp accords closely with the surrounding imagery in Proverbs.
+- **21:4** — Hebrew nir can mean either lamp (a variant of ner, as in 1 Kgs 11:36 and 2 Sam 22:29, matching Prov 13:9 and 24:20) or freshly plowed ground (as in Prov 13:23). Both senses fit the Masoretic vocalization, though lamp accords closely with the surrounding imagery in Proverbs.
 - **21:6** — The Masoretic Text reads mevaqshei-mavet (Piel participle of baqash, 'those who seek death'), standing in terse apposition to the preceding phrase. Some ancient versions instead reflect moqshei-mavet ('snares of death').
 - **21:8** — Hebrew vazar is a hapax legomenon meaning guilty or laden with guilt (cognate with Arabic wizr), forming a direct antonym to zakh ('pure') in the second clause. Some earlier interpreters divided it as ve-zar ('and strange').
 - **21:12** — Hebrew tsaddiq ('Righteous One') lacks an article, as poetic epithets for God often do, and is widely understood as referring to God because the same subject overturns the wicked to ruin (compare 22:12). Others understand it as a righteous human observer.

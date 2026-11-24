@@ -35,7 +35,7 @@
 
 **17:15** One who acquits a wicked person and one who condemns a righteous person—both of them are an abomination to the LORD.
 
-**17:16** Why is there a purchase price in a fool's hand to acquire wisdom, when he has no good sense?
+**17:16** Why is there a purchase price in a fool's hand to acquire wisdom, when he has no sense?
 
 **17:17** At all times a friend shows love, and a brother is born for distress.
 

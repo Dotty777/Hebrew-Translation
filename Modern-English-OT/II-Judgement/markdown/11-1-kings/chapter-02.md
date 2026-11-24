@@ -73,7 +73,7 @@
 
 **2:34** Then Benaiah son of Jehoiada went up, struck him, and put him to death; and he was buried in his house in the wilderness.
 
-**2:35** And the king appointed Benaiah son of Jehoiada over the army in his place, and Zadok the priest the king appointed in place of Abiathar. These were the chief officers who were over the work for Solomon, five hundred fifty, who ruled over the people doing the work. And three times a year Solomon would offer up burnt offerings and peace offerings on the altar that he built for the LORD, and he would burn incense with it, which was before the LORD; and he completed the house.
+**2:35** And the king appointed Benaiah son of Jehoiada over the army in his place, and Zadok the priest the king appointed in place of Abiathar. These were the chief deputies who were over the work for Solomon, five hundred fifty, who ruled over the people doing the work. And three times a year Solomon would offer up burnt offerings and peace offerings on the altar that he built for the LORD, and he would burn incense with it, which was before the LORD; and he completed the house.
 
 **2:36** Then the king sent and summoned Shimei and said to him, "Build a house for yourself in Jerusalem and live there, and do not go out from there to this place or that.
 

@@ -38,4 +38,4 @@
 - **19:5** — נוֹחֲלָה is a Niphal perfect 3fs of יחל ("wait, hope"), denoting prolonged waiting in vain, parallel to אָבְדָה תִּקְוָתָהּ ("her hope had perished").
 - **19:7** — MT וַיֵּדַע אַלְמְנוֹתָיו literally reads "he knew [i.e., violated] his/their widows" (with 3ms collective suffix referring to אָדָם in v. 6); many compare אַלְמְנוֹתָיו to the l/r by-form of אַרְמְנוֹתָיו ("citadels, fortresses") in Isa 13:22, parallel to "their cities."
 - **19:9** — סוּגַר ("cage") is a hapax legomenon, cognate with Akkadian shigaru, denoting a wooden neck-stock, collar, or cage used to confine wild beasts or royal captives.
-- **19:10** — MT reads בְּדָמְךָ ("in your blood," possibly meaning "in your bloodline" or "in your vigor"); many modern translations emend to בְּכַרְמְךָ ("in your vineyard").
+- **19:10** — MT reads בְּדָמְךָ ("in your blood," possibly meaning "in your bloodline" or "in your vigor"); a conjectural emendation reads בְּכַרְמְךָ ("in your vineyard").

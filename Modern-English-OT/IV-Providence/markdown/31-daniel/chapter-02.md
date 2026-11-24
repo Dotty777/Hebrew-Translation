@@ -49,11 +49,11 @@
 
 **2:22** He uncovers the deep and secret things; He knows what lies in the darkness, and light resides with Him.
 
-**2:23** To You, God of my ancestors, I give thanks and offer praise, because You have granted me wisdom and might; and now You have informed me of what we asked from You, for You have disclosed to us the king's matter."
+**2:23** To You, God of my fathers, I give thanks and offer praise, because You have granted me wisdom and might; and now You have informed me of what we asked from You, for You have disclosed to us the king's matter."
 
-**2:24** Accordingly Daniel went in to Arioch, whom the king had assigned to destroy the wise men of Babylon; he went and spoke to him like this: "Do not put the wise men of Babylon to death! Lead me into the king's presence, and I will report the interpretation to the king."
+**2:24** Accordingly Daniel went in to Arioch, whom the king had assigned to destroy the wise men of Babylon; he went and spoke to him like this: "Do not destroy the wise men of Babylon! Lead me into the king's presence, and I will report the interpretation to the king."
 
-**2:25** At once Arioch brought Daniel in haste before the king and spoke to him like this: "I have found a man from the exiles of Judah who will inform the king of the interpretation."
+**2:25** Then Arioch brought Daniel in haste before the king and spoke to him like this: "I have found a man from the exiles of Judah who will inform the king of the interpretation."
 
 **2:26** The king replied to Daniel, whose name was Belteshazzar, saying, "Are you able to inform me of the dream I saw and its interpretation?"
 
@@ -95,7 +95,7 @@
 
 **2:45** just as you saw that a stone was broken off from the mountain without hands and ground down the iron, the bronze, the clay, the silver, and the gold. A great God has disclosed to the king what will occur after this; and certain is the dream, and reliable is its interpretation."
 
-**2:46** Then King Nebuchadnezzar fell on his face and bowed down to Daniel, and he gave orders to present to him an offering and soothing aromas.
+**2:46** Then King Nebuchadnezzar fell on his face and bowed down to Daniel, and he gave orders to present to him an offering and soothing fragrances.
 
 **2:47** The king replied to Daniel, saying, "In truth, your God is God of gods, Lord of kings, and one who uncovers mysteries, because you were able to uncover this mystery."
 

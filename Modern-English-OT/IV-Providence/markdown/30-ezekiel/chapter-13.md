@@ -13,7 +13,7 @@
 
 **13:4** Like foxes in the ruins have your prophets been, Israel.
 
-**13:5** You did not go up into the breaches, nor did you build up a stone wall around the house of Israel to stand in the battle on the day of the LORD.
+**13:5** You did not go up into the breaches, nor did you build up a wall around the house of Israel to stand in the battle on the day of the LORD.
 
 **13:6** They have seen emptiness and lying divination, those who say, "The LORD declares," when the LORD has not sent them; yet they wait for the word to be confirmed.
 

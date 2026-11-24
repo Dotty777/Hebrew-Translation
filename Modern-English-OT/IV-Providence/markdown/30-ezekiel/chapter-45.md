@@ -41,7 +41,7 @@
 
 **45:18** This is what the Lord GOD says: "In the first month, on the first day of the month, you shall take a young bull without blemish and purify the sanctuary.
 
-**45:19** The priest shall take some of the blood of the sin offering and put it on the doorposts of the house, on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.
+**45:19** The priest shall take some of the blood of the sin offering and put it on the doorpost of the house, on the four corners of the ledge of the altar, and on the post of the gate of the inner court.
 
 **45:20** You shall do the same on the seventh day of the month on account of anyone who errs unintentionally or through ignorance; thus you shall make atonement for the house.
 

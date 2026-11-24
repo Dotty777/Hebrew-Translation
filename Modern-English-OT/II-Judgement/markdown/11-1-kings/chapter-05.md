@@ -5,7 +5,7 @@
 
 ## Text
 
-**5:1** And these deputies sustained King Solomon and everyone who came near to the table of King Solomon, each during his month; they did not let anything go missing. And they brought the barley and the straw for the horses and for the steeds to the place where he would be, each according to his assigned duty.
+**5:1** And these governors sustained King Solomon and everyone who came near to the table of King Solomon, each during his month; they did not let anything go missing. And they brought the barley and the straw for the horses and for the steeds to the place where he would be, each according to his assigned duty.
 
 **5:2** Now Solomon's food for one day was thirty kors of fine flour and sixty kors of meal,
 

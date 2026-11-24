@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **39:2** — The Piel verb shishetikha is a hapax legomenon of uncertain meaning; in this sequence of verbs it is widely understood as "lead you forward" or "drive you on," while some traditional renderings link it to shesh ("six") as "leave a sixth part of you."
+- **39:2** — The Piel verb shishetikha is a hapax legomenon of uncertain meaning; in this sequence of verbs it is understood as "lead you forward" or "drive you on"; a derivation from shesh ("six"), "leave a sixth part of you," has also been proposed.
 - **39:11** — Masoretic meqom-sham qever literally reads "a place there of a grave" (i.e., a burial place there). The name Hamon-gog means "Multitude of Gog," anticipating the city name Hamonah ("Multitude") in v. 16.
 - **39:14** — In meqabberim et-ha'overim et-hannotarim, the first et is the preposition "with" (joining the buriers with those passing through, as described in v. 15), while the second et marks the direct object "those left."
 - **39:25** — Ketiv reads shevit ("captivity"), while Qere reads shevut ("fortunes" or "restoration," in the idiom "restore the fortunes of"); the translation follows the Qere.

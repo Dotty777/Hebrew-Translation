@@ -13,7 +13,7 @@
 
 **3:5** At Gibeon the LORD appeared to Solomon in a dream during the night, and God said, "Ask what I should give to you."
 
-**3:6** And Solomon said, "You have shown great loyal love to Your servant David my father, because he walked before You in truth, in righteousness, and in uprightness of heart with You; and You have kept for him this great loyal love, and have given him a son sitting on his throne as at this day.
+**3:6** And Solomon said, "You have shown great loyal love to Your servant David my father, just as he walked before You in truth, in righteousness, and in uprightness of heart with You; and You have kept for him this great loyal love, and have given him a son sitting on his throne as at this day.
 
 **3:7** And now, LORD my God, You have made Your servant king in place of David my father, yet I am a young boy; I do not know how to go out and come in.
 

@@ -17,7 +17,7 @@
 
 **7:6** So he made the pillars, and two rows all around upon the one latticework to cover the capitals that were on top of the pomegranates, and he did the same for the second capital. There were capitals on the two pillars also above, close by the bulge that was beside the latticework; and the pomegranates were two hundred, in rows all around on the second capital.
 
-**7:7** He erected the pillars for the portico of the nave. He erected the right pillar and called its name Jachin, and he erected the left pillar and called its name Boaz.
+**7:7** He erected the pillars for the portico of the main hall. He erected the right pillar and called its name Jachin, and he erected the left pillar and called its name Boaz.
 
 **7:8** Now the capitals that were on top of the pillars were of lily work in the portico, four cubits. On top of the pillars was lily work, and the work of the pillars was completed.
 
@@ -73,7 +73,7 @@
 
 **7:35** the lampstands of pure gold, five on the right and five on the left in front of the inner sanctuary, along with the blossoms, the lamps, and the tongs of gold;
 
-**7:36** the cups, the wick trimmers, the sprinkling bowls, the dishes, and the firepans of pure gold; and the hinges for the doors of the inner house, the Most Holy Place, and for the doors of the house, the nave, of gold.
+**7:36** the cups, the wick trimmers, the sprinkling bowls, the dishes, and the firepans of pure gold; and the hinges for the doors of the inner house, the Holy of Holies, and for the doors of the house, the main hall, of gold.
 
 **7:37** So all the work that King Solomon performed for the house of the LORD was finished. Then Solomon brought in the consecrated things of his father David; the silver, the gold, and the articles he placed in the treasuries of the house of the LORD.
 

@@ -39,7 +39,7 @@
 
 **26:17** And they will raise a lament over you and say to you, 'How you have perished, inhabited from the seas, the renowned city, which was mighty on the sea, she and her inhabitants, who imposed their terror on all her inhabitants!
 
-**26:18** Now the coastlands tremble on the day of your downfall, and the islands that are in the sea are dismayed at your departure.'"
+**26:18** Now the coastlands tremble on the day of your downfall, and the coastlands that are in the sea are dismayed at your departure.'"
 
 **26:19** For this is what the Lord GOD says: "When I make you a city laid waste, like the cities that are not inhabited, when I bring up the deep over you and the great waters cover you,
 

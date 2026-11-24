@@ -67,7 +67,7 @@
 
 **4:3** *(after `4:5`)* So a decree was issued by me to bring before me all the wise men of Babylon, so that they would make the interpretation of the dream known to me.
 
-**4:4** *(after `4:5`)* Then the magicians, the enchanters, the Chaldeans, and the astrologers came in, and I told the dream before them, yet they did not make its interpretation known to me.
+**4:4** *(after `4:5`)* Then the magicians, the enchanters, the Chaldeans, and the diviners came in, and I told the dream before them, yet they did not make its interpretation known to me.
 
 **4:5** *(after `4:5`)* And at last Daniel came in before me—whose name is Belteshazzar, after the name of my god, and in whom is a spirit of the holy gods—and I told the dream before him:
 

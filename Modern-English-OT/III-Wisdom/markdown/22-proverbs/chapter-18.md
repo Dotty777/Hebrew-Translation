@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **18:1** — The verb 'yitgalla' ('erupts/breaks out') is the rare Hithpael of 'gala', appearing elsewhere in the Hebrew Bible only in Prov 17:14 and 20:3.
-- **18:8** — Hebrew 'mitlahamim' is a rare Hithpael participle occurring only here and in Prov 26:22; based on Semitic cognates meaning to swallow greedily, it denotes choice or tasty morsels, though older versions sometimes rendered it 'wounds'.
+- **18:8** — Hebrew 'mitlahamim' is a rare Hithpael participle occurring only here and in Prov 26:22; based on Semitic cognates meaning to swallow greedily, it denotes choice or tasty morsels, though an older interpretation took it as 'wounds'.
 - **18:17** — Ketiv/qere variant: the qere reads 'uva' (conjunction 'vav' plus Qal perfect, 'but ... comes'), whereas the ketiv writes the imperfect 'yavo' without the conjunction.
 - **18:19** — Ketiv/qere variant: the qere reads 'umidyanim' ('and contentions', matching v. 18), while the ketiv writes the synonymous plural 'umedonim'. The first clause uses an elliptical comparative 'min' ('than') with 'nifsha', the sole Niphal occurrence of 'pasha' ('transgress/wrong').
 - **18:24 *(additional)*** — Hebrew plays on the similar sounds of 'companions' and 'ruin'; some interpret the verb as 'to act as a companion.'

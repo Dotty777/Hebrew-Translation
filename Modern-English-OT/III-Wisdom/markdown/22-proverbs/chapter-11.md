@@ -7,7 +7,7 @@
 
 **11:1** Deceitful scales are an abomination to the LORD, but a full weight is His pleasure.
 
-**11:2** When arrogance comes, disgrace also comes, but wisdom is with the modest.
+**11:2** When arrogance comes, then disgrace comes, but wisdom is with the modest.
 
 **11:3** The integrity of the upright leads them, but the perversity of the treacherous ruins them.
 

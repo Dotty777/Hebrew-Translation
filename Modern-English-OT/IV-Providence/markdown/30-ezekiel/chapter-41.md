@@ -15,7 +15,7 @@
 
 **41:5** Then he measured the wall of the house, six cubits, and the width of the side room, four cubits, all around the house on every side.
 
-**41:6** Now the side rooms were side room over side room, in three stories, thirty in each; and they extended into the wall that belonged to the house for the side rooms all around so as to be fastened, yet they were not fastened in the wall of the house.
+**41:6** Now the side rooms were side room over side room, thirty-three times; and they extended into the wall that belonged to the house for the side rooms all around so as to be fastened, yet they were not fastened in the wall of the house.
 
 **41:7** It broadened and wound around higher and higher for the side rooms, for the surrounding structure of the house went higher and higher all around the house; therefore the house had greater width upward, and so one went up from the lowest story to the highest by way of the middle.
 
@@ -60,7 +60,7 @@
 ## Translator Notes
 
 - **41:1** — The Masoretic Text literally reads "the width of the tent," an unusual phrase echoing tabernacle language; the Septuagint diverges here.
-- **41:6** — Hebrew literally reads "three and thirty times," widely understood in light of the three stories in 41:7 as three stories of thirty side rooms each.
+- **41:6** — Hebrew literally reads "three and thirty times"; in light of the three stories in 41:7 this is often understood as three stories of thirty side rooms each.
 - **41:8** — The Qere reads "foundations" (musdot), whereas the Ketiv spells the word with yod instead of waw. The rare term atsilah literally means "to the joint," often understood as six long cubits or up to the joining point of the side rooms.
 - **41:15** — The Qere reads "and its galleries" (we-attiqeha, spelled with yod to match 41:16), whereas the Ketiv spells the stem with waw.
 - **41:20** — The Masoretic Text places extraordinary scribal dots (puncta extraordinaria) over the final word "the temple hall" (hahekal), marking textual uncertainty, likely because 41:21 immediately begins with the same word.

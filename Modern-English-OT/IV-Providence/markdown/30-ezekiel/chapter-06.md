@@ -29,7 +29,7 @@
 
 **6:12** The one who is far away will die by plague, and the one who is near will fall by the sword, and the one who remains and is besieged will die by famine; and I will bring My wrath to an end upon them.
 
-**6:13** Then you will know that I am the LORD, when those of them who are killed lie in the midst of their idols, all around their altars, on every high hill, on all the tops of the mountains, under every lush tree, and under every thick-branched terebinth, the place where they presented a pleasing aroma to all their idols.
+**6:13** Then you will know that I am the LORD, when those of them who are killed lie in the midst of their idols, all around their altars, on every high hill, on all the tops of the mountains, under every lush tree, and under every thick-branched terebinth, the place where they presented a soothing fragrance to all their idols.
 
 **6:14** And I will stretch out My hand against them and make the land a desolation and a wasteland, from the wilderness to Diblah, in all their dwelling places; and they will know that I am the LORD."
 

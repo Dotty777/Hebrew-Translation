@@ -25,7 +25,7 @@
 
 **31:10** Therefore, this is what the Lord GOD says: Because you towered in height, and it set its top among the dense boughs, and its heart was lifted up in its height,
 
-**31:11** I gave it into the hand of a mighty ruler of nations; he would surely deal with it. According to its wickedness I drove it out.
+**31:11** I will give it into the hand of a mighty ruler of nations; he will surely deal with it. According to its wickedness I have driven it out.
 
 **31:12** Foreigners, the most ruthless of nations, cut it down and abandoned it. Upon the mountains and in all the valleys its limbs fell, and its branches were broken in all the ravines of the earth; and all the peoples of the earth went down from its shade and abandoned it.
 

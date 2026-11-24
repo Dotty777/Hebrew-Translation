@@ -51,7 +51,7 @@
 
 **33:23** Then the word of the LORD came to me, saying,
 
-**33:24** "Son of man, the inhabitants of these ruins on the soil of Israel are speaking, saying, 'Abraham was only one man, yet he possessed the land; but we are many, so to us the land has been given as a possession.'
+**33:24** "Son of man, the inhabitants of these ruins on the soil of Israel are speaking, saying, 'Abraham was one man, yet he possessed the land; but we are many, so to us the land has been given as a possession.'
 
 **33:25** Therefore say to them, 'This is what the Lord GOD says: You eat with the blood, lift up your eyes to your idols, and shed blood; should you then possess the land?'
 
@@ -63,7 +63,7 @@
 
 **33:30** Now as for you, son of man, the sons of your people are talking about you beside the walls and in the doorways of the houses; one speaks to another, each man to his brother, saying, 'Come now and hear what the word is that goes forth from the LORD.'
 
-**33:31** They come to you as people come, and sit before you as My people, and hear your words, yet they do not do them; for with their mouth they make a show of passionate love, while their heart goes after their dishonest gain.
+**33:31** They come to you as people come, and My people sit before you, and hear your words, yet they do not do them; for with their mouth they make a show of passionate love, while their heart goes after their dishonest gain.
 
 **33:32** And look, you are to them like a song of passionate love, of one with a beautiful voice who plays well on an instrument; so they hear your words, yet they do not do them.
 

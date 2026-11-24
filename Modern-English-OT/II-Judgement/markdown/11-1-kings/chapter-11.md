@@ -63,7 +63,7 @@
 
 **11:32** while the one tribe shall belong to him, for the sake of My servant David and for the sake of Jerusalem, the city that I have chosen out of all the tribes of Israel,
 
-**11:33** because they have forsaken Me and bowed down to Ashtoreth, the goddess of the Sidonians, to Chemosh, the god of Moab, and to Milcom, the god of the sons of Ammon, and have not walked in My ways, to do what is right in My eyes and My statutes and My ordinances, as David his father did.
+**11:33** because they have forsaken Me and bowed down to Ashtoreth, the goddess of the Sidonians, to Chemosh, the god of Moab, and to Milcom, the god of the sons of Ammon, and have not walked in My ways, to do what is right in My eyes and My statutes and My judgments, as David his father did.
 
 **11:34** Yet I will not take the whole kingdom out of his hand, but I will appoint him as prince all the days of his life, for the sake of David My servant whom I chose, who kept My commandments and My statutes.
 

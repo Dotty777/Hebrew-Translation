@@ -29,7 +29,7 @@
 
 **22:13** A sluggard says, "There is a lion outside! In the middle of the public squares I will be murdered!"
 
-**22:14** A deep pit is the mouth of forbidden women; one denounced by the LORD will fall into it.
+**22:14** A deep pit is the mouth of strange women; one denounced by the LORD will fall into it.
 
 **22:15** Foolishness is fastened in the heart of a youth; a rod of discipline will put it far away from him.
 

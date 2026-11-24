@@ -7,7 +7,7 @@
 
 **11:1** "And as for me, in the first year of Darius the Mede, I stood up to strengthen him and be a stronghold for him.
 
-**11:2** Now I will tell you the truth. Look, three more kings will arise for Persia, and the fourth will acquire far greater wealth than all of them; and when he grows strong through his wealth, he will stir up everyone against the kingdom of Greece.
+**11:2** Now I will tell you the truth. Look, three more kings will arise for Persia, and the fourth will acquire greater wealth than all of them; and when he grows strong through his wealth, he will stir up everyone against the kingdom of Greece.
 
 **11:3** Then a mighty king will arise; he will rule with a vast dominion and do according to his will.
 
@@ -51,7 +51,7 @@
 
 **11:23** From the time an alliance is made with him, he will practice deceit; he will rise up and become mighty with a small nation.
 
-**11:24** In a time of tranquility he will enter the richest parts of the province, and he will do what neither his fathers nor his fathers' fathers did: he will scatter plunder, spoil, and goods among them. He will also devise his schemes against fortified places, yet only for a time.
+**11:24** In a time of tranquility he will enter the richest parts of the province, and he will do what neither his fathers nor his fathers' fathers did: he will scatter plunder, spoil, and goods among them. He will also devise his schemes against fortified places, yet for a time.
 
 **11:25** He will stir up his strength and his heart against the king of the south with a great army, and the king of the south will mobilize for battle with an exceedingly great and mighty army; yet he will not stand, for they will devise schemes against him.
 

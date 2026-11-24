@@ -39,7 +39,7 @@
 
 **29:17** Then you shall cut the ram into its pieces, wash its entrails and its legs, and place them with its pieces and with its head.
 
-**29:18** You shall offer the entire ram in smoke on the altar. It is a burnt offering to the LORD, a pleasing fragrance; it is a fire offering to the LORD.
+**29:18** You shall offer the entire ram in smoke on the altar. It is a burnt offering to the LORD, a soothing fragrance; it is a fire offering to the LORD.
 
 **29:19** Then you shall take the second ram, and Aaron and his sons shall lay their hands on the ram's head.
 
@@ -53,7 +53,7 @@
 
 **29:24** You shall place all of them on the palms of Aaron and on the palms of his sons, and wave them as a wave offering before the LORD.
 
-**29:25** Then you shall take them from their hands and offer them in smoke on the altar on top of the burnt offering, for a pleasing fragrance before the LORD; it is a fire offering to the LORD.
+**29:25** Then you shall take them from their hands and offer them in smoke on the altar on top of the burnt offering, for a soothing fragrance before the LORD; it is a fire offering to the LORD.
 
 **29:26** You shall take the breast from the ram of ordination that is for Aaron and wave it as a wave offering before the LORD, and it shall be your portion.
 
@@ -85,7 +85,7 @@
 
 **29:40** With the one lamb there shall be a tenth of an ephah of fine flour mixed with a fourth of a hin of beaten oil, and a drink offering of a fourth of a hin of wine.
 
-**29:41** And the second lamb you shall offer at twilight; you shall do with it as with the morning grain offering and its drink offering, for a pleasing fragrance, a fire offering to the LORD.
+**29:41** And the second lamb you shall offer at twilight; you shall do with it as with the morning grain offering and its drink offering, for a soothing fragrance, a fire offering to the LORD.
 
 **29:42** It is a continual burnt offering for your generations at the entrance of the tent of meeting before the LORD, where I will meet with you to speak to you there.
 

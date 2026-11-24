@@ -31,7 +31,7 @@
 
 **13:13** One who despises a word will be bound in debt to it, but the one who fears a commandment will himself be rewarded.
 
-**13:14** The instruction of a wise man is a spring of life, for turning away from the snares of death.
+**13:14** The teaching of a wise man is a spring of life, for turning away from the snares of death.
 
 **13:15** Good insight yields favor, but the way of the treacherous is rugged.
 
@@ -51,7 +51,7 @@
 
 **13:23** Much food is in the tilled field of the poor, yet some is swept away for lack of justice.
 
-**13:24** One who holds back his rod hates his son, but the one who loves him diligently seeks discipline for him.
+**13:24** One who holds back his rod hates his son, but the one who loves him diligently seeks him with discipline.
 
 **13:25** A righteous man eats to the satisfaction of his soul, but the stomach of the wicked goes wanting.
 

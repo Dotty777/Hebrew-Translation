@@ -45,7 +45,7 @@
 
 **8:20** And Noah built an altar to the LORD, and he took from every clean animal and from every clean bird and offered up burnt offerings on the altar.
 
-**8:21** And the LORD smelled the soothing aroma, and the LORD said to His heart, "I will not again curse the ground on account of man, for the inclination of man's heart is evil from his youth, nor will I again strike down every living thing as I have done.
+**8:21** And the LORD smelled the soothing fragrance, and the LORD said to His heart, "I will not again curse the ground on account of man, for the inclination of man's heart is evil from his youth, nor will I again strike down every living thing as I have done.
 
 **8:22** Throughout all the remaining days of the earth, sowing and harvest, and cold and heat, and summer and winter, and day and night will not cease."
 

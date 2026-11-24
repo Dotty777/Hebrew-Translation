@@ -7,7 +7,7 @@
 
 **7:1** My son, guard my sayings, and treasure up my commands with you.
 
-**7:2** Guard my commands and live, and guard my instruction as the pupil of your eyes.
+**7:2** Guard my commands and live, and guard my teaching as the pupil of your eyes.
 
 **7:3** Tie them on your fingers; inscribe them on the tablet of your heart.
 

@@ -63,11 +63,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**6:16** *(after `6:15`)* Then those men crowded in on the king and said to the king, "Know, King, that it is a law of the Medes and Persians that no ban or statute the king establishes can be changed."
+**6:16** *(after `6:15`)* Then those men came thronging to the king and said to the king, "Know, King, that it is a law of Media and Persia that no ban or statute the king establishes can be changed."
 
 ## Translator Notes
 
-- **6:7** — Aramaic hargishu (Haphel of rgsh, also in 6:12) literally means "came thronging" or "crowded in noisily," though ancient versions often understood it as "came by agreement."
+- **6:7** — Aramaic hargishu (Haphel of rgsh, also in 6:12) literally means "came thronging" or "crowded in noisily"; some take it as "acted in concert."
 - **6:17** — The Aramaic imperfect yeshezivinnakh (Shaphel of shyzb) can express either a wish ("may He rescue you") or a confident statement ("He will rescue you").
-- **6:19** — The meaning of the rare Aramaic noun dachawan is uncertain; it is most commonly rendered "entertainment" or "diversions," though proposals include "musical instruments," "concubines," or "food."
+- **6:19** — The meaning of the rare Aramaic noun dachawan is uncertain; proposals include "entertainment," "diversions," "musical instruments," "concubines," or "food."
 - **6:25** — Literally "who had eaten the pieces of Daniel," a standard Aramaic and Akkadian legal idiom meaning "maliciously accused" or "slandered."

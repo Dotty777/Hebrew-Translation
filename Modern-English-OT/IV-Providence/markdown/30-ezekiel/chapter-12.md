@@ -49,7 +49,7 @@
 
 **12:22** "Son of man, what is this proverb you have on the soil of Israel, saying, 'The days stretch out, and every vision perishes'?
 
-**12:23** Therefore say to them, 'This is what the Lord GOD says: I will put an end to this proverb, and they will no longer repeat it as a proverb in Israel.' Instead, speak to them, 'The days have drawn near, and the fulfillment of every vision.
+**12:23** Therefore say to them, 'This is what the Lord GOD says: I will put an end to this proverb, and they will no longer repeat it as a proverb in Israel.' Instead, speak to them, 'The days have drawn near, and the word of every vision.
 
 **12:24** For there will no longer be any empty vision or flattering divination in the midst of the house of Israel.
 

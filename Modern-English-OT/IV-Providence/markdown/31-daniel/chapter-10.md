@@ -29,7 +29,7 @@
 
 **10:12** Then he said to me, "Do not be afraid, Daniel, for from the first day that you set your heart to understand and to humble yourself before your God, your words were heard, and I have come on account of your words.
 
-**10:13** Yet the prince of the kingdom of Persia stood opposing me for twenty-one days; then look, Michael, one of the foremost princes, came to help me, since I had been left there beside the kings of Persia.
+**10:13** Yet the prince of the kingdom of Persia stood opposing me for twenty-one days; then look, Michael, one of the foremost princes, came to help me, and I was left there beside the kings of Persia.
 
 **10:14** Now I have come to make you understand what will happen to your people in the latter days, for the vision still pertains to days to come."
 

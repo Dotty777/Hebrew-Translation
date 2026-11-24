@@ -57,9 +57,9 @@
 
 **20:26** And I defiled them through their gifts, as they caused everything that opens the womb to pass over, so that I might appall them, in order that they would know that I am the LORD.'
 
-**20:27** Therefore, speak to the house of Israel, son of man, and say to them, 'This is what the Lord GOD says: In this too your fathers blasphemed Me, by committing an act of unfaithfulness against Me.
+**20:27** Therefore, speak to the house of Israel, son of man, and say to them, 'This is what the Lord GOD says: In this too your fathers blasphemed Me, by committing treachery against Me.
 
-**20:28** When I brought them into the land that I lifted My hand to give to them, they saw every high hill and every leafy tree, and there they sacrificed their sacrifices, and there they gave the provocation of their offering, and there they placed their pleasing aromas, and there they poured out their drink offerings.
+**20:28** When I brought them into the land that I lifted My hand to give to them, they saw every high hill and every leafy tree, and there they sacrificed their sacrifices, and there they gave the provocation of their offering, and there they placed their soothing fragrances, and there they poured out their drink offerings.
 
 **20:29** Then I said to them, "What is the high place to which you are going?" So its name is called Bamah to this day.'
 
@@ -81,11 +81,11 @@
 
 **20:38** And I will purge from among you the rebels and those who transgress against Me; from the land of their sojourning I will bring them out, yet none of them will enter the soil of Israel. And you will know that I am the LORD.
 
-**20:39** As for you, house of Israel, this is what the Lord GOD says: Go, serve each one his idols, and afterward as well, if you will not listen to Me; yet My holy name you must not profane anymore with your gifts and with your idols.
+**20:39** As for you, house of Israel, this is what the Lord GOD says: Go, serve each one his idols, and afterward, if you will not listen to Me; yet My holy name you must not profane anymore with your gifts and with your idols.
 
 **20:40** For on My holy mountain, on the mountain height of Israel, declares the Lord GOD, there all the house of Israel, all of it in the land, will serve Me. There I will accept them, and there I will require your contributions and the finest of your tribute offerings, along with all your holy gifts.
 
-**20:41** As a pleasing aroma I will accept you when I bring you out from the peoples and gather you from the lands where you have been scattered; and I will show Myself holy among you before the eyes of the nations.
+**20:41** As a soothing fragrance I will accept you when I bring you out from the peoples and gather you from the lands where you have been scattered; and I will show Myself holy among you before the eyes of the nations.
 
 **20:42** And you will know that I am the LORD when I bring you into the soil of Israel, into the land that I lifted My hand to give to your fathers.
 

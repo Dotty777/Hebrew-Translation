@@ -59,7 +59,7 @@
 
 **5:20** *(after `5:17`)* But when his heart grew proud and his spirit became hardened to act arrogantly, he was brought down from the throne of his kingdom, and his glory was removed from him.
 
-**5:21** *(after `5:17`)* And he was driven away from human beings, and his mind was made like that of the wild animals, and his dwelling was with the wild donkeys; he was fed grass like oxen, and his body was soaked with the dew of heaven, until he came to know that the Most High God rules over the kingdom of humanity and appoints whomever He wishes over it.
+**5:21** *(after `5:17`)* And he was driven away from human beings, and his heart was made like that of the wild animals, and his dwelling was with the wild donkeys; he was fed grass like oxen, and his body was soaked with the dew of heaven, until he came to know that the Most High God rules over the kingdom of humanity and appoints whomever He wishes over it.
 
 **5:22** *(after `5:17`)* But you, his son Belshazzar, have not humbled your heart, although you knew all of this.
 
@@ -71,7 +71,7 @@
 
 - **5:5** — "fingers ... came out": Following the Qere nepaqah (Peal perfect 3fp), which agrees with the feminine plural subject "fingers," whereas the Ketiv reads masculine plural npqw. "palm of the hand": Aramaic pas yeda refers to the flat portion of the hand from wrist to fingers.
 - **5:6** — "the joints of his hips were loosened": Aramaic qitrei chartseh mishtarayin (literally "the knots of his loins were untied," Hithpeel participle of shera) sets up an ironic wordplay with Daniel's reputation for "untying knots" (qitrin, shera) in 5:12 and 5:16.
-- **5:7** — "third in the kingdom": Aramaic talti (and talta in 5:16, 29) means "third" or "third ruler," fitting Belshazzar's historical position as co-regent under his father Nabonidus.
+- **5:7** — "third in the kingdom": Aramaic talti (and talta in 5:16, 29) means "third" or "third ruler."
 - **5:8** — "its interpretation": Following the Qere ufishreh ("and its interpretation") rather than the Ketiv wpsr' ("and the interpretation").
 - **5:24 *(additional)*** — Literally "the palm of the hand."
 - **5:25 *(additional)*** — The Aramaic words name weights—mina, shekel, and half-minas (plural parsin, preceded by u-, "and," traditionally rendered "Upharsin")—which Daniel explains in 5:26-28 by wordplay on cognate verbs ("numbered," "weighed," "divided," using singular Peres) and the name Paras ("Persia").
