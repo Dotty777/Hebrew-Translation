@@ -133,3 +133,15 @@ Also caught and refined:
   4. **`HEB-P35-EXP-01` (`Exod 36:34` / Saints `38:18` & `Exod 39:33` / Saints `39:13`, `approved`):** Tabernacle architectural expansion across 18 terms in `Exod 25–40` caught `בְּרִיחַ` switching from `"crossbars"` (`26:26–29, 35:11, 36:31–33, 40:18`) to `"bars"` in `36:34` (2x) and `39:33`; harmonized all 11 verses to `"crossbar(s)"`.
   5. **`HEB-P35-EXP-02` (`Exod 39:39` & `40:11` unplaced, `approved`):** Tabernacle architectural expansion caught `הַכִּיּוֹר וְאֶת־כַּנּוֹ` switching from `"the basin and its stand"` (`30:18, 30:28, 31:9, 35:16, 38:8`) to `"the basin and its base"` in `39:39` and `40:11` (colliding with `אֶדֶן` `"bases"`); harmonized all 7 verses to `"the basin and its stand"`.
 - **Post-Pass-3.5 Final Totals (`HEB_POST_P35_SHA`):** `23,213` source MT verses (`22,971` `verified` + `242` `disputed` + `0` `unverified` == `23,213` PASS), `4,314` notes (`4,251` placed + `63` unplaced, `0` NT citations), `44` human-editor queue items (`HEB-HQ-001`–`HEB-HQ-044`), `0` schema/sync/quote-stack/open-chapter-break errors across all 39 books & 929 chapter MDs.
+---
+
+## 7. Stage 2 Pass 4 Closed-Loop Note & Display Attachment Fixes
+
+- **Pass 4 Side-by-Side Reconciliation Finding (`#102`):** **`0` verse-text unexplained discrepancies** across all 39 Hebrew/Aramaic MT books; **8 note-only bounce-backs** (`P4-HEB-01`–`P4-HEB-08`).
+- **Verified Pass 4 Note-Fix Corpus Commit (`HEB_PASS4_TEXT_SHA`):** `c5376e6b69eab8a9a4d1e5849d8ca609b0d609bc` (`@heb-peer`)
+- **Deliverable:** `pass4_bounceback_verdicts.jsonl` (**8 / 8** verified against `Saints-Hebrew-Critical-Text/`: **7** `approved`, **1** `modified_approved`, **0** `rejected`; **0** verse-text changes):
+  - `P4-HEB-01` (`Prov 31:28`) & `P4-HEB-02` (`Ezek 7:10`): Distinguished native MT order from Saints.Bible parallel display in both `native_notes` and `notes`.
+  - `P4-HEB-03` (`Exod 38:19` / Saints `37:17`), `P4-HEB-04` (`Exod 39:10` / Saints `36:17`), `P4-HEB-05` (`Ps 115:7` / Saints `113:15`), `P4-HEB-06` (`Ps 115:9` / Saints `113:17`): Updated internal cross-references in `native_notes` to exact native MT verse numbers and added explicit MT equivalents alongside Saints numbers in `notes` / chapter MDs.
+  - `P4-HEB-07` (`Ezek 3:12, 3:14, 3:24`): Completed neutral Rule 4 `ruach` notes across all 8 verses enumerated in `HEB-HQ-005` (`+2` new notes, `1` expanded).
+  - `P4-HEB-08` (`Mal 3:1`): Added neutral Rule 4 footnote documenting `ha-adon`, `mal'akh habberit`, and pronoun capitalization queued in `HEB-HQ-037` (`+1` new note).
+- **Final Validated Totals (39 Books / 929 Chapters):** `23,213` source MT verses (`22,971` `verified` + `242` `disputed` + `0` `unverified` == `23,213` PASS), `4,317` translator notes (`4,254` placed + `63` unplaced; `0` NT citations), `44` human-editor queue items (`HEB-HQ-001`–`HEB-HQ-044`), `0` schema/sync/quote-stack/open-chapter-break errors.

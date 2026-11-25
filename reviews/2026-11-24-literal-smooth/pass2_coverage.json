@@ -11,7 +11,8 @@
     "studio_version": "Studio v10 Stage 1 (a0d022c1)",
     "HEB_PASS3_SHA": "915915e68d270ba12d710522550c464c3b519041",
     "HEB_PASS3B_SHA": "b3e0f2ea87923eea52517398b65c7c8b4daf4cd3",
-    "HEB_POST_P35_SHA": "6fe3807ef4969a2184fe85f960c007b6f83c7a2e"
+    "HEB_POST_P35_SHA": "6fe3807ef4969a2184fe85f960c007b6f83c7a2e",
+    "HEB_PASS4_TEXT_SHA": "c5376e6b69eab8a9a4d1e5849d8ca609b0d609bc"
   },
   "totals_mt_39_books": {
     "books": 39,
@@ -24,8 +25,8 @@
     "native_verses_total": 23213,
     "merged_saints_slots_unmerged_in_native": 24,
     "key_collisions_eliminated_in_native_and_disambiguated": 68,
-    "notes_total_actual": 4314,
-    "notes_placed": 4251,
+    "notes_total_actual": 4317,
+    "notes_placed": 4254,
     "notes_unplaced": 63,
     "missing_in_studio": 0,
     "missing_in_english": 0,
@@ -975,8 +976,8 @@
       "english_placed_slots": 1266,
       "english_unplaced_verses": 6,
       "native_verses_count": 1273,
-      "notes_total": 229,
-      "notes_placed": 228,
+      "notes_total": 231,
+      "notes_placed": 230,
       "notes_unplaced": 1,
       "missing_in_studio": 0,
       "missing_in_english": 0,
@@ -1328,8 +1329,8 @@
       "english_placed_slots": 55,
       "english_unplaced_verses": 0,
       "native_verses_count": 55,
-      "notes_total": 15,
-      "notes_placed": 15,
+      "notes_total": 16,
+      "notes_placed": 16,
       "notes_unplaced": 0,
       "missing_in_studio": 0,
       "missing_in_english": 0,
@@ -1386,6 +1387,22 @@
       "All 18 tabernacle architectural terms across Exod 25-30 and 35-40 (caught בְּרִיחַ crossbars in 36:34, 39:33 and כִּיּוֹר/כֵּן stand in 39:39, 40:11)",
       "All repeated 1cs wayyiqtol resumptive verbs in Nehemiah (2:15, 4:7, 7:5, 13:19)"
     ],
+    "validation_errors": 0
+  },
+  "pass4_closed_loop_fixes": {
+    "pass4_verse_text_unexplained_discrepancies": 0,
+    "pass4_note_bouncebacks_reviewed": 8,
+    "verdicts_by_type": {
+      "approved": 7,
+      "modified_approved": 1,
+      "rejected": 0
+    },
+    "books_modified": 5,
+    "chapter_markdowns_updated": 7,
+    "book_readmes_updated": 2,
+    "new_notes_added": 3,
+    "existing_notes_updated": 7,
+    "nt_citations_remaining_in_hebrew_notes": 0,
     "validation_errors": 0
   }
 }
