@@ -1,6 +1,6 @@
 # Psalms 136 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:30Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:59Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,100 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| 11QPsᵃ (11Q5) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (Abegg / ETCBC DSS — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 135:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 135:21 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 137:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 135:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 137:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 135:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 137:9 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -66,86 +160,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 136:1
 - *Disregarded Surface Variant:* kept `לַיהֹוָ֣ה` over `לַיהוָ֣ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 136:2
 - *Disregarded Surface Variant:* kept `לֵאלֹהֵ֣י` over `לֵֽאלֹהֵ֣י` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 136:3
 - *Disregarded Surface Variant:* kept `לְעוֹלָ֣ם` over `לְעֹלָ֣ם` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לְעוֹלָ֣ם חַסְדּֽוֹ׃ / לְעֹלָ֣ם חַסְדֹּֽו׃`, `לְעוֹלָ֣ם / לְעֹלָ֣ם` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
-
-### Psalms 136:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לְבַדּ֑וֹ / לְבַדֹּ֑ו`, `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:5
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:6
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לְרֹקַ֣ע / לְרוֹקַ֣ע` (Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
-
-### Psalms 136:7
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:8
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּיּ֑וֹם / בַּיֹּ֑ום`, `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:9
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:10
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:11
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וַיּוֹצֵ֣א / וַיֹּוצֵ֣א`, `מִתּוֹכָ֑ם / מִתֹּוכָ֑ם`, `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:12
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:13
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:14
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:15
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:16
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עַ֭מּוֹ / עַ֭מֹּו`, `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:17
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:18
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:19
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:20
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:21
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:22
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עַבְדּ֑וֹ / עַבְדֹּ֑ו`, `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:23
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:24
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 136:25
 - *Disregarded Surface Variant:* kept `לְכׇל־` over `לְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 136:26
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּֽוֹ׃ / חַסְדֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Genesis 41 — Saints Hebrew Critical Text
 
-**Division:** `01_Law` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:14:34Z`
+**Division:** `01_Law` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:51Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,193 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| SP (Samaritan) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (CACCHT / ETCBC — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 40:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:21 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:22 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 40:23 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:21 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:22 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:23 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:24 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:25 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:26 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:27 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:28 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:29 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:30 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:31 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:32 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:33 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:34 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:35 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:36 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:37 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 42:38 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:22 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 40:23 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:22 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:23 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:24 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:25 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:26 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:27 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:28 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:29 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:30 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:31 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:32 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:33 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:34 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:35 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:36 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:37 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 42:38 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:22 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 40:23 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:22 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:23 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:24 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:25 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:26 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:27 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:28 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:29 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:30 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:31 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:32 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:33 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:34 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:35 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:36 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:37 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 42:38 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -95,51 +282,26 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-### Genesis 41:3
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וְדַקּ֣וֹת / וְדַקֹּ֣ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Genesis 41:6
-- *Disregarded Surface Variant:* kept `(adopted text)` over `דַּקּ֖וֹת / דַּקֹּ֖ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Genesis 41:7
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַדַּקּ֔וֹת / הַדַּקֹּ֔ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Genesis 41:8
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `פּוֹתֵ֥ר / פֹּותֵ֥ר` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Genesis 41:9
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּֽוֹם׃ / הַיֹּֽום׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:12
 - *Disregarded Surface Variant:* kept `וַ֨נְּסַפֶּר־` over `וַנְּ֨סַפֶּר־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וַיִּפְתׇּר־` over `וַיִּפְתָּר־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Genesis 41:14
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַבּ֑וֹר / הַבֹּ֑ור` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Genesis 41:19
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `דַּלּ֨וֹת / דַּלֹּ֨ות`, `וְרַקּ֣וֹת / וְרַקֹּ֣ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Genesis 41:20
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הָרַקּ֖וֹת / הָרַקֹּ֖ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Genesis 41:23
-- *Disregarded Surface Variant:* kept `(adopted text)` over `דַּקּ֖וֹת / דַּקֹּ֖ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:24
-- **Apparatus:** `הַשִּׁבֳּלִ֣ים` MAM (Aleppo) BenChayyim (1525) Letteris (1852) **]** **הָשִׁבֳּלִ֣ים** WLC (L) *(lexical substitution)*
+- **Apparatus:** `הַשִּׁבֳּלִ֣ים` MAM (Aleppo) **]** **הָשִׁבֳּלִ֣ים** WLC (L) BenChayyim (1525) Letteris (1852) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: Aleppo tradition (MAM); other reading(s): Leningrad Codex (WLC).
   - *external: two-stream policy:* Aleppo tradition (MAM) against the Leningrad Codex (WLC): a codex-level difference within the Masoretic text. MAM is followed.
 - *Disregarded Surface Variant:* kept `הַֽשִּׁבֳּלִ֖ים` over `הַֽשִׁבֳּלִ֖ים` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): dagesh*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַֽשִּׁבֳּלִ֖ים / הַֽשִׁבֳּלִ֖ים`, `הַֽשִּׁבֳּלִ֖ים / הַשִׁבֳּלִ֖ים` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:27
 - *Disregarded Surface Variant:* kept `הַ֠פָּר֠וֹת` over `הַ֠פָּרוֹת` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `הַֽשִּׁבֳּלִים֙` over `הַֽשִׁבֳּלִים֙` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): dagesh*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הָֽרַקּ֨וֹת / הָֽרַקֹּ֨ות`, `הַֽשִּׁבֳּלִים֙ / הַֽשִׁבֳּלִים֙`, `הַֽשִּׁבֳּלִים֙ / הַשִׁבֳּלִים֙` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:29
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -149,19 +311,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `שֶׁ֜בַע` over `שֶׁ֨בַע` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Genesis 41:32
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לַעֲשֹׂתֽוֹ׃ / לַעֲשׂתֽוֹ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Genesis 41:35
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `הַטֹּב֔וֹת` over `הַטֹּבֹ֔ת` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַטֹּב֔וֹת / הַטֹּבֹ֔ת` (BenChayyim (1525)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
 
 ### Genesis 41:37
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Genesis 41:38
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בּֽוֹ׃ / בֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:39
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -172,9 +327,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Genesis 41:41
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Genesis 41:42
-- *Disregarded Surface Variant:* kept `(adopted text)` over `טַבַּעְתּוֹ֙ / טַבַּעְתֹּו֙` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Genesis 41:43
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
@@ -183,19 +335,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 41:45
 - *Disregarded Surface Variant:* kept `פַּעְנֵ֒חַ֒` over `פַּעְנֵחַ֒` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `פּ֥וֹטִי / פֹּ֥וטִי` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:46
 - *Disregarded Surface Variant:* kept `בְּעׇמְד֕וֹ` over `בְּעָמְד֕וֹ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וַֽיַּעֲבֹ֖ר` over `וַֽיַּעְבֹ֖ר` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וַֽיַּעֲבֹ֖ר / וַֽיַּעְבֹ֖ר`, `שְׁלֹשִׁ֣ים / שְׁלשִׁ֣ים` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:48
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Genesis 41:50
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לּוֹ֙ / לֹּו֙`, `פּ֥וֹטִי / פֹּ֥וטִי`, `יֻלַּד֙ / יֻלָּד֙` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Genesis 41:51
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*

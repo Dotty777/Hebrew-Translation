@@ -1,6 +1,6 @@
 # Psalms 91 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:28Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:00Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,108 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 90:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 90:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 92:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 90:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 92:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 90:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 92:16 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -54,21 +156,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-### Psalms 91:1
-- *Disregarded Surface Variant:* kept `(adopted text)` over `יֹ֭שֵׁב / י֭שֵׁב` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 91:2
 - *Disregarded Surface Variant:* kept `לַ֭יהֹוָה` over `לַֽ֭יהוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בּֽוֹ׃ / בֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 91:3
 - *Disregarded Surface Variant:* kept `יַ֭צִּילְךָ` over `יַ֭צִּֽילְךָ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַוּֽוֹת׃ / הַוֹּֽות׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 91:4
 - *Disregarded Surface Variant:* kept `וְתַחַת־` over `וְתַֽחַת־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וְסֹחֵרָ֣ה` over `וְֽסֹחֵרָ֣ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `אֲמִתּֽוֹ׃ / אֲמִתֹּֽו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 91:5
 - *Disregarded Surface Variant:* kept `לֹֽא־` over `לֹא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -87,12 +183,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `לִ֝שְׁמׇרְךָ֗` over `לִ֝שְׁמָרְךָ֗` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 91:13
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תִּרְמֹ֖ס / תִּ֜רְמ֗ס` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 91:15
 - *Disregarded Surface Variant:* kept `וַאֲכַבְּדֵֽהוּ׃` over `וַֽאֲכַבְּדֵֽהוּ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עִמּֽוֹ־ / עִמֹּֽו־` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 91:16
 - *Disregarded Surface Variant:* kept `בִּישׁוּעָתִֽי׃` over `בִּֽישׁוּעָתִֽי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*

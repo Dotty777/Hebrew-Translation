@@ -1,6 +1,6 @@
 # 1 Samuel (1 Kingdoms) 28 — Saints Hebrew Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:00Z`
+**Division:** `02_Judgement` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:55Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,79 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| 4QSamᵃ (4Q51) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (Abegg / ETCBC DSS — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 27:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 27:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 29:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 27:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 29:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 27:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 29:11 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -72,22 +145,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### 1 Samuel (1 Kingdoms) 28:4
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### 1 Samuel (1 Kingdoms) 28:5
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לִבּ֖וֹ / לִבֹּ֖ו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### 1 Samuel (1 Kingdoms) 28:6
 - *Disregarded Surface Variant:* kept `בַּיהֹוָ֔ה` over `בַּֽיהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### 1 Samuel (1 Kingdoms) 28:7
 - *Disregarded Surface Variant:* kept `בַּעֲלַת־` over `בַּֽעֲלַת־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `דּֽוֹר׃ / דֹּֽור׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### 1 Samuel (1 Kingdoms) 28:8
 - *Disregarded Surface Variant:* kept `(קסומי)` over `קסומי־` (WLC (L)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `קָסֳמִי־` over `om.` (WLC (L)) — *Qere (read form) printed after the ketiv; the WLC export carries the ketiv only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עִמּ֔וֹ / עִמֹּ֔ו`, `(קסומי) / *קָסוֹמִי־` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(קסומי) קָסֳמִי־ / קָֽסֳומִי־` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (the editions print the written and the read form differently)*
+- *Disregarded Surface Variant:* kept `קָסֳמִי־` over `om.` (WLC (L)) — *Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `קָסֳמִי־ / `, `קָסֳמִי־ / ` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (edition prints the written form only)*
 
 ### 1 Samuel (1 Kingdoms) 28:9
 - *Disregarded Surface Variant:* kept `הָאִשָּׁ֜ה` over `הָֽאִשָּׁ֜ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -95,7 +163,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### 1 Samuel (1 Kingdoms) 28:10
 - *Disregarded Surface Variant:* kept `בַּיהֹוָ֖ה` over `בַּֽיהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֕ה` over `יְהוָ֕ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עָוֺ֖ן / עָֺו֖ן` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### 1 Samuel (1 Kingdoms) 28:11
 - *Disregarded Surface Variant:* kept `הָאִשָּׁ֔ה` over `הָֽאִשָּׁ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -104,7 +171,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### 1 Samuel (1 Kingdoms) 28:12
 - *Disregarded Surface Variant:* kept `הָאִשָּׁה֙` over `הָֽאִשָּׁה֙` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וַתֹּ֩אמֶר֩` over `וַתֹּאמֶר֩` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `׀ / ` (BenChayyim (1525)) — *Apparatus witness, not a variant: Paseq / legarmeh stroke (an accent sign) printed by one edition only*
+- *Disregarded Surface Variant:* kept `׀` over `om.` (WLC (L)) — *Paseq / legarmeh stroke (an accent sign) printed by one edition only*
 
 ### 1 Samuel (1 Kingdoms) 28:13
 - *Disregarded Surface Variant:* kept `הָאִשָּׁה֙` over `הָֽאִשָּׁה֙` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -117,7 +184,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `וֵאלֹהִ֞ים` over `וֵֽאלֹהִ֞ים` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וְלֹא־` over `וְלֹֽא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `הַנְּבִיאִים֙` over `הַנְּבִיאִם֙` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַנְּבִיאִים֙ / הַנְּבִיאִם֙`, `הַנְּבִיאִים֙ / הַנְּבִאיִם֙` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
 
 ### 1 Samuel (1 Kingdoms) 28:16
 - *Disregarded Surface Variant:* kept `וַיהֹוָ֛ה` over `וַיהוָ֛ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -130,7 +196,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `לֹא־` over `לֹֽא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֔ה` over `יְהוָ֔ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֖ה` over `יְהוָ֖ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `אַפּ֖וֹ / אַפֹּ֖ו`, `הַיּ֥וֹם / הַיֹּ֥ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### 1 Samuel (1 Kingdoms) 28:19
 - *Disregarded Surface Variant:* kept `יְ֠הֹוָ֠ה` over `יְ֠הוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -140,7 +205,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### 1 Samuel (1 Kingdoms) 28:20
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וְכׇל־` over `וְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֖וֹם / הַיֹּ֖ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### 1 Samuel (1 Kingdoms) 28:21
 - *Disregarded Surface Variant:* kept `כִּֽי־` over `כִּי־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -148,9 +212,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### 1 Samuel (1 Kingdoms) 28:23
 - *Disregarded Surface Variant:* kept `וַיָּ֙קׇם֙` over `וַיָּ֙קָם֙` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### 1 Samuel (1 Kingdoms) 28:24
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מַצּֽוֹת׃ / מַצֹּֽות׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### 1 Samuel (1 Kingdoms) 28:25
 - *Disregarded Surface Variant:* kept `לִפְנֵי־` over `לִפְנֵֽי־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -219,9 +280,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמּ֔וֹ וַיָּבֹ֥אוּ אֶל־הָאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר (קסומי) קָסֳמִי־נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלָֽיִךְ׃
   - `MAM (Aleppo)`: וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמּ֔וֹ וַיָּבֹ֥אוּ אֶל־הָאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר (קסומי) קָסֳמִי־נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלָֽיִךְ׃
   - `WLC (L)`: וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמּ֔וֹ וַיָּבֹ֥אוּ אֶל־הָאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר קסומי־נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלָֽיִךְ׃
-  - `BenChayyim (1525)`: וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמֹּ֔ו וַיָּבֹ֥אוּ אֶל־הָאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר *קָסוֹמִי־(קֽ͏ָסֳמִי)־נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלָֽיִךְ׃
+  - `BenChayyim (1525)`: וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמֹּ֔ו וַיָּבֹ֥אוּ אֶל־הָאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר קָסוֹמִי־(קֽ͏ָסֳמִי)־נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלָֽיִךְ׃
   - `Letteris (1852)`: וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמּ֔וֹ וַיָּבֹ֥אוּ אֶל־הָֽאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר קָֽסֳומִי־נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־אֹמַ֖ר אֵלָֽיִךְ׃
-- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Punctuation / spacing difference only; Qere (read form) printed after the ketiv; the WLC export carries the ketiv only).
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only; Punctuation / spacing difference only).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** וַתֹּ֨אמֶר הָאִשָּׁ֜ה אֵלָ֗יו הִנֵּ֨ה אַתָּ֤ה יָדַ֙עְתָּ֙ אֵ֣ת אֲשֶׁר־עָשָׂ֣ה שָׁא֔וּל אֲשֶׁ֥ר הִכְרִ֛ית אֶת־הָאֹב֥וֹת וְאֶת־הַיִּדְּעֹנִ֖י מִן־הָאָ֑רֶץ וְלָמָ֥ה אַתָּ֛ה מִתְנַקֵּ֥שׁ בְּנַפְשִׁ֖י לַהֲמִיתֵֽנִי׃
@@ -253,7 +314,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `WLC (L)`: וַתֵּ֤רֶא הָֽאִשָּׁה֙ אֶת־שְׁמוּאֵ֔ל וַתִּזְעַ֖ק בְּק֣וֹל גָּד֑וֹל וַתֹּאמֶר֩ הָאִשָּׁ֨ה אֶל־שָׁא֧וּל לֵאמֹ֛ר לָ֥מָּה רִמִּיתָ֖נִי וְאַתָּ֥ה שָׁאֽוּל׃
   - `BenChayyim (1525)`: וַתֵּ֤רֶא הָֽאִשָּׁה֙ אֶת־שְׁמוּאֵ֔ל וַתִּזְעַ֖ק בְּק֣וֹל גָּד֑וֹל וַתֹּאמֶר֩ הָאִשָּׁ֨ה אֶל־שָׁא֧וּל לֵאמֹ֛ר לָ֥מָּה רִמִּיתָ֖נִי וְאַתָּ֥ה שָׁאֽוּל׃
   - `Letteris (1852)`: וַתֵּ֤רֶא הָֽאִשָּׁה֙ אֶת־שְׁמוּאֵ֔ל וַתִּזְעַ֖ק בְּק֣וֹל גָּד֑וֹל וַתֹּאמֶר֩ הָֽאִשָּׁ֨ה אֶל־שָׁא֧וּל ׀ לֵאמֹ֛ר לָ֥מָּה רִמִּיתָ֖נִי וְאַתָּ֥ה שָׁאֽוּל׃
-- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Paseq / legarmeh stroke (an accent sign) printed by one edition only).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** וַיֹּ֨אמֶר לָ֥הּ הַמֶּ֛לֶךְ אַל־תִּֽירְאִ֖י כִּ֣י מָ֣ה רָאִ֑ית וַתֹּ֤אמֶר הָאִשָּׁה֙ אֶל־שָׁא֔וּל אֱלֹהִ֥ים רָאִ֖יתִי עֹלִ֥ים מִן־הָאָֽרֶץ׃

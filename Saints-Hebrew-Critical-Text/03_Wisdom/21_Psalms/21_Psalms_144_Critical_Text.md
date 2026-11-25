@@ -1,6 +1,6 @@
 # Psalms 144 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:31Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:59Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,109 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| 11QPsᵃ (11Q5) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (Abegg / ETCBC DSS — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 143:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 143:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 145:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 143:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 145:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 143:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 145:21 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -55,7 +158,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 144:2
 - *Disregarded Surface Variant:* kept `מִשְׂגַּבִּ֢י` over `מִשְׂגַּבִּ֪י` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הָרוֹדֵ֖ד / הָֽרֹדֵ֖ד` (Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
 
 ### Psalms 144:3
 - *Disregarded Surface Variant:* kept `יְֽהֹוָ֗ה` over `יְֽהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -67,12 +169,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 144:8
 - *Disregarded Surface Variant:* kept `וִ֝ימִינָ֗ם` over `וִֽ֝ימִינָ֗ם` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Psalms 144:9
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עָ֝שׂ֗וֹר / עָ֝שֹׂ֗ור` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 144:10
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַנּוֹתֵ֥ן / הַנֹּותֵ֥ן`, `הַ֭פּוֹצֶה / הַ֭פֹּוצֶה`, `עַבְדּ֗וֹ / עַבְדֹּ֗ו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 144:11
 - *Disregarded Surface Variant:* kept `מִיַּ֢ד` over `מִיַּ֪ד` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -86,7 +182,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 144:15
 - *Disregarded Surface Variant:* kept `שֱׁיְהֹוָ֥ה` over `שֶׁיֲהוָ֥ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לּ֑וֹ / לֹּ֑ו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ---
 
