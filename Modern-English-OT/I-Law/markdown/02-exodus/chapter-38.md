@@ -23,7 +23,7 @@
 
 **38:9** Then he made the table of acacia wood: two cubits was its length, one cubit its width, and one and a half cubits its height.
 
-**38:10** He cast for it four gold rings and placed the rings on the four corners that belonged to its four legs. Alongside the rim were the rings, as holders for the poles to carry the table.
+**38:10** He cast for it four gold rings and placed the rings on the four corners that belonged to its four legs. Alongside the frame were the rings, as holders for the poles to carry the table.
 
 **38:11** And he made the poles of acacia wood and overlaid them with gold to carry the table.
 
@@ -37,7 +37,7 @@
 
 **38:17** He made its seven lamps, and its tongs and its firepans, of pure gold.
 
-**38:18** He overlaid the planks with gold and made their rings of gold as holders for the bars, and he overlaid the bars with gold.
+**38:18** He overlaid the planks with gold and made their rings of gold as holders for the crossbars, and he overlaid the crossbars with gold.
 
 **38:22** Then he made the altar of burnt offering of acacia wood: five cubits was its length and five cubits its width—it was square—and three cubits its height.
 

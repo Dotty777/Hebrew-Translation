@@ -23,7 +23,7 @@
 
 **39:10** So all the work of the tabernacle of the tent of meeting was finished; the sons of Israel did according to everything that the LORD commanded Moses, just so they did.
 
-**39:13** Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, its planks, its bars, its pillars, and its bases;
+**39:13** Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, its planks, its crossbars, its pillars, and its bases;
 
 **39:14** the ark of the testimony, its poles, and the atonement cover;
 
@@ -45,7 +45,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**39:39** *(after `39:15`)* the bronze altar and its bronze grating, its poles and all its articles; the basin and its base;
+**39:39** *(after `39:15`)* the bronze altar and its bronze grating, its poles and all its articles; the basin and its stand;
 
 ## Translator Notes
 

@@ -17,7 +17,7 @@
 
 **4:6** Now when the Jews who lived beside them came, they told us ten times from all the places, "You must return to us."
 
-**4:7** So I stationed them in the lowest parts of the space behind the wall, in the exposed places—I stationed the people by families, with their swords, their spears, and their bows.
+**4:7** So I stationed the people in the lowest parts of the space behind the wall, in the exposed places—I stationed them by families, with their swords, their spears, and their bows.
 
 **4:8** Then I looked, and I rose and said to the nobles, to the officials, and to the rest of the people, "Do not fear them! Remember the great and awesome Lord, and fight for your brothers, your sons and your daughters, your wives and your houses."
 
@@ -42,6 +42,6 @@
 ## Translator Notes
 
 - **4:6** — The Hebrew clause beginning with 'from all the places' (mikkol-hammeqomot asher-tashuvu alenu) is notoriously terse. Here asher is taken as introducing speech (as elsewhere in Nehemiah) and al as 'to,' rendering a plea from the outlying Jews for the builders to return home, though others construe it elliptically as a warning of attacks from every direction.
-- **4:7** — Translates the Qere batsehihim ('in the exposed places'); the Ketiv btshhyym transposes the medial yod and chet.
+- **4:7** — Translates the Qere batsehihim ('in the exposed places'); the Ketiv btshhyym transposes the medial yod and chet. Hebrew repeats the verb "I stationed" (wa'a'amid) before naming the object "the people" (et-ha'am).
 - **4:9** — Translates the Qere wannashov ('and we returned,' standard Qal wayyiqtol 1cp of shuv); the Ketiv wnshwb reflects a fuller spelling of the verb.
 - **4:17** — The final three Hebrew words (ish shilho hammayim, literally 'each man his weapon, the water') are famously elliptical, generally understood to mean that each man kept his weapon with him even when going to the water.
