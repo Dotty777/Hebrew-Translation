@@ -30,7 +30,7 @@
 ## Translator Notes
 
 - **115:1** — The syntax of the clause ki adabber is debated: taking ki as temporal-concessive ('even as I spoke') introduces the lament that follows, whereas ancient versions such as the Septuagint read ki as consequential ('therefore I spoke').
-- **115:3** — 'His generous deeds' renders a unique Hebrew noun (tagmulohi) from the same root as 'dealt generously' in 114:7, bearing an Aramaic-style masculine singular possessive suffix (-ohi).
+- **115:3** — 'His generous deeds' renders a unique Hebrew noun (tagmulohi) from the same root as 'dealt generously' in 114:7 (MT 116:7), bearing an Aramaic-style masculine singular possessive suffix (-ohi).
 - **115:6** — 'Costly' (yaqar, literally 'precious' or 'weighty') expresses that the LORD does not treat the death of His loyal ones lightly; the noun 'death' (hammavtah) carries a poetic -ah ending.
 - **115:7** — 'Untied' renders the Piel of patach with the preposition le marking the direct object ('my bonds'), an Aramaic-influenced construction.
 - **115:10** — 'Within you' (betokeki) uses an Aramaic-influenced feminine singular suffix addressing Jerusalem, and 'Praise the LORD!' renders the liturgical call halelu-yah ('Praise Yah,' a shortened poetic form of the LORD's name).

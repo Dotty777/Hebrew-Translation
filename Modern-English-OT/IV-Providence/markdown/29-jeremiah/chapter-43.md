@@ -72,7 +72,7 @@
 ## Translator Notes
 
 - **43:2** — Hebrew megillat-sepher literally means "scroll of a book" (or document); this chapter distinguishes megillah ("scroll") from sepher ("book").
-- **43:7** — Hebrew tippol techinnatam liphne literally reads "their supplication will fall before," an idiom for humbly presenting a plea for favorable reception (also in 44:20).
+- **43:7** — Hebrew tippol techinnatam liphne literally reads "their supplication will fall before," an idiom for humbly presenting a plea for favorable reception (also in 44:20 [MT 37:20]).
 - **43:16** — Hebrew pachadu 'ish 'el-re'ehu literally means "they dreaded, each toward his companion," a pregnant construction expressing that they turned to one another in dread.
 - **43:22** — Hebrew we'et-ha'ach lephanaw mebo'aret places the marker 'et before the grammatical subject ha'ach ("the brazier") with the feminine Pual participle mebo'aret ("burning, kept alight").
 - **43:23** — Hebrew delatot literally means "doors," used as a scribal term for the rectangular columns of text on a scroll; wehashlekh is a Hiphil infinitive absolute continuing the iterative action of the preceding verb.

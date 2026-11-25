@@ -40,5 +40,5 @@
 - **16:4** — Hebrew shamarti ("I have kept/guarded") is used here in the sense of "guard against" or "keep away from."
 - **16:10** — Hebrew "their fat" (chelbamo) is a poetic idiom for a callous, unfeeling heart closed against compassion.
 - **16:11** — Qere reads "they have surrounded us" (sebabunu), matching "our steps"; ketiv reads "they have surrounded me" (sebabuni).
-- **16:13** — Hebrew literally reads "Your sword" (and "Your hand" in 16:14) without a preposition, understood here instrumentally ("by Your sword," "by Your hand"), though it may also be taken in apposition to the wicked.
+- **16:13** — Hebrew literally reads "Your sword" (and "Your hand" in 16:14 [MT 17:14]) without a preposition, understood here instrumentally ("by Your sword," "by Your hand"), though it may also be taken in apposition to the wicked.
 - **16:14** — Qere reads a Qal passive participle (tzefunekha, "what You have stored up"); ketiv has an alternate spelling of the noun (tzefinekha).

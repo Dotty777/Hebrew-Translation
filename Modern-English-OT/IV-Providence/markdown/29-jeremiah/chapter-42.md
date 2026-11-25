@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **42:6** — The Hebrew text alternates between the shorter spelling Jonadab (42:6, 10, 19) and the longer spelling Jehonadab (42:8, 14, 16, 18) for the same Rechabite ancestor.
-- **42:14** — The Hophal singular verb huqam ("have been upheld") governs a plural logical subject introduced by the object marker et, an impersonal passive construction in Biblical Hebrew. The paired infinitives absolute hashkem wedabber ("rising early and speaking," and similarly hashkem weshaloaḥ in 42:15) are a characteristic Jeremianic idiom for earnest, persistent action.
+- **42:6** — The Hebrew text alternates between the shorter spelling Jonadab (42:6, 10, 19 [MT 35:6, 10, 19]) and the longer spelling Jehonadab (42:8, 14, 16, 18 [MT 35:8, 14, 16, 18]) for the same Rechabite ancestor.
+- **42:14** — The Hophal singular verb huqam ("have been upheld") governs a plural logical subject introduced by the object marker et, an impersonal passive construction in Biblical Hebrew. The paired infinitives absolute hashkem wedabber ("rising early and speaking," and similarly hashkem weshaloaḥ in 42:15 [MT 35:15]) are a characteristic Jeremianic idiom for earnest, persistent action.
 - **42:15** — Hebrew contrasts two similar-sounding Qal imperatives: shuvu ("turn back," from shuv) at the start of the prophetic message and ushevu ("then you will dwell," from yashav), an imperative expressing the promised consequence of repentance.
-- **42:17** — Unlike 42:13, 18, and 19 ("the LORD of hosts"), the Hebrew here reads the fuller title "the LORD, the God of hosts, the God of Israel."
+- **42:17** — Unlike 42:13, 18, and 19 (MT 35:13, 18, and 19) ("the LORD of hosts"), the Hebrew here reads the fuller title "the LORD, the God of hosts, the God of Israel."

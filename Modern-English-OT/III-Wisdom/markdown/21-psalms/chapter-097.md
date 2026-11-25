@@ -25,6 +25,6 @@
 
 ## Translator Notes
 
-- **97:1** — The Hiphil perfect verb hoshiah ("has brought salvation") is feminine singular, agreeing grammatically with the nearest subject, "His right hand" (feminine in Hebrew), and shares the same root as "salvation" in 97:2-3.
-- **97:4** — The Hiphil imperative hariu ("shout in triumph," repeated in 97:6) denotes a loud cry of victory or royal acclamation, often accompanied by horn blasts.
+- **97:1** — The Hiphil perfect verb hoshiah ("has brought salvation") is feminine singular, agreeing grammatically with the nearest subject, "His right hand" (feminine in Hebrew), and shares the same root as "salvation" in 97:2–3 (MT 98:2–3).
+- **97:4** — The Hiphil imperative hariu ("shout in triumph," repeated in 97:6 [MT 98:6]) denotes a loud cry of victory or royal acclamation, often accompanied by horn blasts.
 - **97:6** — Hebrew distinguishes two instruments here: the chatsotserot ("trumpets," straight metal instruments used by priests) and the shofar ("ram's horn").

@@ -43,6 +43,6 @@
 
 - **35:1** — Ketiv/Qere variant: the written ketiv has the construct form bishnath ('in the year of'), while the read qere has the definite absolute form bashanah ('in the [fourth] year'), agreeing with the definite adjective 'the fourth.'
 - **35:3** — 'two full years' translates the Hebrew idiom shenatayim yamim (literally 'two years of days'; also in v. 11).
-- **35:8** — The Hebrew text reads ra'ah ('disaster/calamity') rather than ra'abh ('famine'), which appears in the similar triad in 34:8.
+- **35:8** — The Hebrew text reads ra'ah ('disaster/calamity') rather than ra'abh ('famine'), which appears in the similar triad in 34:8 (MT 27:8).
 - **35:13** — The Hebrew verb is 2nd-person masculine singular with penultimate stress (we'asitha, 'and you have made'), attributing the resulting iron yoke bars to Hananiah's own act of breaking the wooden bars, in contrast to God's 1st-person declaration in v. 14.
 - **35:16** — 'sending you off' (Piel participle of shalach) creates an ironic wordplay with v. 15, 'The LORD has not sent you' (Qal perfect of the same root).

@@ -66,7 +66,7 @@
 ## Translator Notes
 
 - **20:8** — Ketiv reads hassefarim ('the letters') with the definite article, while Qere reads sefarim ('letters') without the article.
-- **20:10** — Hebrew berekhta (Piel of barakh, literally 'you have blessed') is a reverential euphemism for 'cursed' (so also in 20:13) to avoid pairing 'curse' directly with 'God.' 'Sons of worthlessness' (bene-veliyya'al) is a Hebrew idiom for base, unscrupulous scoundrels.
+- **20:10** — Hebrew berekhta (Piel of barakh, literally 'you have blessed') is a reverential euphemism for 'cursed' (so also in 20:13 [MT 21:13]) to avoid pairing 'curse' directly with 'God.' 'Sons of worthlessness' (bene-veliyya'al) is a Hebrew idiom for base, unscrupulous scoundrels.
 - **20:21** — 'Every male' renders the coarse Hebrew idiom mashtin beqir (literally 'one who urinates against a wall'). 'Both confined and free' renders the merism 'atsur ve'azuv (literally 'restrained and released/abandoned'), encompassing everyone without exception.
 - **20:23** — The Masoretic Text reads behel ('by the rampart/outer wall'), distinct from beheleq ('in the plot/territory') in 2 Kings 9:10, 36.
 - **20:27** — Hebrew wayhallekh 'at (Piel of halakh with 'at, literally 'walked about softly/gently') denotes a slow, subdued manner expressing humility and mourning.

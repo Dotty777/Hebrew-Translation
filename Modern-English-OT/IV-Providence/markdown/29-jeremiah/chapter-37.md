@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **37:8** — Hebrew shifts abruptly from third person ('his yoke') to second person ('your neck... your bonds') and back to third person ('enslave him'), common in prophetic poetry; the idiom avad be- ('impose service on / enslave') contrasts with avad et- ('serve') in 37:9.
+- **37:8** — Hebrew shifts abruptly from third person ('his yoke') to second person ('your neck... your bonds') and back to third person ('enslave him'), common in prophetic poetry; the idiom avad be- ('impose service on / enslave') contrasts with avad et- ('serve') in 37:9 (MT 30:9).
 - **37:13** — The Masoretic pause (athnach) stands after lemazor ('for the sore,' traditionally linked to the first clause as 'for binding up'), though mazor ('sore/ulcer') pairs naturally with the medical phrase refuot te'alah ('remedies of healing').
 - **37:21** — Hebrew arav et-libbo literally means 'pledged his heart' (Qal of arav, 'stand surety / give as a pledge'), an idiom for risking one's life or daring on one's own authority.
 - **37:23** — Mitgorer is a Hithpolel participle (from garar, 'sweep/drag away,' hence 'a sweeping tempest'), contrasting with mitkholel ('whirling') in the parallel oracle at Jeremiah 23:19.

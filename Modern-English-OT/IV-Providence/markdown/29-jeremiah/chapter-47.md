@@ -42,5 +42,5 @@
 - **47:3** — Ketiv reads indefinite דבר, whereas Qere supplies the definite article הַדָּבָר ("this thing") in agreement with the demonstrative הַזֶּה.
 - **47:5** — The clause וְעוֹדֶנּוּ לֹא־יָשׁוּב וְשֻׁבָה (lit. "And while he had not yet turned back, and go back...") shifts abruptly from a 3ms narrative aside into Nebuzaradan's direct imperative with the verb of speaking implied.
 - **47:8** — Ketiv reads עופי ("Ophai"), whereas Qere reads עֵיפַי ("Ephai").
-- **47:14** — "To strike you dead" renders the Hebrew idiom לְהַכֹּתְךָ נָפֶשׁ (Hiphil infinitive construct of נָכָה with adverbial accusative נֶפֶשׁ, lit. "to strike you as to life"; likewise יַכֶּכָּה נֶּפֶשׁ in 47:15).
+- **47:14** — "To strike you dead" renders the Hebrew idiom לְהַכֹּתְךָ נָפֶשׁ (Hiphil infinitive construct of נָכָה with adverbial accusative נֶפֶשׁ, lit. "to strike you as to life"; likewise יַכֶּכָּה נֶּפֶשׁ in 47:15 [MT 40:15]).
 - **47:16** — Ketiv writes the short jussive form תעש, whereas Qere reads the full form תַּעֲשֵׂה (both Qal 2ms of עָשָׂה, "do," with the same sense after אַל).

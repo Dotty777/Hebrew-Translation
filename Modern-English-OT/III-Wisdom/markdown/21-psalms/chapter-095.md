@@ -34,5 +34,5 @@
 ## Translator Notes
 
 - **95:5** — The Hebrew pairs elohim ("gods") with elilim ("empty idols"), a wordplay contrasting the living God with false deities characterized as worthless or nothing.
-- **95:9** — The construct phrase hadrat-qodesh ("the splendor of holiness") uses a noun from the same root as "splendor" in 95:6 and can refer either to the LORD's own holy majesty or to the sacred attire worn by worshipers.
+- **95:9** — The construct phrase hadrat-qodesh ("the splendor of holiness") uses a noun from the same root as "splendor" in 95:6 (MT 96:6) and can refer either to the LORD's own holy majesty or to the sacred attire worn by worshipers.
 - **95:13** — The form ba ("is coming") is identical in vocalization for both the Qal perfect and the Qal participle of bo, expressing the LORD's imminent arrival; the doubled ki ba emphasizes certainty.

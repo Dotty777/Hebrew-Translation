@@ -66,5 +66,5 @@
 - **45:2** — Ketiv reads the Qal imperfect יחיה ("will live"), whereas Qere reads the waw-consecutive Qal perfect וְחָיָה ("will live"), marking the apodosis after the participial subject.
 - **45:11** — Ketiv includes the definite article on the second noun of the construct chain (הסחבות), whereas Qere omits the article (סְחָבוֹת, "worn-out rags"), matching the indefinite בְּלוֹיֵי מְלָחִים that follows.
 - **45:16** — Ketiv writes the object marker את before אֲשֶׁר; this is a ketiv velo qere (written but not read) and is omitted in the Qere.
-- **45:23** — The Masoretic vocalization תִּשְׂרֹף is Qal 2ms active ("you will burn"), holding Zedekiah directly responsible for the city's burning (contrast the Niphal passive תִּשָּׂרֵף in 45:17).
-- **45:28** — The closing clause וְהָיָה כַּאֲשֶׁר נִלְכְּדָה יְרוּשָׁלִָם (lit. "And it came about when Jerusalem was captured") stands in the MT as an abrupt transitional clause linking to the capture account in chapter 46.
+- **45:23** — The Masoretic vocalization תִּשְׂרֹף is Qal 2ms active ("you will burn"), holding Zedekiah directly responsible for the city's burning (contrast the Niphal passive תִּשָּׂרֵף in 45:17 [MT 38:17]).
+- **45:28** — The closing clause וְהָיָה כַּאֲשֶׁר נִלְכְּדָה יְרוּשָׁלִָם (lit. "And it came about when Jerusalem was captured") stands in the MT as an abrupt transitional clause linking to the capture account in chapter 46 (MT chapter 39).

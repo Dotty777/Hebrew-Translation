@@ -111,6 +111,6 @@
 
 - **17:2** — Hebrew erchamkha is the sole Qal occurrence of the root r-ch-m (elsewhere Piel or Pual, "have compassion"), expressing deep, heartfelt love.
 - **17:15** — Hebrew rab may be parsed as a Qal perfect of r-b-b II ("shot/hurled," parallel to "sent out His arrows") or as an adjective or verb from r-b-b I ("in abundance/multiplied").
-- **17:27** — Four Hithpael verbs in 17:26-27 express God's reciprocal dealing; titpattal literally means "show Yourself twisting/tortuous," that is, outmaneuvering the crooked shrewdly.
+- **17:27** — Four Hithpael verbs in 17:26–27 (MT 18:26–27) express God's reciprocal dealing; titpattal literally means "show Yourself twisting/tortuous," that is, outmaneuvering the crooked shrewdly.
 - **17:36** — Hebrew anvatekha literally means "Your humility" or "Your gentleness," denoting God's gracious condescension toward the psalmist.
 - **17:46** — Hebrew yachregu is a hapax legomenon, understood from Aramaic cognates and context as "come quaking" or "emerge trembling."

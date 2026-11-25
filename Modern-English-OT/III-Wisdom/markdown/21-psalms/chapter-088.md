@@ -113,7 +113,7 @@
 
 ## Translator Notes
 
-- **88:7** — Hebrew bene elim ("divine beings") literally means "sons of gods" or "sons of mighty ones," a poetic idiom for members of God's heavenly council (parallel to "the holy ones" in 88:6, 8).
+- **88:7** — Hebrew bene elim ("divine beings") literally means "sons of gods" or "sons of mighty ones," a poetic idiom for members of God's heavenly council (parallel to "the holy ones" in 88:6, 8 [MT 89:6, 8]).
 - **88:18** — The qere tarum (Qal imperfect 3fs, "our horn is lifted high") is translated here; the ketiv reads a Hiphil imperfect 2ms ("You lift high our horn").
 - **88:23** — Hebrew yashi with the preposition be (nasha I, Hiphil) denotes a creditor making exactions ("exact tribute from him"), though some derive it from nasha II ("deceive" or "outwit").
 - **88:29** — The ketiv and qere differ only orthographically (plene versus defective spelling before maqqef); both are the Qal imperfect 1cs of shamar ("I will keep").

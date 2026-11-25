@@ -1,6 +1,6 @@
 # Jeremiah 7 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (32 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -79,4 +79,5 @@
 - **7:13** — The phrase "rising early and speaking" renders the Hiphil infinitive absolute of shakam ("rise early") paired with daber ("speak"), a Hebrew idiom for persistent, earnest action (compare 7:25).
 - **7:18** — The Masoretic Text vocalizes the title "queen of heaven" as melekhet rather than malkat ("queen"), resembling the word for "workmanship" and likely reflecting a deliberate vocalic alteration to avoid honoring a pagan deity.
 - **7:22** — Following the Qere (read form) hotsi'i ("I brought out," Hiphil infinitive construct with first-person singular suffix); the Ketiv (written form) hotsi lacks the suffix ("bringing out").
+- **7:27** — In native Masoretic order, MT 7:27 ("And you will speak all these words to them...") appears under Additional Verses after 7:26, while this verse translates MT 7:28 at Saints.Bible parallel slot 7:27 (leaving slot 7:28 unmapped in the Masoretic Text).
 - **7:29** — The Hebrew noun nezer denotes consecration or a crown, here referring to uncut hair worn as a sign of consecration and shaved off in mourning.

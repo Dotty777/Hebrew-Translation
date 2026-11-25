@@ -158,5 +158,5 @@
 - **7:52** — The written text (ketiv) spells the name "Nephushesim," while the read tradition (qere) followed here reads "Nephishesim."
 - **7:64** — The verb translated "disqualified as unclean" is a Pual form of a root meaning to defile or declare ritually impure, distinct from the homonymous root meaning to redeem.
 - **7:65** — The title translated "governor" is the Persian loanword tirshatha, used for the Persian-appointed ruler of Judah.
-- **7:69** — Verse 68, which lists horses and mules in some later manuscripts and ancient versions (compare Ezra 2:66), is absent from the Masoretic Text here.
+- **7:69** — Saints.Bible/traditional verse 68, which lists horses and mules in some later manuscripts and ancient versions (compare Ezra 2:66), is absent from the Masoretic Text before this verse (Saints 7:69; MT 7:68).
 - **7:70** — The Hebrew term darkemonim refers to gold coins (drachmas or Persian darics). The Masoretic Text literally gives the count of priests' tunics as "30 and 500" (530).

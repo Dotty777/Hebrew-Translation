@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **30:14** — The Hebrew clause can also be construed with "the little ones of the flock" as the object ("they will drag them away, even the little ones of the flock") and the Hiphil verb yashim as transitive ("he will lay waste their pasture over them").
-- **30:17** — Malcam (Hebrew malkam) is a form of the Ammonite deity Milcom's name and is identical in vocalization to "their king"; the reference to his priests in 30:19 confirms the deity.
+- **30:17** — Malcam (Hebrew malkam) is a form of the Ammonite deity Milcom's name and is identical in vocalization to "their king"; the reference to his priests in 30:19 (MT 49:3) confirms the deity.
 - **30:23** — Ketiv/Qere: the written ketiv spells the king's name nbwkdr'swr (Nebuchadrezor), while the read qere followed here is Nebuchadrezzar, rendered with the standard English spelling Nebuchadnezzar.
 - **30:25** — Ketiv/Qere: the written ketiv reads "against them" ('alehem), while the read qere followed here is "against you" ('alekem), matching the second-person plural earlier in the verse.
 - **30:29** — The Masoretic Hebrew reads "on the sea" (bayyam), with masculine singular "it cannot" (yukal) referring back to the sea to portray restless agitation that cannot subside.

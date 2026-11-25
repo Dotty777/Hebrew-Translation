@@ -30,5 +30,5 @@
 ## Translator Notes
 
 - **146:1** — The form rendered "to make music" is a Piel infinitive construct with a feminine ending taking "our God" as its direct object and serving as the subject of "good." The masculine adjective "pleasant" either refers impersonally to making music ("it is pleasant") or describes God ("He is pleasant").
-- **146:5** — Literally "to His understanding there is no number," intentionally echoing "number" in 146:4 to contrast the countable stars with God's uncountable understanding.
+- **146:5** — Literally "to His understanding there is no number," intentionally echoing "number" in 146:4 (MT 147:4) to contrast the countable stars with God's uncountable understanding.
 - **146:7** — The Qal imperative "Respond" comes from the Hebrew root meaning "answer" or "respond," used in liturgical contexts for responsive singing and praise.

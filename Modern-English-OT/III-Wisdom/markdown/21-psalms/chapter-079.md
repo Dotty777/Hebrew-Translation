@@ -47,8 +47,8 @@
 
 ## Translator Notes
 
-- **79:5** — As elsewhere in the Elohistic Psalter (see also 79:8, 15, 20), Elohim stands in the absolute state rather than construct Elohei before Tsevaot ("hosts"). The Qal perfect verb ashanta literally means "you have smoked" or "fumed," a metaphor for smoldering anger.
+- **79:5** — As elsewhere in the Elohistic Psalter (see also 79:8, 15, 20 [MT 80:8, 15, 20]), Elohim stands in the absolute state rather than construct Elohei before Tsevaot ("hosts"). The Qal perfect verb ashanta literally means "you have smoked" or "fumed," a metaphor for smoldering anger.
 - **79:6** — Hebrew shalish literally denotes "a third" (a substantial dry or liquid measure, cf. Isa 40:12), used metaphorically here for tears poured out in large measure.
 - **79:11** — The phrase arzei-el (literally "cedars of God") is a Hebrew idiom for towering, mighty cedars; the Pual perfect verb kossu ("were covered") from the first clause carries over chiastically into the second.
 - **79:14** — The quadriliteral verb yekharsemennah (from krsm) is a biblical hapax legomenon meaning to gnaw off or strip bare, and ziz sadai is a poetic phrase for wild moving creatures of the open field.
-- **79:16** — Hebrew kannah is a hapax legomenon usually taken as a noun meaning "stock" or "rootstock" (related to ken, "base"), though some parse it as a Qal imperative meaning "protect"; the Masoretic Text reads simply ben ("son") rather than "son of man" as in 79:18.
+- **79:16** — Hebrew kannah is a hapax legomenon usually taken as a noun meaning "stock" or "rootstock" (related to ken, "base"), though some parse it as a Qal imperative meaning "protect"; the Masoretic Text reads simply ben ("son") rather than "son of man" as in 79:18 (MT 80:18).

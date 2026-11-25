@@ -19,6 +19,6 @@
 
 ## Translator Notes
 
-- **127:1** — The wisdom exclamation ashrei ("how happy," also in 126:5 and 127:2) describes a flourishing state of well-being and is distinguished here from the verb barakh ("bless," Pual in v. 4 and Piel in v. 5).
+- **127:1** — The wisdom exclamation ashrei ("how happy," also in 126:5 and 127:2 [MT 127:5 and 128:2]) describes a flourishing state of well-being and is distinguished here from the verb barakh ("bless," Pual in v. 4 and Piel in v. 5).
 - **127:2** — The phrase "the labor of your hands" (yegia kappekha, lit. "toil of your palms") is Hebrew metonymy for the yield produced by one's work. The conjunction ki following the fronted object is rendered emphatically ("indeed"), though it can also be taken temporally ("when").
 - **127:3** — The noun yarketei ("inner parts") denotes the private interior quarters of the house, and shetilei ("saplings," a hapax legomenon from shatal, "to plant/transplant") refers to vigorous young olive shoots.

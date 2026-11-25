@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Hebrew & Biblical Aramaic)
 
 > **Status:** `draft: true` — **100.00% Complete & Post-Audit Polished**  
-> **Coverage:** **ALL 39/39 Hebrew & Aramaic Bible books** (929 chapters, **22,874** placed verses + **293** additional `no-site-verse` MT verses = **23,167 total verses**, **4,317** translator notes [4,254 verse + 63 additional]).  
+> **Coverage:** **ALL 39/39 Hebrew & Aramaic Bible books** (929 chapters, **22,874** placed verses + **293** additional `no-site-verse` MT verses = **23,167 total verses**, **4,318** translator notes [4,255 verse + 63 additional]).  
 > **Validation:** `validate_modern_english.py --corpus full --lang heb --include-missing` **929/929 PASS, 0 FAIL**; 0 hard/soft archaisms, 0 `"Thus says"`, 0 ketiv/qere leaks, 0 Arabic digits.
 
 ## Overview
@@ -19,7 +19,7 @@ This directory contains the complete **Saints Modern English** translation of th
 | **I. Law (Pentateuch / Torah)** | **Complete** | 5 / 5 | 187 | 5,791 | 58 | 902 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | **Complete** | 13 / 13 | 291 | 7,940 | 120 | 1,360 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | **Complete** | 5 / 5 | 206 | 3,903 | 24 | 883 | [`III-Wisdom/`](III-Wisdom/README.md) |
-| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,240 | 91 | 1,172 | [`IV-Providence/`](IV-Providence/README.md) |
+| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,240 | 91 | 1,173 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
 
@@ -64,7 +64,7 @@ This directory contains the complete **Saints Modern English** translation of th
 | # | Book | Chapters | Verses | Additional | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---:|---|---|
 | 28 | Isaiah | 66 | 1,289 | 2 | 294 | [`IV-Providence/markdown/28-isaiah/`](IV-Providence/markdown/28-isaiah/README.md) | [`28-isaiah.json`](IV-Providence/json/28-isaiah.json) |
-| 29 | Jeremiah | 52 | 1,296 | 68 | 260 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
+| 29 | Jeremiah | 52 | 1,296 | 68 | 261 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
 | 30 | Ezekiel | 48 | 1,266 | 6 | 231 | [`IV-Providence/markdown/30-ezekiel/`](IV-Providence/markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](IV-Providence/json/30-ezekiel.json) |
 | 31 | Daniel | 12 | 339 | 15 | 87 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
 | 32 | Hosea | 14 | 197 | — | 59 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |

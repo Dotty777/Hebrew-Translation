@@ -61,8 +61,8 @@
 
 ## Translator Notes
 
-- **43:3** — Hiphil horashta (dispossessed) forms a deliberate wordplay with Qal yaresho (possess) in 43:4; Piel watteshallechem (made them spread out) continues the vine-planting image of wattitta'em (planted them) with Israel as object, though some take it as sent them away referring to the peoples.
+- **43:3** — Hiphil horashta (dispossessed) forms a deliberate wordplay with Qal yaresho (possess) in 43:4 (MT 44:4); Piel watteshallechem (made them spread out) continues the vine-planting image of wattitta'em (planted them) with Israel as object, though some take it as sent them away referring to the peoples.
 - **43:13** — Hebrew belo-hon literally means for no wealth, and Piel ribbitah (increased/raised high) with bimchireihem (in their prices) expresses that God set no high price and sought no gain in selling His people.
 - **43:19** — The negative lo in the first clause carries double-duty force into the second clause (nor have our steps turned aside), where the third-person feminine singular wayyiqtol verb wattett (Qal of natah) agrees with feminine ashureinu (our steps).
-- **43:20** — Hebrew ki functions adversatively or concessively here (Yet) following the protestation of loyalty in 43:18-19; the Masoretic pointing tsalmawet treats the noun as shadow of death, while the consonantal form likely means deep darkness, captured here by deathly shadow.
+- **43:20** — Hebrew ki functions adversatively or concessively here (Yet) following the protestation of loyalty in 43:18–19 (MT 44:18–19); the Masoretic pointing tsalmawet treats the noun as shadow of death, while the consonantal form likely means deep darkness, captured here by deathly shadow.
 - **43:27** — Hebrew ezratah is a poetic lengthened form of ezrah (help) with the emphatic ending -atah, standing directly after the imperative qumah (Rise up).
