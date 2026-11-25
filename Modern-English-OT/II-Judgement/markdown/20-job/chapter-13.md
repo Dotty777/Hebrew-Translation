@@ -59,7 +59,7 @@
 
 **13:27** You place my feet in the stocks and keep watch over all my paths; You trace a boundary around the soles of my feet.
 
-**13:28** And he wears out like a decaying thing, like a garment that a moth has eaten.
+**13:28** And he wears out like a decaying thing, like a garment that a moth has eaten."
 
 ## Translator Notes
 

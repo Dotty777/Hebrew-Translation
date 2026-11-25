@@ -65,7 +65,7 @@
 
 **12:30** And he took the crown of their king from his head, and its weight was a talent of gold with a precious stone, and it was on David's head. He also brought out the spoil of the city in great abundance.
 
-**12:31** And he brought out the people who were in it and set them to the saw, and to iron picks, and to iron axes, and made them pass through the brickkiln; and thus he did to all the cities of the sons of Ammon. Then David and all the people returned to Jerusalem.
+**12:31** And he brought out the people who were in it and set them to the saw, and to iron picks, and to iron axes, and made them pass through the brick kiln; and thus he did to all the cities of the sons of Ammon. Then David and all the people returned to Jerusalem.
 
 ## Translator Notes
 
@@ -73,4 +73,4 @@
 - **12:14** — The Hebrew reads "you have caused the enemies of the LORD to show utter contempt" (taking the Piel infinitive absolute plus finite verb of na'ats causatively); the phrase "the enemies of the LORD" is widely viewed as a scribal euphemism to avoid speaking directly of scorning the LORD.
 - **12:24** — Qere reads "and she called" (Bathsheba), whereas Ketiv reads "and he called" (David).
 - **12:30** — The Masoretic vocalization reads "their king" (malkam); the same consonants can also be vocalized as Milcom (or Malcam), the national deity of the Ammonites.
-- **12:31** — Qere reads "the brickkiln" (or "brick-mold"), whereas Ketiv reads a form of uncertain sense ("bmlkn"). The idioms "set them to" and "made them pass through" are understood by some as forced labor and by others as severe punishment.
+- **12:31** — Qere reads "the brick kiln" (or "brick-mold"), whereas Ketiv reads a form of uncertain sense ("bmlkn"). The idioms "set them to" and "made them pass through" are understood by some as forced labor and by others as severe punishment.

@@ -7,7 +7,7 @@
 
 **103:1** Bless the LORD, my soul! LORD my God, You are exceedingly great; You are robed in majesty and splendor,
 
-**103:2** wrapping Yourself in light like a cloak, stretching out the heavens like a tent curtain.
+**103:2** wrapping Yourself in light like a cloak, stretching out the heavens like a tent curtain,
 
 **103:3** who lays the beams of His upper chambers in the waters, who sets the clouds as His chariot, who walks on the wings of the wind,
 

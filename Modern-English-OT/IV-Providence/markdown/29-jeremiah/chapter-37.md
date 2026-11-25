@@ -39,7 +39,7 @@
 
 **37:20** And his sons will be as in former days, and his assembly will be established before Me, and I will punish all his oppressors.
 
-**37:21** And his noble one will be from himself, and his ruler will come forth from his midst; I will bring him near, and he will approach Me, for who is this who would pledge his heart to approach Me? declares the LORD."
+**37:21** And his noble one will be from himself, and his ruler will come forth from his midst; I will bring him near, and he will approach Me, for who is this who would pledge his heart to approach Me?" declares the LORD.
 
 **37:23** Look, the tempest of the LORD! Fury has gone forth, a sweeping tempest; upon the head of the wicked it will whirl down.
 

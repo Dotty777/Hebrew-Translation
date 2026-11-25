@@ -115,7 +115,7 @@
 
 **17:50** *(after `17:49`)* So David overpowered the Philistine with a sling and a stone; he struck the Philistine down and killed him, though there was no sword in David's hand.
 
-**17:55** *(after `17:54`)* When Saul saw David going out to face the Philistine, he said to Abner, the commander of the army, "Whose son is this young man, Abner?" And Abner answered, "As surely as your soul lives, O king, I do not know."
+**17:55** *(after `17:54`)* When Saul saw David going out to face the Philistine, he said to Abner, the commander of the army, "Whose son is this young man, Abner?" And Abner answered, "As surely as your soul lives, king, I do not know."
 
 **17:56** *(after `17:54`)* And the king said, "You yourself inquire whose son this youth is."
 

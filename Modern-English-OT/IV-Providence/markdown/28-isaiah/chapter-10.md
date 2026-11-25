@@ -33,7 +33,7 @@
 
 **10:14** And like a nest my hand found the wealth of the peoples; just as someone gathers abandoned eggs, I myself gathered the whole earth, and there was not one flapping a wing, or opening a mouth, or chirping."
 
-**10:15** Will the ax boast over the one who chops with it, or will the saw exalt itself over the one who swings it? As though a rod should swing those who lift it, or as though a staff should lift someone who is not wood!
+**10:15** Will the axe boast over the one who chops with it, or will the saw exalt itself over the one who swings it? As though a rod should swing those who lift it, or as though a staff should lift someone who is not wood!
 
 **10:16** Therefore the Lord, the LORD of hosts, will send a wasting illness among his stout ones, and beneath his glory a burning will blaze like the blaze of fire.
 
