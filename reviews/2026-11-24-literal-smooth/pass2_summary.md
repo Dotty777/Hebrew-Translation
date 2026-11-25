@@ -104,3 +104,19 @@ Also caught and refined:
 | 38 | Zechariah | 14 | 211 | 211 | 0 | 211 | 57 | 206 | 5 | 0 |
 | 39 | Malachi | 3 | 55 | 55 | 0 | 55 | 15 | 51 | 4 | 0 |
 | — | **TOTAL (39 MT Books)** | **929** | **23,213** | **22,874** | **293** | **23,213** | **4,308** | **23,008** | **205** | **0** |
+---
+
+## 5. Stage 2 Pass 3 Bounce-Back Verification (`P3B-001`–`P3B-014`)
+
+- **Pass 3 Standalone Surface Commit (`HEB_PASS3_SHA`):** `915915e68d270ba12d710522550c464c3b519041` (`@heb-flow`, 11 Bucket A edits)
+- **Verified Pass 3 Bounce-Back Corpus Commit (`HEB_PASS3B_SHA`):** `b3e0f2ea87923eea52517398b65c7c8b4daf4cd3` (`@heb-peer`)
+- **Deliverable:** `pass3_bounceback_verdicts.jsonl` (**14 / 14** items independently verified against `Saints-Hebrew-Critical-Text/`):
+  - **`approved` (9):** `P3B-001` (`Exod 32:7–10`), `P3B-002` (`Jer 11:6–8`), `P3B-003` (`Job 30:1–31:40`), `P3B-008` (`Exod 25:40–30:10`), `P3B-009` (`Exod 21:1–23:33`), `P3B-010` (`Exod 39:34, 39:41`), `P3B-011` (`Lev 1–3, 4–5, 6:18–7:21, 25–26`), `P3B-012` (`Num 28:31–29:39`), `P3B-014` (`Jer 30:10–11, 30:22, 46:26, 48:45–47, 49:6, 51:45–48`)
+  - **`modified_approved` (3):** `P3B-005` (`2 Chr 2:7–8`, smoothed LBH *waw* + infinitive + note), `P3B-006` (`Esth 9:29–31`, dual-view comma on `verses['9:29']` & `native_verses['9:30']`, terminal `.` kept on standalone `unplaced['9:30']` + note), `P3B-007` (`Jer 29:15–21`, em-dash at `native_verses['29:15']`, capitalized `native_verses['29:21']`, Rule 2 note on `36:15`/`29:15`)
+  - **`escalate_human_editor` (2):** `P3B-004` (`Deut 32:27–35` → `HEB-HQ-042`, Rule 4 notes added on `32:28` and `32:34`), `P3B-013` (`Job 28:1–28` → `HEB-HQ-043`, kept unquoted + Rule 4 note added on `28:1`)
+  - **`rejected` (0)**
+- **Post-Pass-3B Updated Corpus Totals (`HEB_PASS3B_SHA`):**
+  - **Source MT Coverage:** `23,213` total (`22,972` `verified` + `241` `disputed` + `0` `unverified` == `23,213` PASS)
+  - **Translator Notes:** `4,314` total (`4,251` placed + `63` unplaced; `+6` new notes, `2` notes expanded; `0` NT citations)
+  - **Consolidated Human Editorial Queue (`pass2_human_editor_queue.jsonl`):** `43` items (`HEB-HQ-001`–`HEB-HQ-043`)
+  - **Full-Corpus 3-Level Quotation & Mechanics Validation (39 JSONs + 929 Chapter MDs):** `0` native 3-level quote-stack errors, `0` native open chapter breaks, `0` native lowercase-after-period anomalies, `0` schema/sync/hygiene errors.
