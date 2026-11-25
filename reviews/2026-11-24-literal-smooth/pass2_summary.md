@@ -120,3 +120,16 @@ Also caught and refined:
   - **Translator Notes:** `4,314` total (`4,251` placed + `63` unplaced; `+6` new notes, `2` notes expanded; `0` NT citations)
   - **Consolidated Human Editorial Queue (`pass2_human_editor_queue.jsonl`):** `43` items (`HEB-HQ-001`–`HEB-HQ-043`)
   - **Full-Corpus 3-Level Quotation & Mechanics Validation (39 JSONs + 929 Chapter MDs):** `0` native 3-level quote-stack errors, `0` native open chapter breaks, `0` native lowercase-after-period anomalies, `0` schema/sync/hygiene errors.
+---
+
+## 6. Stage 2 Pass 3.5 AI Peer Review Verification & Pattern Expansion
+
+- **Blind Sample Result (`00ff8636`):** `37/40` `verified_faithful`, `3` `flagged` (`HEB-P35-20` `Prov 14:32`, `HEB-P35-32` `Neh 4:7`, `HEB-P35-33` `Exod 37:14`), `0` `unverified`, `1` recurring pattern (cross-verse coreference/referent disruption).
+- **Verified Post-Pass-3.5 Corpus Commit (`HEB_POST_P35_SHA`):** `6fe3807ef4969a2184fe85f960c007b6f83c7a2e` (`@heb-peer`)
+- **Deliverable:** `pass35_ai_peer_review_response.jsonl` (**5** records: **3** blind flags verified + **2** pattern-expansion catches applied):
+  1. **`HEB-P35-20` (`Prov 14:32`, `modified_approved_and_escalated` → `HEB-HQ-044`):** Replaced forced English object syntax with temporal MT rendering (`in his death a righteous man has a refuge`), expanded the Rule 4 footnote on `choseh bemoto` + `bera'ato`, and logged `HEB-HQ-044` for final human editorial confirmation.
+  2. **`HEB-P35-32` (`Neh 4:7`, `approved`):** Eliminated the inserted pronoun collision with v. 6 by naming `"the people"` (`אֶת־הָעָם`) on the first `וָאַעֲמִיד` and `"them"` on the resumptive verb, plus added a brief resumptive-syntax note; verified all other repeated 1cs wayyiqtol verses in Nehemiah (`2:15, 7:5, 13:19`) are clean.
+  3. **`HEB-P35-33` (`Exod 37:14` / Saints `38:10`, `approved`):** Harmonized definite `הַמִּסְגֶּרֶת` from `"the rim"` to `"the frame"` (matching `Exod 25:25, 25:27, 37:12`); audited all 21 `מסגר*` verses across MT (`1 Kgs 7:28–36`, `2 Kgs 16:17`, etc., all internally consistent).
+  4. **`HEB-P35-EXP-01` (`Exod 36:34` / Saints `38:18` & `Exod 39:33` / Saints `39:13`, `approved`):** Tabernacle architectural expansion across 18 terms in `Exod 25–40` caught `בְּרִיחַ` switching from `"crossbars"` (`26:26–29, 35:11, 36:31–33, 40:18`) to `"bars"` in `36:34` (2x) and `39:33`; harmonized all 11 verses to `"crossbar(s)"`.
+  5. **`HEB-P35-EXP-02` (`Exod 39:39` & `40:11` unplaced, `approved`):** Tabernacle architectural expansion caught `הַכִּיּוֹר וְאֶת־כַּנּוֹ` switching from `"the basin and its stand"` (`30:18, 30:28, 31:9, 35:16, 38:8`) to `"the basin and its base"` in `39:39` and `40:11` (colliding with `אֶדֶן` `"bases"`); harmonized all 7 verses to `"the basin and its stand"`.
+- **Post-Pass-3.5 Final Totals (`HEB_POST_P35_SHA`):** `23,213` source MT verses (`22,971` `verified` + `242` `disputed` + `0` `unverified` == `23,213` PASS), `4,314` notes (`4,251` placed + `63` unplaced, `0` NT citations), `44` human-editor queue items (`HEB-HQ-001`–`HEB-HQ-044`), `0` schema/sync/quote-stack/open-chapter-break errors across all 39 books & 929 chapter MDs.
