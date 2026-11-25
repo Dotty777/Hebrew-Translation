@@ -1,6 +1,6 @@
 # Numbers 26 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (65 verses, 8 translator notes)  
+> **Status:** `draft: true` (65 verses, 9 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -141,6 +141,7 @@
 - **26:4** — The quotation opens elliptically with "From twenty years old and above," resuming the census command of verse 2 without repeating its verb. Because "the sons of Israel" lacks the direct-object marker used with "Moses," it is taken here as the heading for the tribal register starting in verse 5, though the Masoretic accents link it with the preceding clause.
 - **26:9** — "The summoned men" translates the qere (read form), a plural construct adjective meaning "summoned ones"; the ketiv (written form) uses the Qal passive participle of the same root with essentially the same sense.
 - **26:10** — The Hebrew noun translated "warning sign" literally denotes a "standard," "banner," or "signal pole," used here figuratively for a public warning.
+- **26:24** — In native Masoretic order, the census lists Gad (26:15–18), Judah (26:19–22), Issachar (26:23–25), Zebulun (26:26–27), Manasseh (26:28–34), Ephraim (26:35–37), Benjamin (26:38–41), Dan (26:42–43), and Asher (26:44–47); in the Saints.Bible parallel display, Gad is aligned at 26:24–27 within a reordered tribal sequence across 26:15–47.
 - **26:55** — The Hebrew pairs a passive verb (Niphal of the root meaning "divide" or "apportion") with the direct-object marker before "the land," an impersonal passive construction also seen in verse 60.
 - **26:59** — "Who was born to Levi" translates an active Hebrew clause with an unexpressed feminine subject, literally "whom one bore to Levi."
 - **26:61** — "Unauthorized fire" translates a Hebrew phrase literally meaning "strange" or "foreign fire," denoting fire not prescribed by the ritual command.

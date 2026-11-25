@@ -1,6 +1,6 @@
 # Exodus 37 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 3 translator notes, 24 additional)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 24 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

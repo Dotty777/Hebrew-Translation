@@ -61,7 +61,7 @@
 - **3:6** — Lehaskil means to make wise or to give insight.
 - **3:7** — Chagoroth are belts or loin coverings.
 - **3:8** — Leruach hayyom is literally "at the wind/breeze of the day," probably the cooler evening breeze; the literal phrase is kept.
-- **3:15** — Zera ("seed") is a grammatically singular noun, and hu ("he") agrees with it in the masculine. The same verb shuf is used for both actions, so "strike" is used for both; its exact sense (crush, bruise, strike) is debated.
+- **3:15** — Zera ("seed") is a grammatically singular masculine noun that can refer either collectively (offspring/descendants) or to an individual descendant; the singular masculine pronoun hu ("he") agrees with it grammatically and preserves both readings. The same verb shuf is used for both actions, so "strike" is used for both; its exact sense (crush, bruise, strike) is debated.
 - **3:16** — Itsavon ("pain") is the same word used for the man in 3:17; etsev ("pain") in the next line is from the same root. Harbah arbeh is emphatic: "I will greatly multiply." "Your pain and your conception" may be a hendiadys meaning "your pain in pregnancy."
 - **3:17** — Le-adam is pointed without the article, as in 2:20, so it is rendered "Adam." Itsavon ("pain") echoes the woman's sentence in 3:16.
 - **3:19** — Appayim (literally "nostrils") here means the face.

@@ -1,6 +1,6 @@
 # Proverbs 16 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,7 +66,7 @@
 ## Translator Notes
 
 - **16:5** — Hebrew yad leyad ('hand to hand') is an oath or handshake idiom expressing firm assurance, and the Niphal yinnaqeh means 'be cleared of guilt' or 'go unpunished.'
-- **16:9** — The third-person suffix on lamma'anehu can refer either to each created thing ('for its purpose') or to the LORD ('for His own purpose').
+- **16:9** — The third-person suffix on lamma'anehu can refer either to each created thing ("for its purpose") or to the LORD ("for His own purpose"). Native Masoretic 16:4 maps to Saints.Bible parallel display slot 16:9 (within the reordered sequence MT 15:27–16:9).
 - **16:19** — Translated from the Qere anavim ('the humble'); the Ketiv reads aniyyim ('the poor' or 'the afflicted').
 - **16:26** — Hebrew nefesh here denotes physical appetite or hunger, and the hapax verb akhaf ('presses upon') conveys the relentless urgency of needing food.
 - **16:27** — Translated from the Qere sefato (singular, 'his lip'); the Ketiv reads sefatav (dual, 'his lips').

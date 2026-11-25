@@ -50,6 +50,6 @@
 ## Translator Notes
 
 - **39:3** — A beka is an ancient weight unit equivalent to half a shekel, as the verse immediately explains.
-- **39:8** — In this Hebrew text, verse 8 consists of direct-object phrases introduced by the object marker et without a finite verb, while verse 9 supplies the governing verb ('With it he made').
+- **39:8** — In native Masoretic order (Exod 38:30–31), 38:30 supplies the governing verb ("With it he made...") and 38:31 continues the list of direct objects introduced by the object marker et. In the Saints.Bible parallel display, these two verses are inverted as 39:9 and 39:8.
 - **39:18** — The exact meaning of Hebrew serad is debated; it is widely connected with plaited, braided, or finely woven fabric, though ancient versions often understood it as 'service garments.'
 - **39:20** — The precise meaning of Hebrew techashim is uncertain; scholars variously understand it as fine tanned leather, cognate with Egyptian ths, or dugong/sea-cow hides, cognate with Arabic tukhas.

@@ -1,6 +1,6 @@
 # Ezekiel 47 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,7 +43,7 @@
 
 **47:19** On the south side, southward, the boundary shall run from Tamar to the waters of Meriboth-kadesh, then along the brook to the Great Sea. This is the south side, southward.
 
-**47:20** On the west side, the Great Sea shall be the boundary from the boundary up to a point opposite the entrance of Hamath. This is the west side.
+**47:20** On the west side, the Great Sea shall be the boundary from the boundary up to a point opposite Lebo-hamath. This is the west side.
 
 **47:21** So you shall divide this land among yourselves according to the tribes of Israel.
 
@@ -58,3 +58,4 @@
 - **47:10** — The qere reads the Qal perfect "amedu" following "vehayah" ("will stand"), whereas the ketiv reads the Qal imperfect "ya'amdu".
 - **47:12** — The qere reads the singular Qal perfect "vehayah" (agreeing with singular "its fruit"), whereas the ketiv reads the plural "vehayu".
 - **47:13** — The demonstrative "geh" ("this") occurs only here in the Masoretic Text as a variant of "zeh" (cf. verse 15). "Two portions" renders the elliptic Hebrew "Yosef chavalim" (literally "Joseph, portions"), reflecting Ephraim and Manasseh.
+- **47:20** — Literally "the entrance of Hamath," the same northern border town named "Lebo-hamath" in 48:1.

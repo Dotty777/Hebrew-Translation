@@ -1,6 +1,6 @@
 # Exodus 35 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (31 verses, 3 translator notes, 4 additional)  
+> **Status:** `draft: true` (31 verses, 4 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

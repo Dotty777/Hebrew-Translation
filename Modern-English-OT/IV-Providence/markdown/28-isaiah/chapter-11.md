@@ -1,6 +1,6 @@
 # Isaiah 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes)  
+> **Status:** `draft: true` (16 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,6 +39,7 @@
 
 ## Translator Notes
 
+- **11:2** — The three parallel appositional phrases (ruach chokhmah..., ruach etsah..., ruach da'at...) lack the definite article in Hebrew and may be rendered either capitalized in apposition to "the Spirit of the LORD" or lowercase ("a spirit of wisdom...").
 - **11:3** — וַהֲרִיחוֹ ("and his delight") is a Hiphil infinitive construct of רוח ("smell") with a 3ms suffix, literally "his smelling," an idiom for taking pleasure or delight in the fear of the LORD.
 - **11:8** — Both the noun מְאוּרַת ("den") and the Qal perfect verb הָדָה ("stretch out") occur only here in the Hebrew Bible, with their senses inferred from context and parallelism.
 - **11:13** — צֹרְרֵי יְהוּדָה (Qal participle construct of צרר + "Judah") can be read objectively as "the adversaries of Judah" or subjectively as "the hostile ones of Judah," paralleling the final clause of the verse.

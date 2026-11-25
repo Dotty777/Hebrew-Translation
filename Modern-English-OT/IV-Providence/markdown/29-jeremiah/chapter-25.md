@@ -52,6 +52,6 @@
 - **25:3** — Hebrew ashkem is a variant spelling with initial aleph of the Hiphil infinitive absolute hashkem (as in v. 4); the idiom "rising early and..." expresses persistent, urgent action.
 - **25:7** — Translates the qere hakhiseni (Hiphil infinitive construct with 1st-person suffix, "to provoke Me to anger"); the ketiv has a plural-like variant spelling.
 - **25:13** — Translates the qere veheveti (Hiphil weqatal 1st-person singular of bo, "and I will bring"); the ketiv preserves an older variant spelling of the same form.
-- **25:14** — In this text arrangement, the oracles against the nations begin immediately after 25:13 with the oracle concerning Elam (placed at 49:34-39 in the traditional Masoretic order).
+- **25:14** — In native Masoretic order, the oracle concerning Elam stands at Jeremiah 49:34–39 within the oracles against the nations (chapters 46–51); in the Saints.Bible parallel display, it is mapped to 25:14–19 immediately after 25:13.
 - **25:16** — Translates the qere Elam ("Elam"); the ketiv reads olam ("forever/eternity"), an apparent scribal error for the nation's name.
 - **25:19** — Translates both qere readings: ashiv (Hiphil of shuv, "I will restore") and shevut ("fortunes/restoration"); the ketiv reads Qal ashuv and shevit ("captivity").

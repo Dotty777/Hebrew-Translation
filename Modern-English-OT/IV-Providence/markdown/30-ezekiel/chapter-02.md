@@ -27,6 +27,6 @@
 
 ## Translator Notes
 
-- **2:2** — The noun ruach ('spirit') lacks the definite article here (as also in 3:12, 14, 24) and can denote 'the Spirit,' 'a spirit,' or 'wind.' The participle middabber ('the One speaking') is a rare Hithpael form of dabar with assimilated taw.
+- **2:2** — The noun ruach ("spirit") lacks the definite article here (as also in 3:12, 14, 24; 8:3; 11:1, 24; 43:5) and can denote "a spirit," "the Spirit," or "wind." The participle middabber ("the One speaking") is a rare Hithpael form of dabar with assimilated taw.
 - **2:6** — Sarabim ('briers') is a hapax legomenon, traditionally understood alongside sallonim ('thorns') as thorny briers or stubborn resisters.
 - **2:10** — Hi ('woe') occurs only here in the Hebrew Bible, likely a shortened form of nehi ('wailing') or an exclamation of grief.

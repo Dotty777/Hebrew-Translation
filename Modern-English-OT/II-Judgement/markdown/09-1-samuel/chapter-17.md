@@ -1,6 +1,6 @@
 # 1 Samuel 17 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes, 31 additional)  
+> **Status:** `draft: true` (32 verses, 10 translator notes, 31 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

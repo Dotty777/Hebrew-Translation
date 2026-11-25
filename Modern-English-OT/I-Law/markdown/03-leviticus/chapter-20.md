@@ -1,6 +1,6 @@
 # Leviticus 20 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 4 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -9,7 +9,7 @@
 
 **20:2** "And to the sons of Israel you shall say, 'Anyone from the sons of Israel, or from the resident aliens who live in Israel, who gives any of his seed to Molech shall surely be put to death; the people of the land shall stone him with stones.
 
-**20:3** And I Myself will set My face against that man and cut him off from the midst of his people, because he gave some of his seed to Molech, and so defiling My sanctuary and profaning My holy name.
+**20:3** And I Myself will set My face against that man and cut him off from the midst of his people, because he gave some of his seed to Molech, so as to defile My sanctuary and to profane My holy name.
 
 **20:4** And if the people of the land ever hide their eyes from that man when he gives some of his seed to Molech, so as not to put him to death,
 
@@ -61,6 +61,7 @@
 
 ## Translator Notes
 
+- **20:3** — Hebrew zera ("seed") here denotes a person's children/offspring (retaining the verbal link with Lev 18:20–21; cf. 20:2, 4).
 - **20:9** — Hebrew damav (literally "his bloods," plural) is a standard legal idiom for bloodguilt, here meaning the offender bears sole responsibility for his own execution. The conjunction ve- ("and") in "his father and his mother" carries the legal disjunctive sense "or" (as also in v. 19).
 - **20:17** — Hebrew hesed here is a rare homonym (hesed II, cf. Prov 14:34) meaning "disgrace" or "reproach," distinct from the common word hesed ("loyal love, kindness").
 - **20:25** — The Piel infinitive letamme carries a declarative or estimative sense ("to treat/declare as unclean"), while the verse arranges the pairs chiastically: clean-to-unclean for animals, then unclean-to-clean for birds.

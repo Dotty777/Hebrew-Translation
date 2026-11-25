@@ -1,6 +1,6 @@
 # Micah 6 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (16 verses, 6 translator notes)  
+> **Status:** `draft: true` (16 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Micah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,6 +39,7 @@
 
 ## Translator Notes
 
+- **6:8** — Hebrew we'ahavat chesed is rendered "to love loyal love" to preserve the edition's standard gloss for chesed ("loyal love"), though the phrase idiomatically means "to love faithfulness/kindness."
 - **6:9** — The MT vocalizes the verb in the middle clause as Qal imperfect of ra'ah ("perceives" or "sees"), though many interpreters understand it as a variant form of the root meaning "to fear" ("it is sound wisdom to fear Your name"). The Hebrew noun translated "rod" can also mean "tribe."
 - **6:10** — The interrogative form translated "Are there" uses a rare Hebrew variant (ish) of the standard particle of existence (yesh), as in 2 Samuel 14:19. An "ephah" was a dry grain measure.
 - **6:11** — The MT vocalizes the verb as Qal imperfect ("Can I be pure?"), expressing either a rhetorical question from the merchant's standpoint or the LORD's refusal to remain blameless while tolerating fraud; it can also be repointed as Piel ("Can I acquit?").

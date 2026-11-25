@@ -1,6 +1,6 @@
 # 2 Samuel 18 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 6 translator notes)  
+> **Status:** `draft: true` (32 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`2 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,5 +75,6 @@
 - **18:8** — Qere reads the Niphal feminine singular participle "spread out," agreeing with singular "battle," whereas Ketiv has a feminine plural form.
 - **18:12** — Qere reads the conditional particle "even if" for Ketiv's variant spelling. In the embedded quote, MT has the indefinite pronoun mi ("whoever you are") after "protect," whereas several ancient versions read li ("for me").
 - **18:13** — Qere reads "against my own life," whereas Ketiv reads "against his life" (referring to Absalom).
+- **18:20** — The particle ken (forming ki-al-ken, "because") is a Masoretic Qere without Ketiv, read in the Masoretic vocalization tradition though absent from the written consonants.
 - **18:22** — Literally "and for you there is no news/reward finding [you]"; the Hebrew noun besorah can mean either "news" or "reward for bringing news" (cf. 2 Sam 4:10), with the Qal participle indicating a reward coming to him.
 - **18:29** — The Hebrew syntax places the subject "Joab" between the two direct objects "the king's servant" (the Cushite) and "your servant" (Ahimaaz); some instead construe "the king's servant Joab" as the subject sending Ahimaaz.

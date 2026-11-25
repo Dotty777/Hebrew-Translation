@@ -1,6 +1,6 @@
 # Deuteronomy 5 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,6 +75,7 @@
 
 - **5:5** — This verse forms a parenthetical aside in Hebrew interrupting 'spoke' in 5:4 and 'saying' at the end of 5:5, which introduces the LORD's words in 5:6-21.
 - **5:10** — Qere reads 'My commandments,' matching first-person 'those who love Me'; ketiv writes 'His commandments' (or 'His commandment').
-- **5:17** — The Masoretic Text has murder (v. 17) before adultery (v. 18). This edition's verse order places the prohibition of adultery first, a sequence also attested in Papyrus Nash and early Greek witnesses.
+- **5:17** — Native Masoretic order places "You must not murder" at 5:17 (without initial waw) and "And you must not commit adultery" at 5:18 (beginning the syndetic waw chain of vv. 18–21). In the Saints.Bible parallel display, MT 5:18 maps to slot 5:17 and MT 5:17 maps to slot 5:18.
+- **5:18** — Native Masoretic order places "You must not murder" at 5:17 before "And you must not commit adultery" at 5:18; in the Saints.Bible parallel display, MT 5:17 maps to slot 5:18 and MT 5:18 maps to slot 5:17.
 - **5:27** — The second Hebrew pronoun 'you' (ve'att) is spelled and pointed in the shortened form normally used for the feminine singular, a rare Masoretic masculine usage also found in Numbers 11:15 and Ezekiel 28:14.
 - **5:29** — 'If only' renders the Hebrew optative idiom mi-yitten (literally 'Who will give'), expressing an earnest wish.

@@ -1,6 +1,6 @@
 # Genesis 35 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (28 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

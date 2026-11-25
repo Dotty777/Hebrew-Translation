@@ -1,6 +1,6 @@
 # Daniel 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -50,6 +50,7 @@
 ## Translator Notes
 
 - **1:3** — Hebrew sarisim can denote either literal eunuchs or high royal court officials (cf. Gen 39:1).
+- **1:9** — Hebrew lechesed ulerachamim ("favor and mercy") uses chesed (normally "loyal love") and rachamim (normally "compassion") in an idiomatic court-favor hendiadys.
 - **1:10** — The Piel verb rendered 'make ... forfeit' occurs only here in the Hebrew Bible, reflecting an Aramaic legal term meaning 'render guilty or liable.'
 - **1:11** — Hebrew hammeltsar carries the definite article and is an official title (from Akkadian massaru, 'guardian' or 'attendant'), not a personal name.
 - **1:20** — Literally 'ten hands,' a Hebrew idiom expressing a tenfold measure or degree (cf. Gen 43:34).

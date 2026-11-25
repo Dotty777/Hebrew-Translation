@@ -1,6 +1,6 @@
 # Job 23 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (16 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

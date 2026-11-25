@@ -63,7 +63,7 @@
 
 **28:35** And it shall be on Aaron for ministering, and its sound shall be heard when he enters the holy place before the LORD and when he goes out, so that he will not die.
 
-**28:36** And you shall make a plate of pure gold, and you shall engrave on it, as the engravings of a signet, "Holiness to the LORD."
+**28:36** And you shall make a plate of pure gold, and you shall engrave on it, as the engravings of a signet, 'Holiness to the LORD.'
 
 **28:37** And you shall place it on a blue cord, and it shall be on the turban; it shall be at the front of the turban.
 

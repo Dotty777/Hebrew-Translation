@@ -1,6 +1,6 @@
 # Numbers 25 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (18 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

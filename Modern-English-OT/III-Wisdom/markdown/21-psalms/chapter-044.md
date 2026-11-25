@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **44:1** — Shoshannim literally means lilies and likely denotes a melody or musical setting. Maskil, a Hiphil participle of the root skl, designates a contemplative or skillfully crafted psalm.
+- **44:1** — Shoshannim ("Lilies," translated in 69:1 and 80:1 [Saints 68:1, 79:1]) likely denotes a melody or musical setting. Maskil, a Hiphil participle of the root skl, designates a contemplative or skillful poem.
 - **44:5** — The Hebrew pairs two Qal imperatives without a conjunction, succeed and ride forth, and joins humility and righteousness with a maqqef in an unusual absolute-noun compound, understood either as an asyndetic pair or as righteous humility.
 - **44:6** — The middle clause, peoples fall beneath you, functions as a poetic parenthetical exclamation separating the subject and predicate of the arrow clause.
 - **44:7** — Your throne, God renders elohim as a direct vocative, as in the ancient versions, though some interpreters construe the phrase as Your divine throne.

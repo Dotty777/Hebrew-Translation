@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **20:13** — The Masoretic Text orders these three prohibitions murder (v. 13), adultery (v. 14), theft (v. 15). This edition's verse order places adultery, theft, and murder in verses 13-15, the sequence attested in Codex Vaticanus of the Septuagint.
+- **20:13** — Native Masoretic order arranges these three prohibitions as murder (20:13), adultery (20:14), and theft (20:15). In the Saints.Bible parallel display, they map to slots 20:15 (murder), 20:13 (adultery), and 20:14 (theft).
 - **20:18** — Hebrew literally says the people were seeing (Qal participle ro'im) both visible phenomena and sounds, using "see" in a broad sense of sensory perception; likewise the Masoretic verb wayyar' ("and saw") is followed rather than the Septuagint reading "feared."
 - **20:23** — The Masoretic pause (atnah) falls after "alongside Me" (itti), creating an elliptical opening clause whose implied object ("gods") is supplied from the following "gods of silver or gods of gold."
 - **20:25** — Hebrew cherev ordinarily means "sword," but here denotes a metal stone-cutting tool or chisel; the Hiphil perfect henafta ("swing") with the following Piel wayyiqtol ("profane") expresses a conditional consequence.

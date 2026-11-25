@@ -5,7 +5,7 @@
 
 ## Text
 
-**15:1** A miktam of David. Guard me, God, for I have taken refuge in You.
+**15:1** A Miktam of David. Guard me, God, for I have taken refuge in You.
 
 **15:2** You have said to the LORD, "You are my Lord; I have no good beyond You."
 

@@ -53,4 +53,4 @@
 
 - **8:13** — Verse 13 uses charav ('dried off,' free of standing water), whereas verse 14 uses yavesh ('become dry,' thoroughly desiccated), distinguishing two stages of drying.
 - **8:17** — Ketiv reads hotse' (standard contracted Hiphil imperative of yatsa'); Qere reads haytse' (retaining the initial radical yod in the Hiphil imperative). Both forms mean 'bring out.'
-- **8:21** — 'Soothing aroma' (reach hannichoach) derives from the root nuach ('to rest'), echoing Noah's name (Noach), the ark coming to rest (wattanach, 8:4), and the dove's 'resting place' (manoach, 8:9).
+- **8:21** — 'Soothing fragrance' (reach hannichoach) derives from the root nuach ('to rest'), echoing Noah's name (Noach), the ark coming to rest (wattanach, 8:4), and the dove's 'resting place' (manoach, 8:9).

@@ -1,6 +1,6 @@
 # Esther 9 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (30 verses, 6 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Esther`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

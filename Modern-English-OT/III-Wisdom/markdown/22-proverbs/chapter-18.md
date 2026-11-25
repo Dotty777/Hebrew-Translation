@@ -1,6 +1,6 @@
 # Proverbs 18 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (22 verses, 4 translator notes, 4 additional)  
+> **Status:** `draft: true` (22 verses, 6 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

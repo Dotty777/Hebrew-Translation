@@ -1,6 +1,6 @@
 # Psalms 50 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -52,4 +52,5 @@
 - **50:4** — Ketiv writes the Hiphil infinitive absolute harbeh, while Qere reads the shortened Hiphil imperative herev from rabah, meaning "multiply"; here it functions adverbially with the following imperative to express thorough or repeated washing.
 - **50:8** — The rare plural noun tuhot, translated "inward parts," occurs only here and in Job 38:36; it likely derives from the root tuah, meaning "cover over," and denotes the hidden inner self.
 - **50:9** — The verb translated "Cleanse me from sin" is a privative Piel of hata, "to sin," meaning "to de-sin" or purify ritually from sin, as in purification rites with hyssop in Numbers 19:19.
+- **50:13** — Hebrew ruach qodshekha literally means "the spirit of Your holiness" (parallel to ruach qodsho in Isa 63:10–11).
 - **50:14** — The verb tismekeni can be parsed either as third feminine singular with "a willing spirit" as subject, translated here, or as second masculine singular addressed to God with "a willing spirit" as an instrumental accusative.

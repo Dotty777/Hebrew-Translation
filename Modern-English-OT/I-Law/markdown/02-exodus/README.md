@@ -40,9 +40,9 @@
 - [Chapter 32](chapter-32.md) — 34 verses, 5 notes, +1 additional
 - [Chapter 33](chapter-33.md) — 23 verses, 4 notes
 - [Chapter 34](chapter-34.md) — 35 verses, 5 notes
-- [Chapter 35](chapter-35.md) — 31 verses, 3 notes, +4 additional
+- [Chapter 35](chapter-35.md) — 31 verses, 4 notes, +4 additional
 - [Chapter 36](chapter-36.md) — 38 verses, 5 notes
-- [Chapter 37](chapter-37.md) — 21 verses, 3 notes, +24 additional
-- [Chapter 38](chapter-38.md) — 23 verses, 4 notes, +14 additional
+- [Chapter 37](chapter-37.md) — 21 verses, 5 notes, +24 additional
+- [Chapter 38](chapter-38.md) — 23 verses, 8 notes, +14 additional
 - [Chapter 39](chapter-39.md) — 19 verses, 4 notes, +1 additional
 - [Chapter 40](chapter-40.md) — 32 verses, 5 notes, +4 additional

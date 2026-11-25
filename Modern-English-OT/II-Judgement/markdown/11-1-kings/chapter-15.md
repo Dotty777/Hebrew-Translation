@@ -1,6 +1,6 @@
 # 1 Kings 15 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes, 2 additional)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

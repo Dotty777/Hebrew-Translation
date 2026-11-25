@@ -49,5 +49,5 @@
 
 - **32:7** — Translated per the Qere aniyyim ("the poor/afflicted") rather than the Ketiv anawim ("the humble"). Hebrew also plays on kelay ("scoundrel") and kelaw ("his devices").
 - **32:11** — The four imperatives regazah, peshotah, orah, and hagorah take an unusual -ah form for feminine plural addressees, and "wrap your waists" (hagor al-halatsayim) elliptically omits sackcloth.
-- **32:15** — Translated per the Qere wehakkarmel ("and the orchard," with the definite article) rather than the Ketiv wekarmel ("and an orchard," without the article).
+- **32:15** — Hebrew ruach ("spirit") lacks the definite article here and may be read either as "a spirit" (or "wind") or as "the Spirit" poured out from on high. "And the orchard" follows the Qere wehakkarmel (with the definite article) rather than the Ketiv wekarmel ("and an orchard").
 - **32:19** — The hapax verb ubarad ("it will hail") plays on the sound of beredet ("when ... comes down"), followed by the cognate emphasis ubashshiflah tishpal ("in lowliness ... will be brought low").

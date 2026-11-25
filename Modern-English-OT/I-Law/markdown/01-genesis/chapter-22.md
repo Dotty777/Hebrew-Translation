@@ -1,6 +1,6 @@
 # Genesis 22 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (24 verses, 4 translator notes)  
+> **Status:** `draft: true` (24 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,4 +58,5 @@
 - **22:8** — The idiom 'ra'ah lo' literally means "see for oneself," conveying "see to" or "provide," and introduces the repeated 'ra'ah' ("see") wordplay that culminates in the naming of the site in v. 14.
 - **22:13** — The Masoretic Text reads 'achar' ("behind"), rather than the variant 'echad' ("a" or "one") found in the Samaritan Pentateuch, Septuagint, and some Hebrew manuscripts.
 - **22:14** — The place name pairs the divine name with 'yir'eh' (Qal imperfect of 'ra'ah', "see," echoing v. 8's idiom "see to/provide"), playing on 'yera'eh' (Niphal imperfect of the same verb), which can mean either "it will be seen to/provided" or "He will be seen/appear."
+- **22:17** — Hebrew zera ("seed") is grammatically singular (as in 3:15; 12:7; 13:15) and takes the singular possessive suffix "his enemies," preserving both collective ("descendants") and individual resonance.
 - **22:18** — Hebrew 'vehithbarekhu' is the Hithpael of 'barakh' (in contrast to the Niphal used in Gen 12:3 and 18:18), which may be understood reflexively ("bless themselves") or as a middle/passive ("obtain blessing / be blessed").

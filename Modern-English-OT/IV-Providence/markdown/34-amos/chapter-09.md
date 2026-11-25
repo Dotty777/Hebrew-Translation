@@ -40,5 +40,5 @@
 - **9:6** — Hebrew ma'alotav ("His upper chambers") literally means "His steps/ascents" (heaven's upper chambers, cf. Ps 104:3), and aguddato ("His vault") literally denotes a "band" or "bound structure," depicting the vaulted sky founded on the earth.
 - **9:9** — The Niphal verb yinnoa ("is shaken") is impersonal with no explicit subject noun for what is sifted in the sieve (kevarah), and tseror literally denotes a "pebble" (though some interpret it as a "grain/kernel").
 - **9:11** — The Hebrew pronominal suffixes shift across the verse—3fp "their breaches," 3ms "his [David's] ruins," and 3fs "rebuild it [the booth]"—smoothed here to "its/it" in English.
-- **9:12** — The Masoretic Hebrew reads yirshu ("they may possess") and Edom ("Edom"), whereas the Septuagint (reflected in Acts 15:17) reads the visually similar consonants yidrshu ("seek") and adam ("mankind").
+- **9:12** — The Masoretic Hebrew reads yirshu ("they may possess") and Edom ("Edom"), continuing the Davidic restoration promise of v. 11.
 - **9:14** — The Hebrew idiom shuv shevut ("restore the fortunes") is also frequently connected to the root shavah ("take captive"), meaning "bring back the captivity/exiles."

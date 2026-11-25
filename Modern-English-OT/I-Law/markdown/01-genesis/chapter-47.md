@@ -73,4 +73,4 @@
 - **47:17** — Hebrew wayenahalem is the Piel wayyiqtol of nahal, which normally means "lead" or "guide gently," used here in the extended sense of providing for or carrying people through hardship.
 - **47:21** — Masoretic Hebrew reads the Hiphil of abar ("relocated/moved") with "to the cities," whereas the Samaritan Pentateuch and Septuagint reflect a single-consonant difference yielding the Hiphil of abad ("reduced to servitude as slaves").
 - **47:23** — Hebrew he ("here is") is a rare presentative interjection occurring only here and in Ezekiel 16:43 in the Hebrew Bible, cognate with Biblical Aramaic ha.
-- **47:31** — Masoretic vocalization reads ham-mittah ("the bed"), whereas the Septuagint (followed in Hebrews 11:21) vocalizes the same unpointed consonants as ham-matteh ("the staff").
+- **47:31** — Masoretic vocalization reads ham-mittah ("the bed"); the same unpointed Hebrew consonants can also be vocalized as ham-matteh ("the staff").

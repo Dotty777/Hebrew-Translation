@@ -1,6 +1,6 @@
 # 1 Kings 7 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes)  
+> **Status:** `draft: true` (48 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -103,8 +103,10 @@
 
 ## Translator Notes
 
-- **7:6** — The Masoretic Hebrew reads 'the pillars' and 'on top of the pomegranates,' a well-known textual transposition of the two nouns (compare 7:27-28). At 'the latticework,' the qere adds the definite article omitted in the ketiv.
+- **7:6** — The Masoretic Hebrew reads "the pillars" and "on top of the pomegranates," a well-known textual transposition of the two nouns (compare MT 7:41–42; Saints 7:27–28). At "the latticework" (MT 7:20), the Qere adds the definite article omitted in the Ketiv. Native MT 7:18 and 7:20 are separate verses combined at Saints.Bible parallel slot 7:6.
+- **7:8** — Native Masoretic verses 7:19 and 7:22 are separate verses describing the lily work on the capitals of the pillars (separated by 7:20–21); in the Saints.Bible parallel display they are combined at slot 7:8.
 - **7:10** — For 'and a line,' the qere reads the standard spelling veqav, whereas the ketiv writes the longer orthographic form veqaveh with the same meaning.
+- **7:18** — Native Masoretic verses 7:31–32 are separate verses describing the bronze stands and wheels; in the Saints.Bible parallel display they are combined at slot 7:18.
 - **7:22** — At 'and on its panels,' the qere omits a redundant conjunction vav present in the ketiv. The difficult phrase translated 'according to the open space on each' literally refers to the bare or clear space available on each section.
 - **7:31** — For 'these,' the qere reads ha'elleh ('all these articles'), whereas the ketiv reads ha'ohel ('all the articles of the tent').
 - **7:44** — The Masoretic Hebrew literally reads 'from the floor to the floor,' likely referring to the full vertical span from the lower floor to the upper floor or ceiling level.

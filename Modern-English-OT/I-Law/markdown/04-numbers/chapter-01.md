@@ -1,6 +1,6 @@
 # Numbers 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (54 verses, 5 translator notes)  
+> **Status:** `draft: true` (54 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -118,5 +118,6 @@
 - **1:2** — Hebrew se'u et-ro'sh literally means "lift up the head of," an idiom for taking a tally or census (also in 1:49). Likewise, legulgelotam literally means "according to their skulls," denoting an individual headcount.
 - **1:16** — Ketiv qry'y (adjectival qatil plural construct, "chosen/called ones of") vs. Qere qeru'e (Qal passive participle plural construct of qara', "those summoned of"); translated following the Qere. The noun 'alpe ("thousands") can also denote tribal military divisions or clans.
 - **1:18** — The verb wayyityalledu ("and they declared their lineage") is a biblical hapax legomenon in the Hithpael stem of yalad ("bear/beget"), expressing reflexive declaration or enrollment of one's ancestry.
+- **1:36** — In native Masoretic order, the tribe of Gad is numbered at 1:24–25 (before Judah, Issachar, Zebulun, Ephraim, Manasseh, and Benjamin in 1:26–37); in the Saints.Bible parallel display, Gad is aligned at 1:36–37 (shifting MT 1:26–37 to slots 1:24–35).
 - **1:47** — The verb hotpaqedu ("were registered") is in the rare Hothpaal (passive reflexive) stem of paqad, contrasting with the Qal stem used throughout this chapter for official census registration and the Hiphil stem in 1:50 ("appoint").
 - **1:51** — The substantivized Qal participle hazzar ("the outsider," from zur, "be a stranger") denotes any unauthorized non-Levite who approaches the tabernacle and its sacred service.

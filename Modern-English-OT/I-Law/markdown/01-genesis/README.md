@@ -27,7 +27,7 @@
 - [Chapter 19](chapter-19.md) — 38 verses, 5 notes
 - [Chapter 20](chapter-20.md) — 18 verses, 3 notes
 - [Chapter 21](chapter-21.md) — 34 verses, 4 notes
-- [Chapter 22](chapter-22.md) — 24 verses, 4 notes
+- [Chapter 22](chapter-22.md) — 24 verses, 5 notes
 - [Chapter 23](chapter-23.md) — 20 verses, 5 notes
 - [Chapter 24](chapter-24.md) — 67 verses, 10 notes
 - [Chapter 25](chapter-25.md) — 34 verses, 5 notes
@@ -36,11 +36,11 @@
 - [Chapter 28](chapter-28.md) — 22 verses, 4 notes
 - [Chapter 29](chapter-29.md) — 35 verses, 5 notes
 - [Chapter 30](chapter-30.md) — 43 verses, 5 notes
-- [Chapter 31](chapter-31.md) — 53 verses, 4 notes, +1 additional
+- [Chapter 31](chapter-31.md) — 53 verses, 6 notes, +1 additional
 - [Chapter 32](chapter-32.md) — 33 verses, 5 notes
 - [Chapter 33](chapter-33.md) — 20 verses, 5 notes
 - [Chapter 34](chapter-34.md) — 31 verses, 4 notes
-- [Chapter 35](chapter-35.md) — 28 verses, 5 notes, +1 additional
+- [Chapter 35](chapter-35.md) — 28 verses, 6 notes, +1 additional
 - [Chapter 36](chapter-36.md) — 43 verses, 5 notes
 - [Chapter 37](chapter-37.md) — 36 verses, 4 notes
 - [Chapter 38](chapter-38.md) — 30 verses, 5 notes

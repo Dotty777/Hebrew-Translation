@@ -1,6 +1,6 @@
 # 1 Chronicles 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes, 12 additional)  
+> **Status:** `draft: true` (42 verses, 7 translator notes, 12 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

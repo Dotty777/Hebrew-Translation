@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes, 9 additional)  
+> **Status:** `draft: true` (21 verses, 6 translator notes, 9 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,7 +49,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**5:14** *(after `5:13`)* And I have heard about you that a spirit of the gods is in you, and that enlightenment, discernment, and surpassing wisdom have been found in you.
+**5:14** *(after `5:13`)* And I have heard about you that a spirit of the gods is in you, and that illumination, discernment, and surpassing wisdom have been found in you.
 
 **5:15** *(after `5:13`)* And now the wise men, the enchanters, were brought in before me so that they would read this writing and make its interpretation known to me, yet they were not able to declare the interpretation of the matter.
 

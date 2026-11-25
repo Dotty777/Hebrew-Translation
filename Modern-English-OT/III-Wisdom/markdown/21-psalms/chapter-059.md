@@ -5,7 +5,7 @@
 
 ## Text
 
-**59:1** For the music director, according to Lily of Testimony. A miktam of David, for teaching,
+**59:1** For the music director, according to Lily of Testimony. A Miktam of David, for teaching,
 
 **59:2** when he fought with Aram-naharaim and with Aram-zobah, and Joab returned and struck down Edom in the Valley of Salt, twelve thousand.
 
