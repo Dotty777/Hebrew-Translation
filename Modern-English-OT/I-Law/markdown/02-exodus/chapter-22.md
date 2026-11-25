@@ -5,7 +5,7 @@
 
 ## Text
 
-**22:1** If the thief is found in the act of breaking in, and he is struck and dies, there is no bloodguilt for him.
+**22:1** "If the thief is found in the act of breaking in, and he is struck and dies, there is no bloodguilt for him.
 
 **22:2** If the sun has risen upon him, there is bloodguilt for him. He must certainly pay restitution; if he possesses nothing, then he shall be sold for his theft.
 
@@ -63,7 +63,7 @@
 
 **22:29** You shall do likewise with your ox and your flock: for seven days it shall be with its mother; on the eighth day you shall give it to Me.
 
-**22:30** And you shall be holy people to Me, and you shall not eat meat torn in the field; you shall throw it to the dogs.
+**22:30** And you shall be holy people to Me, and you shall not eat meat torn in the field; you shall throw it to the dogs."
 
 ## Translator Notes
 

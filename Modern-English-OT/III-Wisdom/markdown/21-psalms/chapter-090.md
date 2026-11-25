@@ -39,7 +39,7 @@
 
 ## Translator Notes
 
-- **90:2** — MT reads Qal imperfect 1cs ("I say"), whereas the Septuagint reflects a participle ("saying") linking smoothly to the third-person subject of 90:1.
+- **90:2** — MT reads Qal imperfect 1cs ("I say"), whereas the Septuagint reflects a participle ("saying") linking smoothly to the third-person subject of 90:1 (MT 91:1).
 - **90:4** — The noun socherah ("rampart") is a Hebrew hapax legomenon derived from the root sachar ("to surround"), signifying a protective surrounding wall or buckler.
 - **90:9** — Following the Masoretic accentuation, the verse shifts from the psalmist's first-person confession ("For You, LORD, are my refuge") to second-person reassurance ("you have made the Most High your dwelling place"); some alternatively take the first "you" as the believer, reading "Because you have made the LORD, my refuge, the Most High, your dwelling place."
-- **90:14** — God speaks in the first person in 90:14-16; the Piel verb sagab ("set high in safety") carries the spatial image of lifting someone onto an inaccessible height beyond reach of harm.
+- **90:14** — God speaks in the first person in 90:14–16 (MT 91:14–16); the Piel verb sagab ("set high in safety") carries the spatial image of lifting someone onto an inaccessible height beyond reach of harm.

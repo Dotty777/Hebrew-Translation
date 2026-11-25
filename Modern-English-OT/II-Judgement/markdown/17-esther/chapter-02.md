@@ -1,6 +1,6 @@
 # Esther 2 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (23 verses, 3 translator notes)  
+> **Status:** `draft: true` (23 verses, 4 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Esther`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -54,5 +54,6 @@
 ## Translator Notes
 
 - **2:3** — The Masoretic Text spells the eunuch's name 'Hege' here, whereas 2:8 and 2:15 spell it 'Hegai'; both refer to the same official. The final clause uses a Qal infinitive absolute ('giving') with jussive force.
+- **2:9** — Hebrew chesed ("kindness/favor") is rendered "kindness" here (and in 2:17) in a royal-court context rather than the covenantal default "loyal love."
 - **2:18** — The Hebrew hapax legomenon hanahah (from the root meaning 'to rest/grant rest') denotes relief or release, variously understood as a public holiday or a remission of taxes and compulsory service.
 - **2:23** — 'Wooden pole' translates Hebrew ets (literally 'wood' or 'tree'), referring in Persian penal practice to a wooden stake for impalement or a gallows.

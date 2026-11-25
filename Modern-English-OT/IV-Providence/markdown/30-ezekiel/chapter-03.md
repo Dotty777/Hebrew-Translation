@@ -1,6 +1,6 @@
 # Ezekiel 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 4 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,5 +63,7 @@
 
 - **3:5** — Literally 'deep of lip and heavy of tongue,' a Hebrew idiom for people who speak an obscure, foreign language (cf. Isa 33:19).
 - **3:6** — The particle 'im-lo' ('surely') introduces an emphatic statement with implied conditional force: if Ezekiel were sent to foreign nations, they would listen.
-- **3:12** — The Masoretic Text reads barukh ('blessed be'), preserved here without textual emendation.
+- **3:12** — Hebrew ruach lacks the definite article here and may be read as "a spirit," "the Spirit," or "wind" (cf. 2:2). The Masoretic Text reads barukh ('blessed be'), preserved here without textual emendation.
+- **3:14** — Hebrew ruach ("a spirit") lacks the definite article here and may be read as "a spirit," "the Spirit," or "wind" (cf. 2:2).
 - **3:15** — Ketiv/Qere: the Qere (read form) is wa'eshev ('and I dwelt/sat'), translated here as 'and I dwelt where they were dwelling,' whereas the Ketiv (written form) is wa'asher ('and where').
+- **3:24** — Hebrew ruach lacks the definite article here and may be read as "a spirit," "the Spirit," or "wind" (cf. 2:2).

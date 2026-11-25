@@ -5,7 +5,7 @@
 
 ## Text
 
-**30:1** But now those younger than I in days laugh at me, whose fathers I scorned to place with the dogs of my flock.
+**30:1** "But now those younger than I in days laugh at me, whose fathers I scorned to place with the dogs of my flock.
 
 **30:2** Indeed, what use to me was the strength of their hands? Vigor had perished from them.
 
@@ -65,7 +65,7 @@
 
 **30:30** My skin has blackened upon me, and my bones burn with heat.
 
-**30:31** And my lyre has turned to mourning, and my flute to the voice of those who weep.
+**30:31** And my lyre has turned to mourning, and my flute to the voice of those who weep."
 
 ## Translator Notes
 

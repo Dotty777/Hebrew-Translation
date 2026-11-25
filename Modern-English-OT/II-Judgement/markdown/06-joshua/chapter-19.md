@@ -23,15 +23,15 @@
 
 **19:9** Out of the allotment of the sons of Judah came the inheritance of the sons of Simeon, for the portion of the sons of Judah was too large for them; so the sons of Simeon received an inheritance in the midst of their inheritance.
 
-**19:10** Then the third lot came up for the sons of Zebulun according to their clans. And the border of their inheritance extended as far as Sarid.
+**19:10** Then the third lot came up for the sons of Zebulun according to their clans. And the boundary of their inheritance extended as far as Sarid.
 
-**19:11** Then their border went up westward and to Maralah, and reached Dabbesheth, and reached to the wadi that is opposite Jokneam.
+**19:11** Then their boundary went up westward and to Maralah, and reached Dabbesheth, and reached to the wadi that is opposite Jokneam.
 
-**19:12** From Sarid it turned eastward toward the sunrise to the border of Chisloth-tabor; then it went out to Daberath and went up to Japhia.
+**19:12** From Sarid it turned eastward toward the sunrise to the boundary of Chisloth-tabor; then it went out to Daberath and went up to Japhia.
 
 **19:13** From there it passed on eastward toward the sunrise to Gath-hepher, to Eth-kazin; and it went out to Rimmon, curving toward Neah.
 
-**19:14** Then the border circled around it on the north to Hannathon, and its endpoints were at the Valley of Iphtahel.
+**19:14** Then the boundary circled around it on the north to Hannathon, and its outer limits were at the Valley of Iphtahel.
 
 **19:15** And Kattath, Nahalal, Shimron, Idalah, and Bethlehem: twelve cities and their villages.
 
@@ -47,7 +47,7 @@
 
 **19:21** and Remeth, En-gannim, En-haddah, and Beth-pazzez.
 
-**19:22** The border also reached Tabor, Shahazimah, and Beth-shemesh, and the endpoints of their border were at the Jordan: sixteen cities and their villages.
+**19:22** The boundary also reached Tabor, Shahazimah, and Beth-shemesh, and the outer limits of their boundary were at the Jordan: sixteen cities and their villages.
 
 **19:23** This was the inheritance of the tribe of the sons of Issachar according to their clans, the cities and their villages.
 
@@ -61,7 +61,7 @@
 
 **19:28** and Ebron, Rehob, Hammon, and Kanah, as far as Great Sidon.
 
-**19:29** Then the border turned to Ramah and as far as the fortified city of Tyre; then the border turned to Hosah, and its endpoints were at the sea, from the region of Achzib.
+**19:29** Then the boundary turned to Ramah and as far as the fortified city of Tyre; then the boundary turned to Hosah, and its outer limits were at the sea, from the region of Achzib.
 
 **19:30** And Ummah, Aphek, and Rehob: twenty-two cities and their villages.
 
@@ -69,9 +69,9 @@
 
 **19:32** For the sons of Naphtali the sixth lot came out, for the sons of Naphtali according to their clans.
 
-**19:33** Their border ran from Heleph, from the oak in Zaanannim, and Adami-nekeb, and Jabneel, as far as Lakkum, and its endpoints were at the Jordan.
+**19:33** Their boundary ran from Heleph, from the oak in Zaanannim, and Adami-nekeb, and Jabneel, as far as Lakkum, and its outer limits were at the Jordan.
 
-**19:34** Then the border turned westward to Aznoth-tabor and went out from there to Hukkok; it reached Zebulun on the south, and reached Asher on the west, and Judah at the Jordan toward the sunrise.
+**19:34** Then the boundary turned westward to Aznoth-tabor and went out from there to Hukkok; it reached Zebulun on the south, and reached Asher on the west, and Judah at the Jordan toward the sunrise.
 
 **19:35** The fortified cities were Ziddim, Zer, Hammath, Rakkath, and Chinnereth;
 
@@ -101,7 +101,7 @@
 
 **19:48** Now the territory of the sons of Dan went out from them; and the sons of Dan went up and fought against Leshem and captured it, and struck it with the edge of the sword, and took possession of it and settled in it; and they called Leshem Dan, after the name of Dan their father.
 
-**19:49** When they finished apportioning the land as an inheritance according to its borders, the sons of Israel gave an inheritance to Joshua son of Nun in their midst.
+**19:49** When they finished apportioning the land as an inheritance according to its boundaries, the sons of Israel gave an inheritance to Joshua son of Nun in their midst.
 
 **19:50** At the command of the LORD they gave him the city that he asked for, Timnath-serah in the hill country of Ephraim; and he built the city and settled in it.
 
@@ -114,4 +114,4 @@
 - **19:22** — Ketiv writes Shahazumah; qere reads Shahazimah.
 - **19:29** — Ketiv writes a prefix-conjugation form with waw, while qere reads the weqatal form ('and ... were') matching the surrounding boundary verbs and vv. 14 and 22. The phrase 'from the region of Achzib' translates the Masoretic wording directly.
 - **19:34** — The Masoretic Text includes 'and Judah' at the Jordan on the east, even though Judah lay far to the south; some connect this to Judean-affiliated clans in Transjordan (cf. 1 Chr 2:21-22), while the Septuagint omits 'Judah.'
-- **19:48** — "Went out from them" renders the Hebrew literally; the phrase may mean that the territory was lost to them or that it extended beyond them.
+- **19:48** — "Went out from them" renders the Hebrew literally; the phrase may mean that the territory was lost to them or that it extended beyond them. Native Masoretic order places the capture of Leshem/Dan at 19:47 and the summary at 19:48; in the Saints.Bible parallel display, these two verses are swapped (MT 19:47 to slot 19:48; MT 19:48 to slot 19:47).

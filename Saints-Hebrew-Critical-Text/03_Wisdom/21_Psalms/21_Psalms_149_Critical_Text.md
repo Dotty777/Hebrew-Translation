@@ -1,6 +1,6 @@
 # Psalms 149 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:31Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:59Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,69 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| 11QPsᵃ (11Q5) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (Abegg / ETCBC DSS — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 148:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 148:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 150:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 150:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 150:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 150:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 150:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 150:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 148:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 150:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 150:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 150:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 150:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 150:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 150:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 148:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 150:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 150:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 150:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 150:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 150:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 150:6 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -51,31 +114,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `לַֽ֭יהֹוָה` over `לַֽ֭יהוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `הַ֥לְלוּ יָ֨הּ / הַֽלְלוּיָ֨הּ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
-### Psalms 149:2
-- *Disregarded Surface Variant:* kept `(adopted text)` over `צִ֝יּ֗וֹן / צִ֝יֹּ֗ון` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 149:3
 - *Disregarded Surface Variant:* kept `יְהַלְל֣וּ` over `יְהַֽלְל֣וּ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וְ֝כִנּ֗וֹר / וְ֝כִנֹּ֗ור` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 149:4
 - *Disregarded Surface Variant:* kept `יְהֹוָ֣ה` over `יְהוָ֣ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְּעַמּ֑וֹ / בְּעַמֹּ֑ו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 149:6
 - *Disregarded Surface Variant:* kept `פִּיפִיּ֣וֹת` over `פִּֽיפִיּ֣וֹת` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `פִּיפִיּ֣וֹת / פִּֽיפִיֹּ֣ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 149:7
-- **Apparatus:** `בַּלְאֻמִּֽים` MAM (Aleppo) BenChayyim (1525) Letteris (1852) **]** **בַּל אֻמִּֽים** WLC (L) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Aleppo tradition (MAM); other reading(s): Leningrad Codex (WLC).
-  - *external: two-stream policy:* Aleppo tradition (MAM) against the Leningrad Codex (WLC): a codex-level difference within the Masoretic text. MAM is followed.
 - *Disregarded Surface Variant:* kept `תּ֝וֹכֵח֗וֹת` over `תּֽ֝וֹכֵחֹ֗ת` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לַעֲשׂ֣וֹת / לַעֲשֹׂ֣ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+- *Disregarded Surface Variant:* kept `בַּלְאֻמִּֽים׃` over `בַּל־ אֻמִּֽים׃` (WLC (L)) — *Word division differs (same letters written as one word or two, with boundary pointing convention)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּלְאֻמִּֽים׃ / בַּל־ אֻמִּֽים׃`, `בַּלְאֻמִּֽים׃ / בַּל־ אֻמִּֽים׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 149:9
 - *Disregarded Surface Variant:* kept `לְכׇל־` over `לְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לַעֲשׂ֤וֹת / לַעֲשֹׂ֤ות`, `הַֽלְלוּ־ יָֽהּ׃ / הַֽלְלוּיָֽהּ׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַֽלְלוּ־ יָֽהּ׃ / הַֽלְלוּיָֽהּ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ---
 
@@ -129,14 +184,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Letteris (1852)`: רֽוֹמְמ֣וֹת אֵ֭ל בִּגְרוֹנָ֑ם וְחֶ֖רֶב פִּֽיפִיּ֣וֹת בְּיָדָֽם׃
 - **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
 
-### Verse 7 (Confidence: `50.6%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** לַעֲשׂ֣וֹת נְ֭קָמָה בַּגּוֹיִ֑ם תּ֝וֹכֵח֗וֹת בַּלְאֻמִּֽים׃
   - `MAM (Aleppo)`: לַעֲשׂ֣וֹת נְ֭קָמָה בַּגּוֹיִ֑ם תּ֝וֹכֵח֗וֹת בַּלְאֻמִּֽים׃
   - `WLC (L)`: לַעֲשׂ֣וֹת נְ֭קָמָה בַּגּוֹיִ֑ם תּֽ֝וֹכֵחֹ֗ת בַּל־אֻמִּֽים׃
   - `BenChayyim (1525)`: לַעֲשֹׂ֣ות נְ֭קָמָה בַּגֹּויִ֑ם תֹּֽ֝וכֵחֹ֗ת בַּל־אֻמִּֽים׃
   - `Letteris (1852)`: לַֽעֲשׂ֣וֹת נְ֭קָמָה בַּגּוֹיִ֑ם תּֽ֝וֹכֵח֗וֹת בַּלְאֻמִּֽים׃
-- **Philological Rationale:** [Vocalisation / pointing difference (same consonantal text)] Adopted 'בַּלְאֻמִּֽים' [MAM (Aleppo)] (weight 0.98, confidence 51%) over בַּל אֻמִּֽים (WLC (L)). Also normalised 1 orthographic/surface variation(s).
-- *confidence:* Verse confidence 51% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Plene / defective spelling (mater lectionis); Word division differs (same letters written as one word or two, with boundary pointing convention)).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** לֶאְסֹ֣ר מַלְכֵיהֶ֣ם בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל׃

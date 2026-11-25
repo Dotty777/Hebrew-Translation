@@ -1,6 +1,6 @@
 # Leviticus 22 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (33 verses, 4 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,7 @@
 ## Translator Notes
 
 - **22:2** — The Niphal yinnazeru (from nazar) means 'keep themselves separate' or 'abstain.' In the Masoretic clause order, the relative clause 'which they dedicate to Me' follows 'My holy name,' resuming 'the holy things of the sons of Israel.'
+- **22:13** — Hebrew zera ("seed") denotes living children/offspring.
 - **22:16** — The Hiphil weqatal vehissi'u (from nasa', 'cause to bear') has an ambiguous object pronoun 'otam ('them'), referring either to the Israelites (whom negligent priests cause to incur guilt) or reflexively to the offenders themselves; 'avon 'ashmah is a construct chain, literally 'iniquity of guilt.'
 - **22:19** — Hebrew lirtsonekhem ('for your acceptance,' also in v. 29) indicates that the offering must meet the standard to be accepted on the worshiper's behalf, matching leratson ('for acceptance') in vv. 20-21 and the Niphal of ratsah ('be accepted') in vv. 23, 25, and 27.
 - **22:24** — The four Qal passive participles (ma'uk, katut, natuq, karut) refer to methods of animal castration or testicular injury; the closing clause ('nor shall you do this in your land') is commonly understood to forbid castrating animals in Israel.

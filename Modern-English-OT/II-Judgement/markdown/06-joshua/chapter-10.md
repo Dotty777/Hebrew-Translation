@@ -97,6 +97,6 @@
 
 - **10:10** — The subsequent 3ms verbs ("struck... pursued... struck") have no newly stated subject in Hebrew, leaving open whether the LORD or Israel/Joshua is the grammatical subject.
 - **10:12** — The imperative "be still" translates the Qal imperative of damam (dom, "be still, cease, halt"), paired in 10:13 with amad ("stood"); "the Book of Jashar" (10:13) literally means "the Book of the Upright."
-- **10:14** — In both 10:14 and 10:42, the verb "was fighting" (nilcham) is pointed as a Niphal participle, highlighting continuous divine action; verses 10:15 and 10:43 of the standard Masoretic Text are absent from this critical Hebrew text, matching the Septuagint.
+- **10:14** — In both 10:14 and 10:42, the verb "was fighting" (nilcham) is pointed as a Niphal participle, highlighting continuous divine action. Masoretic verses 10:15 and 10:43 are present in the adopted critical Hebrew text (and translated under native MT numbering), though they have no corresponding verse slots in the Saints.Bible parallel display.
 - **10:19** — The verb rendered "attack them from the rear" is the Piel of zanav (denominative from zanav, "tail"), meaning to strike the rear guard or cut off stragglers.
 - **10:21** — The idiom "sharpened his tongue" (charats ... et-leshono, cf. Exodus 11:7) means that no one dared utter a hostile word against any Israelite.

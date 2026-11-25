@@ -33,7 +33,7 @@
 
 ## Translator Notes
 
-- **61:2** — The noun dumiyyah ('stillness, silence') stands in deliberate contrast with the Qal feminine singular imperative dommi ('be still!') in 61:6. The particle akh ('only') recurs six times in this psalm (verses 2, 3, 5, 6, 7, 10) as a unifying refrain.
+- **61:2** — The noun dumiyyah ('stillness, silence') stands in deliberate contrast with the Qal feminine singular imperative dommi ('be still!') in 61:6 (MT 62:6). The particle akh ('only') recurs six times in this psalm (verses 2, 3, 5, 6, 7, 10) as a unifying refrain.
 - **61:4** — The Poel verb tehotetu ('assail') is a biblical hapax legomenon. The translation follows the vocalization of the critical text, teratsechu, a Piel active ('you batter/murder'); an alternate vocalization tradition (Ben Naphtali) reads a Pual passive ('you will be slain'). The simile of the leaning wall describes the man under attack.
 - **61:5** — Hebrew befiv literally reads 'with his mouth' (a distributive singular suffix paired with the plural verb 'they bless'), meaning each adversary blesses with his own mouth.
 - **61:10** — The parallel idioms 'sons of mankind' (bene-adam) and 'sons of man' (bene-ish) encompass all humanity, from the lowly to the prominent. The final clause uses comparative min elliptically with hevel ('less than a breath,' i.e., lighter than a puff of air).

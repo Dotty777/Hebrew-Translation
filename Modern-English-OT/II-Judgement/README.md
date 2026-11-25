@@ -1,23 +1,23 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Hebrew / Masoretic Text)
 
 > **Status:** `draft: true` — **Complete 13/13 books**  
-> **Coverage:** 291 chapters, 7,940 verses (+ 120 additional MT verses), 1,325 translator notes  
+> **Coverage:** 291 chapters, 7,940 verses (+ 120 additional MT verses), 1,360 translator notes  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (13 / 13 Complete)
 
 | # | Book | Chapters | Verses | Additional | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---:|---|---|
-| 6 | Joshua | 24 | 643 | 15 | 109 | [`markdown/06-joshua/`](markdown/06-joshua/README.md) | [`06-joshua.json`](json/06-joshua.json) |
+| 6 | Joshua | 24 | 643 | 15 | 114 | [`markdown/06-joshua/`](markdown/06-joshua/README.md) | [`06-joshua.json`](json/06-joshua.json) |
 | 7 | Judges | 21 | 618 | — | 96 | [`markdown/07-judges/`](markdown/07-judges/README.md) | [`07-judges.json`](json/07-judges.json) |
-| 8 | Ruth | 4 | 85 | — | 18 | [`markdown/08-ruth/`](markdown/08-ruth/README.md) | [`08-ruth.json`](json/08-ruth.json) |
-| 9 | 1 Samuel | 31 | 772 | 39 | 137 | [`markdown/09-1-samuel/`](markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](json/09-1-samuel.json) |
-| 10 | 2 Samuel | 24 | 695 | — | 114 | [`markdown/10-2-samuel/`](markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](json/10-2-samuel.json) |
-| 11 | 1 Kings | 22 | 754 | 33 | 105 | [`markdown/11-1-kings/`](markdown/11-1-kings/README.md) | [`11-1-kings.json`](json/11-1-kings.json) |
-| 12 | 2 Kings | 25 | 718 | 1 | 120 | [`markdown/12-2-kings/`](markdown/12-2-kings/README.md) | [`12-2-kings.json`](json/12-2-kings.json) |
-| 13 | 1 Chronicles | 29 | 930 | 13 | 139 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
+| 8 | Ruth | 4 | 85 | — | 19 | [`markdown/08-ruth/`](markdown/08-ruth/README.md) | [`08-ruth.json`](json/08-ruth.json) |
+| 9 | 1 Samuel | 31 | 772 | 39 | 147 | [`markdown/09-1-samuel/`](markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](json/09-1-samuel.json) |
+| 10 | 2 Samuel | 24 | 695 | — | 115 | [`markdown/10-2-samuel/`](markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](json/10-2-samuel.json) |
+| 11 | 1 Kings | 22 | 754 | 33 | 114 | [`markdown/11-1-kings/`](markdown/11-1-kings/README.md) | [`11-1-kings.json`](json/11-1-kings.json) |
+| 12 | 2 Kings | 25 | 718 | 1 | 121 | [`markdown/12-2-kings/`](markdown/12-2-kings/README.md) | [`12-2-kings.json`](json/12-2-kings.json) |
+| 13 | 1 Chronicles | 29 | 930 | 13 | 141 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 821 | 1 | 149 | [`markdown/14-2-chronicles/`](markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](json/14-2-chronicles.json) |
 | 15 | Ezra | 10 | 280 | — | 50 | [`markdown/15-ezra/`](markdown/15-ezra/README.md) | [`15-ezra.json`](json/15-ezra.json) |
-| 16 | Nehemiah | 13 | 391 | 14 | 62 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |
-| 17 | Esther | 10 | 164 | 3 | 36 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
-| 20 | Job | 42 | 1,069 | 1 | 190 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |
+| 16 | Nehemiah | 13 | 391 | 14 | 64 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |
+| 17 | Esther | 10 | 164 | 3 | 38 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
+| 20 | Job | 42 | 1,069 | 1 | 192 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |

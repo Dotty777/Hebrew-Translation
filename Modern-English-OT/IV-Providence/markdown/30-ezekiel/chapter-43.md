@@ -1,6 +1,6 @@
 # Ezekiel 43 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -62,6 +62,7 @@
 ## Translator Notes
 
 - **43:3** — MT reads first-person bebo'i ("when I came"), expressing Ezekiel's prophetic participation in the vision of Jerusalem's destruction (cf. ch. 9), whereas some Hebrew manuscripts and ancient versions read third-person "when He came."
+- **43:5** — Hebrew ruach lacks the definite article here and may be read as "a spirit," "the Spirit," or "wind" (cf. 2:2).
 - **43:7** — The direct object marker 'et precedes "the place of My throne" without a governing verb, functioning presentatively ("this is"). At the end of the verse, MT vocalizes bamotam ("their high places," used locatively or denoting royal funerary shrines), whereas repointing the consonants to bemotam yields "at their death."
 - **43:13** — Hebrew cheq (lit. "bosom" or "hollow") denotes the recessed base or drainage gutter around the altar. MT gav ("back," "mound," or "pedestal") is retained here rather than emending to "height" (govah) with the Septuagint.
 - **43:15** — Hebrew uses two related terms for the altar hearth: har'el and Qere 'ari'el (also in 43:16), where the Ketiv transposes the yod and 'alef ('r'yl) while the Qere reads 'ry'l.

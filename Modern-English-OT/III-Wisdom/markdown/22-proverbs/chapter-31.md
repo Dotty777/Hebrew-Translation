@@ -1,6 +1,6 @@
 # Proverbs 31 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -70,5 +70,6 @@
 - **31:3** — The form lamchot is commonly analyzed as a Hiphil infinitive construct of mchh with elided he ("to destroying/ruining"), governing the Aramaic-style plural melakin ("kings").
 - **31:4** — Ketiv/Qere: Qere reads ei ("where?"), rendered here as rulers asking "Where is strong drink?"; Ketiv has the consonants aleph-waw, often vocalized as a noun meaning "desire" (from the root avah) or taken as "or".
 - **31:16** — Ketiv/Qere: Qere reads the third-person feminine singular Qal perfect nate'ah ("she plants"), agreeing with the feminine subject; Ketiv omits the final he.
+- **31:26** — Native Masoretic order preserves the Hebrew alphabetic acrostic: Ayin (31:25), Pe (31:26), Tsade (31:27), Qoph (31:28). In the Saints.Bible parallel display, MT 31:25 maps to slot 31:26, MT 31:27 maps to slot 31:27, and MT 31:26 + 31:28 are combined at slot 31:28 (leaving slot 31:25 unmapped).
 - **31:27** — Ketiv/Qere: Qere reads halikhot ("ways" or "activities"), plural of halikhah; Ketiv transposes the yod and lamed and omits the plural waw.
-- **31:28** — The Hebrew numbers the Ayin line ('Strength and splendor are her clothing') as 31:25 and the Pe line ('With wisdom she opens her mouth') as 31:26; this edition shows the Ayin line at 31:26 and joins the Pe line to the Qoph line here at 31:28, with no separate 31:25.
+- **31:28** — Native Masoretic order preserves the Hebrew alphabetic acrostic: Ayin (31:25, 'Strength and splendor are her clothing'), Pe (31:26, 'With wisdom she opens her mouth'), Tsade (31:27), and Qoph (31:28). In the Saints.Bible parallel display, MT 31:25 appears at slot 31:26 and MT 31:26 is combined with MT 31:28 at slot 31:28, with no separate slot 31:25.

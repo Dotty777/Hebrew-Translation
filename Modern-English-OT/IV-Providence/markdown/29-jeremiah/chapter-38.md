@@ -89,6 +89,6 @@
 
 - **38:21** — Ketiv/qere variant: the written ketiv reflects an archaic second-person feminine singular spelling (homographic with the first-person singular), while the read qere is the standard second-person feminine singular Qal perfect of halakh ("you went").
 - **38:22** — The Hebrew literally reads "a female surrounds a man" (Polel imperfect of savav, "encircle, encompass, protect"), an enigmatic proverb often understood as a surprising reversal of roles in which a woman protects or courts a warrior.
-- **38:32** — The Hebrew Qal perfect ba'alti bam literally means "even though I was a husband/master to them," contrasting with Israel's breach of the covenant; the Septuagint reads "and I disregarded them" (cited in Hebrews 8:9).
-- **38:38** — The word "coming" (Qal participle of bo') is a Masoretic qere without ketiv, supplied in the reading tradition though absent from the written consonantal text, matching the formula in 38:27 and 38:31.
+- **38:32** — The Hebrew Qal perfect ba'alti bam literally means "even though I was a husband/master to them," contrasting covenant fidelity with Israel's breach of the covenant.
+- **38:38** — The word "coming" (Qal participle of bo') is a Masoretic qere without ketiv, supplied in the reading tradition though absent from the written consonantal text, matching the formula in 38:27 and 38:31 (MT 31:27 and 31:31).
 - **38:40** — Ketiv/qere variant: the written ketiv (hasheremot) is an obscure, otherwise unattested form, while the read qere (hash-shedemot) means "the terraced fields" (compare 2 Kings 23:4).

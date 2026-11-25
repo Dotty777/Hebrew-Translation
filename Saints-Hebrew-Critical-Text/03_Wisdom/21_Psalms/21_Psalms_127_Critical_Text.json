@@ -7,11 +7,48 @@
   "usfm_code": "PSA",
   "chapter": 127,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:15:30Z",
+  "updated_at": "2026-11-25T00:07:59Z",
   "versification": "Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions.",
   "versification_anchor": "WLC (L)",
   "orthographic_base": "MAM (Aleppo)",
-  "versification_notes": [],
+  "versification_notes": [
+    "MAM (Aleppo): 126:1 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 126:2 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 126:3 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 126:4 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 126:5 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 126:6 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 128:1 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 128:2 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 128:3 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 128:4 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 128:5 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 128:6 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 126:1 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 126:2 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 126:3 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 126:4 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 126:5 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 126:6 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 128:1 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 128:2 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 128:3 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 128:4 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 128:5 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 128:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 126:1 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 126:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 126:3 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 126:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 126:5 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 126:6 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 128:1 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 128:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 128:3 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 128:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 128:5 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 128:6 kept in its own chapter (stronger match to its own reference verse)"
+  ],
   "admitted_witnesses": [
     {
       "siglum": "MAM (Aleppo)",
@@ -88,6 +125,17 @@
           "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
         },
         {
+          "slot_index": 10,
+          "kept_form": "׀",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "MAM (Aleppo)"
+          ],
+          "reason": "Paseq / legarmeh stroke (an accent sign) printed by one edition only"
+        },
+        {
           "slot_index": 15,
           "kept_form": "יְהֹוָ֥ה",
           "disregarded_forms": [
@@ -119,32 +167,9 @@
             "WLC (L)"
           ],
           "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "בּ֑וֹ / בֹּ֑ו",
-            "שׁוֹמֵֽר׃ / שֹׁומֵֽר׃"
-          ],
-          "witnesses": [
-            "BenChayyim (1525)"
-          ],
-          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "׀ / "
-          ],
-          "witnesses": [
-            "Letteris (1852)"
-          ],
-          "reason": "Apparatus witness, not a variant: Paseq / legarmeh stroke (an accent sign) printed by one edition only"
         }
       ],
-      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 5 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 6 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Paseq / legarmeh stroke (an accent sign) printed by one edition only).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -169,6 +194,17 @@
       ],
       "apparatus": [],
       "disregarded": [
+        {
+          "slot_index": 2,
+          "kept_form": "׀",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "MAM (Aleppo)"
+          ],
+          "reason": "Paseq / legarmeh stroke (an accent sign) printed by one edition only"
+        },
         {
           "slot_index": 3,
           "kept_form": "מַשְׁכִּ֪ימֵֽי",
@@ -203,7 +239,7 @@
           "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
         }
       ],
-      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",
+      "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 4 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention; Paseq / legarmeh stroke (an accent sign) printed by one edition only).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -264,19 +300,7 @@
         "Letteris (1852)"
       ],
       "apparatus": [],
-      "disregarded": [
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "גִּבּ֑וֹר / גִּבֹּ֑ור"
-          ],
-          "witnesses": [
-            "BenChayyim (1525)"
-          ],
-          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
-        }
-      ],
+      "disregarded": [],
       "rationale": "Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -301,19 +325,7 @@
         "Letteris (1852)"
       ],
       "apparatus": [],
-      "disregarded": [
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "יֵבֹ֑שׁוּ / יֵב֑שׁוּ"
-          ],
-          "witnesses": [
-            "Letteris (1852)"
-          ],
-          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
-        }
-      ],
+      "disregarded": [],
       "rationale": "Unanimous witness agreement across MAM (Aleppo), WLC (L) (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],

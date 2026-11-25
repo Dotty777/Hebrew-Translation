@@ -1,6 +1,6 @@
 # 1 Kings 22 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (50 verses, 5 translator notes, 4 additional)  
+> **Status:** `draft: true` (50 verses, 6 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

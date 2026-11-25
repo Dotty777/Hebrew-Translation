@@ -1,6 +1,6 @@
 # 1 Kings 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (64 verses, 7 translator notes, 2 additional)  
+> **Status:** `draft: true` (64 verses, 8 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -129,7 +129,7 @@
 
 **8:64** On that day the king sanctified the center of the courtyard that was before the house of the LORD, because he offered there the burnt offering, and the grain offering, and the fat portions of the peace offerings, for the bronze altar that was before the LORD was too small to contain the burnt offering, and the grain offering, and the fat portions of the peace offerings.
 
-**8:65** And at that time Solomon celebrated the festival, and all Israel with him, a great assembly from the entrance of Hamath to the Wadi of Egypt, before the LORD our God, seven days and seven days—fourteen days.
+**8:65** And at that time Solomon celebrated the festival, and all Israel with him, a great assembly from Lebo-hamath to the Wadi of Egypt, before the LORD our God, seven days and seven days—fourteen days.
 
 **8:66** On the eighth day he dismissed the people, and they blessed the king and went to their tents, rejoicing and glad of heart over all the goodness that the LORD had done for David His servant and for Israel His people.
 
@@ -148,3 +148,4 @@
 - **8:35** — The verb ta'anem ("You humble them") is parsed as Hiphil of 'anah II ("afflict, humble"), fitting the drought context; the form is homographic with the Qal of 'anah I ("answer").
 - **8:48** — Ketiv/Qere: the written ketiv omits the final yod (bnyt), while the pointed qere translated here is first-person singular baniti ("I have built"), matching 8:43 and 8:44.
 - **8:59** — The Hebrew idiom debar-yom beyomo (literally "the matter of a day in its day") denotes each day's ongoing need or requirement.
+- **8:65** — Hebrew levo Chamath is a northern geographical place name ("Lebo-hamath," literally "the entrance of Hamath").

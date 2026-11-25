@@ -5,7 +5,7 @@
 
 ## Text
 
-**77:1** A maskil of Asaph. Listen closely, my people, to my instruction; incline your ear to the sayings of my mouth.
+**77:1** A Maskil of Asaph. Listen closely, my people, to my instruction; incline your ear to the sayings of my mouth.
 
 **77:2** With a parable I will open my mouth; I will pour forth riddles from ancient times,
 

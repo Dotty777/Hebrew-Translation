@@ -17,5 +17,5 @@
 
 ## Translator Notes
 
-- **42:2** — Hebrew ethallekh uses the iterative/reflexive Hithpael stem of halakh (walk about), distinguishing this lament from the Qal verb elekh (go) in the parallel verse at 41:10.
+- **42:2** — Hebrew ethallekh uses the iterative/reflexive Hithpael stem of halakh (walk about), distinguishing this lament from the Qal verb elekh (go) in the parallel verse at 41:10 (MT 42:10).
 - **42:4** — Hebrew simchat gili (literally the gladness of my rejoicing) is a construct phrase combining two near-synonymous nouns for superlative emphasis (my highest joy).

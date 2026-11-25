@@ -35,9 +35,9 @@
 
 **22:15** Do you reign because you vie in cedar? Your father—did he not eat and drink, and practice justice and righteousness? Then it went well with him.
 
-**22:16** He judged the case of the afflicted and needy; then it went well. Is that not knowing Me? declares the LORD.
+**22:16** He judged the case of the afflicted and needy; then it went well. Is that not knowing Me?" declares the LORD.
 
-**22:17** Yet your eyes and your heart are on nothing but your unjust gain, and on shedding the blood of the innocent, and on practicing oppression and violence."
+**22:17** "Yet your eyes and your heart are on nothing but your unjust gain, and on shedding the blood of the innocent, and on practicing oppression and violence."
 
 **22:18** Therefore this is what the LORD says concerning Jehoiakim son of Josiah, king of Judah: "They will not lament for him, 'Alas, my brother!' or 'Alas, sister!' They will not lament for him, 'Alas, lord!' or 'Alas, his majesty!'
 

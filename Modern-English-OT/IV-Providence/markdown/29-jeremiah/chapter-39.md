@@ -97,6 +97,6 @@
 
 - **39:1** — Ketiv reads the construct bishnat ("in the year of") before the definite ordinal, whereas Qere reads the absolute bashanah ("in the tenth year"); both convey the same date.
 - **39:9** — Literally "seven shekels and ten of the silver," an additive Hebrew numeral construction meaning seventeen shekels of silver.
-- **39:12** — MT reads dodi ("my uncle") here without ben ("son of"), unlike 39:7-9, where Hanamel is the son of Jeremiah's uncle; dod can also denote a kinsman more broadly.
+- **39:12** — MT reads dodi ("my uncle") here without ben ("son of"), unlike 39:7–9 (MT 32:7–9), where Hanamel is the son of Jeremiah's uncle; dod can also denote a kinsman more broadly.
 - **39:23** — Ketiv reads the plural ("Your laws"), whereas Qere reads the singular ("Your law"); the Hiphil wayyiqtol wattaqre ("You caused to befall") is spelled with final aleph from the root qara II (equivalent to qarah, "happen, befall").
 - **39:35** — The Hiphil infinitive construct leha'avir literally means "to cause to pass over" (without "through the fire" in the Hebrew text here), an idiom for child sacrifice to Molech.

@@ -1,6 +1,6 @@
 # Joshua 20 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (6 verses, 4 translator notes, 3 additional)  
+> **Status:** `draft: true` (6 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

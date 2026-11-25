@@ -1,6 +1,6 @@
 # Deuteronomy 23 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,3 +64,4 @@
 - **23:5** — Hebrew sakhar ('he hired') is singular, referring specifically to Moab, though rendered 'they hired' to agree with the plural verb earlier in the verse. Aram-naharaim literally means 'Aram of the Two Rivers,' i.e., Upper Mesopotamia.
 - **23:14** — Hebrew azenekha ('your equipment/gear') is a hapax legomenon whose exact sense is uncertain, commonly understood as personal tools, weapons, or field gear.
 - **23:18** — Hebrew qedeshah (fem.) and qadesh (masc.) literally mean 'consecrated woman' and 'consecrated man,' referring to cultic personnel associated with illicit sexual rites, paired with 'prostitute' and 'dog' (likely a contemptuous metaphor for a male prostitute) in v. 19.
+- **23:26** — Native Masoretic order places the vineyard law at 23:25 and the standing-grain law at 23:26 (corresponding to 23:24–25 in alternative versifications); in the Saints.Bible parallel display, MT 23:25 maps to slot 23:26 and MT 23:26 maps to slot 23:25.

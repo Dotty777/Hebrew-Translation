@@ -1,6 +1,6 @@
 # Jeremiah 36 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 5 additional)  
+> **Status:** `draft: true` (27 verses, 7 translator notes, 5 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,8 +74,9 @@
 ## Translator Notes
 
 - **36:8** — Hebrew machlemim is a Hiphil participle with the second-person plural subject 'you,' understood either causatively ('that you cause to be dreamed,' i.e., solicit from your prophets) or as an internal Hiphil ('that you dream').
-- **36:14** — Ketiv reads shevitchem ('your captivity'), whereas Qere reads shevutchem ('your fortunes/restoration'), forming the idiomatic expression shuv shevut ('restore the fortunes of,' also in 37:3, 18).
-- **36:21** — The Hebrew here spells the king's name Nebuchadrezzar (closer to Akkadian Nabu-kudurri-usur), contrasting with Nebuchadnezzar in 36:1 and 36:3; vv. 21-22 also feature wordplay across Kolaiah (Qolayah), 'curse' (qelalah), and 'roasted them' (qalam).
+- **36:14** — Ketiv reads shevitchem ('your captivity'), whereas Qere reads shevutchem ('your fortunes/restoration'), forming the idiomatic expression shuv shevut ('restore the fortunes of,' also in 37:3, 18 [MT 30:3, 18]).
+- **36:15** — In the Masoretic Text, vv. 16–20 (placed under Additional Verses in Saints numbering) intervene between the "Because you have said..." clause of MT 29:15 (Saints 36:15) and the answering oracle in MT 29:21 (Saints 36:21).
+- **36:21** — The Hebrew here spells the king's name Nebuchadrezzar (closer to Akkadian Nabu-kudurri-usur), contrasting with Nebuchadnezzar in 36:1 and 36:3 (MT 29:1 and 29:3); vv. 21-22 also feature wordplay across Kolaiah (Qolayah), 'curse' (qelalah), and 'roasted them' (qalam).
 - **36:23** — Ketiv reads hwyde' (a scribal transposition of yod and vav), whereas Qere reads hayyodea' (Qal active participle of yada' with the definite article, 'the one who knows').
 - **36:26** — Peqidim ('overseers') is plural despite the singular address to Zephaniah, either stating a general office ('that there should be overseers') or including his fellow priests; tsinoq ('iron collar') is a biblical Hebrew hapax legomenon for a restraining neck-iron or pillory.
 - **29:19 *(additional)*** — MT shifts abruptly from third person ("they") to second person plural ("you").

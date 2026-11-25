@@ -5,7 +5,7 @@
 
 ## Text
 
-**27:1** And you shall make the altar of acacia wood, five cubits long and five cubits wide; the altar shall be square, and its height shall be three cubits.
+**27:1** "And you shall make the altar of acacia wood, five cubits long and five cubits wide; the altar shall be square, and its height shall be three cubits.
 
 **27:2** And you shall make its horns on its four corners; its horns shall be integral with it, and you shall overlay it with bronze.
 
@@ -45,7 +45,7 @@
 
 **27:20** Now you shall command the sons of Israel so that they bring to you pure, pounded olive oil for the lighting, to cause a lamp to burn continually.
 
-**27:21** In the tent of meeting, outside the veil that is before the testimony, Aaron and his sons shall set it in order from evening until morning before the LORD; it is an everlasting statute for their generations from the sons of Israel.
+**27:21** In the tent of meeting, outside the veil that is before the testimony, Aaron and his sons shall set it in order from evening until morning before the LORD; it is an everlasting statute for their generations from the sons of Israel."
 
 ## Translator Notes
 

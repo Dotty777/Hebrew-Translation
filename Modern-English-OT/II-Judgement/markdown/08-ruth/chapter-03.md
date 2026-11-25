@@ -1,6 +1,6 @@
 # Ruth 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (18 verses, 5 translator notes)  
+> **Status:** `draft: true` (18 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ruth`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -48,3 +48,4 @@
 - **3:9** — Hebrew kanaf ("wing") also denotes the corner or edge of a garment; Ruth's request echoes Boaz's blessing in 2:12 ("beneath whose wings") while invoking a symbolic gesture of protective marriage.
 - **3:12** — The particle im ("if") is ketiv wela qere, written in the consonantal text but omitted in the Masoretic reading tradition.
 - **3:15** — Hebrew literally reads "six of barley," leaving the unit of measurement unstated, and the final verb wayyavo ("and he went") is masculine singular in the Masoretic Text, referring to Boaz.
+- **3:17** — The words "to me" (elay) are Qere without Ketiv, read in the Masoretic vocalization tradition though absent from the written consonants (as in 3:5).

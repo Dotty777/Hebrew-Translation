@@ -1,6 +1,6 @@
 # Ezekiel 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (18 verses, 5 translator notes)  
+> **Status:** `draft: true` (18 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -44,6 +44,7 @@
 ## Translator Notes
 
 - **8:2** — The Masoretic Hebrew reads אֵשׁ ('fire', compare 1:27), whereas the Septuagint reflects אִישׁ ('a man'); הַחַשְׁמַלָה ('glowing metal', with paragogic -ah) is a rare term confined to Ezekiel (1:4, 27; 8:2) denoting glowing metal, electrum, or amber.
+- **8:3** — Hebrew ruach lacks the definite article here and may be read as "a spirit," "the Spirit," or "wind" (cf. 2:2).
 - **8:6** — Ketiv מהם (written as one word) vs. Qere מָה הֵם ('what they'); the Qal infinitive construct לְרׇחֳקָה ('to go far away') implies causing God to depart far from His sanctuary.
 - **8:11** — עֲתַר is a hapax legomenon, understood either as 'aroma/fragrance' or as a 'thick, billowing mass' of incense smoke.
 - **8:16** — מִשְׁתַּחֲוִיתֶם is an anomalous conflate Masoretic form combining the Hishtaphel participle מִשְׁתַּחֲוִים ('bowing down') with a second-person plural ending -tem.

@@ -73,7 +73,7 @@
 
 **40:7** *(after `40:6`)* And you shall place the basin between the tent of meeting and the altar, and you shall put water in it.
 
-**40:11** *(after `40:10`)* And you shall anoint the basin and its base, and consecrate it.
+**40:11** *(after `40:10`)* And you shall anoint the basin and its stand, and consecrate it.
 
 **40:28** *(after `40:27`)* And he set up the screen for the entrance of the tabernacle.
 

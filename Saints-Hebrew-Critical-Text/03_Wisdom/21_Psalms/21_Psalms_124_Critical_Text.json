@@ -7,11 +7,39 @@
   "usfm_code": "PSA",
   "chapter": 124,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:15:30Z",
+  "updated_at": "2026-11-25T00:07:59Z",
   "versification": "Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions.",
   "versification_anchor": "WLC (L)",
   "orthographic_base": "MAM (Aleppo)",
-  "versification_notes": [],
+  "versification_notes": [
+    "MAM (Aleppo): 123:1 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 123:2 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 123:3 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 123:4 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 125:1 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 125:2 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 125:3 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 125:4 kept in its own chapter (stronger match to its own reference verse)",
+    "MAM (Aleppo): 125:5 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 123:1 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 123:2 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 123:3 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 123:4 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 125:1 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 125:2 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 125:3 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 125:4 kept in its own chapter (stronger match to its own reference verse)",
+    "BenChayyim (1525): 125:5 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 123:1 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 123:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 123:3 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 123:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 125:1 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 125:2 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 125:3 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 125:4 kept in its own chapter (stronger match to its own reference verse)",
+    "Letteris (1852): 125:5 kept in its own chapter (stronger match to its own reference verse)"
+  ],
   "admitted_witnesses": [
     {
       "siglum": "MAM (Aleppo)",
@@ -307,17 +335,6 @@
             "WLC (L)"
           ],
           "reason": "Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "כְּצִפּ֥וֹר / כְּצִפֹּ֥ור"
-          ],
-          "witnesses": [
-            "BenChayyim (1525)"
-          ],
-          "reason": "Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)"
         }
       ],
       "rationale": "Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).",

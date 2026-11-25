@@ -1,6 +1,6 @@
 # Lamentations 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (62 verses, 10 translator notes, 4 additional)  
+> **Status:** `draft: true` (62 verses, 11 translator notes, 4 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Lamentations`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

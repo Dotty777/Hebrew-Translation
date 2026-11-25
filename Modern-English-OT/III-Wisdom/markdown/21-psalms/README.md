@@ -55,7 +55,7 @@
 - [Chapter 47](chapter-047.md) — 15 verses, 3 notes
 - [Chapter 48](chapter-048.md) — 21 verses, 5 notes
 - [Chapter 49](chapter-049.md) — 23 verses, 4 notes
-- [Chapter 50](chapter-050.md) — 21 verses, 4 notes
+- [Chapter 50](chapter-050.md) — 21 verses, 5 notes
 - [Chapter 51](chapter-051.md) — 11 verses, 4 notes
 - [Chapter 52](chapter-052.md) — 7 verses, 4 notes
 - [Chapter 53](chapter-053.md) — 9 verses, 3 notes

@@ -39,7 +39,7 @@
 
 **37:20** And his sons will be as in former days, and his assembly will be established before Me, and I will punish all his oppressors.
 
-**37:21** And his noble one will be from himself, and his ruler will come forth from his midst; I will bring him near, and he will approach Me, for who is this who would pledge his heart to approach Me? declares the LORD."
+**37:21** And his noble one will be from himself, and his ruler will come forth from his midst; I will bring him near, and he will approach Me, for who is this who would pledge his heart to approach Me?" declares the LORD.
 
 **37:23** Look, the tempest of the LORD! Fury has gone forth, a sweeping tempest; upon the head of the wicked it will whirl down.
 
@@ -47,17 +47,17 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**30:10** *(after `37:9`)* As for you, do not be afraid, My servant Jacob, declares the LORD, and do not be dismayed, Israel; for look, I am going to save you from far away, and your seed from the land of their captivity. Jacob will return and be at rest and secure, with no one to terrify him.
+**30:10** *(after `37:9`)* "As for you, do not be afraid, My servant Jacob, declares the LORD, and do not be dismayed, Israel; for look, I am going to save you from far away, and your seed from the land of their captivity. Jacob will return and be at rest and secure, with no one to terrify him.
 
-**30:11** *(after `37:9`)* For I am with you, declares the LORD, to save you; for I will bring complete destruction upon all the nations where I have scattered you, yet I will not bring complete destruction upon you. I will discipline you with justice, and I will certainly not leave you unpunished.
+**30:11** *(after `37:9`)* For I am with you, declares the LORD, to save you; for I will bring complete destruction upon all the nations where I have scattered you, yet I will not bring complete destruction upon you. I will discipline you with justice, and I will certainly not leave you unpunished."
 
 **30:15** *(after `37:14`)* Why do you cry out over your wound? Your pain is incurable. Because of the abundance of your iniquity, since your sins are so many, I have done these things to you.
 
-**30:22** *(after `37:21`)* And you will be My people, and I will be your God.
+**30:22** *(after `37:21`)* "And you will be My people, and I will be your God."
 
 ## Translator Notes
 
-- **37:8** — Hebrew shifts abruptly from third person ('his yoke') to second person ('your neck... your bonds') and back to third person ('enslave him'), common in prophetic poetry; the idiom avad be- ('impose service on / enslave') contrasts with avad et- ('serve') in 37:9.
+- **37:8** — Hebrew shifts abruptly from third person ('his yoke') to second person ('your neck... your bonds') and back to third person ('enslave him'), common in prophetic poetry; the idiom avad be- ('impose service on / enslave') contrasts with avad et- ('serve') in 37:9 (MT 30:9).
 - **37:13** — The Masoretic pause (athnach) stands after lemazor ('for the sore,' traditionally linked to the first clause as 'for binding up'), though mazor ('sore/ulcer') pairs naturally with the medical phrase refuot te'alah ('remedies of healing').
 - **37:21** — Hebrew arav et-libbo literally means 'pledged his heart' (Qal of arav, 'stand surety / give as a pledge'), an idiom for risking one's life or daring on one's own authority.
 - **37:23** — Mitgorer is a Hithpolel participle (from garar, 'sweep/drag away,' hence 'a sweeping tempest'), contrasting with mitkholel ('whirling') in the parallel oracle at Jeremiah 23:19.

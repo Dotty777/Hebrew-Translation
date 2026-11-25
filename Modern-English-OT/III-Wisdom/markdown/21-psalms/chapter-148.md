@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **148:2** — As in 147:8, the consonants are written without a yod (ketiv singular, "His host"), while the vocalization reads the qere plural ("His hosts" or "His armies"), denoting God's heavenly forces.
+- **148:2** — As in 147:8 (MT 147:19), the consonants are written without a yod (ketiv singular, "His host"), while the vocalization reads the qere plural ("His hosts" or "His armies"), denoting God's heavenly forces.
 - **148:6** — The masculine singular imperfect verb "will not pass away" takes "decree" as its subject; alternatively, it may be understood impersonally or distributively as "which none may transgress."
 - **148:8** — The noun rendered "fog" literally denotes thick rising smoke or vapor and here refers to dense mist or fog alongside snow.
 - **148:14** — "Horn" is a common Hebrew idiom for strength, dignity, or victory. The final phrase is literally "a people of His near one," a poetic expression for a people close to God.

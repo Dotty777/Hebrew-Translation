@@ -84,7 +84,7 @@
 ## Translator Notes
 
 - **36:7** — The Hebrew noun melakah ("work") is used twice, first in the extended sense of contributed "material" and then as "work"; wehoter is a Hiphil infinitive absolute of yatar ("to leave over"), used adverbially to express a surplus ("and to spare").
-- **36:8** — The rare expression bigde-serad ("finely woven garments") is of uncertain etymology, variously understood as finely woven or braided textiles or as official garments of service.
+- **36:8** — Tabernacle construction chapters (MT Exodus 36–39) follow native Masoretic chapter and verse order in source data and map via explicit dual-key alignment to the Saints.Bible parallel display (starting here with MT 39:1 at slot 36:8; 55 MT verses without parallel slots appear under Additional Verses).
 - **36:11** — The Ketiv writes the noun with a third-person masculine singular suffix lacking yod (qtswwtw), while the Qere reads the standard plural form qetsotayw ("its ends"), which is translated here.
-- **36:17** — The precise mineralogical identification of several of the twelve Hebrew gemstone names in verses 17-20 remains uncertain; the renderings here reflect established lexical and historical identifications.
+- **36:17** — The precise mineralogical identification of several of the twelve Hebrew gemstone names in verses 17–20 (MT 39:10–13) remains uncertain; the renderings here reflect established lexical and historical identifications.
 - **36:31** — The Hophal participle moshzar ("twisted") appears here in the Hebrew text without shesh ("fine linen"), directly modifying the dyed yarns.

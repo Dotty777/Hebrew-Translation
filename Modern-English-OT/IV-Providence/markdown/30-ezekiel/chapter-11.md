@@ -1,6 +1,6 @@
 # Ezekiel 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,8 +57,10 @@
 
 ## Translator Notes
 
+- **11:1** — Hebrew ruach lacks the definite article here and may be read as "a spirit," "the Spirit," or "wind" (cf. 2:2).
 - **11:7** — MT reads the Hiphil third-person masculine singular hotsiʾ (used impersonally, "one will bring out," hence "you will be brought out"), contrasting with the first-person "I will bring you out" in v. 9.
 - **11:15** — Heb. ʾanshe geʾullatekha is literally "the men of your redemption," referring to relatives bound by the obligation of kinsman-redemption (compare Lev 25:25).
 - **11:16** — Heb. miqdash meʿat can mean either "a sanctuary in small measure" or temporally "a sanctuary for a little while" during the exile.
 - **11:19** — MT abruptly shifts to a second-person plural suffix in beqirbekhem ("within you") amid the surrounding third-person plural pronouns ("them," "their"), continuing the alternation of address from vv. 16-18.
 - **11:21** — MT reads weʾel-lev shiqqutsehem ("toward the heart of their detestable things"), an unusual expression pairing the people's "heart" with the "heart" (core or desire) of their detestable practices.
+- **11:24** — The first occurrence of ruach lacks the definite article ("a spirit," though "the Spirit" or "wind" is also plausible; cf. 2:2), whereas the second stands in construct with God (beruach elohim, "by the Spirit of God").

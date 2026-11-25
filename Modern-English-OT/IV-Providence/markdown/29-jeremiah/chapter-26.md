@@ -59,11 +59,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**46:26** *(after `26:25`)* And I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterward she will be inhabited as in former days, declares the LORD.
+**46:26** *(after `26:25`)* "And I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterward she will be inhabited as in former days," declares the LORD.
 
 ## Translator Notes
 
 - **26:11** — Ketiv writes the verb with an archaic 2fs ending (hrbyty), while the qere standardizes it to the Hiphil 2fs perfect hirbet, "you have multiplied."
 - **26:15** — The noun "your mighty one" (abbireka) is morphologically plural, yet all three accompanying verbs and suffixes ("has been swept away," "did not stand," "thrust him down") are masculine singular, suggesting a collective or majestic plural referring to Pharaoh or Egypt's champion.
 - **26:20** — The rare noun qeres ("gadfly") occurs only here in the Hebrew Bible, from a root meaning "to nip or pinch," fitting the heifer metaphor. The verb "has come" (ba') is doubled in the Masoretic text for urgency.
-- **26:25** — Amon was the principal deity of No (Egyptian Thebes); similarly, Noph in 26:14 and 26:19 is the Hebrew name for Memphis.
+- **26:25** — Amon was the principal deity of No (Egyptian Thebes); similarly, Noph in 26:14 and 26:19 (MT 46:14 and 46:19) is the Hebrew name for Memphis.

@@ -1,6 +1,6 @@
 # Job 28 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,7 @@
 
 ## Translator Notes
 
+- **28:1** — Hebrew has no quotation marks and introduces no new speaker formula between 27:1 and 29:1; interpreters debate whether chapter 28 continues Job's speech or stands as an unmarked wisdom interlude.
 - **28:3** — The unexpressed masculine singular subject in vv. 3-4 and 9-11 refers generically to the human miner rather than to God.
 - **28:4** — The Masoretic Hebrew of this verse is notoriously obscure, using rare mining imagery: nachal (ordinarily a wadi or stream) here denotes a vertical shaft, meim-gar means literally "away from a sojourner/inhabitant," and dallu refers to miners dangling suspended by ropes.
 - **28:8** — Hebrew benei-shachats means literally "sons of pride," a poetic idiom for majestic wild beasts.

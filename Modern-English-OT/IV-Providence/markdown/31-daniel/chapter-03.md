@@ -71,4 +71,4 @@
 - **3:12** — The translation follows the Qere singular 'your god' (as also in 3:18); the Ketiv reads plural 'your gods' (contrast the unambiguous plural 'my gods' in 3:14).
 - **3:15** — The Aramaic conditional sentence leaves its positive outcome unstated (aposiopesis), breaking directly into the warning 'but if you do not worship.'
 - **3:17** — Following the Masoretic accentuation, Aramaic hen itay is rendered 'if it is so,' with both prepositional phrases governed by the second verb 'rescue'; alternatively, the clause may be construed as 'if our God whom we serve is able to rescue us, He will rescue us.'
-- **3:92** — Literally 'a son of gods,' a Semitic idiom used by the pagan king for a divine or angelic being (cf. 'His angel' in 3:95). Verses 3:91-97 correspond to MT 3:24-30.
+- **3:92** — Literally 'a son of gods,' a Semitic idiom used by the pagan king for a divine or angelic being (cf. 'His angel' in 3:95 [MT 3:28]). Verses 3:91–97 correspond to MT 3:24–30.

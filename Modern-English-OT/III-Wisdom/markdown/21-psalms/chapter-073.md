@@ -5,7 +5,7 @@
 
 ## Text
 
-**73:1** A maskil of Asaph. Why, God, have You cast us off forever? Why does Your anger smoke against the flock of Your pasture?
+**73:1** A Maskil of Asaph. Why, God, have You cast us off forever? Why does Your anger smoke against the flock of Your pasture?
 
 **73:2** Remember Your congregation, which You acquired of old, which You redeemed as the tribe of Your inheritance, and Mount Zion, in which You dwelt.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**14:1** Man, born of a woman, is short of days and filled with turmoil.
+**14:1** "Man, born of a woman, is short of days and filled with turmoil.
 
 **14:2** Like a blossom he springs forth and withers; he flees like a shadow and does not endure.
 

@@ -1,6 +1,6 @@
 # 1 Samuel 1 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 4 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,7 @@
 ## Translator Notes
 
 - **1:5** — Hebrew מָנָה אַחַת אַפָּיִם (lit. 'one portion of two faces/nostrils') is a difficult dual expression traditionally understood as a double or special portion.
+- **1:11** — Hebrew zera anashim (literally "seed of men") is an idiom for a male child / offspring.
 - **1:18** — Hebrew וּפָנֶיהָ לֹא־הָיוּ־לָהּ עוֹד (lit. 'and her face was no longer to her') is an idiom meaning her distressed countenance was gone.
 - **1:24** — The Masoretic Text reads בְּפָרִים שְׁלֹשָׁה ('with three bulls'), while v. 25 has the singular הַפָּר ('the bull'); in this verse the Septuagint and 4QSam-a reflect 'a three-year-old bull'.
 - **1:28** — The Hiphil הִשְׁאִלְתִּהוּ ('I have lent him') and Qal passive participle שָׁאוּל ('lent') play on the root שׁאל ('ask') in vv. 20 and 27; the Masoretic text ends with singular וַיִּשְׁתַּחוּ ('and he worshiped').

@@ -1,6 +1,6 @@
 # Psalms 103 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:29Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:58Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,201 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| 11QPsᵃ (11Q5) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (Abegg / ETCBC DSS — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 102:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:21 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:22 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:23 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:24 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:25 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:26 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:27 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:28 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 102:29 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:21 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:22 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:23 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:24 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:25 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:26 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:27 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:28 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:29 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:30 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:31 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:32 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:33 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:34 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 104:35 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:22 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:23 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:24 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:25 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:26 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:27 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:28 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 102:29 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:22 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:23 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:24 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:25 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:26 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:27 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:28 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:29 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:30 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:31 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:32 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:33 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:34 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 104:35 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:22 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:23 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:24 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:25 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:26 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:27 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:28 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 102:29 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:22 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:23 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:24 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:25 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:26 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:27 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:28 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:29 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:30 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:31 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:32 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:33 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:34 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 104:35 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -65,27 +260,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וְכׇל־` over `וְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `קׇדְשֽׁוֹ׃` over `קָדְשֽׁוֹ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בָּרְכִ֣י / בָּרֲכִ֣י`, `קׇדְשֽׁוֹ׃ / קָדְשֹֽׁו׃`, `בָּרְכִ֣י / בָּֽרֲכִ֣י`, `קׇדְשֽׁוֹ׃ / קָדְשֺֽׁו׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:2
 - *Disregarded Surface Variant:* kept `בָּרְכִ֣י` over `בָּרֲכִ֣י` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בָּרְכִ֣י / בָּרֲכִ֣י`, `בָּרְכִ֣י / בָּֽרֲכִ֣י` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:3
 - *Disregarded Surface Variant:* kept `לְכׇל־` over `לְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `לְכׇל־` over `לְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `תַּחֲלוּאָֽיְכִי׃` over `תַּחֲלֻאָֽיְכִי` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תַּחֲלוּאָֽיְכִי׃ / תַּחֲלֻאָֽיְכִי׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עֲוֺנֵ֑כִי / עֲֺונֵ֑כִי` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 103:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַגּוֹאֵ֣ל / הַגֹּואֵ֣ל`, `הַגּוֹאֵ֣ל / הַגֺּואֵ֣ל` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:5
 - *Disregarded Surface Variant:* kept `הַמַּשְׂבִּ֣יעַ` over `הַמַּשְׂבִּ֣יַע` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): a vowel point left out by one edition*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַמַּשְׂבִּ֣יעַ בַּטּ֣וֹב / הַמַּשְׂבִּ֣יַע בַּטֹּ֣וב`, `הַמַּשְׂבִּ֣יעַ / הַמַּשְׂבִּ֣יַע` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:6
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -93,20 +280,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 103:7
 - *Disregarded Surface Variant:* kept `עֲלִילוֹתָֽיו׃` over `עֲלִילֽוֹתָיו׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `יוֹדִ֣יעַ / יֺודִ֣יעַ`, `לְמֹשֶׁ֑ה / לְמשֶׁ֑ה`, `עֲלִילוֹתָֽיו׃ / עֲלִֽילֺותָֽיו׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:8
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 103:9
 - *Disregarded Surface Variant:* kept `לֹא־` over `לֹֽא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `יִטּֽוֹר׃ / יִטֹּֽור׃`, `לְעוֹלָ֣ם / לְעֺולָ֣ם` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 103:10
-- *Disregarded Surface Variant:* kept `(adopted text)` over `כַ֝עֲוֺנֹתֵ֗ינוּ / כַֽ֝עֲֺוֽנֹתֵ֗ינוּ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 103:11
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַ֝סְדּ֗וֹ / חַ֝סְדֹּ֗ו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:12
 - *Disregarded Surface Variant:* kept `מִֽמַּעֲרָ֑ב` over `מִֽמַּֽעֲרָ֑ב` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -119,14 +298,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 103:16
 - *Disregarded Surface Variant:* kept `וְלֹֽא־` over `וְלֹא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בּ֣וֹ / בֹּ֣ו`, `מְקוֹמֽוֹ׃ / מְקֺומֺֽו׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:17
 - *Disregarded Surface Variant:* kept `יְהֹוָ֨ה` over `יְהוָ֨ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `׀ מֵעוֹלָ֣ם / מֵֽעֺולָ֣ם`, `ע֭וֹלָם / עֺ֖ולָם` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 103:18
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לַעֲשׂוֹתָֽם׃ / לַעֲשֹׂותָֽם׃`, `לַעֲשׂוֹתָֽם׃ / לַֽעֲשֺׂותָֽם׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:19
 - *Disregarded Surface Variant:* kept `יְֽהֹוָ֗ה` over `יְֽהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -134,13 +308,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 103:20
 - *Disregarded Surface Variant:* kept `בָּרְכ֥וּ` over `בָּרֲכ֥וּ` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֗ה` over `יְהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בָּרְכ֥וּ / בָּרֲכ֥וּ`, `בָּרְכ֥וּ / בָּֽרֲכ֥וּ` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:21
 - *Disregarded Surface Variant:* kept `בָּרְכ֣וּ` over `בָּרֲכ֣וּ` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
 - *Disregarded Surface Variant:* kept `יְ֭הֹוָה` over `יְ֭הוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בָּרְכ֣וּ / בָּרֲכ֣וּ`, `בָּרְכ֣וּ / בָּֽרֲכ֣וּ`, `רְצוֹנֽוֹ׃ / רְצֺונֺֽו׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 103:22
 - *Disregarded Surface Variant:* kept `בָּרְכ֤וּ` over `בָּרֲכ֤וּ` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
@@ -149,8 +321,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `בָּרְכִ֥י` over `בָּרֲכִ֥י` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
 - *Disregarded Surface Variant:* kept `יְהֹוָֽה׃` over `יְהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בָּרְכ֤וּ / בָּרֲכ֤וּ`, `מֶמְשַׁלְתּ֑וֹ בָּרְכִ֥י / מֶמְשַׁלְתֹּ֑ו בָּרֲכִ֥י`, `בָּרְכ֤וּ / בָּֽרֲכ֤וּ`, `מְקֹמ֥וֹת / מְקֹמֺ֥ות`, `בָּרְכִ֥י / בָּֽרֲכִ֥י` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `׀ / ` (Letteris (1852)) — *Apparatus witness, not a variant: Paseq / legarmeh stroke (an accent sign) printed by one edition only*
 
 ---
 

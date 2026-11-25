@@ -13,7 +13,7 @@
 
 **7:4** When I lie down, I say, 'When will I rise?' Yet the evening stretches out, and I have my fill of tossing until dawn.
 
-**7:5** My flesh is clothed with maggots and clods of dust; my skin hardens and oozes.
+**7:5** My flesh is clothed with maggots and a crust of dust; my skin hardens and oozes.
 
 **7:6** My days are faster than a weaver's shuttle, and they end without hope.
 
@@ -51,5 +51,5 @@
 
 - **7:1** — The qere reads the poetic preposition aley ("upon") for the ketiv al (same meaning); tsava ("hard service") denotes conscripted military or forced labor.
 - **7:4** — The phrase umiddad-erev takes middad as a Piel perfect of mdd ("the evening stretches out"); some connect the form to ndd ("flee") as continuing the question, "and when will the evening pass away?"
-- **7:5** — The qere reads wegush ("and a clod/crust," a biblical hapax legomenon) for the ketiv wegish (same meaning); raga means either "hardens/crusts over" or "cracks," followed by Niphal wayyimma'es (from m's II, "dissolves/oozes").
+- **7:5** — The Qere reads wegush ("and a clod/crust," a biblical hapax legomenon, singular) for the Ketiv wegish (same meaning); raga means either "hardens/crusts over" or "cracks," followed by Niphal wayyimma'es (from m's II, "dissolves/oozes").
 - **7:20** — The Masoretic Text reads alay ("to myself"), which rabbinic tradition lists among the scribal corrections (tiqqune soferim) for an original aleykha ("to You"), reflected in the Septuagint.

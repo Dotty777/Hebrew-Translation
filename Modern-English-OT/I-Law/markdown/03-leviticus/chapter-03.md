@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** "Now if his offering is a sacrifice of peace offerings, if he is presenting from the herd, whether male or female, he shall present it unblemished before the LORD.
+**3:1** "'Now if his offering is a sacrifice of peace offerings, if he is presenting from the herd, whether male or female, he shall present it unblemished before the LORD.
 
 **3:2** He shall press his hand on the head of his offering and slaughter it at the entrance of the tent of meeting, and the sons of Aaron, the priests, shall dash the blood against the altar all around.
 
@@ -37,7 +37,7 @@
 
 **3:16** And the priest shall turn them into smoke on the altar, food of a fire offering for a soothing fragrance; all fat belongs to the LORD.
 
-**3:17** It is a permanent statute for your generations in all your dwelling places: you shall eat no fat and no blood."
+**3:17** It is a permanent statute for your generations in all your dwelling places: you shall eat no fat and no blood.'"
 
 ## Translator Notes
 

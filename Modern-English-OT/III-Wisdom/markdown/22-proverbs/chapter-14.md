@@ -67,7 +67,7 @@
 
 **14:31** One who oppresses the poor reproaches his Maker, but one who shows favor to the needy honors Him.
 
-**14:32** A wicked man is overthrown by his evil, while a righteous man takes refuge in his death.
+**14:32** A wicked man is overthrown by his evil, while in his death a righteous man has a refuge.
 
 **14:33** In the heart of a discerning person wisdom rests, but in the midst of fools it is made known.
 
@@ -80,5 +80,5 @@
 - **14:9** — Because the Hiphil verb 'mocks' is singular while 'fools' is plural, singular 'guilt' (which can also mean 'guilt offering') is taken here as the subject; alternatively, taking 'fools' distributively, 'Fools mock at guilt (or the guilt offering).'
 - **14:14** — Hebrew literally reads 'and from upon him' (i.e., from himself or from his own ways), with the verb 'will be filled' implied from the first clause.
 - **14:21** — Ketiv/Qere: the Qere reads 'the humble' (or 'the afflicted'), whereas the Ketiv reads 'the poor' (or 'the needy').
-- **14:32** — The Masoretic text reads bemoto ('in his death'); the Septuagint reads 'in his own piety.' 'By his evil' in the first clause can also mean 'in his calamity.'
+- **14:32** — The Masoretic Text reads choseh bemoto (participle "taking/finding refuge" with temporal "in his death," i.e., having a refuge even at death); the Septuagint reads 'in his own piety.' 'By his evil' (bera'ato) in the first clause can likewise mean 'in his calamity.'
 - **14:34** — Hebrew chesed here is a rare homonym meaning 'disgrace' or 'reproach' (cf. Lev 20:17), distinct from chesed ('loyal love') in v. 22.

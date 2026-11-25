@@ -1,6 +1,6 @@
 # Jeremiah 52 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (28 verses, 7 translator notes, 6 additional)  
+> **Status:** `draft: true` (28 verses, 9 translator notes, 6 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

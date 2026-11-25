@@ -1,6 +1,6 @@
 # Leviticus 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (47 verses, 3 translator notes)  
+> **Status:** `draft: true` (47 verses, 4 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -101,6 +101,7 @@
 
 ## Translator Notes
 
+- **11:5** — Native Masoretic order lists the rock hyrax (hashshafan, 11:5) before the hare (ha'arnevet, 11:6); both verses are retained in native Masoretic order here (some parallel verse alignments invert 11:5–6).
 - **11:13** — In verses 13-19, the Hebrew noun oph covers all winged creatures, including the bat, and exact species identifications for several of the rarer birds remain uncertain.
 - **11:21** — The written ketiv reads lo meaning not, whereas the read qere translated here reads lo meaning to it, yielding that have jointed legs.
 - **11:43** — The verb wenitmetem is a Niphal weqatal of the root for uncleanness written defectively without the final aleph, highlighting the resulting state of defilement.

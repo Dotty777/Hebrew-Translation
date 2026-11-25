@@ -1,6 +1,6 @@
 # Psalms 119 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:30Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:58Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,118 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| 11QPsᵃ (11Q5) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (Abegg / ETCBC DSS — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 118:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:13 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:14 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:15 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:16 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:17 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:18 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:19 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:20 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:21 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:22 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:23 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:24 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:25 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:26 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:27 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:28 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 118:29 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 120:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:13 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:14 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:15 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:16 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:17 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:18 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:19 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:20 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:21 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:22 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:23 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:24 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:25 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:26 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:27 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:28 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 118:29 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 120:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:13 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:14 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:15 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:16 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:17 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:18 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:19 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:20 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:21 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:22 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:23 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:24 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:25 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:26 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:27 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:28 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 118:29 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 120:7 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -226,18 +338,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:6
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶֽיךָ׃ / מִצְֺותֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:7
 - *Disregarded Surface Variant:* kept `בְּ֝לׇמְדִ֗י` over `בְּ֝לָמְדִ֗י` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְּיֹ֣שֶׁר / בְּי֣שֶׁר` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:9
 - *Disregarded Surface Variant:* kept `אׇרְח֑וֹ` over `אָרְח֑וֹ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 119:10
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִמִּצְוֺתֶֽיךָ׃ / מִמִּצְֺותֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:11
 - *Disregarded Surface Variant:* kept `אֶחֱטָא־` over `אֶֽחֱטָא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -248,12 +357,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:14
 - *Disregarded Surface Variant:* kept `שַּׂ֗שְׂתִּי` over `שַׂ֗שְׂתִּי` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): dagesh*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `שַּׂ֗שְׂתִּי / שַׂ֗שְׂתִּי`, `עֵדְוֺתֶ֥יךָ שַּׂ֗שְׂתִּי / עֵֽדְֺותֶ֥יךָ שָׂ֗שְׂתִּי` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:15
 - *Disregarded Surface Variant:* kept `בְּפִקּוּדֶ֥יךָ` over `בְּפִקֻּדֶ֥יךָ` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
 - *Disregarded Surface Variant:* kept `אֹֽרְחֹתֶֽיךָ׃` over `אֹרְחֹתֶֽיךָ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְּפִקּוּדֶ֥יךָ / בְּפִקֻּדֶ֥יךָ` (BenChayyim (1525)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
 
 ### Psalms 119:16
 - *Disregarded Surface Variant:* kept `לֹ֖א` over `לֹ֭א` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -262,18 +369,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `עַל־` over `עַֽל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `אֶחְיֶ֗ה` over `אֶֽחְיֶ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:18
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִתּוֹרָתֶֽךָ׃ / מִתֹּורָתֶֽךָ׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:19
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶֽיךָ׃ / מִצְֺותֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:20
 - *Disregarded Surface Variant:* kept `בְכׇל־` over `בְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 119:21
 - *Disregarded Surface Variant:* kept `הַ֝שֹּׁגִ֗ים` over `הַ֝שֹּׁגִים` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִמִּצְוֺתֶֽיךָ׃ / מִמִּצְֺותֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:22
 - *Disregarded Surface Variant:* kept `מֵ֭עָלַי` over `מֵֽ֭עָלַי` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -289,29 +389,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:29
 - *Disregarded Surface Variant:* kept `חׇנֵּֽנִי׃` over `חָנֵּֽנִי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `דֶּֽרֶךְ־ / דֶּֽרֶך־` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:31
 - *Disregarded Surface Variant:* kept `בְעֵדְוֺתֶ֑יךָ` over `בְעֵֽדְוֺתֶ֑יךָ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְ֝הֹוָ֗ה` over `יְ֝הוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְעֵדְוֺתֶ֑יךָ / בְעֵֽדְֺותֶ֑יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:32
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶ֥יךָ / מִצְֺותֶ֥יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:33
 - *Disregarded Surface Variant:* kept `יְ֭הֹוָה` over `יְ֭הוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וְאֶצְּרֶ֥נָּה / וְאֶצֳּרֶ֥נָּה` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:34
 - *Disregarded Surface Variant:* kept `תוֹרָתֶ֗ךָ` over `תֽוֹרָתֶ֗ךָ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `בְכׇל־` over `בְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Psalms 119:35
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶ֑יךָ / מִצְֺותֶ֑יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:36
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עֵדְוֺתֶ֗יךָ / עֵֽדְֺותֶ֗יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:41
 - *Disregarded Surface Variant:* kept `וִיבֹאֻ֣נִי` over `וִֽיבֹאֻ֣נִי` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -324,17 +412,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:47
 - *Disregarded Surface Variant:* kept `וְאֶשְׁתַּעֲשַׁ֥ע` over `וְאֶשְׁתַּֽעֲשַׁ֥ע` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְּמִצְוֺתֶ֗יךָ / בְּמִצְֺותֶ֗יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:48
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִ֭צְוֺתֶיךָ / מִ֭צְֺותֶיךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:50
 - *Disregarded Surface Variant:* kept `בְעׇנְיִ֑י` over `בְעָנְיִ֑י` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 119:51
 - *Disregarded Surface Variant:* kept `מִ֝תּ֥וֹרָתְךָ֗` over `מִ֝תּֽוֹרָתְךָ֗` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִ֝תּ֥וֹרָתְךָ֗ / מִ֝תֹּֽורָתְךָ֗` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:52
 - *Disregarded Surface Variant:* kept `יְהֹוָ֗ה` over `יְהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -342,7 +425,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:53
 - *Disregarded Surface Variant:* kept `תּֽוֹרָתֶֽךָ׃` over `תּוֹרָתֶֽךָ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תּֽוֹרָתֶֽךָ׃ / תֹּורָתֶֽךָ׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:54
 - *Disregarded Surface Variant:* kept `הָיוּ־` over `הָֽיוּ־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -351,7 +433,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וָ֝אֶשְׁמְרָ֗ה` over `וָֽ֝אֶשְׁמְרָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `תּֽוֹרָתֶֽךָ׃` over `תּוֹרָתֶֽךָ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תּֽוֹרָתֶֽךָ׃ / תֹּורָתֶֽךָ׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:56
 - *Disregarded Surface Variant:* kept `הָיְתָה־` over `הָֽיְתָה־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -363,12 +444,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `בְכׇל־` over `בְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `חׇ֝נֵּ֗נִי` over `חָ֝נֵּ֗נִי` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:60
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶֽיךָ׃ / מִצְֺותֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:61
 - *Disregarded Surface Variant:* kept `תּ֥֝וֹרָתְךָ֗` over `תּֽ֝וֹרָתְךָ֗` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תּ֥֝וֹרָתְךָ֗ / תֹּֽ֝ורָתְךָ֗` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:63
 - *Disregarded Surface Variant:* kept `לְכׇל־` over `לְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -379,23 +456,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:65
 - *Disregarded Surface Variant:* kept `יְ֝הֹוָ֗ה` over `יְ֝הוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:66
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְמִצְוֺתֶ֣יךָ / בְמִצְֺותֶ֣יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:69
 - *Disregarded Surface Variant:* kept `בְּכׇל־` over `בְּכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `אֶצֹּ֬ר` over `אֱצֹּ֬ר` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): hataf against the full vowel*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `אֶצֹּ֬ר / אֱצֹּ֬ר`, `אֶצֹּ֬ר / אֱצֹּ֬ר` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:70
 - *Disregarded Surface Variant:* kept `שִׁעֲשָֽׁעְתִּי׃` over `שִֽׁעֲשָֽׁעְתִּי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תּוֹרָתְךָ֥ / תֹּורָתְךָ֥` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:72
 - *Disregarded Surface Variant:* kept `תוֹרַת־` over `תֽוֹרַת־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Psalms 119:73
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶֽיךָ׃ / מִצְֺותֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:75
 - *Disregarded Surface Variant:* kept `יְ֭הֹוָה` over `יְ֭הוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -405,15 +474,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ת֥֝וֹרָתְךָ֗` over `תֽ֝וֹרָתְךָ֗` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `שַׁעֲשֻׁעָֽי׃` over `שַֽׁעֲשֻׁעָֽי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:78
-- *Disregarded Surface Variant:* kept `(adopted text)` over `יֵבֹ֣שׁוּ / יֵב֣שׁוּ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְּפִקּוּדֶֽיךָ׃ / בְּפִקֻּדֶֽיךָ׃` (Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
-
 ### Psalms 119:79
 - *Disregarded Surface Variant:* kept `(וידעו)` over `וידעו` (WLC (L)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `וְ֝יֹדְעֵ֗י` over `om.` (WLC (L)) — *Qere (read form) printed after the ketiv; the WLC export carries the ketiv only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(וידעו) / *וְיָדְעוּ` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(וידעו) וְ֝יֹדְעֵ֗י / וְ֝יֹֽדְעֵ֗ו` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (the editions print the written and the read form differently)*
+- *Disregarded Surface Variant:* kept `וְ֝יֹדְעֵ֗י` over `om.` (WLC (L)) — *Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `וְ֝יֹדְעֵ֗י / `, `וְ֝יֹדְעֵ֗י / ` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (edition prints the written form only)*
 
 ### Psalms 119:80
 - *Disregarded Surface Variant:* kept `יְהִי־` over `יְהִֽי־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -424,13 +488,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:86
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `עׇזְרֵֽנִי׃` over `עָזְרֵֽנִי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶ֥יךָ / מִצְֺותֶ֥יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:87
-- **Apparatus:** `פִקֻּדֶֽיךָ` MAM (Aleppo) BenChayyim (1525) Letteris (1852) **]** **פִקֻּודֶֽיךָ** WLC (L) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: Aleppo tradition (MAM); other reading(s): Leningrad Codex (WLC).
-  - *external: two-stream policy:* Aleppo tradition (MAM) against the Leningrad Codex (WLC): a codex-level difference within the Masoretic text. MAM is followed.
-- *Disregarded Surface Variant:* kept `(adopted text)` over `פִקֻּדֶֽיךָ׃ / פִקֻּודֶֽיךָ׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
+- *Disregarded Surface Variant:* kept `פִקֻּדֶֽיךָ׃` over `פִקֻּודֶֽיךָ׃` (WLC (L)) — *Plene / defective spelling (mater lectionis)*
 
 ### Psalms 119:89
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -438,19 +498,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:90
 - *Disregarded Surface Variant:* kept `אֱמוּנָתֶ֑ךָ` over `אֱמֽוּנָתֶ֑ךָ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כּוֹנַ֥נְתָּֽ` over `כּוֹנַ֥נְתָּ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `כּוֹנַ֥נְתָּֽ / כֹּונַ֥נְתָּ` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:91
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַיּ֑וֹם / הַיֹּ֑ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:92
 - *Disregarded Surface Variant:* kept `בְעׇנְיִֽי׃` over `בְעָנְיִֽי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Psalms 119:93
-- *Disregarded Surface Variant:* kept `(adopted text)` over `פִּקּוּדֶ֑יךָ / פִּקֻּדֶ֑יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
-
-### Psalms 119:95
-- *Disregarded Surface Variant:* kept `(adopted text)` over `אֶתְבּוֹנָֽן׃ / אֶתְבֹּונָֽן׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:96
 - *Disregarded Surface Variant:* kept `לְֽכׇל־` over `לְֽכָל` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -458,20 +508,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:97
 - *Disregarded Surface Variant:* kept `מָה־` over `מָֽה־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַ֝יּ֗וֹם / הַ֝יֹּ֗ום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:98
 - *Disregarded Surface Variant:* kept `מֵֽ֭אֹיְבַי` over `מֵ֭אֹ֣יְבַי` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶ֑ךָ / מִצְֺותֶ֑ךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:99
 - *Disregarded Surface Variant:* kept `מִכׇּל־` over `מִכָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `לִֽי׃` over `לִֽֿי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עֵ֝דְוֺתֶ֗יךָ / עֵֽ֝דְֺותֶ֗יךָ`, `לִֽי׃ / לִּֽי׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:100
-- *Disregarded Surface Variant:* kept `(adopted text)` over `אֶתְבּוֹנָ֑ן / אֶתְבֹּונָ֑ן` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `פִקּוּדֶ֣יךָ / פִקֻּדֶ֣יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
 
 ### Psalms 119:101
 - *Disregarded Surface Variant:* kept `מִכׇּל־` over `מִכָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -481,7 +524,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:104
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `אֶתְבּוֹנָ֑ן / אֶתְבֹּונָ֑ן` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:107
 - *Disregarded Surface Variant:* kept `יְ֝הֹוָ֗ה` over `יְ֝הוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -492,30 +534,20 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:109
 - *Disregarded Surface Variant:* kept `וְ֝ת֥וֹרָתְךָ֗` over `וְ֝תֽוֹרָתְךָ֗` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:111
-- *Disregarded Surface Variant:* kept `(adopted text)` over `שְׂשׂ֖וֹן / שְׂשֹׂ֖ון`, `עֵדְוֺתֶ֣יךָ / עֵֽדְֺותֶ֣יךָ` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:112
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לַעֲשׂ֥וֹת / לַעֲשֹׂ֥ות` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:115
 - *Disregarded Surface Variant:* kept `סוּרוּ־` over `סֽוּרוּ־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺ֥ת / מִצְֺו֥ת` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:116
 - *Disregarded Surface Variant:* kept `וְאֶחְיֶ֑ה` over `וְאֶֽחְיֶ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 119:118
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `שׁוֹגִ֣ים / שֹׁוגִ֣ים` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:119
 - *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `סִגִ֗ים / סִיגִ֗ים` (Letteris (1852)) — *Apparatus witness, not a variant: Plene / defective spelling (vav or yod as a vowel letter)*
 
 ### Psalms 119:121
 - *Disregarded Surface Variant:* kept `לְעֹשְׁקָֽי׃` over `לְעֹֽשְׁקָֽי׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לְעֹשְׁקָֽי׃ / לְעֽשְׁקָֽי׃` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:123
 - *Disregarded Surface Variant:* kept `לִישׁוּעָתֶ֑ךָ` over `לִֽישׁוּעָתֶ֑ךָ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -525,29 +557,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:126
 - *Disregarded Surface Variant:* kept `לַיהֹוָ֑ה` over `לַיהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לַעֲשׂ֣וֹת / לַעֲשֹׂ֣ות`, `תּוֹרָתֶֽךָ׃ / תֹּורָתֶֽךָ׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:127
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶ֑יךָ / מִצְֺותֶ֑יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:128
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇּל־` over `כָּל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Psalms 119:129
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עֵדְוֺתֶ֑יךָ / עֵֽדְֺותֶ֑יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:131
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לְמִצְוֺתֶ֣יךָ / לְמִצְֺותֶ֣יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:132
 - *Disregarded Surface Variant:* kept `וְחׇנֵּ֑נִי` over `וְחָנֵּ֑נִי` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 119:133
 - *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-
-### Psalms 119:134
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מֵעֹ֣שֶׁק / מֵע֣שֶׁק` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:136
 - *Disregarded Surface Variant:* kept `תֽוֹרָתֶֽךָ׃` over `תוֹרָתֶֽךָ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -558,32 +577,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:138
 - *Disregarded Surface Variant:* kept `וֶאֱמוּנָ֥ה` over `וֶֽאֱמוּנָ֥ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:143
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִ֝צְוֺתֶ֗יךָ / מִ֝צְֺותֶ֗יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:144
-- *Disregarded Surface Variant:* kept `(adopted text)` over `עֵדְוֺתֶ֥יךָ / עֵֽדְֺותֶ֥יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:145
 - *Disregarded Surface Variant:* kept `בְכׇל־` over `בְכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֗ה` over `יְהוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
 ### Psalms 119:147
 - *Disregarded Surface Variant:* kept `(לדבריך)` over `לדבריך` (WLC (L)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `לִדְבָרְךָ֥` over `om.` (WLC (L)) — *Qere (read form) printed after the ketiv; the WLC export carries the ketiv only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(לדבריך) / *לִדְבָרֶיךָ` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(לדבריך) לִדְבָרְךָ֥ / לִדְבָֽרְיךָ֥` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (the editions print the written and the read form differently)*
+- *Disregarded Surface Variant:* kept `לִדְבָרְךָ֥` over `om.` (WLC (L)) — *Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `לִדְבָרְךָ֥ / `, `לִדְבָרְךָ֥ / ` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (edition prints the written form only)*
 
 ### Psalms 119:149
 - *Disregarded Surface Variant:* kept `יְ֝הֹוָ֗ה` over `יְ֝הוָ֗ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:150
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִתּוֹרָתְךָ֥ / מִתֹּורָתְךָ֥` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:151
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `וְֽכׇל־` over `וְֽכָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִצְוֺתֶ֥יךָ / מִצְֺותֶ֥יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:153
 - *Disregarded Surface Variant:* kept `רְאֵה־` over `רְאֵֽה־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -597,9 +605,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:156
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:157
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מֵ֝עֵדְוֺתֶ֗יךָ / מֵ֝עֵֽדְֺותֶ֗יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:158
 - *Disregarded Surface Variant:* kept `וָאֶתְקוֹטָ֑טָה` over `וָֽאֶתְקוֹטָ֑טָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
@@ -611,26 +616,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:161
 - *Disregarded Surface Variant:* kept `(ומדבריך)` over `ומדבריך` (WLC (L)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `וּ֝מִדְּבָרְךָ֗` over `om.` (WLC (L)) — *Qere (read form) printed after the ketiv; the WLC export carries the ketiv only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(ומדבריך) / *וּמִדְּבָרֶיךָ` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `(ומדבריך) וּ֝מִדְּבָרְךָ֗ / וּ֜מִדְּבָֽרְיךָ֗` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (the editions print the written and the read form differently)*
+- *Disregarded Surface Variant:* kept `וּ֝מִדְּבָרְךָ֗` over `om.` (WLC (L)) — *Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `וּ֝מִדְּבָרְךָ֗ / `, `וּ֝מִדְּבָרְךָ֗ / ` (Letteris (1852)) — *Apparatus witness, not a variant: Ketiv / qere presentation (edition prints the written form only)*
 
 ### Psalms 119:162
 - *Disregarded Surface Variant:* kept `אָ֭נֹכִי` over `אָ֭נֹכִֽי` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 
-### Psalms 119:163
-- *Disregarded Surface Variant:* kept `(adopted text)` over `תּוֹרָתְךָ֥ / תֹּורָתְךָ֥` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:164
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּ֭יּוֹם / בַּ֭יֹּום` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:165
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִכְשֽׁוֹל׃ / מִכְשֹֽׁול׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
 ### Psalms 119:166
 - *Disregarded Surface Variant:* kept `לִישׁוּעָתְךָ֣` over `לִֽישׁוּעָתְךָ֣` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וּֽמִצְוֺתֶ֥יךָ / וּמִצְֺותֶ֥יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:168
 - *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -640,7 +634,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 119:172
 - *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לְ֭שׁוֹנִי / לְ֭שֹׁונִי`, `מִצְוֺתֶ֣יךָ / מִצְֺותֶ֣יךָ` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 119:173
 - *Disregarded Surface Variant:* kept `תְּהִי־` over `תְּהִֽי־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -654,10 +647,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 119:175
 - *Disregarded Surface Variant:* kept `וּֽתְהַלְלֶ֑ךָּ` over `וּֽתְהַֽלְלֶ֑ךָּ` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `יַעְזְרֻֽנִי׃` over `יַעֲזְרֻֽנִי׃` (WLC (L)) — *Pointing convention, Aleppo tradition (MAM) vs Leningrad (WLC): shewa / hataf*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `יַעְזְרֻֽנִי׃ / יַעֲזְרֻֽנִי׃`, `יַעְזְרֻֽנִי׃ / יַֽעֲזְרֻֽנִי׃` (BenChayyim (1525), Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 119:176
-- *Disregarded Surface Variant:* kept `(adopted text)` over `מִ֝צְוֺתֶ֗יךָ / מִ֝צְֺותֶ֗יךָ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ---
 
@@ -1291,9 +1280,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ (וידעו) וְ֝יֹדְעֵ֗י עֵדֹתֶֽיךָ׃
   - `MAM (Aleppo)`: יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ (וידעו) וְ֝יֹדְעֵ֗י עֵדֹתֶֽיךָ׃
   - `WLC (L)`: יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ וידעו עֵדֹתֶֽיךָ׃
-  - `BenChayyim (1525)`: יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ *וְיָדְעוּ (וְ֝יֹדְעֵ֗י) עֵדֹתֶֽיךָ׃
+  - `BenChayyim (1525)`: יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ וְיָדְעוּ (וְ֝יֹדְעֵ֗י) עֵדֹתֶֽיךָ׃
   - `Letteris (1852)`: יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ וְ֝יֹֽדְעֵ֗ו עֵֽדֹתֶֽיךָ׃
-- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Punctuation / spacing difference only; Qere (read form) printed after the ketiv; the WLC export carries the ketiv only).
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only; Punctuation / spacing difference only).
 
 ### Verse 80 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** יְהִי־לִבִּ֣י תָמִ֣ים בְּחֻקֶּ֑יךָ לְ֝מַ֗עַן לֹ֣א אֵבֽוֹשׁ׃
@@ -1351,14 +1340,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Letteris (1852)`: כָּל־מִצְֺותֶ֥יךָ אֱמוּנָ֑ה שֶׁ֖קֶר רְדָפ֣וּנִי עָזְרֵֽנִי׃
 - **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
 
-### Verse 87 (Confidence: `50.6%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 87 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּדֶֽיךָ׃
   - `MAM (Aleppo)`: כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּדֶֽיךָ׃
   - `WLC (L)`: כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּודֶֽיךָ׃
   - `BenChayyim (1525)`: כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּודֶֽיךָ׃
   - `Letteris (1852)`: כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַֽ֜אֲנִ֗י לֹֽא־עָזַ֥בְתִּי פִקֻּדֶֽיךָ׃
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'פִקֻּדֶֽיךָ' [MAM (Aleppo)] (weight 0.98, confidence 51%) over פִקֻּודֶֽיךָ (WLC (L)).
-- *confidence:* Verse confidence 51% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure). 1 unit(s) are one witness against one, where any choice is weakly supported.
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 1 surface variation(s) (Plene / defective spelling (mater lectionis)).
 
 ### Verse 88 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** כְּחַסְדְּךָ֥ חַיֵּ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵד֥וּת פִּֽיךָ׃
@@ -1836,9 +1824,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה (לדבריך) לִדְבָרְךָ֥ יִחָֽלְתִּי׃
   - `MAM (Aleppo)`: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה (לדבריך) לִדְבָרְךָ֥ יִחָֽלְתִּי׃
   - `WLC (L)`: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה לדבריך יִחָֽלְתִּי׃
-  - `BenChayyim (1525)`: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה *לִדְבָרֶיךָ (לִדְבָרְךָ֥) יִחָֽלְתִּי׃
+  - `BenChayyim (1525)`: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה לִדְבָרֶיךָ (לִדְבָרְךָ֥) יִחָֽלְתִּי׃
   - `Letteris (1852)`: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָֽאֲשַׁוֵּ֑עָה לִדְבָֽרְיךָ֥ יִחָֽלְתִּי׃
-- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Punctuation / spacing difference only; Qere (read form) printed after the ketiv; the WLC export carries the ketiv only).
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only; Punctuation / spacing difference only).
 
 ### Verse 148 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** קִדְּמ֣וּ עֵ֭ינַי אַשְׁמֻר֑וֹת לָ֝שִׂ֗יחַ בְּאִמְרָתֶֽךָ׃
@@ -1948,9 +1936,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם (ומדבריך) וּ֝מִדְּבָרְךָ֗ פָּחַ֥ד לִבִּֽי׃
   - `MAM (Aleppo)`: שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם (ומדבריך) וּ֝מִדְּבָרְךָ֗ פָּחַ֥ד לִבִּֽי׃
   - `WLC (L)`: שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם ומדבריך פָּחַ֥ד לִבִּֽי׃
-  - `BenChayyim (1525)`: שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם *וּמִדְּבָרֶיךָ (וּ֝מִדְּבָרְךָ֗) פָּחַ֥ד לִבִּֽי׃
+  - `BenChayyim (1525)`: שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם וּמִדְּבָרֶיךָ (וּ֝מִדְּבָרְךָ֗) פָּחַ֥ד לִבִּֽי׃
   - `Letteris (1852)`: שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם וּ֜מִדְּבָֽרְיךָ֗ פָּחַ֥ד לִבִּֽי׃
-- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Punctuation / spacing difference only; Qere (read form) printed after the ketiv; the WLC export carries the ketiv only).
+- **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 2 surface variation(s) (Ketiv / qere presentation: MAM prints both written and read forms; WLC export carries ketiv only; Punctuation / spacing difference only).
 
 ### Verse 162 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** שָׂ֣שׂ אָ֭נֹכִי עַל־אִמְרָתֶ֑ךָ כְּ֝מוֹצֵ֗א שָׁלָ֥ל רָֽב׃

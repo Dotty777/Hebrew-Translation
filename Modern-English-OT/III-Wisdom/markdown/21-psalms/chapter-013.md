@@ -21,7 +21,7 @@
 
 ## Translator Notes
 
-- **13:3** — The verb "become tainted" translates the Niphal perfect of Hebrew alach (to turn sour, spoil, or become morally tainted), distinguishing it from the Hiphil of shachat ("acted corruptly") in 13:1.
+- **13:3** — The verb "become tainted" translates the Niphal perfect of Hebrew alach (to turn sour, spoil, or become morally tainted), distinguishing it from the Hiphil of shachat ("acted corruptly") in 13:1 (MT 14:1).
 - **13:4** — Hebrew ammi ("my people") is understood here as David speaking of Israel, matching the third-person reference to the LORD in the same verse, though some interpreters take it as an unintroduced divine utterance ("My people").
 - **13:6** — The Hiphil imperfect of bosh ("bring to shame") is translated conatively ("would bring ... to shame"), with Hebrew ki rendered adversatively ("yet"); some take ki causally, meaning the wicked mock the afflicted precisely because the LORD is his refuge.
 - **13:7** — The idiom shuv shevut ("restore fortunes") derives most likely from the root shuv ("turn back, restore"), though traditionally it has also been linked to shavah ("take captive") and rendered "brings back the captivity of His people."

@@ -5,7 +5,7 @@
 
 ## Text
 
-**23:1** You shall not carry a false report; do not put your hand with a wicked person to be a malicious witness.
+**23:1** "You shall not carry a false report; do not put your hand with a wicked person to be a malicious witness.
 
 **23:2** You shall not follow after the many for evil, nor shall you testify in a dispute by turning aside after the many to pervert justice.
 

@@ -359,8 +359,8 @@
 
 ## Translator Notes
 
-- **118:20** — The verb translated 'is broken' is a Qal perfect of garas, literally 'be crushed' or 'ground down,' and the noun translated 'longing' occurs only here in the Hebrew Bible, cognate with the verb 'longed' in 118:40.
-- **118:22** — The imperative gal is commonly parsed as a Qal of galal, meaning 'roll away' and matching the idiom with 'reproach' in Joshua 5:9, though some take it as an apocopated Piel of galah, meaning 'remove' or 'uncover' as in 118:18.
+- **118:20** — The verb translated 'is broken' is a Qal perfect of garas, literally 'be crushed' or 'ground down,' and the noun translated 'longing' occurs only here in the Hebrew Bible, cognate with the verb 'longed' in 118:40 (MT 119:40).
+- **118:22** — The imperative gal is commonly parsed as a Qal of galal, meaning 'roll away' and matching the idiom with 'reproach' in Joshua 5:9, though some take it as an apocopated Piel of galah, meaning 'remove' or 'uncover' as in 118:18 (MT 119:18).
 - **118:33** — The Hebrew noun eqev, literally 'heel,' is used adverbially here to mean 'to the end,' though some interpreters take it in its related sense 'as a reward.'
 - **118:38** — Literally 'which is for the fear of You'; this terse relative clause may describe God's spoken word as leading to the fear of Him, or alternatively modify 'Your servant' as one devoted to fearing Him.
 - **118:49** — The Piel of yahal ('wait, hope') takes a personal object suffix only here in the Hebrew Bible, functioning causatively: 'You have caused me to hope.'
@@ -374,4 +374,4 @@
 - **118:147** — Translated according to the Masoretic Qere (read text), singular 'Your word'; the Ketiv (written text) is plural, 'Your words.'
 - **118:160** — The noun rosh (literally 'head') here carries the sense of 'sum' or 'entirety' (as in Exodus 30:12), though some understand it as 'beginning.'
 - **118:161** — Translated according to the Masoretic Qere (read text), singular 'Your word'; the Ketiv (written text) is plural, 'Your words.'
-- **118:175** — The noun mishpatekha ('Your judgments') is written defectively without yod, as in 118:43 and 118:149, yet the plural verb ya'zeruni ('help me') confirms its plural meaning.
+- **118:175** — The noun mishpatekha ('Your judgments') is written defectively without yod, as in 118:43 and 118:149 (MT 119:43 and 119:149), yet the plural verb ya'zeruni ('help me') confirms its plural meaning.

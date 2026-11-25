@@ -1,6 +1,6 @@
 # Isaiah 56 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (11 verses, 3 translator notes, 1 additional)  
+> **Status:** `draft: true` (11 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

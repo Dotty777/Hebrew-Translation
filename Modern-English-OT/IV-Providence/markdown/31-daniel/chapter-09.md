@@ -1,6 +1,6 @@
 # Daniel 9 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,8 +61,10 @@
 
 ## Translator Notes
 
+- **9:1** — Hebrew mizzera Maday ("from the seed of Media") is an idiom for ethnic lineage/descent.
 - **9:12** — Ketiv reads plural "devarav" ("His words"), while Qere (translated here) reads singular "devaro" ("His word").
 - **9:21** — Hebrew "mu'af bi'af" is lexically uncertain; deriving it from "uf" (Hophal participle) with "ye'af" yields "in swift flight," whereas connecting it to "ya'ef" yields "in utter weariness."
 - **9:24** — Two Ketiv/Qere variants appear in the second infinitive clause: Ketiv reads "velachtom chatta'ot" ("and to seal up sins"), while Qere (translated here) reads Hiphil "ulehatem chatta't" ("and to bring sin to an end"). Hebrew "shavu'im" ("weeks") denotes periods of seven, and "nechtakh" ("have been decreed") is a Niphal hapax legomenon.
 - **9:25** — The Masoretic disjunctive accent (athnach) separates "seven weeks" from "sixty-two weeks," linking the sixty-two weeks to the rebuilding; without that pause, "seven weeks and sixty-two weeks" together measure the span until an anointed prince. Hebrew "mashiach" literally means "anointed one" (echoing "anoint" in v. 24).
-- **9:27** — The phrase "al kenaf shiqqutzim meshomem" ("upon the wing of abominations [will be] a desolator") is syntactically compressed and may refer to a pinnacle or extremity of the temple defiled by appalling abominations. At the end of the verse, Qal participle "shomem" can be read actively ("the desolator") or passively ("the desolate one").
+- **9:26** — Hebrew we'ad qets milchamah ("and until the end of the war") follows the Masoretic conjunctive accent (munach) linking qets to milchamah in construct; reading qets independently yields the alternative syntax "and until the end there will be war; desolations are decreed."
+- **9:27** — Hebrew wehigbir berit ("make a covenant strong") may mean "confirm/enforce a firm covenant" or "make a strong treaty"; the subject of the 3ms verb ("he") is syntactically ambiguous between the coming prince and the anointed one of v. 26. The phrase "al kenaf shiqqutzim meshomem" ("upon the wing of abominations [will be] a desolator") is syntactically compressed and may refer to a pinnacle or extremity of the temple defiled by appalling abominations. At the end of the verse, Qal participle "shomem" can be read actively ("the desolator") or passively ("the desolate one").

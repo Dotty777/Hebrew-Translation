@@ -56,6 +56,6 @@
 ## Translator Notes
 
 - **32:26** — 'Sheshach' is a traditional Hebrew atbash cipher (reversing the alphabet) representing Babel (Babylon).
-- **32:30** — Hebrew hedad ('harvest cry') refers to the rhythmic shout of grape-treaders in the winepress and is also used as a battle cry (cf. 31:33).
+- **32:30** — Hebrew hedad ('harvest cry') refers to the rhythmic shout of grape-treaders in the winepress and is also used as a battle cry (cf. 31:33 [MT 48:33]).
 - **32:34** — Hebrew utephotekhem / utephotsotekhem ('and your dispersions') is a rare plural noun from the root puts ('scatter') with a second-person plural suffix, occurring only here in the Hebrew Bible.
 - **32:38** — Hebrew haron hayyonah literally means 'the fierceness of the oppressing [one],' using the feminine Qal active participle of yanah ('oppress'), which elsewhere in Jeremiah modifies the feminine noun 'sword.'

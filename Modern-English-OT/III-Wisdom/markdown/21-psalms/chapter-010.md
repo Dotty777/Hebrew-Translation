@@ -23,5 +23,5 @@
 
 - **10:1** — The written ketiv reads a 2nd-person masculine plural Qal imperative matching the plural suffix of "your mountain," whereas the read qere (translated here) is a 2nd-person feminine singular imperative agreeing with feminine "my soul" and "bird." The Masoretic Hebrew lacks a preposition "like" before "bird," permitting a direct vocative rendering.
 - **10:3** — Hebrew hashatot ("foundations" or "pillars") is a rare noun occurring only here and in Isaiah 19:10. The Qal perfect verb pa'al literally asks "what has a righteous one accomplished?" and functions rhetorically to express helplessness.
-- **10:6** — The Masoretic Text reads pachim, plural of pach ("trap" or "snare"), echoing the bird imagery of 10:1. Because "fire and sulfur" follow, some interpreters instead associate the word with glowing coals.
+- **10:6** — The Masoretic Text reads pachim, plural of pach ("trap" or "snare"), echoing the bird imagery of 10:1 (MT 11:1). Because "fire and sulfur" follow, some interpreters instead associate the word with glowing coals.
 - **10:7** — The noun paneimo ("His face") uses the poetic suffix -mo as a 3rd-person singular pronoun, with the 3rd-person plural verb yechezu taking singular "upright" collectively. Because "face" (panim) is grammatically plural in Hebrew, the clause can alternatively be read "His face gazes upon the upright."

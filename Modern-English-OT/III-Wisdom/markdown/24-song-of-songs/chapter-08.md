@@ -1,6 +1,6 @@
 # Song of Songs 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (14 verses, 4 translator notes)  
+> **Status:** `draft: true` (14 verses, 5 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Song of Songs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -36,6 +36,7 @@
 ## Translator Notes
 
 - **8:2** — The Piel imperfect form "telammedeni" is morphologically ambiguous and may be read as third-person feminine singular ("she who used to teach me," referring to the mother) or second-person masculine singular ("you would teach me," referring to the beloved).
+- **8:3** — Virtually identical in Hebrew wording to 2:6 (omitting the preposition le- before roshi); following the wishes in 8:1–2, it may be read either as a statement ("His left arm is...") or optatively/jussively ("May his left arm be beneath my head, and may his right arm embrace me!").
 - **8:4** — Unlike the parallel adjurations in 2:7 and 3:5, which use the oath particle "im," the Masoretic Text here uses the interrogative "mah" ("why") rhetorically as an emphatic prohibition ("do not"), pairing the Hiphil and Polel stems of the verb "ur" ("rouse" and "awaken").
 - **8:6** — The compound word "shalhevetyah" is written as a single word in the Masoretic Text and literally means "a flame of the LORD" (using the shortened divine name Yah), which may also function as a Hebrew superlative idiom meaning "a blazing flame." "Bolts" translates "reshafim," referring to fiery flashes, bolts, or sparks.
 - **8:7** — The final Hebrew clause literally reads "scorning, they would scorn him" (an emphatic Qal infinitive absolute plus finite verb with an impersonal plural subject); the masculine pronoun "lo" ("him") may also refer to "it," namely the wealth offered.

@@ -1,6 +1,6 @@
 # Nehemiah 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (36 verses, 6 translator notes, 2 additional)  
+> **Status:** `draft: true` (36 verses, 7 translator notes, 2 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

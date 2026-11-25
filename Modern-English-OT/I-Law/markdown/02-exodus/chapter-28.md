@@ -5,7 +5,7 @@
 
 ## Text
 
-**28:1** Now you, bring near to yourself Aaron your brother, and his sons with him, from the midst of the sons of Israel, so that he may serve as priest to Me—Aaron, Nadab and Abihu, Eleazar and Ithamar, the sons of Aaron.
+**28:1** "Now you, bring near to yourself Aaron your brother, and his sons with him, from the midst of the sons of Israel, so that he may serve as priest to Me—Aaron, Nadab and Abihu, Eleazar and Ithamar, the sons of Aaron.
 
 **28:2** And you shall make holy garments for Aaron your brother, for glory and for splendor.
 
@@ -63,7 +63,7 @@
 
 **28:35** And it shall be on Aaron for ministering, and its sound shall be heard when he enters the holy place before the LORD and when he goes out, so that he will not die.
 
-**28:36** And you shall make a plate of pure gold, and you shall engrave on it, as the engravings of a signet, "Holiness to the LORD."
+**28:36** And you shall make a plate of pure gold, and you shall engrave on it, as the engravings of a signet, 'Holiness to the LORD.'
 
 **28:37** And you shall place it on a blue cord, and it shall be on the turban; it shall be at the front of the turban.
 
@@ -77,7 +77,7 @@
 
 **28:42** And make for them linen undergarments to cover naked flesh; they shall reach from the waist to the thighs.
 
-**28:43** And they shall be on Aaron and on his sons when they enter the tent of meeting, or when they approach the altar to minister in the holy place, so that they will not bear guilt and die. It shall be a perpetual statute for him and for his seed after him.
+**28:43** And they shall be on Aaron and on his sons when they enter the tent of meeting, or when they approach the altar to minister in the holy place, so that they will not bear guilt and die. It shall be a perpetual statute for him and for his seed after him."
 
 ## Additional Verses (Not in Saints Numbering)
 

@@ -1,6 +1,6 @@
 # Psalms 98 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:29Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:00Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,72 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 97:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:11 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 97:12 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 99:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:11 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 97:12 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 99:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:11 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 97:12 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 99:9 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -51,17 +117,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `לַיהֹוָ֨ה` over `לַֽיהוָ֨ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `הוֹשִׁיעָה־` over `הוֹשִֽׁיעָה־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `קׇדְשֽׁוֹ׃` over `קָדְשֽׁוֹ׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לּ֥וֹ / לֹּ֥ו`, `קׇדְשֽׁוֹ׃ / קָדְשֹֽׁו׃` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 98:2
 - *Disregarded Surface Variant:* kept `יְ֭הֹוָה` over `יְ֭הוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַ֝גּוֹיִ֗ם / הַ֝גֹּויִ֗ם` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 98:3
 - *Disregarded Surface Variant:* kept `וֶ֥אֱֽמוּנָתוֹ֮` over `וֶֽאֱֽמוּנָתוֹ֮` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `לְבֵ֢ית` over `לְבֵ֪ית` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
 - *Disregarded Surface Variant:* kept `כׇל־` over `כָל־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `חַסְדּ֨וֹ / חַסְדֹּ֨ו`, `וֶ֥אֱֽמוּנָתוֹ֮ / וֶֽאֱ‌ֽמוּנָתוֹ֮` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 98:4
 - *Disregarded Surface Variant:* kept `לַ֭יהֹוָה` over `לַֽ֭יהוָה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -69,14 +132,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 98:5
 - *Disregarded Surface Variant:* kept `לַיהֹוָ֣ה` over `לַיהוָ֣ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בְּכִנּ֑וֹר בְּ֝כִנּ֗וֹר / בְּכִנֹּ֑ור בְּ֝כִנֹּ֗ור` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 98:6
 - *Disregarded Surface Variant:* kept `יְהֹוָֽה׃` over `יְהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `שׁוֹפָ֑ר / שֹׁופָ֑ר` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 98:7
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וְיֹ֣שְׁבֵי / וְי֣שְׁבֵי` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 98:9
 - *Disregarded Surface Variant:* kept `לִ֥פְֽנֵי` over `לִֽפְֽנֵי־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
@@ -107,7 +165,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** זָ֘כַ֤ר חַסְדּ֨וֹ ׀ וֶ֥אֱֽמוּנָתוֹ֮ לְבֵ֢ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כׇל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃
   - `MAM (Aleppo)`: זָ֘כַ֤ר חַסְדּ֨וֹ ׀ וֶ֥אֱֽמוּנָתוֹ֮ לְבֵ֢ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כׇל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃
   - `WLC (L)`: זָ֘כַ֤ר חַסְדּ֨וֹ ׀ וֶֽאֱֽמוּנָתוֹ֮ לְבֵ֪ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כָל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃
-  - `BenChayyim (1525)`: זָ֘כַ֤ר חַסְדֹּ֨ו ׀ וֶֽאֱ‌ֽמוּנָתוֹ֮ לְבֵ֪ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כָל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃
+  - `BenChayyim (1525)`: זָ֘כַ֤ר חַסְדֹּ֨ו ׀ וֶֽאֱֽמוּנָתוֹ֮ לְבֵ֪ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כָל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃
   - `Letteris (1852)`: זָ֘כַ֤ר חַסְדּ֨וֹ ׀ וֶֽאֱמֽוּנָתוֹ֘ לְבֵ֪ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כָל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃
 - **Philological Rationale:** Substantively unanimous across MAM (Aleppo), WLC (L). Normalised 3 surface variation(s) (Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention).
 

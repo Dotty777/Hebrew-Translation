@@ -1,6 +1,6 @@
 # Jeremiah 40 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (13 verses, 5 translator notes, 13 additional)  
+> **Status:** `draft: true` (13 verses, 7 translator notes, 13 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,7 +63,8 @@
 
 - **40:2** — The Hebrew uses three feminine singular object suffixes ("it") with no explicit antecedent in the Masoretic text, variously understood as the earth, Jerusalem, or the LORD's decree.
 - **40:3** — The Qal passive participle betsurot literally means "fortified" or "walled off," used metaphorically for inaccessible things beyond human reach.
-- **40:5** — The terse Hebrew connects directly to 40:4: the third-person plural suffix on the Piel infinitive construct lemal'am ("to fill them") refers back to the demolished houses of Jerusalem.
+- **40:5** — The terse Hebrew connects directly to 40:4 (MT 33:4): the third-person plural suffix on the Piel infinitive construct lemal'am ("to fill them") refers back to the demolished houses of Jerusalem.
 - **40:6** — The noun ateret ("abundance") is a biblical hapax legomenon, related to the root atar ("be rich, abundant").
 - **40:8** — Ketiv and Qere are purely orthographic (plene versus defective) spelling variants of the same form, "for all."
+- **33:15 *(additional)*** — Hebrew tsemach ("branch/sprout") echoes Jer 23:5 (cf. Isa 4:2; Zech 3:8; 6:12) and forms a wordplay with the Hiphil verb atsmiach ("I will make ... sprout").
 - **33:16 *(additional)*** — MT uses the feminine pronoun here, applying this title directly to the city of Jerusalem.

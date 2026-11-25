@@ -127,7 +127,7 @@
 - **2:39** — The qere ara' ("lower, inferior") replaces ketiv ar'a (which resembles the emphatic noun "earth"), while qere telitha'ah ("third") differs from the ketiv only in spelling.
 - **2:40** — The qere revi'a'ah ("fourth") is translated.
 - **2:41** — Nitsbetha means firmness or hardness. Chasaf di-fechar is "potter's clay," and chasaf tina is "clay of mud."
-- **2:43** — The qere wedi ("and as") is translated. "Mix themselves with the seed of men" probably refers to intermarriage between royal houses, but the Aramaic is kept literal.
+- **2:43** — The Qere wedi ("and in that") is translated. "Mingle together through human seed" (mit'arevin lehewon bizra anasha) probably refers to intermarriage between royal houses, while preserving the literal Aramaic noun zera ("seed").
 - **2:46** — Segid means to bow down or pay homage; "bowed down" keeps the act without deciding on its theology. Nichochin are pleasing or soothing aromas (incense).
 - **2:47** — Mare malkhin is rendered "Lord of kings" because it refers to God.
 - **2:48** — Rabbi is "made great," that is, promoted. Rav-signin is "chief of the prefects."

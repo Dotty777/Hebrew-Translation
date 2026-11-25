@@ -1,6 +1,6 @@
 # Daniel 4 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes, 5 additional)  
+> **Status:** `draft: true` (29 verses, 8 translator notes, 5 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -77,10 +77,11 @@
 
 ## Translator Notes
 
+- **4:4** — Native Masoretic Aramaic numbers chapter 4 as 4:1–34 (three verses lower than Saints.Bible slots 4:4–37), and includes MT 4:3–6 and 4:32 under Additional Verses without parallel display slots.
 - **4:13** — "watcher and holy one": Aramaic ir weqaddish uses an epexegetical conjunction (confirmed by the singular participle nachit, "descending") to designate a single vigilant heavenly messenger.
-- **4:19** — "those who hate you ... your foes": The Ketiv writes the plural 2ms suffix -ayk (lsn'yk, l'ryk), while the Qere reads -ak (lesane'ak, le'arak), a Tiberian Aramaic suffix variant that coincides with the singular form (similarly on plural nouns in 4:27 and 5:23). "a short while": Aramaic sha'ah denotes a brief moment or interval rather than a sixty-minute hour (cf. 4:33; 5:5).
+- **4:19** — "those who hate you ... your foes": The Ketiv writes the plural 2ms suffix -ayk (lsn'yk, l'ryk), while the Qere reads -ak (lesane'ak, le'arak), a Tiberian Aramaic suffix variant that coincides with the singular form (similarly on plural nouns in 4:27 [MT 4:24] and 5:23). "a short while": Aramaic sha'ah denotes a brief moment or interval rather than a sixty-minute hour (cf. 4:33 [MT 4:30]; 5:5).
 - **4:26** — "Heaven is sovereign": Aramaic shemayya ("the heavens," grammatically plural with the plural adjective shallitin) serves here as a reverent metonymy for God.
 - **4:27** — "my counsel ... break off": Aramaic milki ("my counsel") plays on malka ("King"), and the Peal imperative peruq ("break off" or "redeem") conveys either casting away sins or redeeming them through righteous conduct.
-- **4:37** — Following the Saints verse arrangement, this verse carries Nebuchadnezzar's greeting and opening doxology (Masoretic 3:31-33; traditional English 4:1-3) before his closing praise (Masoretic 4:34; traditional English 4:37).
+- **4:37** — Native Masoretic Aramaic places Nebuchadnezzar's epistolary greeting and opening doxology at Daniel 3:31–33 (before 4:1) and his closing praise at 4:34. In the Saints.Bible parallel display, MT 3:31–33 and 4:34 are combined at slot 4:37 (leaving slots 4:1–3 unmapped).
 - **4:6 *(additional)*** — Alternatively, "as for the visions of my dream that I saw, tell me its interpretation."
 - **4:32 *(additional)*** — Literally "strike against His hand," an Aramaic idiom for restraining or halting someone's action.

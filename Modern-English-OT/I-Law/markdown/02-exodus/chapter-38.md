@@ -1,6 +1,6 @@
 # Exodus 38 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (23 verses, 4 translator notes, 14 additional)  
+> **Status:** `draft: true` (23 verses, 8 translator notes, 14 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -23,7 +23,7 @@
 
 **38:9** Then he made the table of acacia wood: two cubits was its length, one cubit its width, and one and a half cubits its height.
 
-**38:10** He cast for it four gold rings and placed the rings on the four corners that belonged to its four legs. Alongside the rim were the rings, as holders for the poles to carry the table.
+**38:10** He cast for it four gold rings and placed the rings on the four corners that belonged to its four legs. Alongside the frame were the rings, as holders for the poles to carry the table.
 
 **38:11** And he made the poles of acacia wood and overlaid them with gold to carry the table.
 
@@ -37,7 +37,7 @@
 
 **38:17** He made its seven lamps, and its tongs and its firepans, of pure gold.
 
-**38:18** He overlaid the planks with gold and made their rings of gold as holders for the bars, and he overlaid the bars with gold.
+**38:18** He overlaid the planks with gold and made their rings of gold as holders for the crossbars, and he overlaid the crossbars with gold.
 
 **38:22** Then he made the altar of burnt offering of acacia wood: five cubits was its length and five cubits its width—it was square—and three cubits its height.
 
@@ -85,7 +85,9 @@
 
 - **38:5** — Hebrew kapporet ('atonement cover') derives from the root k-p-r ('to atone/cover') and denotes the golden lid over the ark associated with atonement.
 - **38:7** — Ketiv writes qtswwtw, lacking the yod of the plural possessive suffix, while qere reads the standard plural form qetsotav ('its ends'); both carry the same sense, using a masculine suffix for the grammatically feminine kapporet ('atonement cover').
+- **38:10** — Native Masoretic verses 37:13–14 are separate verses in the tabernacle table account; in the Saints.Bible parallel display they are combined at slot 38:10.
+- **38:24** — Native Masoretic verses 38:4–5 are separate verses in the bronze altar account; in the Saints.Bible parallel display they are combined at slot 38:24.
 - **38:26** — The Qal participle and perfect of tsava ('to serve/perform assigned duty') describe women performing organized service at the entrance of the tent of meeting; mar'ot denotes polished bronze mirrors.
-- **38:27** — The Qal weqatal ('would wash') followed by the Qal yiqtol ('would wash') expresses repeated, customary action whenever Moses, Aaron, and his sons entered the tent or approached the altar.
+- **38:27** — The Qal weqatal ("would wash") followed by the Qal yiqtol ("would wash") expresses repeated, customary action whenever Moses, Aaron, and his sons entered the tent or approached the altar. Native Masoretic verses 40:31–32 stand in chapter 40; in the Saints.Bible parallel display they are combined at slot 38:27.
 - **37:12 *(additional)*** — A handbreadth was roughly three inches, or about seven and a half centimeters.
 - **37:24 *(additional)*** — A talent weighed roughly seventy-five pounds, or about thirty-four kilograms.

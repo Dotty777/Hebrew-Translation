@@ -1,6 +1,6 @@
 # Joshua 8 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 4 translator notes, 8 additional)  
+> **Status:** `draft: true` (27 verses, 7 translator notes, 8 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

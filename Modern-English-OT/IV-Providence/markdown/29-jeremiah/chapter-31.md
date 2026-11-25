@@ -95,11 +95,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**48:45** *(after `31:44`)* In the shadow of Heshbon fugitives stood without strength, for fire went out from Heshbon and a flame from the midst of Sihon, and it devoured the brow of Moab and the crown of the head of the sons of tumult.
+**48:45** *(after `31:44`)* "In the shadow of Heshbon fugitives stood without strength, for fire went out from Heshbon and a flame from the midst of Sihon, and it devoured the brow of Moab and the crown of the head of the sons of tumult.
 
 **48:46** *(after `31:44`)* Woe to you, Moab! The people of Chemosh have perished, because your sons have been taken into captivity and your daughters into exile.
 
-**48:47** *(after `31:44`)* But I will restore the fortunes of Moab in the last days, declares the LORD. Up to this point is the judgment on Moab.
+**48:47** *(after `31:44`)* But I will restore the fortunes of Moab in the last days," declares the LORD. Up to this point is the judgment on Moab.
 
 ## Translator Notes
 
@@ -107,4 +107,4 @@
 - **31:9** — Hebrew tsits elsewhere means 'blossom' or 'plate,' but here (with cognate support and the following verb) is widely understood as 'wings'; the verb phrase natso tetse pairs an unusual infinitive absolute from natsah ('fly') with a finite verb from yatsa ('go out').
 - **31:15** — The clause weareha alah ('and one has gone up against her cities') pairs the feminine plural noun 'her cities' with a masculine singular Qal perfect verb alah ('has gone up'), rendered here with an impersonal subject, contrasting with yaredu ('have gone down') in the next clause.
 - **31:20** — Translates the qere masculine plural imperatives helilu uzeaqu ('Wail and cry out'), matching the plural 'Declare' that follows; the ketiv reads feminine singular imperatives addressed to the city or land.
-- **31:41** — Hebrew haqqeriyyot has the definite article and may denote either 'the towns' (paralleling 'the strongholds') or the Moabite city 'Kerioth' (cf. 31:24); both feminine plural subjects take singular feminine Niphal verbs (nilkedah, nitpasah).
+- **31:41** — Hebrew haqqeriyyot has the definite article and may denote either 'the towns' (paralleling 'the strongholds') or the Moabite city 'Kerioth' (cf. 31:24 [MT 48:24]); both feminine plural subjects take singular feminine Niphal verbs (nilkedah, nitpasah).

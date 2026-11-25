@@ -1,6 +1,6 @@
 # Joshua 24 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -78,3 +78,4 @@
 - **24:8** — Ketiv reads a form with a final paragogic he and without yod, while qere reads the standard Hiphil wayyiqtol 1st-person singular of bo ("and I brought"), which fits the direct object ("you") and is translated here.
 - **24:15** — Ketiv reads the preposition be-ever ("beyond"), matching vv. 2 and 14, whereas qere reads me-ever ("from beyond" or "on the other side of"), translated here.
 - **24:19** — Hebrew pairs the plural adjective qedoshim ("holy") with the plural noun elohim ("God") as a plural of majesty, while the singular pronoun hu ("He") and singular el-qanno ("a jealous God") confirm singular reference to the LORD.
+- **24:30** — Native Masoretic order places Joshua's death (24:29) and burial (24:30) before the summary of Israel's service (24:31); in the Saints.Bible parallel display, MT 24:31 maps to slot 24:29 and MT 24:29–30 map to slots 24:30–31.

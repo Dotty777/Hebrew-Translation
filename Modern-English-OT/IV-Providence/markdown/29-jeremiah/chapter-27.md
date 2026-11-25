@@ -101,7 +101,7 @@
 
 - **27:5** — The verb "join yourselves" (nilwu) is a rare Niphal 2mp imperative retaining the n- prefix (parallel to "Come," Qal 2mp imperative), rather than a 1cp cohortative.
 - **27:6** — Two ketiv/qere variants occur here: ketiv has singular hayah ("became") while qere reads plural hayu to match collective "My people," and ketiv has the adjective sobabim ("straying") while qere reads the Polel 3cp perfect with suffix sobebum ("they have turned them aside").
-- **27:11** — Four verbs in this verse show ketiv 2fs forms addressing Babylon directly, whereas the qere reads 2mp forms ("you are glad," "you exult," "you prance," "and neigh") to agree with the plural vocative "pillagers of My inheritance" and 27:12.
+- **27:11** — Four verbs in this verse show ketiv 2fs forms addressing Babylon directly, whereas the qere reads 2mp forms ("you are glad," "you exult," "you prance," "and neigh") to agree with the plural vocative "pillagers of My inheritance" and 27:12 (MT 50:12).
 - **27:21** — Merathaim (a Babylonian region) plays on the Hebrew root for "double rebellion," and Pekod (a tribe in Babylonia) plays on the Hebrew root paqad, "to punish/visit."
 - **27:29** — The prepositional phrase "for her" (lah) is a qere w'lo ketiv (read in the Masoretic tradition though not written in the consonantal text); "archers" translates rabbim from the root rabab, "to shoot."
 - **27:44** — Ketiv writes 'rwsm while qere vocalizes the Hiphil 1cs imperfect with suffix 'arisem ("I will make them run away"); the adverbial Hiphil form 'argi'ah means "in an instant."

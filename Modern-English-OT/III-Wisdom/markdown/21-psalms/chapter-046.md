@@ -28,5 +28,5 @@
 ## Translator Notes
 
 - **46:4** — The rare Hiphil verb yadber, from dbr II meaning to subdue or bring under as in Psalm 18:48 MT, is distinct from the common Piel verb meaning to speak.
-- **46:8** — Make music renders the Piel imperative of zmr, repeated four times in verse 7 and cognate to psalm in verse 1. Maskil, as in 44:1, may denote the psalm genre or serve adverbially as skillfully.
+- **46:8** — Make music renders the Piel imperative of zmr, repeated four times in verse 7 and cognate to psalm in verse 1. Maskil, as in 44:1 (MT 45:1), may denote the psalm genre or serve adverbially as skillfully.
 - **46:10** — The Masoretic Text reads am, as the people of the God of Abraham, whereas the Septuagint and Syriac vocalize the consonants as im, with the God of Abraham. Shields of the earth is a metaphor for earthly rulers and defenders.

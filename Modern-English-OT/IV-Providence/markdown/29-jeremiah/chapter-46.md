@@ -1,6 +1,6 @@
 # Jeremiah 46 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (8 verses, 2 translator notes, 10 additional)  
+> **Status:** `draft: true` (8 verses, 6 translator notes, 10 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,4 +49,5 @@
 - **46:3** — "Rab-saris" (lit. "chief officer/eunuch") and "Rab-mag" are transliterated Babylonian court titles; the translation follows the MT word divisions סַמְגַּר־נְבוּ ("Samgar-nebo") and שַׂר־סְכִים ("Sarsechim").
 - **39:4 *(additional)*** — MT shifts from plural ("they") to singular ("he"), focusing on King Zedekiah.
 - **39:9 *(additional)*** — MT repeats "the rest of the people" in both clauses.
+- **39:12 *(additional)*** — Ketiv-wela-Qere: the consonantal text writes the particle im ("if", enclosed in parentheses in the critical text), which is not read aloud in the Masoretic tradition; the translation follows the Qere (omitting the unread particle).
 - **39:13 *(additional)*** — Rab-saris and Rab-mag are Babylonian court titles.

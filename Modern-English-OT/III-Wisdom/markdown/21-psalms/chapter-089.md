@@ -42,6 +42,6 @@
 ## Translator Notes
 
 - **89:2** — MT vocalizes the verb as Polel 2ms active ("You brought ... to birth") from the root chul (to writhe in labor or give birth), taking "earth and world" as its direct object; some ancient versions reflect a passive reading ("were brought forth").
-- **89:5** — The Qal verb chalaph ("grows anew") here and in 89:6 can mean either "sprout anew / renew itself" or "pass away"; the morning-versus-evening contrast in 89:6 supports the sense of fresh growth.
+- **89:5** — The Qal verb chalaph ("grows anew") here and in 89:6 (MT 90:6) can mean either "sprout anew / renew itself" or "pass away"; the morning-versus-evening contrast in 89:6 (MT 90:6) supports the sense of fresh growth.
 - **89:10** — The Hebrew noun rohab ("boast" or "pride") occurs only here in the Old Testament and denotes what is proudest or best in a human lifespan.
 - **89:11** — The second clause is concise in Hebrew and may be read either as a second object of "Who knows" or as an independent statement: "as the fear due You is, so is Your wrath."

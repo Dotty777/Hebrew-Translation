@@ -1,6 +1,6 @@
 # Numbers 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 6 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -80,5 +80,6 @@
 - **11:1** — The participle kəmiṯʾōnənîm (Hithpolel of ʾnn, "acting like complainers") is rare, occurring elsewhere only in Lamentations 3:39. The noun raʿ ("hardship" or "evil") may be read either as the subject of their complaint or, following the Masoretic cantillation, as a predicate assessing it as "evil in the ears of the LORD."
 - **11:8** — "Rich oil" translates ləšaḏ haššāmen (literally "the moisture/richness of oil"), using the rare noun ləšaḏ (elsewhere only in Psalm 32:4), which denotes fresh oil or an oil-rich delicacy.
 - **11:15** — The second-person pronoun addressing God is unusually spelled as the short form ʾat (normally feminine singular) alongside the masculine singular participle ʿōśeh ("treating"), a rare Masoretic orthographic feature also attested in Deuteronomy 5 and Ezekiel 28.
+- **11:17** — Hebrew haruach carries the definite article ("the Spirit" or "the spirit," also in vv. 25–26, referring back to the prophetic endowment on Moses; cf. rucho, "His Spirit," in v. 29).
 - **11:25** — "But they did not do so again" translates wəlōʾ yāsāpû (Qal of ysp, "add/continue/repeat"), indicating that their ecstatic prophesying was a one-time sign; several ancient versions instead derived the verb from swp ("cease"), rendering "and did not cease."
 - **11:34** — The place name Kibroth-hattaavah (qiḇrōṯ hattaʾăwāh) means "Graves of Craving," playing directly on the verbs "buried" (qāḇərû) and "who had been craving" (hammiṯʾawwîm, Hithpael participle of ʾwh).

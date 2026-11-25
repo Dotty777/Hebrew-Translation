@@ -23,7 +23,7 @@
 
 **39:10** So all the work of the tabernacle of the tent of meeting was finished; the sons of Israel did according to everything that the LORD commanded Moses, just so they did.
 
-**39:13** Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, its planks, its bars, its pillars, and its bases;
+**39:13** Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, its planks, its crossbars, its pillars, and its bases;
 
 **39:14** the ark of the testimony, its poles, and the atonement cover;
 
@@ -45,11 +45,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**39:39** *(after `39:15`)* the bronze altar and its bronze grating, its poles and all its articles; the basin and its base;
+**39:39** *(after `39:15`)* the bronze altar and its bronze grating, its poles and all its articles; the basin and its stand;
 
 ## Translator Notes
 
 - **39:3** — A beka is an ancient weight unit equivalent to half a shekel, as the verse immediately explains.
-- **39:8** — In this Hebrew text, verse 8 consists of direct-object phrases introduced by the object marker et without a finite verb, while verse 9 supplies the governing verb ('With it he made').
+- **39:8** — In native Masoretic order (Exod 38:30–31), 38:30 supplies the governing verb ("With it he made...") and 38:31 continues the list of direct objects introduced by the object marker et. In the Saints.Bible parallel display, these two verses are inverted as 39:9 and 39:8.
 - **39:18** — The exact meaning of Hebrew serad is debated; it is widely connected with plaited, braided, or finely woven fabric, though ancient versions often understood it as 'service garments.'
 - **39:20** — The precise meaning of Hebrew techashim is uncertain; scholars variously understand it as fine tanned leather, cognate with Egyptian ths, or dugong/sea-cow hides, cognate with Arabic tukhas.

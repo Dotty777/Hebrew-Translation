@@ -1,6 +1,6 @@
 # Genesis 31 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (53 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (53 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -121,4 +121,5 @@
 - **31:20** — Literally "stole the heart (mind) of Laban," a Hebrew idiom for deceiving someone without their knowledge, playing on the verb "steal" (ganav) used in v. 19 and repeated in vv. 26, 27, 30, 32, and 39.
 - **31:39** — The Piel verb achattennah (from chata, normally "sin") carries the restitutive sense "bear the loss of it." The two forms genuvti ("stolen") preserve the archaic construct ending -i (hireq compaginis) before "day" and "night."
 - **31:47** — Laban gives the stone heap an Aramaic name (Jegar-sahadutha) and Jacob gives it the equivalent Hebrew name (Galeed); both mean "heap of witness."
-- **31:51 *(additional)*** — The first-person verb yariti ("I have set up") is translated as written: Laban claims credit for establishing the boundary marker, although Jacob set up the pillar (31:45).
+- **31:52** — In native Masoretic order, Laban's speech opens at 31:51 (carried under Additional Verses because it has no separate slot in the Saints.Bible parallel display) and closes in 31:53.
+- **31:51 *(additional)*** — The first-person verb yariti ("I have set up") is translated as written: Laban claims credit for establishing the boundary marker, although Jacob set up the pillar (31:45). Native MT 31:51 opens Laban's speech continuing through 31:52–53, though it has no separate slot in the Saints.Bible parallel display.

@@ -1,6 +1,6 @@
 # Psalms 112 — Saints Hebrew Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:15:29Z`
+**Division:** `03_Wisdom` · **Language:** `Hebrew` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:07:58Z`
 
 **Versification:** Masoretic (MT) numbering. Psalms 10–147 carry MT numbers, one higher than the Septuagint/Vulgate psalm numbers used by the Greek and Latin editions. Numbering anchor for this chapter: `WLC (L)`. Spelling and punctuation follow `MAM (Aleppo)` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **MAM (Aleppo)** | Miqra 'al-pi ha-Mesorah (Aleppo Codex Tradition, OSIS XML) | Tier 1 | `0.98` | CC BY-SA 3.0 | Ben Asher Tiberian Masoretic (Aleppo-Weighted) |
 | **WLC (L)** | Westminster Leningrad Codex (Firkovich B 19A, 1008 CE) | Tier 1 | `0.96` | Public Domain | Ben Asher Tiberian Masoretic (Leningradensis) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,6 +28,66 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
 | Leningrad-USFX [DISREGARDED] | `DISREGARDED_CORRUPT` | AI GATEKEEPER CATCH — DISREGARDED (Corrupt Transcription): Word-boundary spaces were stripped during upstream USFX export and '/' morpheme dividers remain glued inside tokens (e.g., בִּ/שְׁנַ֤תשְׁתַּ֙יִם֙). Superseded by clean WLC TSV and MAM OSIS XML. |
+| BHS (BHSA) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC 4.0 (ETCBC / VU Amsterdam — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- MAM (Aleppo): 111:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:9 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 111:10 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:1 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:2 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:3 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:4 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:5 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:6 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:7 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:8 kept in its own chapter (stronger match to its own reference verse)
+- MAM (Aleppo): 113:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:9 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 111:10 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:1 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:2 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:3 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:4 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:5 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:6 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:7 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:8 kept in its own chapter (stronger match to its own reference verse)
+- BenChayyim (1525): 113:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:9 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 111:10 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:1 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:2 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:3 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:4 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:5 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:6 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:7 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:8 kept in its own chapter (stronger match to its own reference verse)
+- Letteris (1852): 113:9 kept in its own chapter (stronger match to its own reference verse)
 
 ---
 
@@ -50,31 +110,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 112:1
 - *Disregarded Surface Variant:* kept `יְהֹוָ֑ה` over `יְהוָ֑ה` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `הַ֥לְלוּ יָ֨הּ / הַֽלְלוּיָ֨הּ`, `בְּ֝מִצְוֺתָ֗יו / בְּ֝מִצְֺותָ֗יו` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `הַ֥לְלוּ יָ֨הּ / הַֽלְלוּיָ֨הּ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 112:2
 - *Disregarded Surface Variant:* kept `דּ֖וֹר` over `דּ֭וֹר` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `גִּבּ֣וֹר / גִּבֹּ֣ור`, `דּ֖וֹר / דֹּ֭ור` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 112:3
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וָעֹ֥שֶׁר / וָע֥שֶׁר` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 112:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `בַּחֹ֣שֶׁךְ / בַּח֣שֶׁךְ` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 112:6
 - *Disregarded Surface Variant:* kept `לֹֽא־` over `לֹא־` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `יִמּ֑וֹט / יִמֹּ֑וט` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ### Psalms 112:7
 - *Disregarded Surface Variant:* kept `בַּיהֹוָֽה׃` over `בַּיהוָֽה׃` (WLC (L)) — *Masoretic cantillation / meteg / qamats-qatan / divine-name pointing convention*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לִ֝בּ֗וֹ / לִ֝בֹּ֗ו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 112:8
-- *Disregarded Surface Variant:* kept `(adopted text)` over `לִ֭בּוֹ / לִ֭בֹּו` (BenChayyim (1525)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
-
-### Psalms 112:10
-- *Disregarded Surface Variant:* kept `(adopted text)` over `וְכָעָ֗ס / וְכָעַ֗ס` (Letteris (1852)) — *Apparatus witness, not a variant: Masoretic pointing / cantillation convention of the edition (same consonants)*
 
 ---
 

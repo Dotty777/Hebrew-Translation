@@ -1,6 +1,6 @@
 # Nehemiah 11 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 9 additional)  
+> **Status:** `draft: true` (27 verses, 6 translator notes, 9 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text

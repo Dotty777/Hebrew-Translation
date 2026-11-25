@@ -5,7 +5,7 @@
 
 ## Text
 
-**29:1** Now this is the thing that you shall do for them to consecrate them to serve as priests to Me: take one bull from the herd and two rams without blemish,
+**29:1** "Now this is the thing that you shall do for them to consecrate them to serve as priests to Me: take one bull from the herd and two rams without blemish,
 
 **29:2** and unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. You shall make them of fine wheat flour.
 
@@ -95,7 +95,7 @@
 
 **29:45** And I will dwell in the midst of the sons of Israel, and I will be God to them.
 
-**29:46** And they will know that I am the LORD their God, who brought them out from the land of Egypt so that I might dwell in their midst; I am the LORD their God.
+**29:46** And they will know that I am the LORD their God, who brought them out from the land of Egypt so that I might dwell in their midst; I am the LORD their God."
 
 ## Translator Notes
 
