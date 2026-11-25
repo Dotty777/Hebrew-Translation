@@ -1,6 +1,6 @@
 # Malachi 3 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (24 verses, 6 translator notes)  
+> **Status:** `draft: true` (24 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Malachi`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -55,6 +55,7 @@
 
 ## Translator Notes
 
+- **3:1** — Hebrew ha-adon ("the Lord" / "the sovereign") carries the definite article and is paired with "the messenger of the covenant" (mal'akh habberit); whether the final clause ("look, He is coming") identifies the messenger of the covenant with the Lord or refers to a distinct figure is debated, so the capitalization of pronouns reflects an interpretive editorial choice.
 - **3:8** — The rare Hebrew verb qaba ('rob, defraud') occurs in the Hebrew Bible only here, in 3:9, and in Proverbs 22:23.
 - **3:10** — The phrase 'until there is no more room' renders Hebrew ad-beli-day, literally 'until without sufficiency,' an idiom for overflowing abundance beyond capacity.
 - **3:13** — The Niphal stem of dabar ('speak') here and in 3:16 carries reciprocal force, denoting people conversing together among themselves.

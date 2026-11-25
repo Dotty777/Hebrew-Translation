@@ -101,6 +101,6 @@
 
 - **37:1** — The Hebrew shifts within the verse from a plural Qal wayyiqtol (wayya'asu, "they made") with the collective subject to a singular Qal perfect ('asah, "he made"), referring to the lead artisan Bezalel.
 - **37:16** — Literally "height in width" (qomah verohav), reflecting the fact that the vertical height of the hanging corresponded to the woven width of the cloth.
-- **37:17** — The Hebrew uses third-person masculine plural possessive suffixes ("their pillars," "their bases") by attraction to the formulaic wording of verses 8-13, although they refer to the singular gate screen of verse 16.
+- **37:17** — The Hebrew uses third-person masculine plural possessive suffixes ("their pillars," "their bases") by attraction to the formulaic wording of verses 8–13 (MT 38:10–15), although they refer to the singular gate screen of verse 16 (MT 38:18).
 - **36:19 *(additional)*** — The exact identity of the Hebrew hide term is uncertain, likely denoting fine dyed leather or hides of a marine animal such as the dugong.
 - **36:29 *(additional)*** — The exact joinery of the corner planks is uncertain; the Hebrew describes them as doubled at the base and complete together up to a single ring at the top.
