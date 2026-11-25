@@ -1,7 +1,7 @@
 # Division IV. Providence (Prophets) — Saints Modern English (Hebrew / Masoretic Text)
 
 > **Status:** `draft: true` — **Complete 16/16 books**  
-> **Coverage:** 245 chapters, 5,240 verses (+ 91 additional MT verses), 1,168 translator notes  
+> **Coverage:** 245 chapters, 5,240 verses (+ 91 additional MT verses), 1,169 translator notes  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (16 / 16 Complete)

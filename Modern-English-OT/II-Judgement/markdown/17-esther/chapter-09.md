@@ -59,7 +59,7 @@
 
 **9:28** And these days are to be remembered and observed throughout every generation, every family, every province, and every city; and these days of Purim will not pass away from among the Jews, nor will their remembrance come to an end among their seed.
 
-**9:29** Then Queen Esther daughter of Abihail and Mordecai the Jew wrote with full authority to confirm this second letter of Purim.
+**9:29** Then Queen Esther daughter of Abihail and Mordecai the Jew wrote with full authority to confirm this second letter of Purim,
 
 **9:31** to establish these days of Purim at their appointed times, just as Mordecai the Jew and Queen Esther had established for them, and just as they had established for themselves and for their seed the matters of the fasts and their outcry.
 
@@ -78,4 +78,4 @@
 - **9:19** — The ketiv reads happeruzim and the qere reads happerazim, variant plural forms meaning "rural dwellers" or "inhabitants of unwalled towns," matching perazot ("unwalled towns") in the same clause.
 - **9:25** — The feminine suffix in bevo'ah ("when it came" or "when she came") may refer either to the matter of Haman's plot (feminine machashavah) or to Esther herself. Hebrew im-hassepher literally reads "with the letter," meaning by written order.
 - **9:27** — The ketiv reads the singular Piel perfect veqibbel ("and accepted," treating "the Jews" collectively as in 9:23), whereas the qere reads the plural veqibbelu ("and they accepted") in agreement with the preceding plural qiyyemu.
-- **9:30 *(additional)*** — The Hebrew verb is masculine singular, referring to Mordecai.
+- **9:30 *(additional)*** — The Hebrew verb is masculine singular, referring to Mordecai. In Masoretic verse order, this verse continues directly into the purpose clause of v. 31 ("to establish...").

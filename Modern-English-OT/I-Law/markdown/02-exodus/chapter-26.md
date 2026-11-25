@@ -5,7 +5,7 @@
 
 ## Text
 
-**26:1** Now you shall make the tabernacle out of ten curtains of twisted fine linen, and blue, purple, and crimson; you shall make them with cherubim, the work of a skilled designer.
+**26:1** "Now you shall make the tabernacle out of ten curtains of twisted fine linen, and blue, purple, and crimson; you shall make them with cherubim, the work of a skilled designer.
 
 **26:2** The length of each curtain shall be twenty-eight cubits, and the width of each curtain four cubits; there shall be one measurement for all the curtains.
 
@@ -77,7 +77,7 @@
 
 **26:36** And you shall make a screen for the entrance of the tent of blue, purple, crimson, and twisted fine linen, the work of an embroiderer.
 
-**26:37** And you shall make five pillars of acacia wood for the screen and overlay them with gold, their hooks of gold; and you shall cast five bases of bronze for them.
+**26:37** And you shall make five pillars of acacia wood for the screen and overlay them with gold, their hooks of gold; and you shall cast five bases of bronze for them."
 
 ## Translator Notes
 

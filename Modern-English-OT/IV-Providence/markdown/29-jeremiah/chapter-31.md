@@ -95,11 +95,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**48:45** *(after `31:44`)* In the shadow of Heshbon fugitives stood without strength, for fire went out from Heshbon and a flame from the midst of Sihon, and it devoured the brow of Moab and the crown of the head of the sons of tumult.
+**48:45** *(after `31:44`)* "In the shadow of Heshbon fugitives stood without strength, for fire went out from Heshbon and a flame from the midst of Sihon, and it devoured the brow of Moab and the crown of the head of the sons of tumult.
 
 **48:46** *(after `31:44`)* Woe to you, Moab! The people of Chemosh have perished, because your sons have been taken into captivity and your daughters into exile.
 
-**48:47** *(after `31:44`)* But I will restore the fortunes of Moab in the last days, declares the LORD. Up to this point is the judgment on Moab.
+**48:47** *(after `31:44`)* But I will restore the fortunes of Moab in the last days," declares the LORD. Up to this point is the judgment on Moab.
 
 ## Translator Notes
 

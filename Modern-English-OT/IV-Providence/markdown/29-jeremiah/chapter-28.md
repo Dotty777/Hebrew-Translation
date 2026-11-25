@@ -127,13 +127,13 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**51:45** *(after `28:44`)* Come out from her midst, My people, and let each one rescue his life from the burning anger of the LORD.
+**51:45** *(after `28:44`)* "Come out from her midst, My people, and let each one rescue his life from the burning anger of the LORD.
 
 **51:46** *(after `28:44`)* And do not let your heart grow faint or be afraid because of the report heard in the land: a report will come in one year, and after it in the following year another report, and violence will be in the land, and ruler against ruler.
 
 **51:47** *(after `28:44`)* Therefore, look, days are coming when I will punish the carved images of Babylon, and all her land will be put to shame, and all her fatally wounded will fall in her midst.
 
-**51:48** *(after `28:44`)* And heaven and earth and all that is in them will shout for joy over Babylon, for from the north the destroyers will come against her, declares the LORD.
+**51:48** *(after `28:44`)* And heaven and earth and all that is in them will shout for joy over Babylon, for from the north the destroyers will come against her," declares the LORD.
 
 ## Translator Notes
 

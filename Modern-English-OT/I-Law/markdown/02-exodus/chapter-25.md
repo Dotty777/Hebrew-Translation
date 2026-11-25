@@ -81,7 +81,7 @@
 
 **25:39** Out of a talent of pure gold it shall be made, along with all these utensils.
 
-**25:40** And see to it that you make them according to their pattern, which you are being shown on the mountain.
+**25:40** And see to it that you make them according to their pattern, which you are being shown on the mountain."
 
 ## Additional Verses (Not in Saints Numbering)
 

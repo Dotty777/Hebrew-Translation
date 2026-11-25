@@ -5,7 +5,7 @@
 
 ## Text
 
-**29:1** And in the seventh month, on the first of the month, there shall be a holy assembly for you; you shall not do any occupational work. It shall be a day of trumpet blasts for you.
+**29:1** "'And in the seventh month, on the first of the month, there shall be a holy assembly for you; you shall not do any occupational work. It shall be a day of trumpet blasts for you.
 
 **29:2** And you shall prepare a burnt offering for a soothing fragrance to the LORD: one bull from the herd, one ram, seven one-year-old male lambs, unblemished;
 

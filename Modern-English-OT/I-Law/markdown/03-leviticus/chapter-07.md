@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:1** And this is the law of the guilt offering: it is most holy.
+**7:1** "'And this is the law of the guilt offering: it is most holy.
 
 **7:2** At the place where they slaughter the burnt offering, they shall slaughter the guilt offering, and he shall dash its blood against the altar all around.
 
@@ -45,7 +45,7 @@
 
 **7:20** But the person who eats flesh from the sacrifice of peace offerings that belongs to the LORD while his uncleanness is upon him, that person shall be cut off from his people.
 
-**7:21** And when a person touches anything unclean, whether human uncleanness, or an unclean animal, or any unclean detestable thing, and eats of the flesh of the sacrifice of peace offerings that belongs to the LORD, that person shall be cut off from his people.
+**7:21** And when a person touches anything unclean, whether human uncleanness, or an unclean animal, or any unclean detestable thing, and eats of the flesh of the sacrifice of peace offerings that belongs to the LORD, that person shall be cut off from his people.'"
 
 **7:22** And the LORD spoke to Moses, saying,
 

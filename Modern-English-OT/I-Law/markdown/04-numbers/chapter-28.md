@@ -65,7 +65,7 @@
 
 **28:30** one male goat to make atonement for you.
 
-**28:31** Apart from the continual burnt offering and its grain offering you shall prepare them—they shall be unblemished for you—along with their drink offerings.
+**28:31** Apart from the continual burnt offering and its grain offering you shall prepare them—they shall be unblemished for you—along with their drink offerings.'"
 
 ## Translator Notes
 

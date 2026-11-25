@@ -5,7 +5,7 @@
 
 ## Text
 
-**30:1** And you shall make an altar for burning incense; out of acacia wood you shall make it.
+**30:1** "And you shall make an altar for burning incense; out of acacia wood you shall make it.
 
 **30:2** One cubit shall be its length and one cubit its width; it shall be square, and its height shall be two cubits; its horns shall be part of it.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**31:1** I made a covenant with my eyes; how then should I look intently upon a virgin?
+**31:1** "I made a covenant with my eyes; how then should I look intently upon a virgin?
 
 **31:2** And what is the portion from God above, and the inheritance from the Almighty on high?
 
@@ -51,7 +51,7 @@
 
 **31:23** For calamity from God was a dread to me, and because of His majesty I could not stand.
 
-**31:24** If I have made gold my confidence, or said to fine gold, "You are my trust,"
+**31:24** If I have made gold my confidence, or said to fine gold, 'You are my trust,'
 
 **31:25** if I have rejoiced because my wealth was great, and because my hand had gained much,
 
@@ -65,7 +65,7 @@
 
 **31:30** no, I have not allowed my mouth to sin by asking for his life with a curse.
 
-**31:31** If the men of my tent have not said, "Who can find anyone who has not been filled with his meat?"—
+**31:31** If the men of my tent have not said, 'Who can find anyone who has not been filled with his meat?'—
 
 **31:32** the sojourner did not lodge in the street; I opened my doors to the traveler.
 
@@ -83,7 +83,7 @@
 
 **31:39** if I have eaten its yield without payment, or caused the life of its owners to expire,
 
-**31:40** then let thorns spring up instead of wheat, and stinkweed instead of barley. The words of Job are finished.
+**31:40** then let thorns spring up instead of wheat, and stinkweed instead of barley." The words of Job are finished.
 
 ## Translator Notes
 

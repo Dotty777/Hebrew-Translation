@@ -1,6 +1,6 @@
 # Exodus 32 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (34 verses, 7 translator notes, 1 additional)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -80,7 +80,9 @@
 ## Translator Notes
 
 - **32:4** — "Shaped it with an engraving tool" translates Hebrew wayyatsar oto bacharet (from tsur II, "fashion, shape," and cheret, "stylus, engraving tool"). Some scholars alternatively read tsur I ("bind up") and cheret ("bag, pouch," cf. 2 Kgs 5:23), yielding "tied it up in a bag."
+- **32:8** — In the Masoretic Text, v. 9 (placed under Additional Verses in Saints numbering) introduces a second divine speech ("Then the LORD said to Moses...") that continues directly into v. 10; accordingly, native MT order closes the first speech here and leaves v. 9 open into v. 10.
 - **32:18** — The verse plays on two stems of the root anah: the first two occurrences are Qal infinitives construct (anot, "crying out, shouting"), while the third is pointed as a Piel infinitive construct (annot, "singing").
 - **32:24** — Hebrew hitparaqu can be parsed either as a Hithpael third-person plural perfect in pause ("they pulled it off"), matching the Masoretic accents, or as a Hithpael masculine plural imperative ("pull it off!") within Aaron's quoted speech.
 - **32:29** — "Consecrate yourselves" renders the Hebrew idiom mil'u yedkhem, literally "fill your hand" (here Qal imperative of male'), the standard expression for priestly ordination. The following clause is elliptical, literally "for each man against his son and against his brother."
 - **32:32** — Moses' conditional sentence breaks off without a stated conclusion after "if You will forgive their sin" (aposiopesis), leaving the implied relief unspoken in emotional urgency.
+- **32:9 *(additional)*** — In Masoretic verse order, this verse introduces a second divine speech continuing directly into v. 10; the closing quotation mark appears here only in standalone Additional Verses display.

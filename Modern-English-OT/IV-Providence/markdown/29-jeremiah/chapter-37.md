@@ -47,13 +47,13 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**30:10** *(after `37:9`)* As for you, do not be afraid, My servant Jacob, declares the LORD, and do not be dismayed, Israel; for look, I am going to save you from far away, and your seed from the land of their captivity. Jacob will return and be at rest and secure, with no one to terrify him.
+**30:10** *(after `37:9`)* "As for you, do not be afraid, My servant Jacob, declares the LORD, and do not be dismayed, Israel; for look, I am going to save you from far away, and your seed from the land of their captivity. Jacob will return and be at rest and secure, with no one to terrify him.
 
-**30:11** *(after `37:9`)* For I am with you, declares the LORD, to save you; for I will bring complete destruction upon all the nations where I have scattered you, yet I will not bring complete destruction upon you. I will discipline you with justice, and I will certainly not leave you unpunished.
+**30:11** *(after `37:9`)* For I am with you, declares the LORD, to save you; for I will bring complete destruction upon all the nations where I have scattered you, yet I will not bring complete destruction upon you. I will discipline you with justice, and I will certainly not leave you unpunished."
 
 **30:15** *(after `37:14`)* Why do you cry out over your wound? Your pain is incurable. Because of the abundance of your iniquity, since your sins are so many, I have done these things to you.
 
-**30:22** *(after `37:21`)* And you will be My people, and I will be your God.
+**30:22** *(after `37:21`)* "And you will be My people, and I will be your God."
 
 ## Translator Notes
 

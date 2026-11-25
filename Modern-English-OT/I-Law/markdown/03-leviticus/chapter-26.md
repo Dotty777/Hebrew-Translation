@@ -5,7 +5,7 @@
 
 ## Text
 
-**26:1** "You shall not make idols for yourselves, nor shall you erect a carved image or a standing pillar for yourselves, nor shall you set an engraved stone in your land to bow down upon it, for I am the LORD your God.
+**26:1** "'You shall not make idols for yourselves, nor shall you erect a carved image or a standing pillar for yourselves, nor shall you set an engraved stone in your land to bow down upon it, for I am the LORD your God.
 
 **26:2** My Sabbaths you shall observe, and My sanctuary you shall revere; I am the LORD.
 
@@ -93,7 +93,7 @@
 
 **26:44** Yet even for all this, while they are in the land of their enemies, I will not reject them, nor will I loathe them so as to destroy them completely, breaking My covenant with them; for I am the LORD their God.
 
-**26:45** But for their sake I will remember the covenant of the ancestors, whom I brought out from the land of Egypt in the sight of the nations, to be God to them; I am the LORD."
+**26:45** But for their sake I will remember the covenant of the ancestors, whom I brought out from the land of Egypt in the sight of the nations, to be God to them; I am the LORD.'"
 
 **26:46** These are the statutes and the judgments and the laws that the LORD set between Himself and the sons of Israel at Mount Sinai by the hand of Moses.
 

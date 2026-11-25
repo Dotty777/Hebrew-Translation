@@ -5,7 +5,7 @@
 
 ## Text
 
-**2:1** "When a person presents an offering of grain to the LORD, fine flour shall be his offering; he shall pour oil over it and place frankincense upon it.
+**2:1** "'When a person presents an offering of grain to the LORD, fine flour shall be his offering; he shall pour oil over it and place frankincense upon it.
 
 **2:2** Then he shall bring it to the sons of Aaron, the priests, and he shall scoop out from it his full handful of its fine flour and of its oil, along with all its frankincense; and the priest shall turn its memorial portion into smoke on the altar, a fire offering of a soothing fragrance to the LORD.
 
@@ -35,7 +35,7 @@
 
 **2:15** Then you shall put oil on it and place frankincense on it; it is a grain offering.
 
-**2:16** And the priest shall turn its memorial portion into smoke, part of its crushed grain and part of its oil, along with all its frankincense, a fire offering to the LORD."
+**2:16** And the priest shall turn its memorial portion into smoke, part of its crushed grain and part of its oil, along with all its frankincense, a fire offering to the LORD.'"
 
 ## Translator Notes
 

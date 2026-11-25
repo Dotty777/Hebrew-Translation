@@ -15,9 +15,9 @@
 
 **11:5** in order to uphold the oath that I swore to your fathers, to give them a land flowing with milk and honey, as at this day.'" And I answered and said, "Amen, LORD."
 
-**11:6** And the LORD said to me, "Proclaim all these words in the cities of Judah and in the streets of Jerusalem, saying, 'Hear the words of this covenant and do them.'
+**11:6** And the LORD said to me, "Proclaim all these words in the cities of Judah and in the streets of Jerusalem, saying, 'Hear the words of this covenant and do them.
 
-**11:8** Yet they did not listen and did not incline their ear, but walked, each one in the stubbornness of their evil heart. Therefore I brought upon them all the words of this covenant, which I commanded them to do, yet they did not."
+**11:8** Yet they did not listen and did not incline their ear, but walked, each one in the stubbornness of their evil heart. Therefore I brought upon them all the words of this covenant, which I commanded them to do, yet they did not.'"
 
 **11:9** Then the LORD said to me, "A conspiracy has been found among the men of Judah and among the inhabitants of Jerusalem.
 

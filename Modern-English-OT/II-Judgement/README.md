@@ -1,7 +1,7 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Hebrew / Masoretic Text)
 
 > **Status:** `draft: true` — **Complete 13/13 books**  
-> **Coverage:** 291 chapters, 7,940 verses (+ 120 additional MT verses), 1,359 translator notes  
+> **Coverage:** 291 chapters, 7,940 verses (+ 120 additional MT verses), 1,360 translator notes  
 > **Validation:** 100% validated against `Saints-Hebrew-Critical-Text` with `validate_modern_english.py --lang heb` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (13 / 13 Complete)
@@ -20,4 +20,4 @@
 | 15 | Ezra | 10 | 280 | — | 50 | [`markdown/15-ezra/`](markdown/15-ezra/README.md) | [`15-ezra.json`](json/15-ezra.json) |
 | 16 | Nehemiah | 13 | 391 | 14 | 64 | [`markdown/16-nehemiah/`](markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](json/16-nehemiah.json) |
 | 17 | Esther | 10 | 164 | 3 | 38 | [`markdown/17-esther/`](markdown/17-esther/README.md) | [`17-esther.json`](json/17-esther.json) |
-| 20 | Job | 42 | 1,069 | 1 | 191 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |
+| 20 | Job | 42 | 1,069 | 1 | 192 | [`markdown/20-job/`](markdown/20-job/README.md) | [`20-job.json`](json/20-job.json) |

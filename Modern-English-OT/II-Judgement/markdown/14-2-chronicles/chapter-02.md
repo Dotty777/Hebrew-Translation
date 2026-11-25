@@ -19,7 +19,7 @@
 
 **2:7** Send me also cedar, cypress, and algum timber from Lebanon, for I know that your servants know how to cut the timber of Lebanon; and see, my servants will be with your servants
 
-**2:8** and to prepare timber for me in abundance, because the house that I am about to build will be great and wondrous.
+**2:8** to prepare timber for me in abundance, because the house that I am about to build will be great and wondrous.
 
 **2:9** Now look, for the woodcutters who fell the timber, I will give your servants twenty thousand kors of crushed wheat, twenty thousand kors of barley, twenty thousand baths of wine, and twenty thousand baths of oil."
 
@@ -42,6 +42,6 @@
 ## Translator Notes
 
 - **2:2** — The כַּאֲשֶׁר ("As") clause is elliptical, leaving the expected main clause ("so deal with me") unexpressed until Solomon's requests in vv. 6-7.
-- **2:8** — וְהַפְלֵא is a Hiphil infinitive absolute of פלא used adjectivally or adverbially alongside גָּדוֹל ("great and wondrous").
+- **2:8** — Hebrew וּלְהָכִין (waw + Hiphil infinitive construct, literally "and to prepare") expresses purpose continuing v. 7; וְהַפְלֵא is a Hiphil infinitive absolute of פלא used adjectivally or adverbially alongside גָּדוֹל ("great and wondrous").
 - **2:9** — MT reads חִטִּים מַכּוֹת ("crushed" or "beaten wheat," associated with the root נכה), whereas the parallel in 1 Kgs 5:11 (MT 5:25) reads מַכֹּלֶת ("food").
 - **2:12** — In לְחוּרָם אָבִי, the preposition לְ functions as a Late Biblical Hebrew direct-object marker, and אָבִי (lit. "my father") serves as an honorific title for a master craftsman (cf. 2 Chr 4:16).

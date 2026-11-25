@@ -59,7 +59,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**46:26** *(after `26:25`)* And I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterward she will be inhabited as in former days, declares the LORD.
+**46:26** *(after `26:25`)* "And I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterward she will be inhabited as in former days," declares the LORD.
 
 ## Translator Notes
 

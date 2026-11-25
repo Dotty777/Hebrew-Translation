@@ -1,6 +1,6 @@
 # Deuteronomy 32 — Saints Modern English (Hebrew / Masoretic Text)
 
-> **Status:** `draft: true` (52 verses, 5 translator notes)  
+> **Status:** `draft: true` (52 verses, 7 translator notes)  
 > **Source basis:** `Saints-Hebrew-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -115,4 +115,6 @@
 - **32:8** — The Masoretic Text reads "the sons of Israel" (בְּנֵי יִשְׂרָאֵל), whereas a Dead Sea Scroll manuscript (4QDeutj) reads "sons of God" and the Septuagint reads "angels of God."
 - **32:13** — Ketiv במותי and qere בָּמֳתֵי represent an orthographic variant in the construct plural of בָּמָה ("heights" or "high places"), with the qere omitting the vav; both carry the same meaning.
 - **32:26** — The hapax verb אַפְאֵיהֶם (Hiphil imperfect 1cs of פאה with 3mp suffix) is understood either as "cleave them in pieces" or, denominatively from פֵּאָה ("corner, edge"), as "scatter them to the corners."
+- **32:28** — Hebrew has no quotation marks; closing the quotation at v. 27 reflects the shift from first-person divine speech (vv. 20–27) to third-person reflection and first-person plural ("our Rock," v. 31), though some interpreters extend the LORD's speech through v. 29 or v. 33. The referent of "they" across vv. 28–33 (Israel vs. Israel's enemies) is likewise debated.
+- **32:34** — Hebrew introduces no new speech formula here, though the abrupt return to first-person singular pronouns ("with Me," "My storehouses," "Mine" in vv. 34–35) marks a resumption of divine speech before third-person narration returns in v. 36.
 - **32:43** — In the Masoretic Text, the Hiphil imperative הַרְנִינוּ takes עַמּוֹ ("His people") directly without a preposition ("Acclaim His people, nations"), and אַדְמָתוֹ עַמּוֹ ("His land, His people") is asyndetic; 4QDeutq and the Septuagint preserve longer texts with additional lines.

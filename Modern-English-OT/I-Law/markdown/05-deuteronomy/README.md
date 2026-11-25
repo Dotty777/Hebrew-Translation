@@ -37,6 +37,6 @@
 - [Chapter 29](chapter-29.md) — 28 verses, 5 notes
 - [Chapter 30](chapter-30.md) — 20 verses, 4 notes
 - [Chapter 31](chapter-31.md) — 30 verses, 5 notes
-- [Chapter 32](chapter-32.md) — 52 verses, 5 notes
+- [Chapter 32](chapter-32.md) — 52 verses, 7 notes
 - [Chapter 33](chapter-33.md) — 29 verses, 5 notes
 - [Chapter 34](chapter-34.md) — 12 verses, 3 notes

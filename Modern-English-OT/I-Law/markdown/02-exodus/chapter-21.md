@@ -77,7 +77,7 @@
 
 **21:36** Or if it was known that it was an ox given to goring in the past, yet its owner did not keep it under guard, he must certainly make restitution of an ox in place of the ox, and the dead animal will belong to him.
 
-**21:37** When a man steals an ox or a sheep and slaughters it or sells it, he must make restitution of five from the herd in place of the ox and four from the flock in place of the sheep.
+**21:37** When a man steals an ox or a sheep and slaughters it or sells it, he must make restitution of five from the herd in place of the ox and four from the flock in place of the sheep."
 
 ## Translator Notes
 
