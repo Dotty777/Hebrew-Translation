@@ -503,5 +503,130 @@
         "7:28"
       ]
     }
-  ]
+  ],
+  "evidence_reconciliation_v2": {
+    "source_total": 269,
+    "totals": {
+      "english_only_read": 26,
+      "eng_supports_final": 26,
+      "automated_screening_only": 209,
+      "targeted_evidence": 31,
+      "targeted_supports_final": 31,
+      "tgt_word": 25,
+      "full_source_in_context_read": 3,
+      "full_supports_final": 3,
+      "tgt_note": 18,
+      "tgt_overlap_2plus": 15,
+      "tgt_map": 10
+    },
+    "pericopes": [
+      {
+        "pericope": "Gen 31:47",
+        "book": "Genesis",
+        "source_total": 1,
+        "full_source_in_context_read": 0,
+        "full_supports_final": 0,
+        "full_historical_only": 0,
+        "targeted_evidence": 0,
+        "targeted_supports_final": 0,
+        "targeted_historical_only": 0,
+        "targeted_note_check": 0,
+        "targeted_mapping_check": 0,
+        "targeted_isolated_wording_check": 0,
+        "targeted_overlap_2plus": 0,
+        "targeted_venn": {},
+        "english_only_read": 1,
+        "automated_screening_only": 0,
+        "insufficient_evidence": 0
+      },
+      {
+        "pericope": "Ezra 4:8–6:18",
+        "book": "Ezra",
+        "source_total": 52,
+        "full_source_in_context_read": 1,
+        "full_supports_final": 1,
+        "full_historical_only": 0,
+        "targeted_evidence": 3,
+        "targeted_supports_final": 3,
+        "targeted_historical_only": 0,
+        "targeted_note_check": 0,
+        "targeted_mapping_check": 0,
+        "targeted_isolated_wording_check": 3,
+        "targeted_overlap_2plus": 0,
+        "targeted_venn": {
+          "word": 3
+        },
+        "english_only_read": 0,
+        "automated_screening_only": 48,
+        "insufficient_evidence": 0
+      },
+      {
+        "pericope": "Ezra 7:12–26",
+        "book": "Ezra",
+        "source_total": 15,
+        "full_source_in_context_read": 0,
+        "full_supports_final": 0,
+        "full_historical_only": 0,
+        "targeted_evidence": 2,
+        "targeted_supports_final": 2,
+        "targeted_historical_only": 0,
+        "targeted_note_check": 0,
+        "targeted_mapping_check": 0,
+        "targeted_isolated_wording_check": 2,
+        "targeted_overlap_2plus": 0,
+        "targeted_venn": {
+          "word": 2
+        },
+        "english_only_read": 0,
+        "automated_screening_only": 13,
+        "insufficient_evidence": 0
+      },
+      {
+        "pericope": "Jer 10:11",
+        "book": "Jeremiah",
+        "source_total": 1,
+        "full_source_in_context_read": 0,
+        "full_supports_final": 0,
+        "full_historical_only": 0,
+        "targeted_evidence": 0,
+        "targeted_supports_final": 0,
+        "targeted_historical_only": 0,
+        "targeted_note_check": 0,
+        "targeted_mapping_check": 0,
+        "targeted_isolated_wording_check": 0,
+        "targeted_overlap_2plus": 0,
+        "targeted_venn": {},
+        "english_only_read": 0,
+        "automated_screening_only": 1,
+        "insufficient_evidence": 0
+      },
+      {
+        "pericope": "Dan 2:4–7:28",
+        "book": "Daniel",
+        "source_total": 200,
+        "full_source_in_context_read": 2,
+        "full_supports_final": 2,
+        "full_historical_only": 0,
+        "targeted_evidence": 26,
+        "targeted_supports_final": 26,
+        "targeted_historical_only": 0,
+        "targeted_note_check": 18,
+        "targeted_mapping_check": 10,
+        "targeted_isolated_wording_check": 20,
+        "targeted_overlap_2plus": 15,
+        "targeted_venn": {
+          "word": 6,
+          "note": 5,
+          "note+word": 5,
+          "note+map+word": 7,
+          "note+map": 1,
+          "map+word": 2
+        },
+        "english_only_read": 25,
+        "automated_screening_only": 147,
+        "insufficient_evidence": 0
+      }
+    ]
+  },
+  "updated_on": "2026-11-25T11:32:53Z"
 }

@@ -1,27 +1,19 @@
-# Follow-Up Audit — Exact Biblical Aramaic Recount & Subtotals Correction
+# Follow-Up Audit — Exact Biblical Aramaic Subtotals & 5-Tier Evidence Separation (`269` MT Verses)
 
-- **Source Authority:** `Saints-Hebrew-Critical-Text` (Studio v10 Stage 1 `a0d022c1`, MAM Aleppo + WLC Leningrad), cross-checked against `Saints-Critical-Text-Studio/data/studio.db` (`stream_tokens` `lang='arc'`, read-only).
-- **Correction Applied:** Fixed the sole erroneous `67` / `185` subtotal entry in `reviews/2026-11-24-literal-smooth/pass1_summary.md` (line 114) with an explicit erratum. Exhaustive repository grep confirmed **0** other erroneous `67`/`185` Aramaic subtotals in `Hebrew-Translation` (`AUDIT.md:104` and `ezra/README.md:8` validly count `67` combined Ezra `[Aramaic]` legacy tags = `52 + 15`; `AUDIT.md` `185` refers to legacy archive gaps).
+- **Pinned Hebrew/Aramaic Source:** `Saints-Hebrew-Critical-Text` Studio v10 Stage 1 (`a0d022c1`, MAM Aleppo + WLC Leningrad)
+- **Pinned Text / Mapping Commit SHA:** `f5014e214d27c15adc094bcddecda40a721c9b29` (0 Bible text/note/mapping edits in evidence reconciliation)
+- **Exact Canonical MT Aramaic Source Inventory:** **`269` verses** across 5 pericopes (`52 + 200 + 15 + 1 + 1 = 269`; earlier `67` / `185` error in `pass1_summary.md:L114` corrected with `0` remaining occurrences).
+- **Read-Only `studio.db` `arc` Tag Observation:** OSHB tags proper name `נְבוּכַדְנֶצַּ֥ר` in `Ezra 2:1` as `arc` (`270` verses with `arc` tokens vs. `269` canonical Aramaic pericope verses).
 
-## 1. Exact Verified Pericope Counts (Source Inventory vs. Documented Contextual Review)
+## Exact Pericope Inventory vs. Strict 5-Tier Evidence Breakdown
 
-| Pericope | Book | Exact Source Count | Chapter Breakdown | Notes | `documented_contextual_read` | `automated_screening_only` |
-|---|---|---:|---|---|---:|---:|
-| `Gen 31:47` | Genesis | **1** | ch. 31: 1 | mixed_hebrew_aramaic_two_words | **0** | 1 |
-| `Ezra 4:8-6:18` | Ezra | **52** | ch. 4: 17, ch. 5: 17, ch. 6: 18 | aramaic | **4** | 48 |
-| `Ezra 7:12-26` | Ezra | **15** | ch. 7: 15 | aramaic | **2** | 13 |
-| `Jer 10:11` | Jeremiah | **1** | ch. 10: 1 | aramaic | **0** | 1 |
-| `Dan 2:4-7:28` | Daniel | **200** | ch. 2: 46, ch. 3: 33, ch. 4: 34, ch. 5: 30, ch. 6: 29, ch. 7: 28 | mixed_at_2_4b_then_aramaic | **27** | 173 |
-| **TOTAL (5 Pericopes)** | — | **269** | `52 + 15 = 67` Ezra; `200` Dan; `1` Gen; `1` Jer | 267 wholly Aramaic + 2 mixed (`Gen 31:47`, `Dan 2:4b`) | **33** | **236** |
+| Pericope | Book | Native MT Range | `source_total` | Composition | `full_src_ctx` *(fin/hist)* | `targeted` *(fin/hist)* | `tgt_note` | `tgt_map` | `tgt_word` | `tgt_ov2+` | `eng_only` | `auto_only` | `insuff_ev` |
+|---|---|---|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| `Gen 31:47` | Genesis | `31:47` | **1** | Mixed (2 Aramaic words) | 0 (0/0) | 0 (0/0) | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+| `Ezra 4:8–6:18` | Ezra | `4:8–6:18` | **52** | Aramaic | 1 (1/0) | 3 (3/0) | 0 | 0 | 3 | 0 | 0 | 48 | 0 |
+| `Ezra 7:12–26` | Ezra | `7:12–26` | **15** | Aramaic | 0 (0/0) | 2 (2/0) | 0 | 0 | 2 | 0 | 0 | 13 | 0 |
+| `Jer 10:11` | Jeremiah | `10:11` | **1** | Aramaic | 0 (0/0) | 0 (0/0) | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| `Dan 2:4–7:28` | Daniel | `2:4–7:28` | **200** | Mixed at 2:4b, then Aramaic | 2 (2/0) | 26 (26/0) | 18 | 10 | 20 | 15 | 25 | 147 | 0 |
+| **TOTAL (5 Pericopes)** | — | `267` wholly + `2` mixed | **269** | `52+15=67` Ezra; `200` Dan; `1` Gen; `1` Jer | **3** (3/0) | **31** (31/0) | **18** | **10** | **25** | **15** | **26** | **209** | **0** |
 
-## 2. Source Inventory (`269`) vs. Documented Contextual Review (`33`)
-
-- **Source inventory total:** **269** MT verses across 5 pericopes (`1 + 52 + 15 + 1 + 200 = 269`).
-- **Individually documented contextual reads (from `followup_contextual_review_ledger.json`):** **33** / 269 (**12.27%**); remaining **236** verses are classified as `automated_screening_only` (`insufficient_evidence = 0`).
-- **Individually documented Aramaic verses (33):** `Ezra 5:4`, `Ezra 6:4`, `Ezra 6:6`, `Ezra 6:18`, `Ezra 7:21`, `Ezra 7:25`, `Daniel 2:23`, `Daniel 2:24`, `Daniel 2:25`, `Daniel 2:41`, `Daniel 2:43`, `Daniel 3:24`, `Daniel 3:25`, `Daniel 3:31`, `Daniel 3:32`, `Daniel 3:33`, `Daniel 4:1`, `Daniel 4:4`, `Daniel 4:5`, `Daniel 4:32`, `Daniel 4:34`, `Daniel 5:7`, `Daniel 5:14`, `Daniel 5:17`, `Daniel 5:21`, `Daniel 5:25`, `Daniel 6:7`, `Daniel 6:16`, `Daniel 6:19`, `Daniel 6:25`, `Daniel 7:13`, `Daniel 7:14`, `Daniel 7:27`
-
-## 3. Read-Only Cross-Check Against `studio.db` (`stream_tokens` `lang='arc'`)
-
-- `studio.db` contains **4,827** `lang='arc'` tokens across **266** `versification_anchors`, expanding to **270** MT verses: all **269** canonical Biblical Aramaic verses (`Gen 31:47` has 2/9 `arc` tokens; `Dan 2:4` has 8/12 `arc` tokens switching at `2:4b`) **plus 1 read-only lexical-tagging anomaly**:
-  - `Ezra 2:1` (Hebrew verse): proper name `נְבוּכַדְנֶצַּ֥ר` (`arc=1/17`) is tagged `arc` in `studio.db` `lexical_stems` (NOT an Aramaic verse).
-  - Conversely, `Ezra 5:1` (`15/16 arc`) and `Ezra 6:14` (`21/22 arc`) tag proper name `עִדּוֹא` as `heb` in `studio.db`.
+> **Reclassification Note:** Previously, all `33` source-checked Aramaic verses were grouped together as `documented_source_in_context_read`. Under the strict 5-tier standard, **`3`** (`1.12%`, all from Pass 3.5 blind AI peer review with explicit surrounding context packets — `1` in Ezra `4:8–6:18` and `2` in Daniel `2:4–7:28`, all `3/3` final-revision supported) are `full_source_in_context_read`, **`31`** (`11.52%`, including follow-up note/mapping fixes on `Dan 3:25, 4:16, 6:16`) are `targeted_evidence` (`18` note, `10` mapping, `25` isolated wording, `15` multi-subtype overlap), **`26`** (`9.67%`: `Gen 31:47` from Pass 3 `Gen 31` + `25` in `Dan 7`) are `english_only_read`, and **`209`** (`77.70%`) remain `automated_screening_only`. Pass 1's unlogged 269-verse claim remains strictly unassigned (`UAC-HEB-02`).

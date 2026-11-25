@@ -1,113 +1,146 @@
-# Follow-Up Audit — Revision-Pinned Hebrew/Aramaic Contextual-Review & Post-Edit Reread Ledger
+# Reconciled Revision-Pinned Hebrew & Biblical Aramaic (MT OT) Evidence & Contextual-Review Ledger (v2.0 — Strict 5-Tier Taxonomy)
 
-- **Edition:** Hebrew & Biblical Aramaic (`Hebrew-Translation/Modern-English-OT/`)
-- **Pinned Source Critical Text:** `Saints-Hebrew-Critical-Text` Studio v10 Stage 1 (`a0d022c1`, MAM Aleppo + WLC Leningrad)
-- **Pinned English Verse-Text Revision:** `e2f4b6343783ee497a07d3ddd29b65778b7809b8` (follow-up commit makes note-attachment/README fixes only; **0** verse-text changes)
-- **Machine-Readable Ledger:** `followup_contextual_review_ledger.json` and `scratch/followup/hebrew_contextual_ledger.jsonl` (**1,502** deduplicated pass-read events across **1,125** unique MT verses)
+- **Date:** 2026-11-25 (Evidence & Reporting Reconciliation; **0** Bible verse-text, note, mapping, or Studio changes)
+- **Adopted Source Corpus:** Saints-Hebrew-Critical-Text (Studio v10 Stage 1 `a0d022c1`, MAM Aleppo + WLC Leningrad, 39 books / 929 ch / 23,213 native MT vv)
+- **Pinned Text / Mapping Commit SHA:** `f5014e214d27c15adc094bcddecda40a721c9b29`
+- **Revision Chain Audited:** `71ea4f44` → `206d2445` → `57f6d108` → `915915e6` → `b3e0f2ea` → `00ff8636` → `6fe3807e` → `c659f8e6` → `c5376e6b` → `e2f4b634` → `f5014e21` (0 Bible text/note/mapping changes in evidence reconciliation)
+- **Studio DB Snapshot:** `data/studio.db` (`seed_version = 10`, SHA-256 `23f39dbdcbc4599b1ed783bfce8a0b6268610e5dde6c200e114057798e64761d`)
+- **Machine-Readable Ledgers:** `followup_contextual_review_ledger.json` & `scratch/followup/hebrew_contextual_ledger.jsonl` (`2,559` deduplicated citations retained after removing `0` exact duplicates)
 
-## 1. Strict Honesty Policy & Evidence vs. Editorial Status
+## 1. Strict 5-Tier Evidence Totals (Each Native Reference Counted Once at Strongest Level)
 
-Evidence categories (`documented_contextual_read`, `automated_screening_only`, `insufficient_evidence`) are kept **strictly separate** from editorial disposition statuses (`verified`, `disputed`, `awaiting_human_signoff`). Unattributed aggregate claims (including the unlogged `corr24` 23,167 claim and Pass 1's unlogged 269-verse Aramaic claim), batch `edition-wide` standardization replacements (`412` rows), wide speech-frame boundary scans, and standalone English-only Pass 3 reads (`@heb-flow`) are **excluded** from `documented_contextual_read` and reported explicitly below.
+> **Standard Applied Uniformly Across All Three Editions:** A passage is credited as `full_source_in_context_read` **only** where surviving evidence proves the reviewer compared its English against the adopted source in the surrounding paragraph, speech, or literary unit. Note checks, mapping checks, and isolated wording checks are classified under `targeted_evidence` (with explicit subtype counts and overlap). Batch scans, zero-change book claims, and unexpanded multi-verse issue-title ranges are strictly excluded. An earlier read supports the final revision **only** after programmatically confirming that the reviewed source text, English text, and relevant surrounding context (`±2` native verses / exact Pass 3.5 blind packet context) match final `HEAD` byte-for-byte.
 
-| Scope | Source Total | `documented_contextual_read` | `automated_screening_only` | `insufficient_evidence` | Documented % |
+| Strongest Documented Evidence Level | Distinct Native Verses | Share | Supports Final Revision (`true`) | Historical Only (`false`) | Strict Whole-Chapter Final Match |
 |---|---:|---:|---:|---:|---:|
-| **Full MT Corpus (39 books / 929 chs)** | **23,213** | **1,125** | **22,088** | **0** | **4.85%** |
-| **Biblical Aramaic (5 pericopes)** | **269** | **33** | **236** | **0** | **12.27%** |
+| **`full_source_in_context_read`** | **40** | **0.17%** | **37** | **3** | 36 |
+| **`targeted_evidence`** *(note / mapping / isolated wording)* | **1,085** | **4.67%** | **1,053** | **32** | — |
+| **`english_only_read`** *(Pass 3 standalone English)* | **949** | **4.09%** | **945** | **4** | — |
+| **`automated_screening_only`** | **21,139** | **91.07%** | 21,139 | 0 | — |
+| **`insufficient_evidence`** | **0** | **0.00%** | 0 | 0 | — |
+| **TOTAL (`source_total` — exact partition)** | **23,213** | **100.00%** | — | — | — |
 
-**Editorial Disposition Status at `e2f4b634` (strictly separate from evidence categories):** `22,971` `verified`, `242` `disputed` (`44` items in `pass2_human_editor_queue.jsonl` awaiting human editor sign-off), `0` `unverified`.
+*Separate Editorial Status (NEVER merged with evidence depth): `verified` = **22,971**, `disputed` / `awaiting_human_signoff` = **242**, `unverified` = **0** (`22,971 + 242 = 23,213`).*
 
-### Ledger Contributions by Source-Checked Pass
+### Targeted Evidence Breakdown & Subtype Overlap
 
-| Pass | Reviewer | English Revision | Deduplicated Read Events | Unique MT Verses |
-|---|---|---|---:|---:|
-| `pre-stage2-corr24-verse-review` | `claude-2026-11-24-fidelity-review` | `71ea4f44` | 837 | 837 |
-| `stage2-pass1` | `heb-fidelity` | `206d2445` | 197 | 197 |
-| `stage2-pass2` | `heb-peer` | `57f6d108` | 171 | 171 |
-| `stage2-pass3b-bounceback` | `heb-peer` | `b3e0f2ea` | 106 | 106 |
-| `stage2-pass35-blind-ai-peer-review` | `heb-ai-peer` | `00ff8636` | 40 | 40 |
-| `stage2-pass35-response` | `heb-peer` | `6fe3807e` | 38 | 38 |
-| `stage2-pass4-reconciliation` | `reconciler` | `c659f8e6` | 103 | 103 |
-| `stage2-pass4-bounceback` | `heb-peer` | `c5376e6b` | 10 | 10 |
-| **Combined Deduplicated Total** | — | — | **1,502** | **1,125** |
+| Disjoint Targeted-Tier Subset | Distinct Native Verses | Share of Targeted Tier |
+|---|---:|---:|
+| `note_check` only | 179 | 16.50% |
+| `mapping_check` only | 10 | 0.92% |
+| `isolated_wording_check` only | 618 | 56.96% |
+| `note_check` + `mapping_check` | 87 | 8.02% |
+| `note_check` + `isolated_wording_check` | 115 | 10.60% |
+| `mapping_check` + `isolated_wording_check` | 41 | 3.78% |
+| `note_check` + `mapping_check` + `isolated_wording_check` | 35 | 3.23% |
+| **TOTAL (`targeted_evidence` strongest tier)** | **1,085** | **100.00%** |
 
-## 2. Biblical Aramaic 3-Way Evidence Breakdown (269 Verses)
+- **Targeted-tier check totals (non-disjoint across subtypes):** `note_check = 416`, `mapping_check = 173`, `isolated_wording_check = 809`, **multi-subtype overlap (`2+` subtypes) = `278`** (of which `note ∩ map = 122`).
+- **Gross corpus-wide checks (including overlaps on `full_source_in_context_read` passages):** `note_check = 421` (`5` also in full), `mapping_check = 176` (`3` also in full), `isolated_wording_check = 814` (`5` also in full), `english_only_read = 1,019` (`4` also in full, `66` also in targeted).
 
-| Pericope | Book | Source Total | `documented_contextual_read` | `automated_screening_only` | `insufficient_evidence` |
-|---|---|---:|---:|---:|---:|
-| `Gen 31:47` | Genesis | 1 | 0 | 1 | 0 |
-| `Ezra 4:8-6:18` | Ezra | 52 | 4 | 48 | 0 |
-| `Ezra 7:12-26` | Ezra | 15 | 2 | 13 | 0 |
-| `Jer 10:11` | Jeremiah | 1 | 0 | 1 | 0 |
-| `Dan 2:4-7:28` | Daniel | 200 | 27 | 173 | 0 |
-| **Total (5 Pericopes)** | — | **269** | **33** | **236** | **0** |
+## 2. Biblical Aramaic 5-Tier Evidence Breakdown (`269` Native MT Verses)
 
-## 3. Unattributed Aggregate Claims & Non-Source-Checked / Batch Records
+| Pericope | Book | `source_total` | `full_src_ctx` *(fin/hist)* | `targeted` *(fin/hist)* | `tgt_note` | `tgt_map` | `tgt_word` | `tgt_ov2+` | `eng_only` | `auto_only` | `insuff_ev` |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| `Gen 31:47` | Genesis | 1 | 0 (0/0) | 0 (0/0) | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+| `Ezra 4:8–6:18` | Ezra | 52 | 1 (1/0) | 3 (3/0) | 0 | 0 | 3 | 0 | 0 | 48 | 0 |
+| `Ezra 7:12–26` | Ezra | 15 | 0 (0/0) | 2 (2/0) | 0 | 0 | 2 | 0 | 0 | 13 | 0 |
+| `Jer 10:11` | Jeremiah | 1 | 0 (0/0) | 0 (0/0) | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| `Dan 2:4–7:28` | Daniel | 200 | 2 (2/0) | 26 (26/0) | 18 | 10 | 20 | 15 | 25 | 147 | 0 |
+| **TOTAL (5 Pericopes)** | — | **269** | **3** (3/0) | **31** (31/0) | **18** | **10** | **25** | **15** | **26** | **209** | **0** |
 
-### A. Unattributed Aggregate Claims (NOT assigned to individual verses)
+## 3. Reclassification Audit (Previous Follow-Up Ledger → Strict 5-Tier Ledger)
 
-- **`UAC-HEB-01`** (`corrections/2026-11-24-modern-english-fidelity/README.md:L4,L23`): claimed **23,167** (All 23,167 English verse units (52 parallel reviewers covering ~450 verses each against MT Hebrew/Aramaic)). Only changed verses (581 verse-review rows + 88 structural rows) and named open items were logged individually; unchanged verses have no per-verse read receipt or reviewer sign-off log. *Disposition:* Individual unlogged verses remain classified as automated_screening_only.
-- **`UAC-HEB-02`** (`reviews/2026-11-24-literal-smooth/pass1_summary.md:L113-L114; pass1_coverage.json:L63`): claimed **269** (All 5 Biblical Aramaic pericopes (269 verses — '100% Line-by-Line Read')). Original Pass 1 summary mis-stated pericope subtotals (Ezra 4:8-6:18 as 67 instead of 52; Dan 2:4-7:28 as 185 instead of 200) and recorded no verse-by-verse contextual read log for unmentioned Aramaic verses. *Disposition:* Only the 33 Aramaic verses with individually documented source-checked records are classified as documented_contextual_read; the remaining 236 remain automated_screening_only.
-- **`UAC-HEB-03`** (`reviews/2026-11-24-literal-smooth/pass1_summary.md:L102`): claimed **118** (Low-alignment outliers (83 vv) & length-ratio outliers (35 vv) — 'All 118 manually read against MT Hebrew'). Individual verse references for the 118 outlier verses were not saved to a file. *Disposition:* Unlogged outlier verses remain automated_screening_only.
-- **`UAC-HEB-04`** (`reviews/2026-11-24-literal-smooth/pass1_summary.md:L106-L109,L122`): claimed **1,417** (24 yam-suf occurrences, 8 Judges 10-11 occurrences, 932 Ketiv/Qere verses, 12 Qere-wela-Ketiv verses, 131 Psalm/Habakkuk superscriptions, 310 ancient-version notes). Reported as aggregate pattern/sweep totals; only individually named verses (e.g., 2 Sam 18:20, Ruth 3:17, Ps 16:1/45:1/60:1/74:1/78:1/69:1/80:1) have per-verse records. *Disposition:* Only explicitly named verses enter documented_contextual_read; aggregate sweep totals remain automated_screening_only.
-- **`UAC-HEB-05`** (`reviews/2026-11-24-literal-smooth/pass1_coverage.json; pass2_coverage.json`): claimed **22,971** (Editorial coverage totals: Pass 1 verified=22,906; Pass 2 verified=23,008 -> 22,972 -> 22,971 (disputed=242, unverified=0)). Editorial disposition status ('verified' vs 'disputed') combined automated screening and targeted contextual review; it is NOT an individually logged verse-by-verse contextual read ledger. *Disposition:* Kept strictly separate under editorial_status_at_e2f4b634; evidence classification uses only individually documented reads.
-- **`UAC-HEB-06`** (`reviews/2026-11-24-literal-smooth/pass3_bounceback_verdicts.jsonl (P3B-003, P3B-008, P3B-009, P3B-011, P3B-012, P3B-013)`): claimed **569** (Multi-chapter speech-frame quotation verification across Exod 21:1-23:33, Exod 25:1-30:10, Lev 1-3/4-5/6:17-7:21/25-26, Num 28:1-29:39, Job 28 & 30-31). Verified speaker-formula and inner-quotation boundaries across those chapters rather than verse-by-verse translation fidelity of every interior verse. *Disposition:* Only the specific boundary, inner-quote, and edited verses explicitly cited in source_verification / applied_changes are entered in documented_contextual_read.
-- **`UAC-HEB-07`** (`scratch/reconciliation/pass4_summary.md`): claimed **33,776** (Cross-edition programmatic comparison across 33,776 1:1 slots, 41 OT cardinal number mismatches, and 46 OT polarity checks). Programmatic cross-edition triage; only the 99 Hebrew-bearing rows individually logged in pass4_reconciliation.jsonl (plus 8 Pass 4 bounce-backs) have documented contextual verification. *Disposition:* Only verses individually logged in pass4_reconciliation.jsonl and pass4_bounceback_verdicts.jsonl enter documented_contextual_read.
+| Previous Ledger Class → Reconciled 5-Tier Class | Distinct Native Verses | Explanation |
+|---|---:|---|
+| `old_auto_only -> automated_screening_only` | 21,095 | Unchanged automated screening only |
+| `old_auto_only -> targeted_evidence` | 53 | Newly captured from follow-up verified mapping/note audit or net-new Greek NT bracketed audit |
+| `old_doc_src_ctx -> automated_screening_only` | 44 | Pruned batch scan reconstruction, zero-change prose claim, or unexpanded issue-title range |
+| `old_doc_src_ctx -> english_only_read` | 10 | Pruned unverified source-check claim; retains documented Pass 3 standalone English-only read |
+| `old_doc_src_ctx -> full_source_in_context_read` | 40 | Confirmed genuine full source-in-context read (Pass 3.5 blind review or recovered Greek helper range) |
+| `old_doc_src_ctx -> targeted_evidence` | 1,031 | Reclassified from undifferentiated prior bucket into targeted note / mapping / isolated wording check |
+| `old_p3_eng_only -> english_only_read` | 939 | Retained as Pass 3 standalone English-only read |
+| `old_p3_eng_only -> targeted_evidence` | 1 | Upgraded via follow-up verified note/mapping audit |
 
-### B. Batch & Standalone English-Only Records (Excluded from source-checked `documented_contextual_read`)
+### Pruned Batch Scans, Zero-Change Prose Claims & Issue-Title Ranges
 
-- **`corr24` `edition-wide` standardization passes:** `412` rows across `380` unique MT verses (`345` not already in `documented_contextual_read`).
-- **Stage 2 Pass 3 standalone English review (`@heb-flow` @ `915915e6`):** `11` Bucket A surface edits, `14` Bucket B bounce-backs, and `32` named standalone chapters (`1,010` MT verses) — zero Hebrew/Aramaic inspection.
+- `corr24_readme_open_item_range_scope`: **56** rows removed from per-verse credit
+- `pass35_heb_1kgs7_masger_batch_range`: **9** rows removed from per-verse credit
+- `stage2-pass1_HEB-HQ-027_issue_title_range`: **9** rows removed from per-verse credit
+- `stage2-pass1_HEB-HQ-028_issue_title_range`: **13** rows removed from per-verse credit
+- `stage2-pass1_HEB-HQ-034_issue_title_range`: **4** rows removed from per-verse credit
+- `stage2-pass2_HEB-HQ-027_issue_title_range`: **9** rows removed from per-verse credit
+- `stage2-pass2_HEB-HQ-028_issue_title_range`: **13** rows removed from per-verse credit
+- `stage2-pass2_HEB-HQ-034_issue_title_range`: **4** rows removed from per-verse credit
 
-## 4. Post-Edit Reread Audit (`71ea4f44` / `206d2445` → `e2f4b634` + Follow-Up Note Fixes)
+## 4. Unique Native Verses by Pass & Evidence Class
 
-- **Total MT verses with verse-text change (`71ea4f44..HEAD`):** **165** (0 verse-text changes in `c5376e6b`, `e2f4b634`, or follow-up commit)
-  - **`text_reread_on_final_revision = true`:** **19** (independently contextually reread AFTER their final text edit commit; verse text at reread SHA is byte-identical to `e2f4b634`/HEAD)
-  - **`text_reread_on_final_revision = false`:** **146** (not independently reread against Hebrew/Aramaic after their final text edit commit — breakdown by last text-edit SHA: `{'b3e0f2ea': 53, '6fe3807e': 4, '57f6d108': 78, '915915e6': 11}`)
-  - *Note:* All **11** Pass 3 Bucket A verses (`915915e6`), all **4** Pass 3.5 expansion verses (`Exod 36:34, 39:33, 39:39, 40:11` in `6fe3807e`), and un-sampled Pass 2 (`57f6d108`) / Pass 3B (`b3e0f2ea`) verses have `text_reread_on_final_revision: false` until independently reread on final text.
-- **Total MT verses with ANY text or note change (incl. follow-up note-attachment fixes):** **281** (incl. **75** follow-up note-attachment updates pending `@followup-verifier` verification)
-  - **`reread_on_final_revision = true` (strict final state incl. notes):** **37** | **`false`:** **244**
+| Pass | Evidence Class | Unique Native Verses |
+|---|---|---:|
+| `followup_mapping_audit` | `targeted_evidence` | 74 |
+| `followup_note_audit` | `targeted_evidence` | 75 |
+| `pre-stage2-corr24-verse-review` | `targeted_evidence` | 781 |
+| `stage2-pass1` | `targeted_evidence` | 171 |
+| `stage2-pass2` | `targeted_evidence` | 145 |
+| `stage2-pass3-standalone-flow` | `english_only_read` | 1,019 |
+| `stage2-pass35-response` | `targeted_evidence` | 29 |
+| `stage2-pass3b-bounceback` | `targeted_evidence` | 106 |
+| `stage2-pass4-bounceback` | `targeted_evidence` | 10 |
+| `stage2-pass4-reconciliation` | `targeted_evidence` | 103 |
+| `stage2_pass35_blind_ai_peer_review` | `full_source_in_context_read` | 40 |
 
-## 5. Per-Book 3-Way Evidence Coverage (All 39 MT Books)
+## 5. Unassigned Aggregate Claims & Batch Scans (`0` Verses Assigned)
 
-| # | Book | Source Total | `documented_contextual_read` | `automated_screening_only` | `insufficient_evidence` | Doc % | Editorial `verified` / `disputed` |
-|---:|---|---:|---:|---:|---:|---:|---|
-| 1 | Genesis | 1,533 | 45 | 1,488 | 0 | 2.94% | 1,530 / 3 |
-| 2 | Exodus | 1,213 | 117 | 1,096 | 0 | 9.65% | 1,173 / 40 |
-| 3 | Leviticus | 859 | 56 | 803 | 0 | 6.52% | 855 / 4 |
-| 4 | Numbers | 1,289 | 54 | 1,235 | 0 | 4.19% | 1,281 / 8 |
-| 5 | Deuteronomy | 959 | 51 | 908 | 0 | 5.32% | 947 / 12 |
-| 6 | Joshua | 658 | 36 | 622 | 0 | 5.47% | 655 / 3 |
-| 7 | Judges | 618 | 24 | 594 | 0 | 3.88% | 618 / 0 |
-| 8 | Ruth | 85 | 3 | 82 | 0 | 3.53% | 85 / 0 |
-| 9 | 1 Samuel | 811 | 14 | 797 | 0 | 1.73% | 810 / 1 |
-| 10 | 2 Samuel | 695 | 18 | 677 | 0 | 2.59% | 695 / 0 |
-| 11 | 1 Kings | 817 | 95 | 722 | 0 | 11.63% | 817 / 0 |
-| 12 | 2 Kings | 719 | 17 | 702 | 0 | 2.36% | 719 / 0 |
-| 13 | 1 Chronicles | 943 | 16 | 927 | 0 | 1.70% | 942 / 1 |
-| 14 | 2 Chronicles | 822 | 27 | 795 | 0 | 3.28% | 822 / 0 |
-| 15 | Ezra | 280 | 8 | 272 | 0 | 2.86% | 280 / 0 |
-| 16 | Nehemiah | 405 | 15 | 390 | 0 | 3.70% | 405 / 0 |
-| 17 | Esther | 167 | 11 | 156 | 0 | 6.59% | 165 / 2 |
-| 20 | Job | 1,070 | 36 | 1,034 | 0 | 3.36% | 1,040 / 30 |
-| 21 | Psalms | 2,527 | 78 | 2,449 | 0 | 3.09% | 2,516 / 11 |
-| 22 | Proverbs | 915 | 33 | 882 | 0 | 3.61% | 910 / 5 |
-| 23 | Ecclesiastes | 222 | 21 | 201 | 0 | 9.46% | 221 / 1 |
-| 24 | Song of Songs | 117 | 7 | 110 | 0 | 5.98% | 116 / 1 |
-| 25 | Lamentations | 154 | 6 | 148 | 0 | 3.90% | 154 / 0 |
-| 28 | Isaiah | 1,291 | 97 | 1,194 | 0 | 7.51% | 1,257 / 34 |
-| 29 | Jeremiah | 1,364 | 70 | 1,294 | 0 | 5.13% | 1,331 / 33 |
-| 30 | Ezekiel | 1,273 | 56 | 1,217 | 0 | 4.40% | 1,256 / 17 |
-| 31 | Daniel | 357 | 38 | 319 | 0 | 10.64% | 337 / 20 |
-| 32 | Hosea | 197 | 9 | 188 | 0 | 4.57% | 197 / 0 |
-| 33 | Joel | 73 | 2 | 71 | 0 | 2.74% | 73 / 0 |
-| 34 | Amos | 146 | 3 | 143 | 0 | 2.05% | 146 / 0 |
-| 35 | Obadiah | 21 | 0 | 21 | 0 | 0.00% | 21 / 0 |
-| 36 | Jonah | 48 | 2 | 46 | 0 | 4.17% | 48 / 0 |
-| 37 | Micah | 105 | 10 | 95 | 0 | 9.52% | 99 / 6 |
-| 38 | Nahum | 47 | 2 | 45 | 0 | 4.26% | 47 / 0 |
-| 39 | Habakkuk | 56 | 4 | 52 | 0 | 7.14% | 56 / 0 |
-| 40 | Zephaniah | 53 | 2 | 51 | 0 | 3.77% | 52 / 1 |
-| 41 | Haggai | 38 | 1 | 37 | 0 | 2.63% | 38 / 0 |
-| 42 | Zechariah | 211 | 12 | 199 | 0 | 5.69% | 206 / 5 |
-| 43 | Malachi | 55 | 29 | 26 | 0 | 52.73% | 51 / 4 |
-| — | **TOTAL (39 MT Books)** | **23,213** | **1,125** | **22,088** | **0** | **4.85%** | **22,971 / 242** |
+- **`UAC-HEB-01`** (`corrections/2026-11-24-modern-english-fidelity/README.md`, claimed `23,167`): No per-verse reading log for unchanged verses; plus 412 edition-wide consistency/note batch rows (380 unique MT verses) strictly excluded.
+- **`UAC-HEB-02`** (`reviews/2026-11-24-literal-smooth/pass1_summary.md:L113-L115`, claimed `269`): Unlogged aggregate claim of 100% line-by-line Aramaic read (subtotals corrected to 52+15+200+1+1=269); only individually evidenced Aramaic verses receive credit.
+- **`UAC-HEB-03`** (`reviews/2026-11-24-literal-smooth/pass1_summary.md:L102`, claimed `118`): 83 alignment + 35 length outliers without saved per-verse log.
+- **`UAC-HEB-04`** (`reviews/2026-11-24-literal-smooth/pass1_summary.md:L106-L109,L122`, claimed `1,417`): Aggregate pattern sweeps (yam-suf, Judges 10-11, 932 Ketiv/Qere, 12 QwK, 131 superscriptions, 310 version notes) without per-verse read logs.
+- **`UAC-HEB-05`** (`pass1_coverage.json & pass2_coverage.json`, claimed `22,971`): Editorial disposition totals kept strictly separate from reading evidence.
+- **`UAC-HEB-06`** (`pass3_bounceback_verdicts.jsonl (P3B-003,008,009,011,012,013)`, claimed `569`): Multi-chapter quotation-frame boundary checks; only explicitly cited/edited boundary and inner-quote verses receive targeted_evidence credit.
+- **`UAC-HEB-07`** (`scratch/reconciliation/pass4_summary.md & pass35_ai_peer_review_response.jsonl`, claimed `33,776`): Programmatic cross-edition triage and Pass 3.5 batch lexical scans (21 masger* incl. unenumerated 1 Kgs 7:28-36, 18 Exodus terms); only individually verified/cited verses receive targeted_evidence credit.
+- **`UAC-HEB-08`** (`corr24 README.md Open Items & pass1/2_human_editor_queue.jsonl`, claimed `95`): Unexpanded issue-title / open-item ranges (Isa 11:1-10, 42:1-4, 49:1-7, 50:4-10, 52:13-53:12, Mic 5:1-5, Exod 23:20-23, Deut 32:28-34, Num 26:15-47, Ezek 7:3-10); only specific individually cited/anchored verses receive targeted_evidence credit.
+
+## 6. Complete Per-Book 5-Tier Evidence Breakdown (39 Books, Summing to `23,213`)
+
+| # | Book | Ch | `source_total` | `full_src_ctx` *(fin / hist)* | `targeted` *(fin / hist)* | `tgt_note` | `tgt_map` | `tgt_word` | `tgt_ov2+` | `eng_only` | `auto_only` | `insuff_ev` | Ed. `verified` / `disputed` *(sep.)* |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | Genesis | 50 | 1,533 | 1 (1/0) | 44 (44/0) | 19 | 5 | 32 | 9 | 100 | 1,388 | 0 | 1,530 / 3 |
+| 2 | Exodus | 40 | 1,213 | 3 (2/1) | 114 (113/1) | 30 | 30 | 89 | 31 | 61 | 1,035 | 0 | 1,173 / 40 |
+| 3 | Leviticus | 27 | 859 | 2 (2/0) | 54 (54/0) | 9 | 2 | 48 | 4 | 37 | 766 | 0 | 855 / 4 |
+| 4 | Numbers | 36 | 1,289 | 2 (2/0) | 52 (51/1) | 19 | 13 | 38 | 16 | 41 | 1,194 | 0 | 1,281 / 8 |
+| 5 | Deuteronomy | 34 | 959 | 1 (1/0) | 50 (50/0) | 19 | 4 | 40 | 13 | 66 | 842 | 0 | 947 / 12 |
+| 6 | Joshua | 24 | 658 | 0 (0/0) | 36 (36/0) | 11 | 11 | 32 | 16 | 32 | 590 | 0 | 655 / 3 |
+| 7 | Judges | 21 | 618 | 2 (2/0) | 22 (22/0) | 2 | 0 | 22 | 2 | 30 | 564 | 0 | 618 / 0 |
+| 8 | Ruth | 4 | 85 | 0 (0/0) | 3 (3/0) | 1 | 0 | 2 | 0 | 22 | 60 | 0 | 85 / 0 |
+| 9 | 1 Samuel | 31 | 811 | 0 (0/0) | 14 (13/1) | 7 | 0 | 9 | 2 | 56 | 741 | 0 | 810 / 1 |
+| 10 | 2 Samuel | 24 | 695 | 2 (2/0) | 16 (16/0) | 2 | 0 | 14 | 0 | 31 | 646 | 0 | 695 / 0 |
+| 11 | 1 Kings | 22 | 817 | 2 (2/0) | 87 (64/23) | 48 | 64 | 52 | 64 | 46 | 682 | 0 | 817 / 0 |
+| 12 | 2 Kings | 25 | 719 | 1 (1/0) | 17 (17/0) | 3 | 1 | 13 | 0 | 0 | 701 | 0 | 719 / 0 |
+| 13 | 1 Chronicles | 29 | 943 | 1 (1/0) | 15 (15/0) | 5 | 0 | 10 | 0 | 0 | 927 | 0 | 942 / 1 |
+| 14 | 2 Chronicles | 36 | 822 | 1 (1/0) | 26 (26/0) | 6 | 0 | 23 | 3 | 0 | 795 | 0 | 822 / 0 |
+| 15 | Ezra | 10 | 280 | 1 (1/0) | 7 (7/0) | 2 | 0 | 6 | 1 | 0 | 272 | 0 | 280 / 0 |
+| 16 | Nehemiah | 13 | 405 | 2 (1/1) | 14 (14/0) | 6 | 0 | 10 | 2 | 16 | 373 | 0 | 405 / 0 |
+| 17 | Esther | 10 | 167 | 0 (0/0) | 11 (11/0) | 7 | 0 | 9 | 5 | 0 | 156 | 0 | 165 / 2 |
+| 18 | Job | 42 | 1,070 | 3 (3/0) | 33 (33/0) | 16 | 0 | 23 | 6 | 42 | 992 | 0 | 1,040 / 30 |
+| 19 | Psalms | 150 | 2,527 | 3 (3/0) | 103 (103/0) | 61 | 3 | 48 | 9 | 21 | 2,400 | 0 | 2,516 / 11 |
+| 20 | Proverbs | 31 | 915 | 1 (0/1) | 32 (27/5) | 18 | 16 | 14 | 16 | 36 | 846 | 0 | 910 / 5 |
+| 21 | Ecclesiastes | 12 | 222 | 0 (0/0) | 21 (21/0) | 4 | 0 | 17 | 0 | 22 | 179 | 0 | 221 / 1 |
+| 22 | Song of Songs | 8 | 117 | 1 (1/0) | 6 (6/0) | 2 | 0 | 6 | 2 | 16 | 94 | 0 | 116 / 1 |
+| 23 | Lamentations | 5 | 154 | 1 (1/0) | 5 (5/0) | 1 | 0 | 5 | 1 | 65 | 83 | 0 | 154 / 0 |
+| 24 | Isaiah | 66 | 1,291 | 1 (1/0) | 58 (58/0) | 14 | 1 | 53 | 10 | 11 | 1,221 | 0 | 1,257 / 34 |
+| 25 | Jeremiah | 52 | 1,364 | 3 (3/0) | 86 (85/1) | 37 | 5 | 62 | 18 | 38 | 1,237 | 0 | 1,331 / 33 |
+| 26 | Ezekiel | 48 | 1,273 | 2 (2/0) | 51 (51/0) | 18 | 5 | 43 | 15 | 39 | 1,181 | 0 | 1,256 / 17 |
+| 27 | Daniel | 12 | 357 | 2 (2/0) | 37 (37/0) | 23 | 10 | 31 | 20 | 25 | 293 | 0 | 337 / 20 |
+| 28 | Hosea | 14 | 197 | 0 (0/0) | 9 (9/0) | 4 | 0 | 5 | 0 | 24 | 164 | 0 | 197 / 0 |
+| 29 | Joel | 4 | 73 | 1 (1/0) | 1 (1/0) | 1 | 0 | 1 | 1 | 0 | 71 | 0 | 73 / 0 |
+| 30 | Amos | 9 | 146 | 0 (0/0) | 3 (3/0) | 1 | 0 | 3 | 1 | 27 | 116 | 0 | 146 / 0 |
+| 31 | Obadiah | 1 | 21 | 0 (0/0) | 0 (0/0) | 0 | 0 | 0 | 0 | 0 | 21 | 0 | 21 / 0 |
+| 32 | Jonah | 4 | 48 | 0 (0/0) | 2 (2/0) | 1 | 0 | 1 | 0 | 10 | 36 | 0 | 48 / 0 |
+| 33 | Micah | 7 | 105 | 0 (0/0) | 7 (7/0) | 4 | 0 | 6 | 3 | 0 | 98 | 0 | 99 / 6 |
+| 34 | Nahum | 3 | 47 | 0 (0/0) | 2 (2/0) | 1 | 0 | 1 | 0 | 0 | 45 | 0 | 47 / 0 |
+| 35 | Habakkuk | 3 | 56 | 1 (1/0) | 3 (3/0) | 3 | 0 | 0 | 0 | 17 | 35 | 0 | 56 / 0 |
+| 36 | Zephaniah | 3 | 53 | 0 (0/0) | 2 (2/0) | 0 | 0 | 2 | 0 | 0 | 51 | 0 | 52 / 1 |
+| 37 | Haggai | 2 | 38 | 0 (0/0) | 1 (1/0) | 1 | 0 | 0 | 0 | 0 | 37 | 0 | 38 / 0 |
+| 38 | Zechariah | 14 | 211 | 0 (0/0) | 12 (12/0) | 5 | 0 | 11 | 4 | 8 | 191 | 0 | 206 / 5 |
+| 39 | Malachi | 3 | 55 | 0 (0/0) | 29 (29/0) | 5 | 3 | 28 | 4 | 10 | 16 | 0 | 51 / 4 |
+| — | **TOTAL (39 books)** | **929** | **23,213** | **40** (37/3) | **1,085** (1,053/32) | **416** | **173** | **809** | **278** | **949** | **21,139** | **0** | **22,971 / 242** |
